@@ -1,0 +1,38 @@
+{
+  "project": "CISLR v1.5-a Word-Level Sign Recognition",
+  "stage": "3",
+  "step": "3.7",
+  "task": "final_pytorch_baseline_evaluation",
+  "model_under_evaluation": "resnet18",
+  "training_config": {
+    "architecture": "torchvision.models.resnet18",
+    "pretrained_initialization": "ImageNet",
+    "input_resolution": [
+      224,
+      224,
+      3
+    ],
+    "feature_dim": 512,
+    "num_output_classes": 4764,
+    "loss": "cross_entropy",
+    "epochs_completed": 10
+  },
+  "dataset_info": {
+    "total_videos": 7050,
+    "valid_gloss_classes": 4764,
+    "official_test_videos": 2285,
+    "missing_label_uid": "R_GaklgD4bY=-",
+    "class_aware_validation_split_possible": false,
+    "reason_no_validation": "CISLR v1.5-a provides exactly one non-test prototype per valid class. There is no class-aware support/query split that can be constructed without using official test videos or labels.",
+    "clean_training_videos": 4417,
+    "training_frames": 35336,
+    "corrupted_videos_excluded": 347
+  },
+  "run_environment": {
+    "python": "3.11.15",
+    "pytorch": "2.14.0+cu130",
+    "cuda_available": true,
+    "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "platform": "Linux-7.0.0-30-generic-x86_64-with-glibc2.39"
+  }
+}

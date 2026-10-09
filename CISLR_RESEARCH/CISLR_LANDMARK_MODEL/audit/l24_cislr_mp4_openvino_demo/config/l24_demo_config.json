@@ -1,0 +1,42 @@
+{
+  "stage": "L24",
+  "name": "CISLR MP4 expected-vs-predicted OpenVINO demo",
+  "population": "L18B validation only",
+  "num_videos": 10,
+  "model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+  "device": "CPU",
+  "preprocessing": {
+    "source": "original CISLR MP4",
+    "stage_1": "uniformly sample 32 frames from full MP4",
+    "stage_2": "resize sampled frames to 256x256",
+    "stage_3": "uniformly sample 16 frames from 32-frame representation",
+    "stage_4": "center crop 256x256 to 224x224",
+    "stage_5": "scale uint8 to [0,1]",
+    "stage_6": "ImageNet normalization",
+    "input_layout": "B,T,C,H,W",
+    "input_shape": [
+      1,
+      16,
+      3,
+      224,
+      224
+    ]
+  },
+  "visual_overlay": [
+    "expected gloss",
+    "predicted gloss",
+    "confidence",
+    "PASS/FAIL",
+    "Top-5",
+    "OpenVINO model label"
+  ],
+  "scientific_integrity": {
+    "training": false,
+    "retraining": false,
+    "threshold_tuning": false,
+    "locked_test_manifest_loaded": false,
+    "locked_test_video_loaded": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "experiment": "L20D-B2C_CORRECTED",
+  "status": "FROZEN_VALIDATION_SELECTED",
+  "B1_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b1_lowshot_videomae_215class/models/l20d_b1_best.pt",
+  "B2B_logits": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/reports/l20d_b2b_best_validation_logits.npz",
+  "summary": {
+    "experiment": "L20D-B2C_CORRECTED",
+    "validation_samples": 304,
+    "classes": 215,
+    "B1": {
+      "top1": 32.89473684210527,
+      "top5": 52.30263157894737
+    },
+    "B2B": {
+      "top1": 21.710526315789476,
+      "top5": 37.5
+    },
+    "complementarity": {
+      "both_correct": 45,
+      "rgb_only": 55,
+      "landmark_only": 21,
+      "neither": 183,
+      "oracle_correct": 121,
+      "oracle_top1": 39.80263157894737
+    },
+    "fusion": {
+      "method": "log_probability",
+      "rgb_temperature": 0.5,
+      "landmark_temperature": 0.5,
+      "rgb_weight": 0.75,
+      "landmark_weight": 0.25,
+      "top1": 40.131578947368425,
+      "top5": 57.56578947368421,
+      "top1_gain": 7.2368421052631575,
+      "top5_gain": 5.2631578947368425
+    },
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "selection_note": "Fusion parameters selected on validation; result is development accuracy."
+  },
+  "integrity": {
+    "b1_checkpoint_strict_load": true,
+    "b1_three_view_validation": true,
+    "uid_alignment": true,
+    "label_alignment": true,
+    "locked_test_used": false
+  }
+}

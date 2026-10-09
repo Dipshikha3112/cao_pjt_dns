@@ -1,0 +1,13 @@
+{
+  "failed_frame_records": 422,
+  "unique_failed_source_videos": 421,
+  "source_videos_existing": 421,
+  "source_videos_regular_files": 421,
+  "source_videos_nonzero": 421,
+  "opencv_opened": 421,
+  "ffprobe_success": 421,
+  "ffprobe_video_stream": 421,
+  "status_counts": {
+    "SOURCE_VIDEO_HEALTHY": 421
+  }
+}

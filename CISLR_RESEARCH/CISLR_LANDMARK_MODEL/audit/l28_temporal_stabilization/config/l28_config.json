@@ -1,0 +1,19 @@
+{
+  "stage": "L28",
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "stability_window": 7,
+  "required_votes": 4,
+  "required_ratio": 0.55,
+  "change_votes": 5,
+  "release_nosign": 4,
+  "l27_thresholds": {
+    "confidence": 0.1,
+    "margin": 0.0,
+    "entropy": 0.8,
+    "hand_ratio": 0.8
+  },
+  "locked_test_used": false,
+  "videomae_used": false,
+  "sentence_generation": false
+}

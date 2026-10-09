@@ -1,0 +1,37 @@
+{
+  "source_l21_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+    "sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "size_bytes": 345021451
+  },
+  "source_l22_xml": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "size_bytes": 355184
+  },
+  "source_l22_bin": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc",
+    "size_bytes": 349756624
+  },
+  "validation_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "sha256": "110d791089cb9c42ba6c5f4aa5a36da35cd33dd93961cf2bb2e24a3dc7c60449",
+    "size_bytes": 4084
+  },
+  "predictions_csv": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/reports/l23_validation_predictions.csv",
+    "sha256": "0c696bc4a223450609f26d3a7f23a07ab89f5d95cc89d2c0ecfdb933ebea768e",
+    "size_bytes": 5795
+  },
+  "verification_config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/config/l23_verification_config.json",
+    "sha256": "bc956b27257acfebe657d91afa4ecade03baa8071f24514b3b2dfad40e17b1d4",
+    "size_bytes": 1586
+  },
+  "verification_summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/reports/l23_verification_summary.json",
+    "sha256": "86460440bfb4ceba6ff493ad43bd6da7023f58faf8042e7800004515f212ffb6",
+    "size_bytes": 1310
+  }
+}

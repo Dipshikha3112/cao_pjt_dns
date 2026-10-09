@@ -1,0 +1,11 @@
+{
+  "stage": "7.1",
+  "seed": 42,
+  "n_tta_crops": 3,
+  "pca_dim": 512,
+  "csls_k": 10,
+  "whiten_eps": 0.001,
+  "note": "Unsupervised post-processing only. Whitening statistics fit on joint prototype+test feature cloud without labels. CSLS uses rank statistics only. TTA uses deterministic temporal crops. No test label used for any choice.",
+  "best_variant": "mean_pool + TTA + whiten + CSLS",
+  "best_top1": 0.17199124726477025
+}

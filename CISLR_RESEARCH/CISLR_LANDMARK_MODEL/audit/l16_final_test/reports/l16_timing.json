@@ -1,0 +1,14 @@
+{
+  "L12B": {
+    "mean_model_inference_ms": 5.604198473942647,
+    "median_model_inference_ms": 2.8016479991492815
+  },
+  "L13B_temporal_model": {
+    "mean_model_inference_ms": 0.18893386730364242,
+    "median_model_inference_ms": 0.06213596873294591
+  },
+  "L14A": {
+    "mean_model_inference_ms": 28.088256502320224,
+    "median_model_inference_ms": 27.50423799989221
+  }
+}

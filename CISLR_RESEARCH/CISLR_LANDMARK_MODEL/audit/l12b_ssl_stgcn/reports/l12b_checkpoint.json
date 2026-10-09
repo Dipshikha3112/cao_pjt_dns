@@ -1,0 +1,14 @@
+{
+  "stage": "L12B",
+  "status": "PASS",
+  "ssl_pretraining_complete": true,
+  "validation_excluded_from_ssl": true,
+  "test_excluded_from_ssl": true,
+  "supervised_training_uses_only_l9_train": true,
+  "model_selection_uses_only_l9_validation": true,
+  "test_evaluated": false,
+  "best_ssl_epoch": 74,
+  "best_finetune_epoch": 89,
+  "validation_top1_percent": 28.436018957345972,
+  "validation_top5_percent": 37.91469194312796
+}

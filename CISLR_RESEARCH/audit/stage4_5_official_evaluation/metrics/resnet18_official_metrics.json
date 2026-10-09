@@ -1,0 +1,16 @@
+{
+  "num_queries": 2285,
+  "num_prototypes": 4764,
+  "Top-1": 0.11159737417943107,
+  "Top-5": 0.21312910284463896,
+  "Recall@10": 0.25295404814004374,
+  "MRR": 0.1576259666113365,
+  "mean_rank": 1389.8739606126915,
+  "median_rank": 856.0,
+  "min_rank": 1,
+  "max_rank": 4760,
+  "model": "ResNet18",
+  "embedding_dimension": 512,
+  "num_prototype_videos": 4764,
+  "num_test_videos": 2285
+}

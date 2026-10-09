@@ -1,0 +1,14 @@
+{
+  "support_threshold": 10,
+  "num_classes": 3,
+  "gloss_to_class_id": {
+    "interest": 0,
+    "monday": 1,
+    "thursday": 2
+  },
+  "class_id_to_gloss": {
+    "0": "interest",
+    "1": "monday",
+    "2": "thursday"
+  }
+}

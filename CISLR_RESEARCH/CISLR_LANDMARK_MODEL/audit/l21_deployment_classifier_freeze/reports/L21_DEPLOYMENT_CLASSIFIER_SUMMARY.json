@@ -1,0 +1,47 @@
+{
+  "stage": "L21",
+  "name": "Freeze deployment classifier",
+  "status": "COMPLETE_AND_FROZEN",
+  "selected_classifier": {
+    "source": "L19",
+    "architecture": "VideoMAE",
+    "num_classes": 10,
+    "num_frames": 16,
+    "resolution": "224x224",
+    "classifier_weight": "classifier.weight",
+    "classifier_bias": "classifier.bias",
+    "classifier_input_dimension": 768,
+    "classifier_output_dimension": 10,
+    "state_dict_key": "model_state_dict",
+    "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+    "checkpoint_sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c"
+  },
+  "vocabulary": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "protocol": {
+    "train": 70,
+    "validation": 10,
+    "locked_test": 10,
+    "all_split_overlaps": 0,
+    "locked_test_evaluated": false
+  },
+  "known_l19_result": {
+    "best_stage": "FINETUNE4",
+    "best_epoch": 38,
+    "validation_top1": 100.0,
+    "correct": 10,
+    "total": 10,
+    "real_world_accuracy_claim": false
+  },
+  "next_stage": "L22_OPENVINO_EXPORT"
+}

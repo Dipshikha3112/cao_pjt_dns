@@ -1,0 +1,72 @@
+{
+  "experiment": "L20D_FULL_CISLR_EVALUATION",
+  "status": "COMPLETE",
+  "protocol": {
+    "train_samples": 710,
+    "validation_samples": 304,
+    "locked_test_samples": 10,
+    "classes": 215,
+    "train_validation_overlap": 0,
+    "train_locked_overlap": 0,
+    "validation_locked_overlap": 0,
+    "locked_test_loaded_for_inference": false,
+    "locked_test_evaluated": false
+  },
+  "validation_metrics": {
+    "B1_RGB": {
+      "top1": 32.89473684210527,
+      "top5": 52.30263157894737
+    },
+    "B2B_LANDMARK": {
+      "top1": 21.710526315789476,
+      "top5": 37.5
+    },
+    "B2C_FUSION": {
+      "top1": 40.131578947368425,
+      "top5": 57.56578947368421,
+      "macro_top1": 40.1937984496124,
+      "macro_top5": 56.16279069767442
+    }
+  },
+  "fusion_configuration": {
+    "method": "log_probability",
+    "rgb_temperature": 0.5,
+    "landmark_temperature": 0.5,
+    "rgb_weight": 0.75,
+    "landmark_weight": 0.25,
+    "selected_on_validation": true
+  },
+  "multimodal_analysis": {
+    "both_correct": 45,
+    "rgb_only_correct": 55,
+    "landmark_only_correct": 21,
+    "neither_individual_top1_correct": 183,
+    "individual_top1_union_accuracy": 39.80263157894737,
+    "individual_top1_union_is_oracle": false,
+    "fusion_correct": 122,
+    "fusion_gains_vs_rgb": 34,
+    "fusion_losses_vs_rgb": 12,
+    "fusion_rescued_from_neither": 19
+  },
+  "generalization": {
+    "mean_train_examples_per_class": 3.302325581395349,
+    "minimum_train_support": 3,
+    "maximum_train_support": 8,
+    "B1_sampled_train_top1": 88.592,
+    "B1_validation_top1": 32.89473684210527,
+    "B1_generalization_gap": 55.69726315789473,
+    "B2B_sampled_train_top1_approx": 100.0,
+    "B2B_validation_top1": 21.710526315789476,
+    "B2B_generalization_gap_approx": 78.28947368421052,
+    "B2C_train_accuracy_claimed": false,
+    "support_top1_correlation": 0.0063613176677615015,
+    "support_top5_correlation": 0.0375223909818093
+  },
+  "requested_targets": {
+    "training_top1_target": 90.0,
+    "validation_top1_target": 80.0,
+    "validation_target_met": false,
+    "targets_used_to_modify_evaluation": false
+  },
+  "scientific_note": "B2C fusion parameters were selected on the same 304-video validation set. Therefore B2C validation accuracy is a development/model-selection result rather than an unbiased final-test estimate. The locked 10-video test remains untouched."
+}

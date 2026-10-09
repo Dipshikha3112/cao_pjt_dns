@@ -1,0 +1,11 @@
+index,ground_truth,pytorch_prediction,openvino_prediction,pt_ov_match,max_abs_logit_error
+0,monday,monday,monday,True,0.0009598731994628906
+1,interest,interest,interest,True,0.0005238652229309082
+2,thursday,thursday,thursday,True,0.0008981227874755859
+3,christmas,tuesday,tuesday,True,0.0010704994201660156
+4,pencil,interest,interest,True,0.0010603666305541992
+5,mother,mother,mother,True,0.0009837150573730469
+6,tuesday,tuesday,tuesday,True,0.00091552734375
+7,friday,friday,friday,True,0.0012793540954589844
+8,rubber,interest,interest,True,0.0010617971420288086
+9,wash,tuesday,tuesday,True,0.0006437301635742188

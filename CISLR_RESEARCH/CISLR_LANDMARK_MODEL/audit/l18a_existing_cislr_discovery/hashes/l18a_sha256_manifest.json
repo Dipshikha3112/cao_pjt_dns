@@ -1,0 +1,34 @@
+{
+  "all_10sign_videos": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/manifests/l18a_all_10sign_cislr_videos.csv",
+    "sha256": "2a30223b8717dfc0204e9a24e07f72a0e39b0e21aeb8aa7c90b1841261b4aa69"
+  },
+  "original_l9_train": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/manifests/l18a_original_l9_train.csv",
+    "sha256": "bdee18b436c47ea92e8abc534af80ac1961b745e2207d9e6e40678a4fd54aefe"
+  },
+  "original_l9_validation": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/manifests/l18a_original_l9_validation.csv",
+    "sha256": "13a33987bc691fd1acc9e9a0cb829b1d08503283ceb965d664ad83e853e82b37"
+  },
+  "original_l9_test": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/manifests/l18a_original_l9_test.csv",
+    "sha256": "60c6d9e39d90060b2bb1a9d826596782d46f0e701fadb20076039ac3855bdc1b"
+  },
+  "outside_l9": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/manifests/l18a_outside_l9_controlled_split.csv",
+    "sha256": "7455344d9acae27568f1f7604c300cc021b9a88f86339a94e36141bcee1657fc"
+  },
+  "all_readable": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/manifests/l18a_all_readable_videos.csv",
+    "sha256": "2a30223b8717dfc0204e9a24e07f72a0e39b0e21aeb8aa7c90b1841261b4aa69"
+  },
+  "gloss_summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/reports/l18a_gloss_summary.csv",
+    "sha256": "a8500c220baf7529c380b532f413bb4e8de82839523c970728c6693768acac43"
+  },
+  "summary_json": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18a_existing_cislr_discovery/reports/l18a_summary.json",
+    "sha256": "61aea61b006a780db6fa28f920efa9cbcb1a40a353372e3487a4ae0aec631d88"
+  }
+}

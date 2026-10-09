@@ -1,0 +1,16 @@
+{
+  "frames_processed": 806,
+  "capture_duration_sec": 30.94512140400002,
+  "overall_pipeline_fps": 26.046108834971804,
+  "frames_with_hand": 723,
+  "hand_detection_rate": 0.8970223325062034,
+  "total_hand_instances": 988,
+  "mean_complete_frame_ms": 34.952232140206775,
+  "median_complete_frame_ms": 30.6623384994964,
+  "mean_palm_inference_ms": 4.939339312712546,
+  "median_palm_inference_ms": 4.777875999934622,
+  "mean_landmark_inference_ms": 5.17598558685485,
+  "median_landmark_inference_ms": 4.350782999608782,
+  "videomae_used": false,
+  "locked_test_used": false
+}

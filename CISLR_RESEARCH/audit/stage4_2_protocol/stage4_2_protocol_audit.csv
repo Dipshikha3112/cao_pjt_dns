@@ -1,0 +1,18 @@
+check,value,status
+Prototype/Test UID overlap,0,PASS
+Current training/Test overlap,0,PASS
+Current training UIDs outside prototype,0,PASS
+Historical training videos,4417,REFERENCE
+Current training videos,4764,OBSERVED
+Current training frames,38112,OBSERVED
+Historical/current video difference,347,RECONCILED
+Historical/current frame difference,2776,RECONCILED
+Canonical Stage 4 videos,4764,FROZEN
+Canonical Stage 4 frames,38112,FROZEN
+Canonical frames/video,8,PASS
+Canonical/Test overlap,0,PASS
+Canonical/Prototype outside,0,PASS
+Independent closed-set validation,IMPOSSIBLE,DATASET CONSTRAINT
+Official test used,False,PASS
+New validation split,False,PASS
+Raw data modified,False,PASS

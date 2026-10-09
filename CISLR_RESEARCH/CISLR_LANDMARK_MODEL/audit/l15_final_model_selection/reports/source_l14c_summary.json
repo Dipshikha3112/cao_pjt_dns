@@ -1,0 +1,30 @@
+{
+  "stage": "L14C",
+  "title": "Frozen Multimodel Late Fusion",
+  "method": "Sparse Top-5 probability/rank fusion",
+  "num_classes": 211,
+  "validation_samples": 211,
+  "selected_representation": "raw_probability",
+  "selected_models": [
+    "L13B",
+    "L14A",
+    "L12B"
+  ],
+  "selected_weights": {
+    "L13B": 0.3,
+    "L14A": 0.3,
+    "L12B": 0.39999999999999997
+  },
+  "val_top1": 41.23222748815166,
+  "val_top5": 51.65876777251185,
+  "correct_top1": 87,
+  "correct_top5": 109,
+  "delta_vs_l13b_top1_pp": 2.3696684881516603,
+  "delta_vs_l13b_top5_pp": 5.21326977251185,
+  "delta_vs_l14a_top1_pp": 3.3175354881516554,
+  "delta_vs_l14a_top5_pp": -2.2748815098339037e-07,
+  "test_evaluated": false,
+  "test_video_loaded": false,
+  "test_used_for_selection": false,
+  "scientific_limitation": "The historical frozen prediction files store only Top-5 model outputs. Therefore L14C is a sparse Top-5 late-fusion experiment rather than full-logit fusion."
+}

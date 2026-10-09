@@ -1,0 +1,2 @@
+uid,split,reason
+,NOT_CONSTRUCTIBLE,"Every valid prototype in CISLR v1.5-a is the unique member of its class. A leave-one-out retrieval benchmark requires that the held-out item have at least one same-class example remaining in the gallery. By construction, no such example exists for any prototype, so the LOO Top-1/Top-5/Top-10/MRR metrics are identically zero and carry no information about representation quality."

@@ -1,0 +1,2 @@
+epoch,train_loss,train_top1,train_top5,backbone_lr,classifier_lr,epoch_seconds,best
+1,10.587789364953588,0.0,0.0,1e-05,0.0005,118.50397753715515,True

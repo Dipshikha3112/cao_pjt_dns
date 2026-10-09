@@ -1,0 +1,18 @@
+{
+    "pilot_requested": 50,
+    "pilot_selected": 50,
+    "successfully_processed": 50,
+    "failed": 0,
+    "total_runtime_seconds": 34.59992334100025,
+    "mean_detection_rate": 0.553693035280614,
+    "median_detection_rate": 0.5194444444444445,
+    "mean_zero_hand_rate": 0.4463069647193861,
+    "mean_one_hand_rate": 0.3722991269403023,
+    "mean_two_hand_rate": 0.1813939083403117,
+    "mean_pipeline_ms": 6.69432710647583,
+    "median_pipeline_ms": 6.374176979064941,
+    "mean_effective_fps": 156.66232083710634,
+    "good_videos": 5,
+    "review_videos": 25,
+    "poor_videos": 20
+}

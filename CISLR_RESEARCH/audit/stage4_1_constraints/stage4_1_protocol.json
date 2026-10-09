@@ -1,0 +1,60 @@
+{
+  "stage": "4.1",
+  "project": "CISLR v1.5-a",
+  "purpose": "Lightweight model search",
+  "dataset": {
+    "dataset_rows": 7050,
+    "prototype_rows": 4765,
+    "test_rows": 2285,
+    "valid_prototype_videos": 4764,
+    "valid_test_videos": 2285,
+    "valid_prototype_classes": 4764,
+    "one_prototype_video_per_class": true,
+    "prototype_test_uid_overlap": 0,
+    "non_test_classes_with_multiple_videos": 0
+  },
+  "validation_constraint": {
+    "independent_video_level_closed_set_validation": false,
+    "reason": "The non-test prototype pool contains one video per class. Any video-level split therefore creates validation classes with no corresponding training example.",
+    "official_test_used_for_model_selection": false,
+    "new_random_split_created": false
+  },
+  "candidate_models": [
+    "ResNet18",
+    "MobileNetV3",
+    "EfficientNet-B0"
+  ],
+  "input_protocol": {
+    "image_size": "224x224",
+    "channels": 3,
+    "color_space": "RGB",
+    "normalization": "ImageNet mean/std",
+    "frames_per_video": 8,
+    "sampling": "uniform temporal sampling"
+  },
+  "training_comparison": {
+    "same_training_data": true,
+    "same_input_pipeline": true,
+    "same_augmentation_policy": true,
+    "same_epoch_budget": true,
+    "same_optimizer_policy": true,
+    "same_batch_size": true,
+    "same_seed_policy": true
+  },
+  "efficiency_metrics": [
+    "parameter_count",
+    "checkpoint_size_mb",
+    "theoretical_flops",
+    "batch1_gpu_latency_ms",
+    "batch1_cpu_latency_ms",
+    "gpu_memory_mb",
+    "fps"
+  ],
+  "accuracy_evidence": {
+    "independent_closed_set_validation": false,
+    "training_diagnostics_allowed": true,
+    "historical_posthoc_results_allowed_as_context": true,
+    "official_test_reserved_for_final_evaluation": true
+  },
+  "selection_principle": "Select the backbone using controlled computational efficiency and available supervised evidence, without using the official test set for model selection."
+}

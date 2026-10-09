@@ -1,0 +1,16 @@
+{
+  "stage": "L24",
+  "status": "COMPLETE",
+  "videos": 10,
+  "correct": 10,
+  "accuracy": 1.0,
+  "accuracy_percent": 100.0,
+  "mean_confidence": 0.8161502825572808,
+  "minimum_confidence": 0.42961541745414167,
+  "maximum_confidence": 0.9458785425500587,
+  "mean_openvino_inference_ms_diagnostic": 1182.7057817000423,
+  "formal_speed_benchmark": false,
+  "formal_speed_benchmark_stage": "L32",
+  "locked_test_used": false,
+  "next_stage": "L25_WEBCAM_ACQUISITION"
+}

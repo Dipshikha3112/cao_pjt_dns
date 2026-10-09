@@ -1,0 +1,71 @@
+{
+  "stage": "4.4",
+  "experiment": "efficientnet_b0_stage4_4_v2_checkpointed",
+  "architecture": "EfficientNet-B0",
+  "weights": "ImageNet-1K IMAGENET1K_V1",
+  "num_classes": 4764,
+  "training_pool": {
+    "videos": 4417,
+    "classes": 4417,
+    "frames_per_video": 8,
+    "cache_used": true,
+    "mp4_decoding": false,
+    "common_pool": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/stage4_4_common_readable_uid_pool.csv",
+    "cache_root": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/frame_cache"
+  },
+  "input": {
+    "height": 224,
+    "width": 224,
+    "channels": 3,
+    "normalization": "ImageNet"
+  },
+  "augmentation": {
+    "resize": [
+      224,
+      224
+    ],
+    "random_affine": {
+      "degrees": 5,
+      "translate": [
+        0.05,
+        0.05
+      ],
+      "scale": [
+        0.95,
+        1.05
+      ]
+    },
+    "horizontal_flip": false
+  },
+  "video_objective": {
+    "aggregation": "per_frame_cross_entropy_mean",
+    "note": "Equivalent up to constant gradient-scale factor of 1/8 per frame relative to CE(mean_logits); absorbed by LR."
+  },
+  "optimization": {
+    "epochs": 25,
+    "warmup_epochs": 1,
+    "optimizer": "AdamW",
+    "backbone_lr": 1e-05,
+    "classifier_lr": 0.0005,
+    "weight_decay": 0.0001,
+    "scheduler": "CosineAnnealingLR",
+    "gradient_clipping": 1.0,
+    "seed": 42
+  },
+  "memory_implementation": {
+    "amp": true,
+    "video_batch_size": 8,
+    "frame_micro_batch": 1,
+    "grad_accum_steps": 2,
+    "effective_batch_size": 16,
+    "activation_checkpointing": true,
+    "checkpoint_type": "torch.utils.checkpoint.checkpoint",
+    "use_reentrant": false,
+    "foreach_adamw": false,
+    "cuda_alloc_conf": "expandable_segments:True"
+  },
+  "hardware": {
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "vram_gb": 5.638
+  }
+}

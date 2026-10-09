@@ -1,0 +1,46 @@
+{
+  "stage": "L23",
+  "status": "COMPLETE_AND_FROZEN",
+  "name": "PyTorch OpenVINO real-validation verification",
+  "source_models": {
+    "pytorch_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+    "pytorch_sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "openvino_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "openvino_xml_sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "openvino_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "openvino_bin_sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc"
+  },
+  "validation": {
+    "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "samples": 10,
+    "pytorch_correct": 10,
+    "openvino_correct": 10,
+    "pytorch_accuracy_percent": 100.0,
+    "openvino_accuracy_percent": 100.0
+  },
+  "equivalence": {
+    "top1_matches": 10,
+    "top1_total": 10,
+    "top1_agreement_percent": 100.0,
+    "top5_set_agreement_percent": 100.0,
+    "global_max_abs_logit_error": 7.152557373046875e-06,
+    "global_max_probability_error": 4.5041870577744447e-07,
+    "pass": true
+  },
+  "scientific_integrity": {
+    "training": false,
+    "retraining": false,
+    "validation_tuning": false,
+    "locked_test_manifest_loaded": false,
+    "locked_test_video_loaded": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false
+  },
+  "artifacts": {
+    "predictions_csv": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/reports/l23_validation_predictions.csv",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/config/l23_verification_config.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/reports/l23_verification_summary.json",
+    "hash_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/reports/l23_artifact_hashes.json"
+  },
+  "next_stage": "L24_CISLR_MP4_EXPECTED_VS_PREDICTED_DEMO"
+}

@@ -1,0 +1,4765 @@
+gloss,video_count,is_singleton,has_multiple_videos
+monday,13,False,True
+thursday,11,False,True
+interest,10,False,True
+pencil,9,False,True
+friday,9,False,True
+mother,8,False,True
+yellow,8,False,True
+tuesday,8,False,True
+christmas,8,False,True
+bill,7,False,True
+angry,7,False,True
+light,7,False,True
+sunday,7,False,True
+name,7,False,True
+iron,7,False,True
+increase,7,False,True
+india,7,False,True
+rubber,7,False,True
+wash,7,False,True
+wednesday,7,False,True
+date,7,False,True
+august,7,False,True
+reservation,6,False,True
+cat,6,False,True
+grow,6,False,True
+duck,6,False,True
+good,6,False,True
+week,6,False,True
+goat,6,False,True
+sick,6,False,True
+ant,6,False,True
+month,6,False,True
+thank you,6,False,True
+leaf,6,False,True
+land,6,False,True
+hot,6,False,True
+bad,6,False,True
+brain,6,False,True
+saturday,6,False,True
+gujarat,5,False,True
+volcano,5,False,True
+air,5,False,True
+promotion,5,False,True
+projector,5,False,True
+september,5,False,True
+evening,5,False,True
+buffalo,5,False,True
+knife,5,False,True
+cold,5,False,True
+area,5,False,True
+orange,5,False,True
+kitchen,5,False,True
+triangle,5,False,True
+tall,5,False,True
+tortoise,5,False,True
+praise,5,False,True
+hard,5,False,True
+understand,5,False,True
+socks,5,False,True
+bell,5,False,True
+january,5,False,True
+calculator,5,False,True
+address,5,False,True
+form,5,False,True
+year,5,False,True
+adult,5,False,True
+capital,5,False,True
+clever,5,False,True
+pain,5,False,True
+order,5,False,True
+pen,5,False,True
+lie,5,False,True
+next,5,False,True
+right,5,False,True
+day,5,False,True
+wood,5,False,True
+work,5,False,True
+drug,5,False,True
+east,5,False,True
+blouse,5,False,True
+weak,5,False,True
+same,5,False,True
+round,4,False,True
+wife,4,False,True
+engine,4,False,True
+brother,4,False,True
+why,4,False,True
+silver,4,False,True
+similar,4,False,True
+process,4,False,True
+profit,4,False,True
+promise,4,False,True
+shine,4,False,True
+guilty,4,False,True
+black,4,False,True
+put,4,False,True
+drawer,4,False,True
+hanuman,4,False,True
+wait,4,False,True
+shawl,4,False,True
+blue,4,False,True
+blood pressure,4,False,True
+share,4,False,True
+separate,4,False,True
+carpenter,4,False,True
+radio,4,False,True
+aeroplane,4,False,True
+sheep,4,False,True
+quantity,4,False,True
+water,4,False,True
+remove,4,False,True
+reception,4,False,True
+can,4,False,True
+record,4,False,True
+red,4,False,True
+reduce,4,False,True
+call,4,False,True
+gold,4,False,True
+green,4,False,True
+seed,4,False,True
+see,4,False,True
+repair,4,False,True
+bowl,4,False,True
+watch,4,False,True
+glass,4,False,True
+weight,4,False,True
+scratch,4,False,True
+welder,4,False,True
+gloves,4,False,True
+waterfall,4,False,True
+result,4,False,True
+elephant,4,False,True
+eclipse,4,False,True
+sari,4,False,True
+sandwich,4,False,True
+gas stove,4,False,True
+wedding,4,False,True
+false,4,False,True
+brown,4,False,True
+allow,4,False,True
+pig,4,False,True
+pillow,4,False,True
+cholera,4,False,True
+sorry,4,False,True
+chennai,4,False,True
+donkey,4,False,True
+diwali,4,False,True
+dog,4,False,True
+cheque,4,False,True
+chappels,4,False,True
+silk,4,False,True
+start,4,False,True
+coconut,4,False,True
+pakistan,4,False,True
+paint,4,False,True
+sphere,4,False,True
+tripura,4,False,True
+pass,4,False,True
+key,4,False,True
+tree,4,False,True
+try,4,False,True
+trust,4,False,True
+behind,4,False,True
+peon,4,False,True
+permanent,4,False,True
+animals,4,False,True
+peacock,4,False,True
+poision,4,False,True
+sit,4,False,True
+size,4,False,True
+hardworking,4,False,True
+smell,4,False,True
+amazon,4,False,True
+bharatiya janata party,4,False,True
+plate,4,False,True
+insult,4,False,True
+umbrella,4,False,True
+husband,4,False,True
+sweater,4,False,True
+swallow,4,False,True
+old,4,False,True
+official,4,False,True
+online,4,False,True
+monkey,4,False,True
+morning,4,False,True
+train,4,False,True
+suspect,4,False,True
+nervous,4,False,True
+night,4,False,True
+deer,4,False,True
+learn,4,False,True
+ladder,4,False,True
+october,4,False,True
+trunk,4,False,True
+kurta,4,False,True
+true,4,False,True
+trouble,4,False,True
+australia,4,False,True
+mistake,4,False,True
+magnet,4,False,True
+thermometer,4,False,True
+mechanic,4,False,True
+melt,4,False,True
+temperature,4,False,True
+mixer,4,False,True
+taste,4,False,True
+run,4,False,True
+frog,4,False,True
+earth,4,False,True
+magic,4,False,True
+explain,4,False,True
+expensive,4,False,True
+experiment,4,False,True
+zoo,4,False,True
+escape,4,False,True
+yesterday,3,False,True
+without,3,False,True
+wolf,3,False,True
+woman,3,False,True
+wool,3,False,True
+enemy,3,False,True
+fine,3,False,True
+absent,3,False,True
+scent,3,False,True
+bread,3,False,True
+website,3,False,True
+gate,3,False,True
+eat,3,False,True
+earthquake,3,False,True
+your,3,False,True
+you,3,False,True
+wrong,3,False,True
+wrestling,3,False,True
+wound,3,False,True
+sand,3,False,True
+rest,3,False,True
+busy,3,False,True
+business,3,False,True
+bus,3,False,True
+message,3,False,True
+meat,3,False,True
+measure,3,False,True
+maximum,3,False,True
+manipur,3,False,True
+man,3,False,True
+make a long story short,3,False,True
+throat,3,False,True
+this,3,False,True
+think,3,False,True
+things,3,False,True
+maha shivaratri,3,False,True
+cylinder,3,False,True
+cut,3,False,True
+lorry,3,False,True
+lock,3,False,True
+cream,3,False,True
+mile,3,False,True
+temporary,3,False,True
+day after,3,False,True
+litre,3,False,True
+listen,3,False,True
+list,3,False,True
+lion,3,False,True
+license,3,False,True
+december,3,False,True
+level,3,False,True
+toothbrush,3,False,True
+arunachal pradesh,3,False,True
+around,3,False,True
+arm,3,False,True
+television,3,False,True
+table,3,False,True
+muslim,3,False,True
+murder,3,False,True
+mouth,3,False,True
+mountain,3,False,True
+motorcycle,3,False,True
+corn,3,False,True
+copy,3,False,True
+cook,3,False,True
+teach,3,False,True
+back,3,False,True
+mobile,3,False,True
+mizoram,3,False,True
+cough,3,False,True
+mirror,3,False,True
+minimum,3,False,True
+conference,3,False,True
+cone,3,False,True
+national anthem,3,False,True
+tonic,3,False,True
+tongue,3,False,True
+tongs,3,False,True
+tomorrow,3,False,True
+toilet,3,False,True
+degree,3,False,True
+decrease,3,False,True
+decide,3,False,True
+leave,3,False,True
+lawyer,3,False,True
+law,3,False,True
+tamil,3,False,True
+talk,3,False,True
+nothing,3,False,True
+nose,3,False,True
+north pole,3,False,True
+north,3,False,True
+noon,3,False,True
+switch,3,False,True
+swing,3,False,True
+balloon,3,False,True
+sweet,3,False,True
+sweat,3,False,True
+never,3,False,True
+network,3,False,True
+nepal,3,False,True
+neighbour,3,False,True
+necklace,3,False,True
+neck,3,False,True
+oath,3,False,True
+november,3,False,True
+sunset,3,False,True
+april,3,False,True
+appointment,3,False,True
+tractor,3,False,True
+town,3,False,True
+torch,3,False,True
+late,3,False,True
+lassi,3,False,True
+lake,3,False,True
+sunrise,3,False,True
+sunflower,3,False,True
+sun,3,False,True
+sugar,3,False,True
+notify,3,False,True
+cobbler,3,False,True
+coat,3,False,True
+over,3,False,True
+oriya,3,False,True
+original,3,False,True
+strong,3,False,True
+straight,3,False,True
+stop,3,False,True
+stone,3,False,True
+steel,3,False,True
+comb,3,False,True
+open,3,False,True
+onion,3,False,True
+office,3,False,True
+comfortable,3,False,True
+come,3,False,True
+parliament,3,False,True
+paragraph,3,False,True
+bedroom,3,False,True
+beautiful,3,False,True
+special,3,False,True
+papaya,3,False,True
+close,3,False,True
+clock,3,False,True
+bathroom,3,False,True
+bath,3,False,True
+star,3,False,True
+square,3,False,True
+owner,3,False,True
+owl,3,False,True
+cockroach,3,False,True
+cock,3,False,True
+cinema,3,False,True
+perfect,3,False,True
+percentage,3,False,True
+peas,3,False,True
+pause,3,False,True
+patience,3,False,True
+parrot,3,False,True
+travel,3,False,True
+transparent,3,False,True
+king,3,False,True
+kilogram,3,False,True
+kerala,3,False,True
+kannada,3,False,True
+june,3,False,True
+anonymous,3,False,True
+annual,3,False,True
+son,3,False,True
+belt,3,False,True
+before,3,False,True
+sometimes,3,False,True
+photograph,3,False,True
+person,3,False,True
+tuberculosis,3,False,True
+tubelight,3,False,True
+july,3,False,True
+diabetes,3,False,True
+job,3,False,True
+jaundice,3,False,True
+island,3,False,True
+die,3,False,True
+city,3,False,True
+circle,3,False,True
+sofa,3,False,True
+best,3,False,True
+snow,3,False,True
+planet,3,False,True
+angle,3,False,True
+amritsar,3,False,True
+amount,3,False,True
+insect,3,False,True
+individual,3,False,True
+hygiene,3,False,True
+allergy,3,False,True
+unfair dismissal,3,False,True
+division,3,False,True
+china,3,False,True
+pink,3,False,True
+pick,3,False,True
+sleep,3,False,True
+skirt,3,False,True
+divide,3,False,True
+distribute,3,False,True
+distance,3,False,True
+dissent,3,False,True
+housefly,3,False,True
+hotel,3,False,True
+hidden file,3,False,True
+hate,3,False,True
+door,3,False,True
+happy,3,False,True
+skin,3,False,True
+sister,3,False,True
+police,3,False,True
+please,3,False,True
+vision,3,False,True
+shoot,3,False,True
+proof,3,False,True
+programme,3,False,True
+profession,3,False,True
+principal,3,False,True
+singapore,3,False,True
+bite,3,False,True
+shy,3,False,True
+change,3,False,True
+chalk,3,False,True
+prescription,3,False,True
+pray,3,False,True
+power,3,False,True
+potato,3,False,True
+policy,3,False,True
+catch,3,False,True
+punjabi,3,False,True
+punjab,3,False,True
+punctual,3,False,True
+proud,3,False,True
+shoulder,3,False,True
+shop,3,False,True
+alive,3,False,True
+vessel,3,False,True
+variable,3,False,True
+valley,3,False,True
+handkerchief,3,False,True
+hair,3,False,True
+drive,3,False,True
+gun,3,False,True
+air matress,3,False,True
+qualification,3,False,True
+visa,3,False,True
+virus,3,False,True
+village,3,False,True
+view,3,False,True
+warm,3,False,True
+agra,3,False,True
+age,3,False,True
+afternoon,3,False,True
+africa,3,False,True
+walk,3,False,True
+group,3,False,True
+grey,3,False,True
+body,3,False,True
+pyjama,3,False,True
+cave,3,False,True
+dubai,3,False,True
+grass,3,False,True
+grandfather,3,False,True
+granddaughter,3,False,True
+gram,3,False,True
+way,3,False,True
+advertisement,3,False,True
+advance,3,False,True
+wave,3,False,True
+bone,3,False,True
+bold,3,False,True
+careful,3,False,True
+rat,3,False,True
+rajasthan,3,False,True
+rainbow,3,False,True
+queen,3,False,True
+bury,3,False,True
+reporter,3,False,True
+secret,3,False,True
+sea,3,False,True
+goa,3,False,True
+girl,3,False,True
+ginger,3,False,True
+action,3,False,True
+wedding reception,3,False,True
+remember,3,False,True
+calendar,3,False,True
+relative,3,False,True
+rectangle,3,False,True
+cap,3,False,True
+candle,3,False,True
+camel,3,False,True
+exercise,3,False,True
+follow,3,False,True
+zebra,3,False,True
+bucket,3,False,True
+enjoy,3,False,True
+environment,3,False,True
+room,3,False,True
+rock,3,False,True
+white,3,False,True
+west indies,3,False,True
+electrician,3,False,True
+force,3,False,True
+finish,3,False,True
+rice,3,False,True
+reward,3,False,True
+return,3,False,True
+today,3,False,True
+assam,3,False,True
+time,3,False,True
+tight,3,False,True
+livelihood,3,False,True
+deadline,3,False,True
+window,3,False,True
+sad,3,False,True
+russia,3,False,True
+rjd,3,False,True
+bulb,3,False,True
+funny,3,False,True
+full,3,False,True
+friend,3,False,True
+wind,3,False,True
+wifi,3,False,True
+aam aadmi party,2,False,True
+abusive language,2,False,True
+zebra crossing,2,False,True
+accept,2,False,True
+winner,2,False,True
+wiring,2,False,True
+wise,2,False,True
+accident,2,False,True
+accompany,2,False,True
+word,2,False,True
+world,2,False,True
+worry,2,False,True
+family,2,False,True
+famous,2,False,True
+fan,2,False,True
+far,2,False,True
+encourage,2,False,True
+endure,2,False,True
+energetic,2,False,True
+engagement,2,False,True
+rude,2,False,True
+rule,2,False,True
+ruler,2,False,True
+ruthless,2,False,True
+safe,2,False,True
+sailor,2,False,True
+salary,2,False,True
+breathe,2,False,True
+brick,2,False,True
+bright,2,False,True
+salt,2,False,True
+salwar kameez,2,False,True
+roar,2,False,True
+role,2,False,True
+roll,2,False,True
+roof,2,False,True
+satisfied,2,False,True
+branch,2,False,True
+brass,2,False,True
+school,2,False,True
+school bag,2,False,True
+science,2,False,True
+scissors,2,False,True
+scold,2,False,True
+restaurant,2,False,True
+retire,2,False,True
+reverse,2,False,True
+rich,2,False,True
+bug,2,False,True
+build,2,False,True
+ring,2,False,True
+river,2,False,True
+second,2,False,True
+bottle,2,False,True
+boxing,2,False,True
+boy,2,False,True
+select,2,False,True
+self,2,False,True
+self balancing,2,False,True
+reply,2,False,True
+requirement,2,False,True
+resign,2,False,True
+bus conductor,2,False,True
+butter,2,False,True
+butterfly,2,False,True
+resistor,2,False,True
+respect,2,False,True
+sanitary pad,2,False,True
+capacitor,2,False,True
+record video,2,False,True
+refrigerator,2,False,True
+regret,2,False,True
+regular,2,False,True
+rehabilitation,2,False,True
+relay race,2,False,True
+release,2,False,True
+religion,2,False,True
+cabbage,2,False,True
+calculation,2,False,True
+calm,2,False,True
+rent,2,False,True
+sculptor,2,False,True
+search,2,False,True
+season,2,False,True
+selfish,2,False,True
+boil,2,False,True
+bolt,2,False,True
+bonus,2,False,True
+book,2,False,True
+sell,2,False,True
+send,2,False,True
+sentence,2,False,True
+sequential,2,False,True
+serial tv,2,False,True
+servant,2,False,True
+service,2,False,True
+receive,2,False,True
+cam,2,False,True
+cancel,2,False,True
+cancer,2,False,True
+cash,2,False,True
+railway station,2,False,True
+raise,2,False,True
+rajdhani train,2,False,True
+range,2,False,True
+rank,2,False,True
+rate,2,False,True
+ratio,2,False,True
+reach,2,False,True
+read,2,False,True
+capsicum,2,False,True
+car,2,False,True
+carrom,2,False,True
+carrot,2,False,True
+reason,2,False,True
+receipt,2,False,True
+purchase,2,False,True
+pure,2,False,True
+severally,2,False,True
+shallow,2,False,True
+shape,2,False,True
+share market,2,False,True
+sharpener,2,False,True
+blood,2,False,True
+bluetooth,2,False,True
+shaving razor,2,False,True
+she,2,False,True
+query,2,False,True
+question,2,False,True
+quickly,2,False,True
+rabbit,2,False,True
+cartoon,2,False,True
+shimla,2,False,True
+shirt,2,False,True
+shock,2,False,True
+shoe,2,False,True
+shooting,2,False,True
+blackboard duster,2,False,True
+shopkeeper,2,False,True
+short,2,False,True
+should,2,False,True
+show,2,False,True
+prove,2,False,True
+public,2,False,True
+pumpkin,2,False,True
+pune,2,False,True
+punish,2,False,True
+cell,2,False,True
+sikh,2,False,True
+sikhism,2,False,True
+birds,2,False,True
+birth,2,False,True
+birthday,2,False,True
+biscuit,2,False,True
+simultaneous,2,False,True
+sing,2,False,True
+prime minister,2,False,True
+printer,2,False,True
+prize,2,False,True
+certificate,2,False,True
+promote,2,False,True
+property,2,False,True
+protect,2,False,True
+shift,2,False,True
+post office,2,False,True
+postman,2,False,True
+cheap,2,False,True
+cheat,2,False,True
+practice,2,False,True
+practise,2,False,True
+prefer,2,False,True
+present,2,False,True
+pretend,2,False,True
+chair,2,False,True
+chandigarh,2,False,True
+chart,2,False,True
+chat,2,False,True
+price,2,False,True
+priest,2,False,True
+sign,2,False,True
+policeman,2,False,True
+sink,2,False,True
+biased,2,False,True
+big,2,False,True
+bihar,2,False,True
+bike suspension,2,False,True
+six,2,False,True
+sky,2,False,True
+slap,2,False,True
+slip,2,False,True
+pollution,2,False,True
+pond,2,False,True
+poor,2,False,True
+positive,2,False,True
+possible,2,False,True
+post,2,False,True
+snail,2,False,True
+snake,2,False,True
+bengali,2,False,True
+soap,2,False,True
+social,2,False,True
+plastic,2,False,True
+play,2,False,True
+plenty,2,False,True
+plumber,2,False,True
+podium,2,False,True
+point,2,False,True
+chest,2,False,True
+chew,2,False,True
+chief minister,2,False,True
+poison,2,False,True
+pole,2,False,True
+below,2,False,True
+sound,2,False,True
+soup,2,False,True
+physics,2,False,True
+pickle,2,False,True
+picture,2,False,True
+piece,2,False,True
+pilot,2,False,True
+christian,2,False,True
+pizza,2,False,True
+plan,2,False,True
+slow,2,False,True
+sly,2,False,True
+small,2,False,True
+small pox,2,False,True
+smile,2,False,True
+patna,2,False,True
+pay,2,False,True
+clean,2,False,True
+clear,2,False,True
+clerk,2,False,True
+pay in installment,2,False,True
+paytm,2,False,True
+peak,2,False,True
+pen drive,2,False,True
+personal,2,False,True
+soft,2,False,True
+soldier,2,False,True
+solid,2,False,True
+solve,2,False,True
+some,2,False,True
+belief,2,False,True
+paper,2,False,True
+paper clip,2,False,True
+south,2,False,True
+south america,2,False,True
+spanner,2,False,True
+sparrow,2,False,True
+battery,2,False,True
+beak,2,False,True
+bear,2,False,True
+bed,2,False,True
+bedsheet,2,False,True
+beer,2,False,True
+speech therapist,2,False,True
+spider,2,False,True
+parents,2,False,True
+parking,2,False,True
+stand,2,False,True
+standard,2,False,True
+battered child syndrome,2,False,True
+stars,2,False,True
+state,2,False,True
+stationery,2,False,True
+statistics,2,False,True
+stay,2,False,True
+pair,2,False,True
+pamphlet,2,False,True
+pan,2,False,True
+panaji,2,False,True
+cloth,2,False,True
+clown,2,False,True
+club,2,False,True
+pant,2,False,True
+banian,2,False,True
+banner,2,False,True
+barber,2,False,True
+bark,2,False,True
+story,2,False,True
+stove,2,False,True
+strength,2,False,True
+strict,2,False,True
+student,2,False,True
+opposition,2,False,True
+our,2,False,True
+output,2,False,True
+coal,2,False,True
+spoil,2,False,True
+spoon,2,False,True
+squirrel,2,False,True
+communicate,2,False,True
+company,2,False,True
+often,2,False,True
+oil,2,False,True
+okay,2,False,True
+on,2,False,True
+ooty,2,False,True
+coimbatore,2,False,True
+coin,2,False,True
+college,2,False,True
+colour,2,False,True
+colour palette,2,False,True
+operation,2,False,True
+opinion,2,False,True
+store,2,False,True
+storey skyscraper,2,False,True
+noun,2,False,True
+study,2,False,True
+stupid,2,False,True
+subtract,2,False,True
+summary,2,False,True
+ban,2,False,True
+banana,2,False,True
+bangles,2,False,True
+superficial,2,False,True
+support,2,False,True
+surat,2,False,True
+now,2,False,True
+nurse,2,False,True
+nut,2,False,True
+obey,2,False,True
+common,2,False,True
+surname,2,False,True
+surprise,2,False,True
+sweep,2,False,True
+sweet lime,2,False,True
+swim,2,False,True
+balcony,2,False,True
+ball,2,False,True
+noise,2,False,True
+noise pollution,2,False,True
+non,2,False,True
+nose stud,2,False,True
+compare,2,False,True
+compass,2,False,True
+competition,2,False,True
+complain,2,False,True
+notification,2,False,True
+confident,2,False,True
+confirm,2,False,True
+confused,2,False,True
+natural,2,False,True
+nect tie,2,False,True
+needle,2,False,True
+negative,2,False,True
+nest,2,False,True
+new,2,False,True
+computer,2,False,True
+concentrate,2,False,True
+concrete,2,False,True
+newspaper,2,False,True
+nice,2,False,True
+no,2,False,True
+surgeon,2,False,True
+myself,2,False,True
+system,2,False,True
+table tennis,2,False,True
+tail,2,False,True
+tailor,2,False,True
+take,2,False,True
+bad language,2,False,True
+bag,2,False,True
+bake,2,False,True
+balance,2,False,True
+tally,2,False,True
+tamil nadu,2,False,True
+nail,2,False,True
+nail polish,2,False,True
+narrow,2,False,True
+national,2,False,True
+mogra,2,False,True
+moon,2,False,True
+more,2,False,True
+copper,2,False,True
+motor,2,False,True
+move,2,False,True
+mud,2,False,True
+mug,2,False,True
+muharram,2,False,True
+mumbai,2,False,True
+mumps,2,False,True
+control,2,False,True
+mushroom,2,False,True
+music,2,False,True
+musician,2,False,True
+my,2,False,True
+mix,2,False,True
+tap,2,False,True
+target,2,False,True
+autocracy,2,False,True
+automatic,2,False,True
+average,2,False,True
+axe,2,False,True
+baby,2,False,True
+backdate,2,False,True
+tax,2,False,True
+taxi,2,False,True
+tea,2,False,True
+teacher,2,False,True
+team,2,False,True
+model,2,False,True
+modern,2,False,True
+crayons,2,False,True
+creeper,2,False,True
+cremate,2,False,True
+minister,2,False,True
+ministry of social justice and empowerment,2,False,True
+minor,2,False,True
+minority,2,False,True
+minute,2,False,True
+minutes,2,False,True
+miss,2,False,True
+corruption,2,False,True
+cosmetics,2,False,True
+country,2,False,True
+courier,2,False,True
+cover,2,False,True
+cow,2,False,True
+technician,2,False,True
+teeth,2,False,True
+telangana,2,False,True
+telephone,2,False,True
+tell,2,False,True
+telugu,2,False,True
+temple,2,False,True
+tennis,2,False,True
+terrace,2,False,True
+testify,2,False,True
+metal,2,False,True
+metre,2,False,True
+middle,2,False,True
+milk,2,False,True
+milkman,2,False,True
+millilitre,2,False,True
+cure,2,False,True
+curtain,2,False,True
+mason,2,False,True
+mat,2,False,True
+matchbox,2,False,True
+material,2,False,True
+may,2,False,True
+me,2,False,True
+mean,2,False,True
+measles,2,False,True
+measurement,2,False,True
+meet,2,False,True
+meeting,2,False,True
+meghalaya,2,False,True
+crocodile,2,False,True
+tease,2,False,True
+then,2,False,True
+there,2,False,True
+they,2,False,True
+thief,2,False,True
+thin,2,False,True
+attitude,2,False,True
+thorn,2,False,True
+thrice,2,False,True
+make,2,False,True
+malayalam,2,False,True
+manage,2,False,True
+mango,2,False,True
+manner,2,False,True
+cunning,2,False,True
+cupboard,2,False,True
+curds,2,False,True
+assassination,2,False,True
+assembly,2,False,True
+association,2,False,True
+toes,2,False,True
+together,2,False,True
+loan,2,False,True
+local,2,False,True
+lose,2,False,True
+lotus,2,False,True
+love,2,False,True
+lunch,2,False,True
+cycle,2,False,True
+madhya pradesh,2,False,True
+mahavir jayanti,2,False,True
+that,2,False,True
+themselves,2,False,True
+lightning,2,False,True
+like,2,False,True
+like social media,2,False,True
+lips,2,False,True
+lipstick,2,False,True
+liquid,2,False,True
+dasara,2,False,True
+daughter,2,False,True
+day before,2,False,True
+lizard,2,False,True
+throw,2,False,True
+tie,2,False,True
+tiger,2,False,True
+time table,2,False,True
+tinda,2,False,True
+tired,2,False,True
+lemon,2,False,True
+tolerate,2,False,True
+tool,2,False,True
+arrest,2,False,True
+art,2,False,True
+asia,2,False,True
+ask,2,False,True
+toothpaste,2,False,True
+leprosy,2,False,True
+letter,2,False,True
+library,2,False,True
+deaf,2,False,True
+debit card,2,False,True
+licence,2,False,True
+lift,2,False,True
+lighthouse,2,False,True
+demand draft,2,False,True
+laptop,2,False,True
+top,2,False,True
+total,2,False,True
+touch,2,False,True
+towel,2,False,True
+trade,2,False,True
+approve,2,False,True
+approximate,2,False,True
+transfer,2,False,True
+lazy,2,False,True
+lead,2,False,True
+leather,2,False,True
+delegate,2,False,True
+lecturer,2,False,True
+legal,2,False,True
+kiss,2,False,True
+translate,2,False,True
+triple,2,False,True
+truck,2,False,True
+anticlockwise,2,False,True
+any,2,False,True
+apple,2,False,True
+applicant,2,False,True
+application,2,False,True
+kite,2,False,True
+know,2,False,True
+knowledge,2,False,True
+krishna,2,False,True
+kumbh mela,2,False,True
+label,2,False,True
+delhi,2,False,True
+anklets,2,False,True
+antartica,2,False,True
+anti corruption law,2,False,True
+anti virus,2,False,True
+turkey,2,False,True
+turn,2,False,True
+tusks,2,False,True
+twin,2,False,True
+kali mata,2,False,True
+kangaroo,2,False,True
+kick,2,False,True
+kidney beans,2,False,True
+kill,2,False,True
+kind,2,False,True
+desert,2,False,True
+destroy,2,False,True
+diode,2,False,True
+isl,2,False,True
+it,2,False,True
+jackfruit,2,False,True
+jail,2,False,True
+jaipur,2,False,True
+jam,2,False,True
+janmashtami,2,False,True
+jawaharlal nehru,2,False,True
+jew,2,False,True
+judge,2,False,True
+judgement,2,False,True
+dhobi,2,False,True
+dhothi,2,False,True
+juice,2,False,True
+jump,2,False,True
+insurance,2,False,True
+twins,2,False,True
+twitter,2,False,True
+typist,2,False,True
+under,2,False,True
+ammeter,2,False,True
+andhra pradesh,2,False,True
+angle of refraction,2,False,True
+unemployed,2,False,True
+international,2,False,True
+interview,2,False,True
+introduce,2,False,True
+invent,2,False,True
+diesel,2,False,True
+diet,2,False,True
+difference,2,False,True
+independent,2,False,True
+indigo,2,False,True
+industry,2,False,True
+influence,2,False,True
+information,2,False,True
+initial,2,False,True
+initiative,2,False,True
+input,2,False,True
+instagram,2,False,True
+direct current,2,False,True
+director,2,False,True
+dirty,2,False,True
+disappear,2,False,True
+discount,2,False,True
+instigate,2,False,True
+instrument,2,False,True
+university,2,False,True
+unlawful,2,False,True
+already,2,False,True
+alternate current,2,False,True
+aluminium,2,False,True
+unlimited,2,False,True
+until,2,False,True
+up,2,False,True
+hungry,2,False,True
+hyderabad,2,False,True
+ice cream,2,False,True
+idle talk,2,False,True
+illegal,2,False,True
+in,2,False,True
+discuss,2,False,True
+disease,2,False,True
+do,2,False,True
+horns,2,False,True
+horse,2,False,True
+hot air balloon,2,False,True
+hour,2,False,True
+hours,2,False,True
+house,2,False,True
+district,2,False,True
+how many,2,False,True
+hug,2,False,True
+humid,2,False,True
+uniform,2,False,True
+unit,2,False,True
+unite,2,False,True
+united nations convention on the rights of persons with disabilities uncrpd,2,False,True
+united states of america,2,False,True
+draw,2,False,True
+hawker,2,False,True
+he,2,False,True
+head,2,False,True
+hear,2,False,True
+hearing,2,False,True
+hearing aid,2,False,True
+heart,2,False,True
+help,2,False,True
+hen,2,False,True
+hill,2,False,True
+hindu,2,False,True
+hip,2,False,True
+hippo,2,False,True
+hole,2,False,True
+hope,2,False,True
+hang,2,False,True
+upset,2,False,True
+urdu,2,False,True
+uttar pradesh,2,False,True
+vacation,2,False,True
+vadodara,2,False,True
+varanasi,2,False,True
+vehicles,2,False,True
+verification,2,False,True
+very hot,2,False,True
+alarm,2,False,True
+victory,2,False,True
+video,2,False,True
+hard drive,2,False,True
+harmonium,2,False,True
+doubt,2,False,True
+video camera,2,False,True
+vietnam,2,False,True
+air pollution,2,False,True
+airport,2,False,True
+vodka,2,False,True
+volkswagen,2,False,True
+voltmeter,2,False,True
+volume,2,False,True
+gujarati,2,False,True
+gurudwara,2,False,True
+dream,2,False,True
+dress,2,False,True
+driver,2,False,True
+drop,2,False,True
+hair dryer,2,False,True
+half,2,False,True
+waste,2,False,True
+watermelon,2,False,True
+advantage,2,False,True
+waves,2,False,True
+we,2,False,True
+government,2,False,True
+grandmother,2,False,True
+dry,2,False,True
+vote,2,False,True
+want,2,False,True
+after,2,False,True
+again,2,False,True
+agenda,2,False,True
+agree,2,False,True
+war,2,False,True
+warn,2,False,True
+weekly,2,False,True
+weird,2,False,True
+welcome,2,False,True
+add,2,False,True
+west,2,False,True
+west bengal,2,False,True
+generator,2,False,True
+genuine,2,False,True
+geography,2,False,True
+germany,2,False,True
+giraffe,2,False,True
+during,2,False,True
+dustbin,2,False,True
+each,2,False,True
+go,2,False,True
+goal,2,False,True
+election,2,False,True
+from,2,False,True
+fruits,2,False,True
+full moon day,2,False,True
+full stomach,2,False,True
+funeral,2,False,True
+eagle,2,False,True
+earn,2,False,True
+easter,2,False,True
+easy,2,False,True
+economics,2,False,True
+garden,2,False,True
+gardener,2,False,True
+garlic,2,False,True
+wear,2,False,True
+weaver,2,False,True
+wet,2,False,True
+whale,2,False,True
+what,2,False,True
+what time,2,False,True
+wheat,2,False,True
+where,2,False,True
+which,2,False,True
+whistle,2,False,True
+who,2,False,True
+win,2,False,True
+fresh,2,False,True
+edit,2,False,True
+education,2,False,True
+egg,2,False,True
+egypt,2,False,True
+elbow,2,False,True
+embroidery,2,False,True
+emergency,2,False,True
+float,2,False,True
+flood,2,False,True
+floor,2,False,True
+flower,2,False,True
+flute,2,False,True
+food,2,False,True
+foot,2,False,True
+forget,2,False,True
+format,2,False,True
+electrode,2,False,True
+fox,2,False,True
+france,2,False,True
+free,2,False,True
+freeze,2,False,True
+father,2,False,True
+father-in-law,2,False,True
+fear,2,False,True
+feather,2,False,True
+february,2,False,True
+feel,2,False,True
+few,2,False,True
+field,2,False,True
+filament,2,False,True
+file,2,False,True
+film,2,False,True
+fingers,2,False,True
+fire,2,False,True
+first floor,2,False,True
+fish,2,False,True
+embarrass,2,False,True
+youth association of the deaf india,2,False,True
+abdicate,2,False,True
+yes,2,False,True
+express,2,False,True
+extinct,2,False,True
+extra,2,False,True
+eye,2,False,True
+face,2,False,True
+factory,2,False,True
+engineer,2,False,True
+england,2,False,True
+english,2,False,True
+enough,2,False,True
+equal,2,False,True
+faith,2,False,True
+wine,2,False,True
+rose,2,False,True
+bud,2,False,True
+buddha purnima,2,False,True
+rough,2,False,True
+route,2,False,True
+zip,2,False,True
+examination,2,False,True
+equator,2,False,True
+ethics,2,False,True
+europe,2,False,True
+expansion,2,False,True
+expiry,2,False,True
+write,2,False,True
+yak,2,False,True
+young,2,False,True
+yourself,2,False,True
+4g,1,True,False
+a line skirt,1,True,False
+a lot,1,True,False
+abacus,1,True,False
+abbreviation,1,True,False
+abeyance,1,True,False
+able,1,True,False
+about,1,True,False
+yellow flowered plants,1,True,False
+year to year,1,True,False
+year of harvest,1,True,False
+year financial,1,True,False
+year calender,1,True,False
+year book,1,True,False
+yardstick,1,True,False
+yamaha bike,1,True,False
+acceptance letter,1,True,False
+acceptance clean,1,True,False
+acceptance,1,True,False
+acceleration,1,True,False
+youtube,1,True,False
+youth,1,True,False
+younger sister,1,True,False
+younger brother,1,True,False
+younger,1,True,False
+equation,1,True,False
+excuse me,1,True,False
+excuse,1,True,False
+exclude,1,True,False
+excited,1,True,False
+exchange positions,1,True,False
+exchange foreign,1,True,False
+exchange,1,True,False
+excavation,1,True,False
+example,1,True,False
+examine,1,True,False
+exam,1,True,False
+ewe,1,True,False
+evil,1,True,False
+everyday,1,True,False
+every time,1,True,False
+expert,1,True,False
+experience,1,True,False
+expenditure,1,True,False
+exotic sheep,1,True,False
+exhaust pump,1,True,False
+exemption,1,True,False
+event,1,True,False
+estimate,1,True,False
+establishment,1,True,False
+establish,1,True,False
+essel world,1,True,False
+essay,1,True,False
+error of omission,1,True,False
+ernission,1,True,False
+erect,1,True,False
+eraser,1,True,False
+engineering scale,1,True,False
+engineering compass,1,True,False
+fail,1,True,False
+factorisation,1,True,False
+facsimile signature,1,True,False
+face value,1,True,False
+eyebrow,1,True,False
+extrahepatic,1,True,False
+external parasite,1,True,False
+external,1,True,False
+extermal combustion engine,1,True,False
+extension counter,1,True,False
+extend,1,True,False
+express train,1,True,False
+exporting graphics,1,True,False
+expertise,1,True,False
+fast growing temporary hedges,1,True,False
+fast,1,True,False
+farmer,1,True,False
+farm,1,True,False
+fare,1,True,False
+family tree,1,True,False
+family court,1,True,False
+false flooring,1,True,False
+fall,1,True,False
+fake,1,True,False
+epistaxis,1,True,False
+epaulet,1,True,False
+environmental pollution,1,True,False
+envelope,1,True,False
+entertainment,1,True,False
+enquiry,1,True,False
+fax,1,True,False
+faucet aerator,1,True,False
+fat test of milk,1,True,False
+fat,1,True,False
+fast track court,1,True,False
+energymeter,1,True,False
+energy meter,1,True,False
+energy,1,True,False
+endorsement,1,True,False
+end use,1,True,False
+enclosure,1,True,False
+encashment,1,True,False
+empty,1,True,False
+empowerment,1,True,False
+employment,1,True,False
+emphasize,1,True,False
+first coat,1,True,False
+first charge,1,True,False
+fir,1,True,False
+fingerspell,1,True,False
+fingerprints,1,True,False
+financial year,1,True,False
+finance,1,True,False
+final accounts,1,True,False
+final,1,True,False
+filter pump,1,True,False
+fill,1,True,False
+figure,1,True,False
+fight,1,True,False
+fever,1,True,False
+festivals,1,True,False
+feed,1,True,False
+eleven,1,True,False
+elevator,1,True,False
+elevation,1,True,False
+elevated plot,1,True,False
+eletronegative force,1,True,False
+electronics,1,True,False
+fixed asset,1,True,False
+five hundred,1,True,False
+five,1,True,False
+fitted,1,True,False
+fishing net,1,True,False
+fishing for games,1,True,False
+fisher man,1,True,False
+fish food,1,True,False
+fish as a human food,1,True,False
+fish as a food of cattle,1,True,False
+floating plants,1,True,False
+flexible,1,True,False
+flatulence,1,True,False
+flatfoot,1,True,False
+flat gardens,1,True,False
+flat belt,1,True,False
+flat,1,True,False
+flag,1,True,False
+fixed rate,1,True,False
+fixed deposit,1,True,False
+emoluments,1,True,False
+emergency medical technician,1,True,False
+embryonic development,1,True,False
+email,1,True,False
+ellipse tool,1,True,False
+eliminate,1,True,False
+fluid pressure,1,True,False
+fluctuation,1,True,False
+flowers for pot,1,True,False
+flowering hedges,1,True,False
+flower for recreation,1,True,False
+flower for medical importance,1,True,False
+flower for exhibition,1,True,False
+flower for controlling soil erosion,1,True,False
+flower for beautification,1,True,False
+flouresence,1,True,False
+flounce  hem,1,True,False
+floriculture,1,True,False
+floppy drive,1,True,False
+floppy disk,1,True,False
+floppy,1,True,False
+flooring,1,True,False
+foreign,1,True,False
+forehead,1,True,False
+footpath,1,True,False
+football,1,True,False
+footage,1,True,False
+foot body part,1,True,False
+foolish,1,True,False
+fool,1,True,False
+font weight,1,True,False
+folio,1,True,False
+folder,1,True,False
+fog,1,True,False
+focal length,1,True,False
+fly,1,True,False
+fluted  pleats,1,True,False
+flush door,1,True,False
+electrical engineering,1,True,False
+electrical energy,1,True,False
+electrical burns,1,True,False
+electric tester,1,True,False
+electric charge,1,True,False
+electric car,1,True,False
+foundation,1,True,False
+fossll fueis,1,True,False
+fornication,1,True,False
+formula,1,True,False
+former,1,True,False
+fork,1,True,False
+forgive,1,True,False
+forged,1,True,False
+forever,1,True,False
+forest,1,True,False
+freexing,1,True,False
+fray  edges,1,True,False
+fraud,1,True,False
+frank,1,True,False
+fourteen,1,True,False
+four cricket,1,True,False
+four,1,True,False
+foundation organization,1,True,False
+electron,1,True,False
+electromagnetic wave,1,True,False
+electromagnet,1,True,False
+electrolyte,1,True,False
+electricity,1,True,False
+electrical tester,1,True,False
+electrical service,1,True,False
+electrical leakage,1,True,False
+frock,1,True,False
+froage crops,1,True,False
+frisbee,1,True,False
+electric bus,1,True,False
+electric bike,1,True,False
+electric appliances,1,True,False
+elder brother,1,True,False
+elastic,1,True,False
+el salvador,1,True,False
+eighteen,1,True,False
+eight,1,True,False
+eggplant,1,True,False
+edge,1,True,False
+frictional force,1,True,False
+frequency,1,True,False
+freezing,1,True,False
+galvanometer,1,True,False
+galaxy,1,True,False
+future,1,True,False
+fuse,1,True,False
+funnel  neck,1,True,False
+funeral pyre,1,True,False
+funeral cremation,1,True,False
+funds,1,True,False
+funding,1,True,False
+fund,1,True,False
+fumiture,1,True,False
+full frame,1,True,False
+fryers,1,True,False
+fry,1,True,False
+frustrate,1,True,False
+fruit disease,1,True,False
+gas,1,True,False
+garib rath express,1,True,False
+garage door opener,1,True,False
+garage,1,True,False
+gangtok,1,True,False
+gang box,1,True,False
+gandhinagar,1,True,False
+eczema,1,True,False
+economic importance of fish in india,1,True,False
+economic,1,True,False
+echo,1,True,False
+earth rammer,1,True,False
+ear,1,True,False
+ganapathi,1,True,False
+gamma ray,1,True,False
+games,1,True,False
+germination,1,True,False
+german measles rubella,1,True,False
+geothermal energy,1,True,False
+georgia,1,True,False
+geometry,1,True,False
+geodetic surveying,1,True,False
+geodetic survey,1,True,False
+genius,1,True,False
+general secretary,1,True,False
+general ladger,1,True,False
+general,1,True,False
+gazette,1,True,False
+gas tractor,1,True,False
+gas pipe,1,True,False
+gas lighter,1,True,False
+gas equation,1,True,False
+dussehra,1,True,False
+duronto express,1,True,False
+durga,1,True,False
+duration,1,True,False
+glass block,1,True,False
+give,1,True,False
+girlfriend,1,True,False
+gionee,1,True,False
+giga byte,1,True,False
+gift,1,True,False
+ghost,1,True,False
+ghee,1,True,False
+ghana,1,True,False
+geyser,1,True,False
+get up,1,True,False
+get,1,True,False
+go air,1,True,False
+glue gun,1,True,False
+glue,1,True,False
+globe,1,True,False
+glass stab,1,True,False
+glass cutter,1,True,False
+glass bod,1,True,False
+e-mail,1,True,False
+e-book,1,True,False
+e office portal,1,True,False
+dysuria,1,True,False
+dwarf ornamental hedges,1,True,False
+dwarf,1,True,False
+dvd,1,True,False
+duster,1,True,False
+dust,1,True,False
+gprs,1,True,False
+gossip,1,True,False
+google pay,1,True,False
+google map,1,True,False
+google chat,1,True,False
+goods retumed,1,True,False
+goods,1,True,False
+goodbye,1,True,False
+good night,1,True,False
+good morning,1,True,False
+good afternoon,1,True,False
+golf,1,True,False
+goldfish,1,True,False
+golden temple,1,True,False
+godet,1,True,False
+god,1,True,False
+drum,1,True,False
+drug overdose,1,True,False
+drug addiction,1,True,False
+drug abuse and addiction,1,True,False
+drown,1,True,False
+green hand,1,True,False
+green bean,1,True,False
+greedy,1,True,False
+gravity,1,True,False
+graphics,1,True,False
+grapes,1,True,False
+grandson,1,True,False
+grammar,1,True,False
+grain,1,True,False
+graft,1,True,False
+graders,1,True,False
+guard,1,True,False
+grudge,1,True,False
+growth,1,True,False
+groundnut,1,True,False
+ground water,1,True,False
+grommets,1,True,False
+grind,1,True,False
+grill,1,True,False
+grenade,1,True,False
+duranta spinosa,1,True,False
+duplicate,1,True,False
+duffle,1,True,False
+dry cell,1,True,False
+drunk driving law,1,True,False
+drunk driving,1,True,False
+drumstick,1,True,False
+drawing,1,True,False
+hacksaw,1,True,False
+hack saw frame,1,True,False
+hack saw blade,1,True,False
+habit,1,True,False
+guwahati,1,True,False
+gutka,1,True,False
+gurunanak jayanthi,1,True,False
+guru nanak,1,True,False
+gulab jamun,1,True,False
+guitar,1,True,False
+guinea,1,True,False
+guilt,1,True,False
+guide,1,True,False
+guess,1,True,False
+guava,1,True,False
+hammer,1,True,False
+halting allowance,1,True,False
+halter top,1,True,False
+haji ali dargah,1,True,False
+hairdresser,1,True,False
+hair clip,1,True,False
+hail,1,True,False
+dropped  armhole sleeve,1,True,False
+droplet,1,True,False
+dropbox,1,True,False
+drop cap,1,True,False
+drizzle,1,True,False
+drip irrigation,1,True,False
+drink,1,True,False
+drilling machine pedestal,1,True,False
+drill bit,1,True,False
+dosa,1,True,False
+donald duck,1,True,False
+harvest,1,True,False
+hariyana,1,True,False
+hardware,1,True,False
+hard of hearing,1,True,False
+harass,1,True,False
+happen,1,True,False
+hands,1,True,False
+handpump water,1,True,False
+handle,1,True,False
+handicapped,1,True,False
+handcuffs,1,True,False
+hand sanitizer,1,True,False
+hand rail,1,True,False
+hand,1,True,False
+hdfc  bank,1,True,False
+have,1,True,False
+hatchet,1,True,False
+hat,1,True,False
+hashtag,1,True,False
+haryana,1,True,False
+draughtsman,1,True,False
+drama,1,True,False
+drainage,1,True,False
+draftsmen,1,True,False
+draft,1,True,False
+download,1,True,False
+down,1,True,False
+double entry,1,True,False
+double click,1,True,False
+double,1,True,False
+here,1,True,False
+her,1,True,False
+hemophilia,1,True,False
+helicopter,1,True,False
+heir,1,True,False
+heifer calf,1,True,False
+heavy,1,True,False
+heavier,1,True,False
+heat engine,1,True,False
+heat,1,True,False
+hearsay,1,True,False
+health,1,True,False
+headache,1,True,False
+head pan,1,True,False
+head office,1,True,False
+head of income,1,True,False
+hindu undivided family,1,True,False
+hindi,1,True,False
+himself,1,True,False
+himachal pradesh,1,True,False
+him,1,True,False
+hill garden,1,True,False
+high resistance,1,True,False
+high court,1,True,False
+high,1,True,False
+hide,1,True,False
+hexadecimal,1,True,False
+herself,1,True,False
+hers,1,True,False
+herps virus,1,True,False
+herpes,1,True,False
+herniated intervertebral,1,True,False
+home,1,True,False
+holy,1,True,False
+hollow blocks,1,True,False
+hollow,1,True,False
+holiday,1,True,False
+holi,1,True,False
+holder,1,True,False
+hold,1,True,False
+hoe,1,True,False
+hockey,1,True,False
+hoarding,1,True,False
+history,1,True,False
+his,1,True,False
+hire purchase,1,True,False
+hire charges,1,True,False
+hip hugger,1,True,False
+documents,1,True,False
+document,1,True,False
+doctor,1,True,False
+dizzy,1,True,False
+divorcee,1,True,False
+divorce petition,1,True,False
+divorce,1,True,False
+horizontal line,1,True,False
+horizontal,1,True,False
+hop,1,True,False
+hook worm disease,1,True,False
+hook and eye,1,True,False
+honorarium,1,True,False
+honey,1,True,False
+homicide,1,True,False
+home gardens,1,True,False
+disrespect,1,True,False
+displacement,1,True,False
+dispersion,1,True,False
+housing loan,1,True,False
+housing,1,True,False
+hot to feel,1,True,False
+hosticide,1,True,False
+hospital,1,True,False
+horse cart,1,True,False
+horizontal surface,1,True,False
+dolly,1,True,False
+dollar,1,True,False
+doll,1,True,False
+doli in capax,1,True,False
+doe,1,True,False
+documents of title,1,True,False
+huge,1,True,False
+huawei mobile,1,True,False
+html tag,1,True,False
+html,1,True,False
+htc mobile,1,True,False
+hsbc bank,1,True,False
+how much,1,True,False
+how big,1,True,False
+how,1,True,False
+diving,1,True,False
+dividend,1,True,False
+dithering,1,True,False
+district jail,1,True,False
+district court,1,True,False
+distribution,1,True,False
+distance learning,1,True,False
+hydrology,1,True,False
+hydro energy,1,True,False
+hydro electricity,1,True,False
+hydrautic press,1,True,False
+hydrautic lift,1,True,False
+hydrautic brake,1,True,False
+hydraulic sprayer,1,True,False
+hydathodes,1,True,False
+hut,1,True,False
+hurt,1,True,False
+hurdle race,1,True,False
+hungary,1,True,False
+hundred,1,True,False
+humped,1,True,False
+humidity,1,True,False
+humble,1,True,False
+identification,1,True,False
+identical,1,True,False
+idea,1,True,False
+idd,1,True,False
+idbi bank,1,True,False
+icici bank,1,True,False
+iceland,1,True,False
+ice hockey,1,True,False
+iball mobile,1,True,False
+i understand,1,True,False
+i don't know,1,True,False
+i,1,True,False
+hypoxia,1,True,False
+hypothecated,1,True,False
+hypotension,1,True,False
+hydropneumatic sprayer,1,True,False
+in front of,1,True,False
+in advance,1,True,False
+impure,1,True,False
+improvement,1,True,False
+improve,1,True,False
+important,1,True,False
+import,1,True,False
+implementation,1,True,False
+immovable property,1,True,False
+immiscibility,1,True,False
+immediate,1,True,False
+illiterate,1,True,False
+ifsc,1,True,False
+idfc bank,1,True,False
+identity card,1,True,False
+identity,1,True,False
+diseases,1,True,False
+disease control of plant,1,True,False
+discretionary limit,1,True,False
+discover,1,True,False
+income tax,1,True,False
+income,1,True,False
+include,1,True,False
+incharge,1,True,False
+inch,1,True,False
+incentive,1,True,False
+inauguration,1,True,False
+inauguaration,1,True,False
+inactive,1,True,False
+in the middle,1,True,False
+in multiples of,1,True,False
+in lieu of,1,True,False
+indian national congress,1,True,False
+india gate,1,True,False
+index,1,True,False
+independence day,1,True,False
+indent,1,True,False
+incompetence,1,True,False
+disolution,1,True,False
+disobey,1,True,False
+dismissal,1,True,False
+dislike,1,True,False
+dishonoured bill,1,True,False
+dish antenna,1,True,False
+dish,1,True,False
+disguise,1,True,False
+diseases of animals,1,True,False
+diseases and enemies of fish,1,True,False
+influenza flu,1,True,False
+inflammatory bowel disease,1,True,False
+infinity,1,True,False
+infection,1,True,False
+infanticide,1,True,False
+inelastic,1,True,False
+inefficient,1,True,False
+industrial building,1,True,False
+inductor,1,True,False
+indoor gardening,1,True,False
+indonesia,1,True,False
+indira gandhi,1,True,False
+indicator,1,True,False
+indian sign language teachers  association,1,True,False
+indian sign language research and training centre,1,True,False
+indian sign language interpreters association,1,True,False
+dirndl  skirt,1,True,False
+direction,1,True,False
+direct appointment,1,True,False
+inspire,1,True,False
+inspection,1,True,False
+insects,1,True,False
+innovate,1,True,False
+inner shell membrane,1,True,False
+injury,1,True,False
+injection,1,True,False
+initials,1,True,False
+inheritance,1,True,False
+ingadulicis,1,True,False
+infrasonic,1,True,False
+infrared ray,1,True,False
+informal,1,True,False
+intensity,1,True,False
+integrated chip,1,True,False
+instument,1,True,False
+instruction,1,True,False
+institution,1,True,False
+institute,1,True,False
+instalment,1,True,False
+installation,1,True,False
+disconnect,1,True,False
+discipline,1,True,False
+discharge,1,True,False
+disc brake master cylinder,1,True,False
+disbursement,1,True,False
+disapproval,1,True,False
+disabled,1,True,False
+disability,1,True,False
+interval,1,True,False
+interruption,1,True,False
+interrogation,1,True,False
+interpreter,1,True,False
+interpret,1,True,False
+internet disconnection,1,True,False
+internet,1,True,False
+internal,1,True,False
+intermediate,1,True,False
+intermal combustion engine,1,True,False
+interim,1,True,False
+interference,1,True,False
+interfere,1,True,False
+interest on savings account,1,True,False
+inter branch transaction,1,True,False
+intensive,1,True,False
+different,1,True,False
+dictionary,1,True,False
+irrevocable,1,True,False
+irreversible,1,True,False
+irregular vibration,1,True,False
+irregular,1,True,False
+ireland,1,True,False
+iraq,1,True,False
+iran,1,True,False
+iphone,1,True,False
+invite,1,True,False
+inverter,1,True,False
+inverse,1,True,False
+invalid,1,True,False
+introduction,1,True,False
+intestate,1,True,False
+itself,1,True,False
+its,1,True,False
+item,1,True,False
+italy,1,True,False
+it's raining cats and dogs,1,True,False
+isreal,1,True,False
+israel,1,True,False
+direct,1,True,False
+dinner,1,True,False
+dim,1,True,False
+digital electronics,1,True,False
+digging bar,1,True,False
+dig,1,True,False
+diffraction,1,True,False
+difficult,1,True,False
+differential rate of interest,1,True,False
+jams,1,True,False
+jammu & kashmir,1,True,False
+jamaica,1,True,False
+jama masjid,1,True,False
+jalpur,1,True,False
+jalebi,1,True,False
+jal mahal,1,True,False
+jainism,1,True,False
+jain,1,True,False
+jailor,1,True,False
+jagannath ratha yatra,1,True,False
+jackfrui,1,True,False
+jacket,1,True,False
+jack plane,1,True,False
+jabot,1,True,False
+j k bank,1,True,False
+jharkhand,1,True,False
+jeweller,1,True,False
+jewelery,1,True,False
+jewel neckline`,1,True,False
+jet airways,1,True,False
+jesus,1,True,False
+jellyfish,1,True,False
+jeep,1,True,False
+jealous,1,True,False
+jd u,1,True,False
+javelin throw,1,True,False
+jasminum sambac,1,True,False
+jasmine,1,True,False
+jantar mantar,1,True,False
+janitor,1,True,False
+jamun,1,True,False
+devil,1,True,False
+device setting,1,True,False
+developmental delay,1,True,False
+development,1,True,False
+develop,1,True,False
+determined,1,True,False
+judaism,1,True,False
+joumal entry,1,True,False
+joumal,1,True,False
+joule,1,True,False
+jordan,1,True,False
+joke,1,True,False
+jointing,1,True,False
+join,1,True,False
+jodhpur pants,1,True,False
+job consciousness,1,True,False
+kamataka,1,True,False
+kaleidoscope,1,True,False
+kajal,1,True,False
+justice,1,True,False
+jupiter,1,True,False
+junior,1,True,False
+juliet sleeve,1,True,False
+juhu beach,1,True,False
+judicial,1,True,False
+dicoty ledoneae,1,True,False
+dice,1,True,False
+diarrhea,1,True,False
+diagonal,1,True,False
+diaeases,1,True,False
+diabetic,1,True,False
+diabeletes,1,True,False
+keying,1,True,False
+keyhole,1,True,False
+keyboard,1,True,False
+kerning,1,True,False
+kenya,1,True,False
+kelvin,1,True,False
+keeper,1,True,False
+keep,1,True,False
+kazakhstan,1,True,False
+kathakali,1,True,False
+karnataka bank,1,True,False
+karnataka,1,True,False
+karate,1,True,False
+kaposi sarcoma,1,True,False
+kanpur,1,True,False
+kangaroo pocket,1,True,False
+deputy director,1,True,False
+deputation,1,True,False
+depth,1,True,False
+depreciation,1,True,False
+deposit slip,1,True,False
+deposit short,1,True,False
+deposit safe custody,1,True,False
+kinds of germination,1,True,False
+kindhearted,1,True,False
+kilometre,1,True,False
+kilometer,1,True,False
+kidney disease,1,True,False
+kidney cancer renal cell,1,True,False
+kidnapping & abducting,1,True,False
+kidnap,1,True,False
+kick out,1,True,False
+known loss,1,True,False
+knowledgeable,1,True,False
+knowledge working,1,True,False
+know your customer kyc form,1,True,False
+knock,1,True,False
+knit,1,True,False
+knee,1,True,False
+kinetic energy,1,True,False
+kinds of honey bee found in india,1,True,False
+detective,1,True,False
+despatch,1,True,False
+desktop cleanup wizard,1,True,False
+designing,1,True,False
+designer,1,True,False
+descendant,1,True,False
+dermatits,1,True,False
+laddu,1,True,False
+lacing,1,True,False
+lace edge binding,1,True,False
+labourer,1,True,False
+labour,1,True,False
+laboratary,1,True,False
+l.e.d,1,True,False
+l square,1,True,False
+kuwait,1,True,False
+kotak mahindra bank,1,True,False
+korea,1,True,False
+konark sun temple,1,True,False
+kolkata calcutta,1,True,False
+kohima,1,True,False
+kochi,1,True,False
+knurling,1,True,False
+demolishing,1,True,False
+demarcation west bengal,1,True,False
+demand,1,True,False
+delivery,1,True,False
+delicious,1,True,False
+delete,1,True,False
+delegation,1,True,False
+land revenue,1,True,False
+land improvement reform,1,True,False
+land holding,1,True,False
+land cess,1,True,False
+land acquisition,1,True,False
+lamp,1,True,False
+lame,1,True,False
+ladyfinger,1,True,False
+lady,1,True,False
+last month,1,True,False
+last,1,True,False
+large,1,True,False
+lapse,1,True,False
+lapel,1,True,False
+laos,1,True,False
+lantana camera,1,True,False
+language,1,True,False
+landlord,1,True,False
+deposit,1,True,False
+deploy,1,True,False
+department,1,True,False
+density,1,True,False
+denomination,1,True,False
+denmark,1,True,False
+dengue,1,True,False
+leaders,1,True,False
+leader,1,True,False
+ldli,1,True,False
+lc,1,True,False
+laying,1,True,False
+layered skirt,1,True,False
+lay out,1,True,False
+lay off,1,True,False
+lawn,1,True,False
+lauki,1,True,False
+laugh,1,True,False
+latitude,1,True,False
+lathe,1,True,False
+last year,1,True,False
+last week,1,True,False
+last pay certificate,1,True,False
+deed of sale,1,True,False
+decline,1,True,False
+declaration,1,True,False
+decimal,1,True,False
+lebanon,1,True,False
+leave study,1,True,False
+leave preparatory to retirement,1,True,False
+leave medical,1,True,False
+leave extraordinary,1,True,False
+leave earned,1,True,False
+leave duty,1,True,False
+leave compensatory,1,True,False
+least count,1,True,False
+leak,1,True,False
+leafy vegetables,1,True,False
+leaf spring,1,True,False
+legal advisor,1,True,False
+leg mutton sleeve,1,True,False
+leg,1,True,False
+left indent,1,True,False
+left demrocatic front,1,True,False
+left,1,True,False
+ledger balance,1,True,False
+ledger,1,True,False
+lecture,1,True,False
+delegate west bengal,1,True,False
+dehradun,1,True,False
+defraud,1,True,False
+defend,1,True,False
+default,1,True,False
+deepika padukone,1,True,False
+deep rooted,1,True,False
+libya,1,True,False
+librarian,1,True,False
+liberia,1,True,False
+lgnore,1,True,False
+lg mobile,1,True,False
+lfc,1,True,False
+level rate,1,True,False
+letter of authority,1,True,False
+less,1,True,False
+lens,1,True,False
+lenovo,1,True,False
+lend,1,True,False
+legged robots,1,True,False
+legally protected,1,True,False
+legalese,1,True,False
+legal claim,1,True,False
+life,1,True,False
+lick,1,True,False
+lic,1,True,False
+deceive,1,True,False
+deceased,1,True,False
+decade,1,True,False
+debug,1,True,False
+debt doubtful,1,True,False
+debt,1,True,False
+debit advice,1,True,False
+debate,1,True,False
+death row,1,True,False
+death in service,1,True,False
+death certificate,1,True,False
+deal,1,True,False
+deafness,1,True,False
+darts munger,1,True,False
+dangerous,1,True,False
+damp proofing material,1,True,False
+little,1,True,False
+liquor,1,True,False
+liquidation,1,True,False
+liquid fuels,1,True,False
+link,1,True,False
+lines and pins,1,True,False
+line,1,True,False
+limitless,1,True,False
+limit,1,True,False
+lime paste,1,True,False
+light year,1,True,False
+light fixture,1,True,False
+life jacket,1,True,False
+lonely,1,True,False
+lollipop,1,True,False
+lok janshakti party,1,True,False
+login,1,True,False
+log off,1,True,False
+locker,1,True,False
+local train,1,True,False
+loan terminable,1,True,False
+lnaugurate,1,True,False
+live,1,True,False
+deadly weapon,1,True,False
+days before,1,True,False
+days after tomorrow,1,True,False
+day book,1,True,False
+date of retirement,1,True,False
+dash,1,True,False
+luck,1,True,False
+lubrication oil,1,True,False
+lower division clerk,1,True,False
+lower court,1,True,False
+low lying area,1,True,False
+low,1,True,False
+love marriage,1,True,False
+loud speaker,1,True,False
+losses due to exessive water,1,True,False
+loose leaf binder,1,True,False
+loose,1,True,False
+longitudinal wave,1,True,False
+longitude,1,True,False
+long term,1,True,False
+long jump,1,True,False
+long day plant,1,True,False
+cutlery,1,True,False
+cute,1,True,False
+cut  line,1,True,False
+customer service,1,True,False
+madagascar,1,True,False
+machines,1,True,False
+machine water pump,1,True,False
+machine,1,True,False
+macau,1,True,False
+luster,1,True,False
+lunar eclipse,1,True,False
+lunacy,1,True,False
+lumpsum,1,True,False
+lumberjack,1,True,False
+lucky,1,True,False
+lucknow,1,True,False
+mahatma gandhi,1,True,False
+maharastra,1,True,False
+maharashtra,1,True,False
+magnification,1,True,False
+magnetism,1,True,False
+magnetic ink character recognition,1,True,False
+magician,1,True,False
+dam,1,True,False
+daisychaining,1,True,False
+dairy science,1,True,False
+dairy farm record,1,True,False
+daily list,1,True,False
+czech republic,1,True,False
+cyprus,1,True,False
+cycling,1,True,False
+cutout,1,True,False
+management,1,True,False
+mallet,1,True,False
+mall,1,True,False
+mali,1,True,False
+malaysia,1,True,False
+malawi,1,True,False
+majority,1,True,False
+major,1,True,False
+maintenance allowance,1,True,False
+mainsworn,1,True,False
+main scale,1,True,False
+main,1,True,False
+mail transfer,1,True,False
+mail,1,True,False
+mahavir jayanthi,1,True,False
+mahavir,1,True,False
+curing,1,True,False
+curd,1,True,False
+cup,1,True,False
+cummerband,1,True,False
+mark,1,True,False
+marigold,1,True,False
+margin,1,True,False
+march,1,True,False
+marathi,1,True,False
+map,1,True,False
+manure,1,True,False
+manufacture,1,True,False
+manual of instruction,1,True,False
+manjira,1,True,False
+mandatory,1,True,False
+manager,1,True,False
+mason square,1,True,False
+masculine,1,True,False
+mary,1,True,False
+maruti car,1,True,False
+marth,1,True,False
+marry,1,True,False
+marking table,1,True,False
+marketing of vegetables,1,True,False
+market,1,True,False
+custody,1,True,False
+custard apple,1,True,False
+curved,1,True,False
+curvature,1,True,False
+curry,1,True,False
+current,1,True,False
+currency chest,1,True,False
+meager,1,True,False
+mazdoor,1,True,False
+maybe,1,True,False
+mauritius,1,True,False
+maturity,1,True,False
+mature,1,True,False
+matrimonial home,1,True,False
+mating method of poultry,1,True,False
+maths,1,True,False
+mathematics,1,True,False
+mathematical,1,True,False
+maternal aunt,1,True,False
+match,1,True,False
+mass,1,True,False
+masquito,1,True,False
+masonry bit,1,True,False
+crow bar,1,True,False
+crow,1,True,False
+crossing,1,True,False
+cross belt drive,1,True,False
+cross,1,True,False
+crops,1,True,False
+cropping tool,1,True,False
+croatia,1,True,False
+criticize,1,True,False
+medium shrubs,1,True,False
+meditate,1,True,False
+mediocre,1,True,False
+medicine,1,True,False
+medal,1,True,False
+mechanics,1,True,False
+measuring tape,1,True,False
+merger,1,True,False
+merge,1,True,False
+mercury,1,True,False
+merchant,1,True,False
+menu,1,True,False
+memory unit,1,True,False
+memory card,1,True,False
+memorize,1,True,False
+memo,1,True,False
+melting point,1,True,False
+cultivators,1,True,False
+culottes,1,True,False
+cuffs,1,True,False
+cucumber,1,True,False
+cry,1,True,False
+crown,1,True,False
+might,1,True,False
+microwave,1,True,False
+microphone,1,True,False
+micromax mobile,1,True,False
+mi xiaomi,1,True,False
+mho,1,True,False
+mexico,1,True,False
+metro,1,True,False
+methods of drainage,1,True,False
+method of accounting,1,True,False
+method,1,True,False
+meter,1,True,False
+messenger,1,True,False
+messages videos,1,True,False
+message video,1,True,False
+merit and demerits,1,True,False
+crease,1,True,False
+crawler loader,1,True,False
+cpi,1,True,False
+milter hat,1,True,False
+millionaire,1,True,False
+milling cutter convex,1,True,False
+milling cutter concave,1,True,False
+milling cutter angle,1,True,False
+millimetre,1,True,False
+milligram,1,True,False
+milli litre,1,True,False
+milk powder,1,True,False
+milk bottle,1,True,False
+milk adultration,1,True,False
+mild steel rod,1,True,False
+milad un nabi,1,True,False
+missing,1,True,False
+misbehaviour,1,True,False
+misappropriation,1,True,False
+minimize,1,True,False
+mineral matter,1,True,False
+mime,1,True,False
+milter stripes,1,True,False
+criminal court,1,True,False
+crime scene,1,True,False
+crime,1,True,False
+cricket,1,True,False
+credit voucher,1,True,False
+credit sale,1,True,False
+credit purchase,1,True,False
+credit,1,True,False
+created,1,True,False
+molecule,1,True,False
+molecuiar motion,1,True,False
+modification,1,True,False
+modern roof,1,True,False
+mobilisation deposit,1,True,False
+mitsubishi motors,1,True,False
+misunderstand,1,True,False
+cowl  sleeve,1,True,False
+court hall,1,True,False
+court,1,True,False
+counter sinking,1,True,False
+counter,1,True,False
+count,1,True,False
+counsel,1,True,False
+cotter ring,1,True,False
+costa rica,1,True,False
+cooling sheet,1,True,False
+coolie,1,True,False
+cooker,1,True,False
+conveyance allowance,1,True,False
+moral,1,True,False
+monthly statement,1,True,False
+monthly return,1,True,False
+monster truck,1,True,False
+monsoon,1,True,False
+monocotyledonae,1,True,False
+monitoring,1,True,False
+mongolia,1,True,False
+moneylender,1,True,False
+money order,1,True,False
+money,1,True,False
+monetary,1,True,False
+motivate,1,True,False
+motion,1,True,False
+motherboard,1,True,False
+mother tongue,1,True,False
+mother in law,1,True,False
+mosquito,1,True,False
+mosque,1,True,False
+mortgage,1,True,False
+corresponding branch,1,True,False
+corporation bank,1,True,False
+corel draw,1,True,False
+copy and paste,1,True,False
+copper wire,1,True,False
+cop,1,True,False
+coordinate,1,True,False
+cooperate,1,True,False
+ms word,1,True,False
+ms windows,1,True,False
+ms powerpoint,1,True,False
+ms excel,1,True,False
+movie,1,True,False
+movement,1,True,False
+movable property,1,True,False
+mouthwash,1,True,False
+mouth spray,1,True,False
+mouth parts,1,True,False
+mouth organ,1,True,False
+mouse pad,1,True,False
+mouse click,1,True,False
+mouse,1,True,False
+motorola,1,True,False
+motorcycle air filter,1,True,False
+consultant,1,True,False
+construction contract,1,True,False
+construction,1,True,False
+constitutional rights,1,True,False
+conservation,1,True,False
+museum,1,True,False
+murraya exotica,1,True,False
+multiply,1,True,False
+multiple,1,True,False
+multi storey building,1,True,False
+muitimeter,1,True,False
+mugshot,1,True,False
+muffler,1,True,False
+mucosal disease,1,True,False
+mtnl,1,True,False
+mtl,1,True,False
+mutual agreement,1,True,False
+mute,1,True,False
+mushroom storage,1,True,False
+mushroom production,1,True,False
+mushroom pleating,1,True,False
+mushroom harvesting,1,True,False
+convex mirror,1,True,False
+convex lens,1,True,False
+convex,1,True,False
+convertible  collar,1,True,False
+conversion,1,True,False
+contractual,1,True,False
+contraction,1,True,False
+continue,1,True,False
+continent,1,True,False
+contest,1,True,False
+condom,1,True,False
+condition,1,True,False
+nationalisation,1,True,False
+national capital region,1,True,False
+national association of the deaf,1,True,False
+nappy,1,True,False
+nap fabrick,1,True,False
+namibia,1,True,False
+namaste,1,True,False
+nail cutter,1,True,False
+nagpur,1,True,False
+nagaland,1,True,False
+mysuru,1,True,False
+mysore,1,True,False
+myanmar,1,True,False
+my name is,1,True,False
+near,1,True,False
+ncp,1,True,False
+nature,1,True,False
+natural numbers,1,True,False
+natural gaurdian,1,True,False
+natural gas,1,True,False
+nationalist congress party,1,True,False
+consent,1,True,False
+connect,1,True,False
+congratulations,1,True,False
+confirmed member,1,True,False
+confidential report,1,True,False
+confidence,1,True,False
+confession,1,True,False
+confess,1,True,False
+conductor,1,True,False
+neptune,1,True,False
+nephew,1,True,False
+nematology,1,True,False
+nematode control,1,True,False
+nehru collar,1,True,False
+negogiable instrumemts,1,True,False
+negligible,1,True,False
+negligent,1,True,False
+negligence,1,True,False
+negative error,1,True,False
+need,1,True,False
+neck band,1,True,False
+necessary,1,True,False
+neat,1,True,False
+nearly,1,True,False
+nearby,1,True,False
+concave,1,True,False
+computing,1,True,False
+computerisation,1,True,False
+compulsory,1,True,False
+news,1,True,False
+newly weds,1,True,False
+newly married,1,True,False
+new zealand,1,True,False
+new moon day,1,True,False
+new delhi,1,True,False
+neutron,1,True,False
+neutral,1,True,False
+netherlands,1,True,False
+netflix,1,True,False
+netaji subhas chandra bose,1,True,False
+net profit,1,True,False
+niece,1,True,False
+nice to meet you,1,True,False
+next year,1,True,False
+next week,1,True,False
+next month,1,True,False
+newton,1,True,False
+newsreader,1,True,False
+concurrent,1,True,False
+concrete mixture,1,True,False
+conclude,1,True,False
+conciliation,1,True,False
+concession,1,True,False
+concept,1,True,False
+concealment of identity,1,True,False
+concave mirror,1,True,False
+concave lens,1,True,False
+non payment,1,True,False
+non legal,1,True,False
+non infectious disease,1,True,False
+non access,1,True,False
+nomographer,1,True,False
+nominee,1,True,False
+nominate,1,True,False
+nominal value,1,True,False
+nokia mobile,1,True,False
+noc,1,True,False
+no due certificate,1,True,False
+ninth,1,True,False
+nineteen,1,True,False
+nine,1,True,False
+nigeria,1,True,False
+niger,1,True,False
+complainant and complaint,1,True,False
+compate,1,True,False
+compass surveying,1,True,False
+company secretary,1,True,False
+note,1,True,False
+notch collar,1,True,False
+notary public,1,True,False
+not negotiable,1,True,False
+not,1,True,False
+norway,1,True,False
+north-east,1,True,False
+north korea,1,True,False
+north america,1,True,False
+norfolk jacket,1,True,False
+none,1,True,False
+non vegetarian,1,True,False
+nucleus,1,True,False
+nuclear reactor,1,True,False
+nuclear energy,1,True,False
+nri,1,True,False
+notice board,1,True,False
+notice,1,True,False
+notesheet,1,True,False
+note book,1,True,False
+compromise,1,True,False
+compression,1,True,False
+compound microscope,1,True,False
+compound interest,1,True,False
+composition of milk,1,True,False
+compositing,1,True,False
+complete,1,True,False
+complaint,1,True,False
+commercial vegetable gardening,1,True,False
+commercial building,1,True,False
+commerce,1,True,False
+octal,1,True,False
+occupation,1,True,False
+observation,1,True,False
+obligate saprophyte,1,True,False
+objection,1,True,False
+object,1,True,False
+obedience,1,True,False
+nutrition,1,True,False
+nuncupative will,1,True,False
+numpad,1,True,False
+numerous,1,True,False
+numerical control,1,True,False
+number system,1,True,False
+office hours,1,True,False
+office branch,1,True,False
+office bearer,1,True,False
+offence,1,True,False
+off shore banking,1,True,False
+off season,1,True,False
+of,1,True,False
+octopus,1,True,False
+company partnership,1,True,False
+company joint stock,1,True,False
+compaction,1,True,False
+compact disc,1,True,False
+community,1,True,False
+communication,1,True,False
+common cold,1,True,False
+committee,1,True,False
+on the basis of major causal agents,1,True,False
+on the basis of life cycle,1,True,False
+on probation,1,True,False
+on demand,1,True,False
+on cloud nine,1,True,False
+omit,1,True,False
+omission,1,True,False
+olympics,1,True,False
+olericulture,1,True,False
+older sister,1,True,False
+ohm,1,True,False
+ogle from head to toe,1,True,False
+offline editing,1,True,False
+officiating,1,True,False
+officer in charge of jail,1,True,False
+officer,1,True,False
+cohesive,1,True,False
+coherent,1,True,False
+coffee rust,1,True,False
+opaque,1,True,False
+only,1,True,False
+online shopping,1,True,False
+online editing,1,True,False
+online banking,1,True,False
+oneplus mobile,1,True,False
+one lakh,1,True,False
+one crore,1,True,False
+one and a half hours,1,True,False
+one,1,True,False
+once,1,True,False
+on the basis of use of pond,1,True,False
+on the basis of propagation,1,True,False
+optical fiber cable,1,True,False
+optical character recognition,1,True,False
+opposite,1,True,False
+opportunity,1,True,False
+oppo mobile,1,True,False
+operate an account,1,True,False
+opening balance,1,True,False
+open dated,1,True,False
+open circuit,1,True,False
+open belt drive,1,True,False
+column,1,True,False
+coloured follage shrubs,1,True,False
+colour filter,1,True,False
+colombia,1,True,False
+colllsion,1,True,False
+cold drink,1,True,False
+out,1,True,False
+ourselves,1,True,False
+ostrich,1,True,False
+osmosis,1,True,False
+osclllatory motion,1,True,False
+oscillator,1,True,False
+oscillation,1,True,False
+ornithology,1,True,False
+ornaments,1,True,False
+orissa,1,True,False
+oriental bank of commerce,1,True,False
+organization,1,True,False
+order standing,1,True,False
+orbit,1,True,False
+opuntia,1,True,False
+option,1,True,False
+coach,1,True,False
+co accused,1,True,False
+cng stone carving machine,1,True,False
+clutch lever,1,True,False
+over valuation,1,True,False
+over head projector,1,True,False
+over and over again,1,True,False
+outstanding report,1,True,False
+outstanding cheque,1,True,False
+outstanding,1,True,False
+outside,1,True,False
+outer shell,1,True,False
+outdo,1,True,False
+outdated,1,True,False
+out of work,1,True,False
+out of print,1,True,False
+oviparous,1,True,False
+ovi viviparous,1,True,False
+overtime allowance,1,True,False
+overseas,1,True,False
+overleaf,1,True,False
+overdue,1,True,False
+overdraft,1,True,False
+overcharge,1,True,False
+overall,1,True,False
+over writing,1,True,False
+coffee,1,True,False
+cock erels,1,True,False
+cochin,1,True,False
+coccidiosis,1,True,False
+coat  dress,1,True,False
+coarse aggregate,1,True,False
+climb up,1,True,False
+climb down,1,True,False
+climb,1,True,False
+palm tree,1,True,False
+palazo pants,1,True,False
+paise,1,True,False
+paid up capital,1,True,False
+page layout,1,True,False
+page,1,True,False
+packing credit,1,True,False
+pacing,1,True,False
+paan,1,True,False
+ox,1,True,False
+owner cultivated,1,True,False
+own,1,True,False
+owe,1,True,False
+par - above,1,True,False
+pappad,1,True,False
+panic,1,True,False
+pani puri,1,True,False
+panel door,1,True,False
+paneer,1,True,False
+panasonic mobile,1,True,False
+panama,1,True,False
+clumsy,1,True,False
+cloudy,1,True,False
+clouds,1,True,False
+close up,1,True,False
+close relation,1,True,False
+close friend,1,True,False
+clockwise,1,True,False
+clinical thermometer,1,True,False
+parkinsonia aculeata,1,True,False
+parental,1,True,False
+parent branch,1,True,False
+parent,1,True,False
+parcel,1,True,False
+paratha,1,True,False
+parapet,1,True,False
+parameter,1,True,False
+paramedic,1,True,False
+parallel circuit,1,True,False
+parallel,1,True,False
+paraguay,1,True,False
+parade,1,True,False
+parachute,1,True,False
+par - below,1,True,False
+par - at,1,True,False
+passbook printing machine,1,True,False
+passbook bank,1,True,False
+pass to,1,True,False
+pass book,1,True,False
+party,1,True,False
+parts,1,True,False
+partnership deed,1,True,False
+partnership,1,True,False
+partly paid,1,True,False
+particulars,1,True,False
+particular,1,True,False
+participation,1,True,False
+part time,1,True,False
+part,1,True,False
+parsi,1,True,False
+parricide,1,True,False
+classification of shrubs,1,True,False
+classification of poultry feeds,1,True,False
+classification of poultry diseases,1,True,False
+classification of hedges,1,True,False
+classification of fungus,1,True,False
+classification based on the transplanting capacity,1,True,False
+paws,1,True,False
+paw,1,True,False
+patriotic,1,True,False
+pastry,1,True,False
+paste,1,True,False
+past,1,True,False
+password,1,True,False
+passive debt,1,True,False
+passion,1,True,False
+passing official,1,True,False
+pencil box,1,True,False
+penality,1,True,False
+penal interest,1,True,False
+peep,1,True,False
+pear,1,True,False
+peanut,1,True,False
+pdp,1,True,False
+paytm payments bank,1,True,False
+paying slip,1,True,False
+payee,1,True,False
+client,1,True,False
+clearing house,1,True,False
+clean bill,1,True,False
+claw hammer,1,True,False
+clauses,1,True,False
+classification of vegetables,1,True,False
+citrus vulgaris,1,True,False
+circus,1,True,False
+circular motion,1,True,False
+circuit breaker,1,True,False
+circuit,1,True,False
+period time,1,True,False
+period,1,True,False
+peril,1,True,False
+perform,1,True,False
+per pro,1,True,False
+pepper,1,True,False
+people,1,True,False
+pentode,1,True,False
+penguin,1,True,False
+pendulum,1,True,False
+pencil leg,1,True,False
+peter pan collar,1,True,False
+peru,1,True,False
+personality,1,True,False
+perpendicular,1,True,False
+permit,1,True,False
+permission,1,True,False
+periscope,1,True,False
+periods,1,True,False
+classification based on season,1,True,False
+classification according to parts used for crop,1,True,False
+classification,1,True,False
+class room,1,True,False
+clap,1,True,False
+claim,1,True,False
+cl,1,True,False
+civil engineering,1,True,False
+piano,1,True,False
+physical training,1,True,False
+physical balance,1,True,False
+photosynthesis process,1,True,False
+photosynthesis,1,True,False
+photoperiodism,1,True,False
+photographic plate,1,True,False
+photographic camera,1,True,False
+photographer,1,True,False
+photocopy,1,True,False
+photo,1,True,False
+phone,1,True,False
+pharmacist,1,True,False
+pf,1,True,False
+petrol,1,True,False
+peteti,1,True,False
+chimney,1,True,False
+chilli,1,True,False
+chile,1,True,False
+children,1,True,False
+child prostitution,1,True,False
+piston,1,True,False
+pista,1,True,False
+pisciculture,1,True,False
+piping,1,True,False
+pinking shears,1,True,False
+pineapple,1,True,False
+pin,1,True,False
+pigments,1,True,False
+pickpocket,1,True,False
+pick stitch,1,True,False
+pick axe,1,True,False
+plant water relation,1,True,False
+plant physiology,1,True,False
+plant,1,True,False
+plane mirror,1,True,False
+plane convex lens,1,True,False
+plane concave lens,1,True,False
+plane,1,True,False
+plain cement concrete,1,True,False
+place,1,True,False
+cif number,1,True,False
+church,1,True,False
+chronic illness,1,True,False
+christianity,1,True,False
+choking,1,True,False
+chocolate,1,True,False
+chipping,1,True,False
+chickenpox,1,True,False
+chicken mesh,1,True,False
+chhattisgarh,1,True,False
+chesterfield  coat,1,True,False
+chess,1,True,False
+points,1,True,False
+pluto,1,True,False
+plunger,1,True,False
+plumbing,1,True,False
+plumb bob and line,1,True,False
+plum,1,True,False
+plug point,1,True,False
+plug,1,True,False
+plough,1,True,False
+pledge,1,True,False
+plastering,1,True,False
+politician,1,True,False
+polite,1,True,False
+polisher,1,True,False
+polish,1,True,False
+police station,1,True,False
+police car,1,True,False
+pole vault,1,True,False
+poland,1,True,False
+child abuse,1,True,False
+child,1,True,False
+chikoo,1,True,False
+chief justice,1,True,False
+chief,1,True,False
+chicks,1,True,False
+chickpea,1,True,False
+chickoo,1,True,False
+postpone,1,True,False
+posting,1,True,False
+post dated,1,True,False
+post card,1,True,False
+possess,1,True,False
+positive error,1,True,False
+portugal,1,True,False
+ports tab,1,True,False
+popcorn,1,True,False
+pongal,1,True,False
+pond on the basis of situation,1,True,False
+pomegranate,1,True,False
+polygraph,1,True,False
+polygon tool,1,True,False
+polo shrit,1,True,False
+politics,1,True,False
+cheque endorsement,1,True,False
+cheque drop box,1,True,False
+cheque crossed,1,True,False
+chemistry,1,True,False
+chemical energy,1,True,False
+chef,1,True,False
+pour,1,True,False
+poultry science,1,True,False
+poultry production,1,True,False
+poultry mash,1,True,False
+poultry feeds,1,True,False
+potty,1,True,False
+potentiometer,1,True,False
+potentiality,1,True,False
+potential energy,1,True,False
+potential,1,True,False
+predict,1,True,False
+predecessor,1,True,False
+precaution,1,True,False
+pre paid,1,True,False
+pram,1,True,False
+powerlines,1,True,False
+power sockets,1,True,False
+power hacksaw,1,True,False
+power duster,1,True,False
+powder,1,True,False
+cherry,1,True,False
+cheque travellers,1,True,False
+cheque stale,1,True,False
+cheque postdated,1,True,False
+cheque mutilated,1,True,False
+cheque gift,1,True,False
+change in state,1,True,False
+chamfering,1,True,False
+chamber,1,True,False
+prevent,1,True,False
+pressure foot,1,True,False
+pressure cooker,1,True,False
+pressure,1,True,False
+press,1,True,False
+president,1,True,False
+prescribe,1,True,False
+preposition,1,True,False
+premium,1,True,False
+premises,1,True,False
+premature,1,True,False
+preliminary,1,True,False
+prejudice,1,True,False
+private gardens,1,True,False
+private,1,True,False
+prism,1,True,False
+priority,1,True,False
+printed circuit board,1,True,False
+print,1,True,False
+prime location,1,True,False
+primary,1,True,False
+previous,1,True,False
+preventive measures,1,True,False
+charge sheet,1,True,False
+charge,1,True,False
+chapter,1,True,False
+chapathi,1,True,False
+change of venue,1,True,False
+change in temperature,1,True,False
+centimetre,1,True,False
+centimeter,1,True,False
+centigram,1,True,False
+program,1,True,False
+proforma,1,True,False
+profile levelling,1,True,False
+professor,1,True,False
+professional,1,True,False
+product,1,True,False
+produce,1,True,False
+proceeding,1,True,False
+procedure,1,True,False
+problem,1,True,False
+probing,1,True,False
+pro circle,1,True,False
+private secretaryps,1,True,False
+projectile motion,1,True,False
+project,1,True,False
+prohibit,1,True,False
+progress,1,True,False
+chain surveying,1,True,False
+chain reaction,1,True,False
+chain drive,1,True,False
+cervical cancer,1,True,False
+cerebral palsy,1,True,False
+cereal disease,1,True,False
+century,1,True,False
+centripetal,1,True,False
+centrifugal,1,True,False
+centre of curvature,1,True,False
+centre  front,1,True,False
+central processing unit,1,True,False
+publication,1,True,False
+public gardens,1,True,False
+psychology,1,True,False
+provision,1,True,False
+proton,1,True,False
+protest,1,True,False
+prospectus,1,True,False
+prosecution,1,True,False
+proprietory,1,True,False
+property tax,1,True,False
+property public,1,True,False
+property landed,1,True,False
+propeller pump,1,True,False
+pronoun,1,True,False
+prompt action,1,True,False
+promisory note,1,True,False
+cause of action,1,True,False
+cauliflower,1,True,False
+category,1,True,False
+catch  stitch,1,True,False
+cataract,1,True,False
+punjab national bank,1,True,False
+punishment,1,True,False
+pump,1,True,False
+pulley,1,True,False
+pullet,1,True,False
+pull someone's leg,1,True,False
+pull,1,True,False
+puja,1,True,False
+puducherry,1,True,False
+publish,1,True,False
+publicity material,1,True,False
+put up,1,True,False
+push,1,True,False
+purpose,1,True,False
+purple flowered plants,1,True,False
+puri,1,True,False
+purchase retum,1,True,False
+puppet show,1,True,False
+puppet,1,True,False
+center  back,1,True,False
+center,1,True,False
+cement mortar,1,True,False
+cement,1,True,False
+celsius,1,True,False
+celebrate,1,True,False
+ceiling,1,True,False
+cd,1,True,False
+quota,1,True,False
+quit,1,True,False
+quiet,1,True,False
+quick,1,True,False
+queue,1,True,False
+questions,1,True,False
+questionnaire,1,True,False
+quarter,1,True,False
+quarrel,1,True,False
+quality,1,True,False
+qualified,1,True,False
+qualification essential,1,True,False
+quadrupedal robot,1,True,False
+python,1,True,False
+pyramid,1,True,False
+puzzle,1,True,False
+cash book,1,True,False
+cartidge,1,True,False
+carry on,1,True,False
+carry,1,True,False
+raid,1,True,False
+rafter,1,True,False
+radish,1,True,False
+radio wave,1,True,False
+radiation,1,True,False
+raddish,1,True,False
+racism,1,True,False
+race,1,True,False
+rabindranath tagore,1,True,False
+quran,1,True,False
+quote,1,True,False
+quotation,1,True,False
+raipur,1,True,False
+rainy season vegetables,1,True,False
+rain,1,True,False
+railway track,1,True,False
+railway hedges,1,True,False
+rail section,1,True,False
+rail road switch,1,True,False
+catalogue,1,True,False
+cassette,1,True,False
+casio,1,True,False
+cashier,1,True,False
+cash remmitance,1,True,False
+cash receipt,1,True,False
+cash credit key,1,True,False
+cash credit,1,True,False
+cash certificates,1,True,False
+rate concessional,1,True,False
+raster graphics,1,True,False
+rasgulla,1,True,False
+rarely,1,True,False
+rare,1,True,False
+rapidly,1,True,False
+ranveer singh,1,True,False
+rani of jhansi,1,True,False
+random motion,1,True,False
+random,1,True,False
+ranchi,1,True,False
+ramzan,1,True,False
+rama,1,True,False
+ram navami,1,True,False
+ram,1,True,False
+rally,1,True,False
+capital punishment,1,True,False
+capillary tube,1,True,False
+capacity,1,True,False
+real,1,True,False
+ready,1,True,False
+reaction,1,True,False
+re sale,1,True,False
+re pledge,1,True,False
+re issue,1,True,False
+re examine,1,True,False
+re endorsed,1,True,False
+re employment,1,True,False
+re acceptable,1,True,False
+rationale,1,True,False
+ratification,1,True,False
+rate differential,1,True,False
+recognise,1,True,False
+recharge,1,True,False
+recently,1,True,False
+recent,1,True,False
+receiver,1,True,False
+rebate,1,True,False
+reasonable notice,1,True,False
+reaper bainder,1,True,False
+real image,1,True,False
+real estate agent,1,True,False
+carpet,1,True,False
+carnivorus fishes,1,True,False
+cargo  pocket,1,True,False
+card,1,True,False
+carcinoid tumor,1,True,False
+carburetor,1,True,False
+rectification,1,True,False
+recruitment,1,True,False
+recover,1,True,False
+reconsider,1,True,False
+reconciliation,1,True,False
+recommendation,1,True,False
+capable,1,True,False
+canteen,1,True,False
+canara bank,1,True,False
+canada,1,True,False
+camouflage,1,True,False
+camera,1,True,False
+cambodia,1,True,False
+calorimeter,1,True,False
+recognize,1,True,False
+recognised,1,True,False
+region,1,True,False
+refusal,1,True,False
+refund,1,True,False
+refrigerater,1,True,False
+refresher course,1,True,False
+refractive index,1,True,False
+refraction,1,True,False
+reform,1,True,False
+reflection,1,True,False
+refinance,1,True,False
+refer to drawer,1,True,False
+red rot of sugarcane,1,True,False
+red flowered plants,1,True,False
+recurring deposit,1,True,False
+recurring,1,True,False
+rectifier,1,True,False
+cage,1,True,False
+caftan,1,True,False
+buyer,1,True,False
+relief,1,True,False
+reliance mobile,1,True,False
+rejoinder,1,True,False
+reject,1,True,False
+reinforced cement concrete,1,True,False
+regulator,1,True,False
+regulation,1,True,False
+regularisation,1,True,False
+regular vibration,1,True,False
+registrar,1,True,False
+registered letter,1,True,False
+registered,1,True,False
+register,1,True,False
+report,1,True,False
+repeat,1,True,False
+repay,1,True,False
+repairer,1,True,False
+renovation,1,True,False
+renewal,1,True,False
+remittance,1,True,False
+reminder,1,True,False
+remind,1,True,False
+calorie,1,True,False
+call money,1,True,False
+call deposit,1,True,False
+calendar year,1,True,False
+calcutta,1,True,False
+cake,1,True,False
+cajanus inducus,1,True,False
+burundi,1,True,False
+burn,1,True,False
+resignation,1,True,False
+residential building,1,True,False
+residence,1,True,False
+reserve fund,1,True,False
+researcher,1,True,False
+research farm,1,True,False
+research,1,True,False
+res,1,True,False
+requisite,1,True,False
+request,1,True,False
+repurchase,1,True,False
+repulsive force,1,True,False
+republic day,1,True,False
+reproduction,1,True,False
+restrained,1,True,False
+restore,1,True,False
+restart,1,True,False
+responsible,1,True,False
+responsibility,1,True,False
+resources,1,True,False
+resonance,1,True,False
+resolve,1,True,False
+resolution,1,True,False
+buy,1,True,False
+button placket,1,True,False
+button loop,1,True,False
+button hole,1,True,False
+button down,1,True,False
+bushes,1,True,False
+bus stand,1,True,False
+revolving chair,1,True,False
+revolve,1,True,False
+revolution,1,True,False
+revised,1,True,False
+revise,1,True,False
+review,1,True,False
+reversible,1,True,False
+revenue,1,True,False
+revalidation,1,True,False
+retum outward,1,True,False
+retum inward,1,True,False
+retention of moisture,1,True,False
+retain,1,True,False
+retail,1,True,False
+resume,1,True,False
+restricted,1,True,False
+bull,1,True,False
+building structure,1,True,False
+builder,1,True,False
+bugle,1,True,False
+buffet,1,True,False
+rigid,1,True,False
+right now,1,True,False
+right indent,1,True,False
+ridicule,1,True,False
+ridge board,1,True,False
+ride,1,True,False
+rhythmic,1,True,False
+rhinocerous,1,True,False
+rhinoceros,1,True,False
+rhino,1,True,False
+rf osciilator,1,True,False
+road separator,1,True,False
+road,1,True,False
+riverine,1,True,False
+risk,1,True,False
+ripe,1,True,False
+rip out,1,True,False
+riots,1,True,False
+ring spanner,1,True,False
+rinderpest,1,True,False
+burglar,1,True,False
+burger,1,True,False
+burden,1,True,False
+bump cutter,1,True,False
+bully calf,1,True,False
+bullock cart,1,True,False
+bullet train,1,True,False
+browse,1,True,False
+brown sport of rice,1,True,False
+brothel,1,True,False
+roofing tiles,1,True,False
+roof griders,1,True,False
+roof garden,1,True,False
+rolls royce,1,True,False
+rollerpaint,1,True,False
+rocking chair,1,True,False
+rocket,1,True,False
+rockery plants,1,True,False
+rock gardening,1,True,False
+rock drill machine,1,True,False
+rock climbing gujarat,1,True,False
+roasters,1,True,False
+roam,1,True,False
+roughages,1,True,False
+rough cut,1,True,False
+rotten,1,True,False
+roti,1,True,False
+rotational motion,1,True,False
+rotational,1,True,False
+rotating tool,1,True,False
+rotate,1,True,False
+budget,1,True,False
+buddhist,1,True,False
+buddhism,1,True,False
+buddah,1,True,False
+buckle,1,True,False
+bsp,1,True,False
+bsnl,1,True,False
+brush,1,True,False
+safe guard,1,True,False
+sacrifice,1,True,False
+s.i unit,1,True,False
+rwanda,1,True,False
+rural development,1,True,False
+rupee,1,True,False
+runs,1,True,False
+running account,1,True,False
+runner,1,True,False
+rum,1,True,False
+rubber stamp,1,True,False
+rubber boots,1,True,False
+royal enfield,1,True,False
+rowdy,1,True,False
+row house,1,True,False
+routine,1,True,False
+briefcase,1,True,False
+bridge,1,True,False
+bridegroom,1,True,False
+bride,1,True,False
+brick masonry,1,True,False
+breeds of poultry,1,True,False
+salman khan,1,True,False
+salesman,1,True,False
+sales retum,1,True,False
+saina nehwal,1,True,False
+sailor pants,1,True,False
+sailor collar,1,True,False
+sailboat,1,True,False
+sai baba,1,True,False
+safety helmet,1,True,False
+safety goggle,1,True,False
+sand paper,1,True,False
+sanction,1,True,False
+san serif,1,True,False
+samsung mobile,1,True,False
+samsung,1,True,False
+sample,1,True,False
+samosa,1,True,False
+salyx tetra sperma,1,True,False
+saloon,1,True,False
+broom,1,True,False
+bronchial tumors,1,True,False
+brokerage,1,True,False
+brochure,1,True,False
+brittle,1,True,False
+brinjal,1,True,False
+bring,1,True,False
+brain injury,1,True,False
+brahma,1,True,False
+scales of pay,1,True,False
+sc,1,True,False
+saw,1,True,False
+save,1,True,False
+saudi arabia,1,True,False
+sauce,1,True,False
+satisfactory,1,True,False
+satellites,1,True,False
+sarvepalli radhakrishnan,1,True,False
+sarong skirt,1,True,False
+saraswati,1,True,False
+saprophyte of plants,1,True,False
+sanjay dutt,1,True,False
+sandwitch,1,True,False
+school bus,1,True,False
+schematic,1,True,False
+schedule,1,True,False
+scared,1,True,False
+scan,1,True,False
+scalpel,1,True,False
+breathalyzer test,1,True,False
+breast cancer,1,True,False
+breakfast,1,True,False
+break,1,True,False
+bread board,1,True,False
+brazil,1,True,False
+brave,1,True,False
+brandishing of a weapon,1,True,False
+brain tumor  inside,1,True,False
+brain stem glioma,1,True,False
+seal,1,True,False
+sculpture,1,True,False
+script,1,True,False
+scribe,1,True,False
+screw guage,1,True,False
+screw driver,1,True,False
+screen,1,True,False
+scream,1,True,False
+scraping,1,True,False
+scotland,1,True,False
+scorpion,1,True,False
+score,1,True,False
+scope,1,True,False
+scooter,1,True,False
+scientist,1,True,False
+school uniform,1,True,False
+borrow,1,True,False
+born,1,True,False
+boring machine,1,True,False
+security continuing,1,True,False
+security,1,True,False
+sector,1,True,False
+section  admin,1,True,False
+section,1,True,False
+secretary,1,True,False
+seconds,1,True,False
+secondary tillage,1,True,False
+secondary,1,True,False
+seat,1,True,False
+seamline pocket,1,True,False
+seam ripper,1,True,False
+seam allowance,1,True,False
+selective,1,True,False
+selection grade,1,True,False
+seizure,1,True,False
+see you tomorrow,1,True,False
+security guard,1,True,False
+security deposit,1,True,False
+security convertible,1,True,False
+boyfriend,1,True,False
+box pleats,1,True,False
+box,1,True,False
+bowler,1,True,False
+bowled out,1,True,False
+bow tie,1,True,False
+boss,1,True,False
+bosnia-herzegovina,1,True,False
+borrower,1,True,False
+semi urban,1,True,False
+semi solid,1,True,False
+semi aniline skin,1,True,False
+boring,1,True,False
+bored,1,True,False
+boolean,1,True,False
+bookshelf,1,True,False
+bone cancer osteosarcoma and malignant fibrous histiocytoma,1,True,False
+bond,1,True,False
+bonafide,1,True,False
+bolling point,1,True,False
+bolero jacket,1,True,False
+bogie,1,True,False
+self-reflect,1,True,False
+self explanatory,1,True,False
+self employed,1,True,False
+sex,1,True,False
+sewing machine,1,True,False
+sever,1,True,False
+seventy,1,True,False
+seventh,1,True,False
+seventeen,1,True,False
+seven,1,True,False
+settle,1,True,False
+setting of cement,1,True,False
+set,1,True,False
+sesbenia aegyptiaca,1,True,False
+serve,1,True,False
+serial killer,1,True,False
+seniority,1,True,False
+seminar,1,True,False
+semicircle,1,True,False
+blue flowered plants,1,True,False
+blow,1,True,False
+sharp,1,True,False
+shark,1,True,False
+shares redeemable,1,True,False
+share preference,1,True,False
+share holder,1,True,False
+share equity,1,True,False
+share capital,1,True,False
+sharbat,1,True,False
+shank button,1,True,False
+shake,1,True,False
+shaft,1,True,False
+shade,1,True,False
+seychelles,1,True,False
+sexual reproduction,1,True,False
+shears,1,True,False
+shearling,1,True,False
+shaving trimmer,1,True,False
+shaving brush,1,True,False
+shaving blade,1,True,False
+shave,1,True,False
+shatabdi express,1,True,False
+sharpening stone,1,True,False
+body piercing,1,True,False
+body parts,1,True,False
+body pain,1,True,False
+bodice,1,True,False
+bobbinet,1,True,False
+boat,1,True,False
+bmw,1,True,False
+blurring,1,True,False
+black market,1,True,False
+black board,1,True,False
+bjp,1,True,False
+bitter gourd,1,True,False
+shoes,1,True,False
+shocked,1,True,False
+shiva,1,True,False
+shiv sena,1,True,False
+shipping order,1,True,False
+shipping freight,1,True,False
+shipment,1,True,False
+ship,1,True,False
+shillong,1,True,False
+shield,1,True,False
+shell top,1,True,False
+sheet charge,1,True,False
+shrubs,1,True,False
+shower,1,True,False
+show cause,1,True,False
+shoulder pads,1,True,False
+shortage,1,True,False
+short term,1,True,False
+blocks,1,True,False
+blindness and low vision,1,True,False
+blind stitch,1,True,False
+blind,1,True,False
+blight,1,True,False
+bless,1,True,False
+bleeding disorders,1,True,False
+blame,1,True,False
+bladder cancer,1,True,False
+blackberry,1,True,False
+binary,1,True,False
+bimetallic,1,True,False
+bills purchased,1,True,False
+sikkim,1,True,False
+signature,1,True,False
+signatory,1,True,False
+signal,1,True,False
+sign language,1,True,False
+sightseeing,1,True,False
+sight bill,1,True,False
+side mirror,1,True,False
+side,1,True,False
+sick unit,1,True,False
+sibling,1,True,False
+si,1,True,False
+shutdown,1,True,False
+site,1,True,False
+sitar,1,True,False
+single owner,1,True,False
+single entry,1,True,False
+singer,1,True,False
+since,1,True,False
+simple  microscope,1,True,False
+sim card,1,True,False
+bitter,1,True,False
+bishop sleeve,1,True,False
+birth defect,1,True,False
+bird,1,True,False
+bipedal robot,1,True,False
+biomass,1,True,False
+bio energy,1,True,False
+bindi,1,True,False
+size of seed,1,True,False
+sixty,1,True,False
+sixteen,1,True,False
+six monthly,1,True,False
+bill of exchange,1,True,False
+bilingual,1,True,False
+bile duct cancer,1,True,False
+bike silencer pipe,1,True,False
+bike oil filter,1,True,False
+bigamy,1,True,False
+bicycle shorts,1,True,False
+biconvex lens,1,True,False
+biconcave lens,1,True,False
+bible,1,True,False
+bib,1,True,False
+situation,1,True,False
+small coin depot,1,True,False
+slower,1,True,False
+slow passenger train,1,True,False
+slovakia,1,True,False
+sloped roof,1,True,False
+slope,1,True,False
+slippers,1,True,False
+sling bag,1,True,False
+slim,1,True,False
+sleeve board,1,True,False
+sleeve band,1,True,False
+sleepwalker,1,True,False
+skip,1,True,False
+skilled labour,1,True,False
+skiing,1,True,False
+skating,1,True,False
+besom pocket,1,True,False
+bertha,1,True,False
+berth,1,True,False
+benign,1,True,False
+benefit,1,True,False
+snip,1,True,False
+snakes,1,True,False
+sms notification,1,True,False
+smooth,1,True,False
+smoke,1,True,False
+smog,1,True,False
+smart,1,True,False
+smallpox,1,True,False
+small savings scheme,1,True,False
+small farmer,1,True,False
+small enterprise,1,True,False
+soil,1,True,False
+software developer,1,True,False
+socket,1,True,False
+society marketing,1,True,False
+society co,1,True,False
+society,1,True,False
+social society,1,True,False
+sob,1,True,False
+bias cowl dress,1,True,False
+bhubaneswar,1,True,False
+bhopal,1,True,False
+bhangada,1,True,False
+beverages,1,True,False
+between,1,True,False
+better,1,True,False
+bestiality,1,True,False
+begin,1,True,False
+beetroot,1,True,False
+something,1,True,False
+solo,1,True,False
+solld fueis,1,True,False
+solicitor,1,True,False
+soldering lead,1,True,False
+soldering iron,1,True,False
+soldering flux,1,True,False
+solar system,1,True,False
+solar energy,1,True,False
+solar eclipse,1,True,False
+soiled note,1,True,False
+soil survey,1,True,False
+soil physics,1,True,False
+soil borne disease,1,True,False
+south korea,1,True,False
+south indian bank,1,True,False
+south africa,1,True,False
+source,1,True,False
+soul,1,True,False
+sotar,1,True,False
+soon,1,True,False
+sony mobile,1,True,False
+bend,1,True,False
+bench mark,1,True,False
+bench,1,True,False
+belt loops,1,True,False
+bellboy jacket,1,True,False
+bell sleeve,1,True,False
+believe,1,True,False
+belgium,1,True,False
+bauhinia accuminata,1,True,False
+spectacles,1,True,False
+speclfic heat,1,True,False
+specimen signature,1,True,False
+specimen,1,True,False
+specific,1,True,False
+specialist,1,True,False
+speak,1,True,False
+spastic,1,True,False
+spain,1,True,False
+space,1,True,False
+sp,1,True,False
+sow,1,True,False
+southern hemisphere,1,True,False
+south pole,1,True,False
+south poie,1,True,False
+spherical structure,1,True,False
+spherical mirror,1,True,False
+sperm,1,True,False
+spendthrift,1,True,False
+spend,1,True,False
+speed,1,True,False
+speech,1,True,False
+spectrum,1,True,False
+spectrometer,1,True,False
+become,1,True,False
+beat,1,True,False
+bearer,1,True,False
+beans,1,True,False
+beam,1,True,False
+beaker,1,True,False
+beading needles,1,True,False
+squeeze,1,True,False
+spur,1,True,False
+spring washer,1,True,False
+spring,1,True,False
+spot price,1,True,False
+spot exchange,1,True,False
+spot and forward,1,True,False
+spot,1,True,False
+sports,1,True,False
+spoken,1,True,False
+split pulley,1,True,False
+split,1,True,False
+spiral,1,True,False
+spilt,1,True,False
+spill,1,True,False
+spice jet,1,True,False
+baseball jacket,1,True,False
+baseball,1,True,False
+barricade,1,True,False
+stapoo,1,True,False
+stapler,1,True,False
+standardization,1,True,False
+stamp,1,True,False
+stairs,1,True,False
+stair tread,1,True,False
+stags,1,True,False
+stage,1,True,False
+staff,1,True,False
+stabilisation,1,True,False
+st,1,True,False
+sri lanka,1,True,False
+squrriel,1,True,False
+statement,1,True,False
+state bank of india,1,True,False
+starve,1,True,False
+startle,1,True,False
+starfish,1,True,False
+stare,1,True,False
+baton,1,True,False
+batman,1,True,False
+bath tub,1,True,False
+bat,1,True,False
+basketball,1,True,False
+basket of currencies,1,True,False
+basil,1,True,False
+basics,1,True,False
+basic pay,1,True,False
+basic,1,True,False
+still,1,True,False
+stick,1,True,False
+stepup transformer,1,True,False
+stepdown transformer,1,True,False
+steering wheel,1,True,False
+steel rack,1,True,False
+stearn engine,1,True,False
+steam tractor,1,True,False
+steady current,1,True,False
+std,1,True,False
+statlonary wave,1,True,False
+stationary work,1,True,False
+static electricity,1,True,False
+states,1,True,False
+statement of liquidation,1,True,False
+statement of account,1,True,False
+bank,1,True,False
+storage,1,True,False
+stop gap,1,True,False
+stone masonry,1,True,False
+stomach,1,True,False
+stock opening,1,True,False
+stock in hand,1,True,False
+stock closing,1,True,False
+stock chart,1,True,False
+stock book,1,True,False
+stock,1,True,False
+stitch,1,True,False
+stir up,1,True,False
+stir,1,True,False
+stink,1,True,False
+stingy,1,True,False
+streaming,1,True,False
+strange,1,True,False
+strain,1,True,False
+straight forward,1,True,False
+storm,1,True,False
+barleria cristata,1,True,False
+bar megnet,1,True,False
+bar,1,True,False
+banker,1,True,False
+bank of maharashtra,1,True,False
+bank of baroda,1,True,False
+bank nationalised,1,True,False
+bank branch name,1,True,False
+bank branch code,1,True,False
+bank branch address,1,True,False
+bank account number,1,True,False
+subject matter,1,True,False
+subhas chandra bose,1,True,False
+subdivision,1,True,False
+sub lease,1,True,False
+sub head,1,True,False
+sub division,1,True,False
+sub directory,1,True,False
+style,1,True,False
+stumps,1,True,False
+stuck,1,True,False
+stubborn,1,True,False
+strong room,1,True,False
+strike,1,True,False
+stretch,1,True,False
+stressed,1,True,False
+stress,1,True,False
+suggest,1,True,False
+sugarcane,1,True,False
+sufficient,1,True,False
+suffer,1,True,False
+sue,1,True,False
+sudden,1,True,False
+sudan,1,True,False
+succession,1,True,False
+success,1,True,False
+subway,1,True,False
+subsidy,1,True,False
+subscription,1,True,False
+subordinate,1,True,False
+submission,1,True,False
+submersible pump,1,True,False
+submerged weeds,1,True,False
+band collar,1,True,False
+banaras,1,True,False
+banana tree,1,True,False
+bamboo,1,True,False
+baluster,1,True,False
+balmacaan,1,True,False
+super,1,True,False
+sunny,1,True,False
+sunlight,1,True,False
+sundry debtors,1,True,False
+sundry creditors,1,True,False
+sundry,1,True,False
+summons,1,True,False
+summon,1,True,False
+summer,1,True,False
+sum,1,True,False
+supervisor,1,True,False
+supervision,1,True,False
+supervise,1,True,False
+superstition,1,True,False
+supersession,1,True,False
+superposltion,1,True,False
+superman,1,True,False
+superfast express,1,True,False
+super computer,1,True,False
+bangladesh,1,True,False
+bangalore,1,True,False
+bandra to worli sea link,1,True,False
+bandit munger,1,True,False
+bandh,1,True,False
+bandage,1,True,False
+band-aid,1,True,False
+suzuki car,1,True,False
+suspend payment,1,True,False
+suspend,1,True,False
+survivorship,1,True,False
+survey,1,True,False
+surrounding,1,True,False
+surrender,1,True,False
+surprised,1,True,False
+surface water,1,True,False
+surface runoff,1,True,False
+surface erosion,1,True,False
+surcharge,1,True,False
+supreme court,1,True,False
+suppress,1,True,False
+supply,1,True,False
+supplementary,1,True,False
+ball bearing,1,True,False
+baldness,1,True,False
+balcony garden,1,True,False
+balance sheet,1,True,False
+balance outstanding,1,True,False
+balance opening,1,True,False
+balance closing,1,True,False
+swine farming,1,True,False
+swimming,1,True,False
+swift,1,True,False
+sweets,1,True,False
+sweetlime,1,True,False
+sweden,1,True,False
+swear,1,True,False
+swaziland,1,True,False
+swap,1,True,False
+tabala,1,True,False
+systemic disease,1,True,False
+system of feeding poultry,1,True,False
+syria,1,True,False
+syndication,1,True,False
+symptoms of nematode diseases of plants,1,True,False
+sympathy,1,True,False
+symbol,1,True,False
+switzerland,1,True,False
+switch box,1,True,False
+ballon pump,1,True,False
+ballast device,1,True,False
+ball room,1,True,False
+ball point needle,1,True,False
+ball pein hammer,1,True,False
+ball cricket,1,True,False
+backyard system of poultry,1,True,False
+backup,1,True,False
+background,1,True,False
+backdoor,1,True,False
+take over,1,True,False
+take hours at something,1,True,False
+take home pay,1,True,False
+take a photo,1,True,False
+take a bath,1,True,False
+taj mahal,1,True,False
+taj hotel,1,True,False
+taiwan,1,True,False
+tailer,1,True,False
+tagetus,1,True,False
+tablet,1,True,False
+tabernaemontana coronaria,1,True,False
+task force,1,True,False
+tariff,1,True,False
+tape,1,True,False
+tanzania,1,True,False
+tamarix gallica,1,True,False
+taluk,1,True,False
+tall shrubs,1,True,False
+tall protective hedges,1,True,False
+tall ornamental hedges,1,True,False
+bajaj bike,1,True,False
+bail,1,True,False
+badminton,1,True,False
+bad debts,1,True,False
+bad conductor,1,True,False
+bacterial diseases animals,1,True,False
+bacteria,1,True,False
+tax property,1,True,False
+tax profession,1,True,False
+tax exemption,1,True,False
+tattoo,1,True,False
+tata mobile,1,True,False
+tata car,1,True,False
+backache,1,True,False
+back date,1,True,False
+away,1,True,False
+avoid,1,True,False
+avalanche,1,True,False
+available,1,True,False
+autumn,1,True,False
+automobiles,1,True,False
+automation,1,True,False
+task wage,1,True,False
+audio frequency,1,True,False
+audience,1,True,False
+audi,1,True,False
+attractive force,1,True,False
+attraction,1,True,False
+attorney general,1,True,False
+temperate fruits,1,True,False
+teller,1,True,False
+telescope,1,True,False
+telegram,1,True,False
+tecoma stans,1,True,False
+technology,1,True,False
+technoiogy,1,True,False
+teaser bull,1,True,False
+tear sheet,1,True,False
+taxable,1,True,False
+terminate,1,True,False
+term technical,1,True,False
+term of office,1,True,False
+tension,1,True,False
+tender,1,True,False
+tenancy,1,True,False
+ten thousand,1,True,False
+ten,1,True,False
+authorised signature,1,True,False
+authorisation,1,True,False
+austria,1,True,False
+aunt,1,True,False
+auger,1,True,False
+auditorium,1,True,False
+audit,1,True,False
+audiologist,1,True,False
+these,1,True,False
+thermostat,1,True,False
+thermal energy,1,True,False
+thermal,1,True,False
+therapist,1,True,False
+them,1,True,False
+theirs,1,True,False
+their,1,True,False
+theatre,1,True,False
+thatched roof,1,True,False
+thailand,1,True,False
+testament,1,True,False
+test,1,True,False
+terrorist,1,True,False
+territorial,1,True,False
+terms of service,1,True,False
+at,1,True,False
+asystole,1,True,False
+asymmetrical design,1,True,False
+astronomy,1,True,False
+astronaut,1,True,False
+astigmatism,1,True,False
+asthma,1,True,False
+thiruvananthapuram,1,True,False
+thirty,1,True,False
+thirteen,1,True,False
+thirsty,1,True,False
+third party,1,True,False
+third,1,True,False
+thigh,1,True,False
+thick,1,True,False
+thevetia neriefolia,1,True,False
+three days before,1,True,False
+three days after,1,True,False
+three,1,True,False
+threading,1,True,False
+thread gauge,1,True,False
+thread,1,True,False
+thousand,1,True,False
+those,1,True,False
+attorney,1,True,False
+attendant,1,True,False
+attendance record,1,True,False
+attachment of property,1,True,False
+atom,1,True,False
+atmosphere,1,True,False
+atm,1,True,False
+athlete's foot,1,True,False
+time bound,1,True,False
+tilts,1,True,False
+tiller,1,True,False
+tiles cutter,1,True,False
+tight tracking,1,True,False
+tight money  market,1,True,False
+tiffin box,1,True,False
+tiffin,1,True,False
+ticket checker,1,True,False
+ticket,1,True,False
+thunder,1,True,False
+thumb lunula,1,True,False
+thumb impression,1,True,False
+through,1,True,False
+throat plate,1,True,False
+thriff,1,True,False
+assam tea gardens,1,True,False
+assailant,1,True,False
+aspiration,1,True,False
+asphyxia,1,True,False
+asphalt concrete,1,True,False
+toaster,1,True,False
+toast,1,True,False
+to retailers,1,True,False
+to consumers,1,True,False
+to,1,True,False
+tldal energy,1,True,False
+title bar,1,True,False
+title,1,True,False
+tipped tool,1,True,False
+timid,1,True,False
+time limit,1,True,False
+arms and amunitions,1,True,False
+armenia,1,True,False
+arm hole,1,True,False
+tonight,1,True,False
+tomato,1,True,False
+tom and jerry,1,True,False
+toggle button,1,True,False
+toffee,1,True,False
+toenail,1,True,False
+assume,1,True,False
+association of sign language interpreters,1,True,False
+associate professor,1,True,False
+assistant professor,1,True,False
+assistant,1,True,False
+assets,1,True,False
+assault,1,True,False
+tour,1,True,False
+touchscreen,1,True,False
+total energy,1,True,False
+tornado,1,True,False
+topic,1,True,False
+top management,1,True,False
+toothpick,1,True,False
+tooth,1,True,False
+tool box,1,True,False
+tool belt,1,True,False
+asbestos,1,True,False
+artificial,1,True,False
+artesian well,1,True,False
+arrogate,1,True,False
+arrears,1,True,False
+army,1,True,False
+aquatic plants of various colour,1,True,False
+approval,1,True,False
+approach,1,True,False
+appreciation,1,True,False
+applique,1,True,False
+traffic lights,1,True,False
+traffic,1,True,False
+traditional,1,True,False
+trader,1,True,False
+trade discount,1,True,False
+tractive work,1,True,False
+track ball,1,True,False
+track,1,True,False
+toyota,1,True,False
+toy,1,True,False
+towards,1,True,False
+translator,1,True,False
+translation of motion,1,True,False
+transistor,1,True,False
+transgender,1,True,False
+transformer,1,True,False
+transformation of energy,1,True,False
+transfer fee,1,True,False
+transcription,1,True,False
+transaction,1,True,False
+training,1,True,False
+argue,1,True,False
+argentina,1,True,False
+architect,1,True,False
+archery,1,True,False
+archaeologist,1,True,False
+arc welding,1,True,False
+apiculturist,1,True,False
+apiculture bee keeping,1,True,False
+apex court,1,True,False
+apartment,1,True,False
+anxious,1,True,False
+troughs,1,True,False
+trophy,1,True,False
+trivendrum,1,True,False
+trip,1,True,False
+triode,1,True,False
+tribunal,1,True,False
+tribal,1,True,False
+tri square,1,True,False
+treasury,1,True,False
+transverse wave,1,True,False
+transport,1,True,False
+anniversary,1,True,False
+tunic,1,True,False
+tum over,1,True,False
+tulip sleeve,1,True,False
+tug of war haryana,1,True,False
+tube well,1,True,False
+trustworthiness,1,True,False
+trustee,1,True,False
+trust deed,1,True,False
+true copy,1,True,False
+appliances control,1,True,False
+applause,1,True,False
+appearance,1,True,False
+appear,1,True,False
+apparatus,1,True,False
+app,1,True,False
+two,1,True,False
+twenty one,1,True,False
+twenty,1,True,False
+twelve,1,True,False
+tvs bike,1,True,False
+turnout,1,True,False
+tunisia,1,True,False
+tuning fork,1,True,False
+answer,1,True,False
+another,1,True,False
+anorak,1,True,False
+anonymous complaint,1,True,False
+annual report,1,True,False
+annual plants,1,True,False
+annual for foliage beauty,1,True,False
+announce,1,True,False
+ultraviolet ray glass,1,True,False
+ukraine,1,True,False
+uitraviolet ray,1,True,False
+uitrasonic,1,True,False
+ugly,1,True,False
+uganda,1,True,False
+uco bank,1,True,False
+u neck,1,True,False
+tyre,1,True,False
+typographical error,1,True,False
+types of water garden,1,True,False
+types of vegetable gardening,1,True,False
+types of farm planning,1,True,False
+two thousand,1,True,False
+two days before,1,True,False
+two days after,1,True,False
+amazed,1,True,False
+under developed,1,True,False
+under consideration,1,True,False
+uncovered,1,True,False
+unconditional,1,True,False
+uncomfortable,1,True,False
+uncle,1,True,False
+unclaimed,1,True,False
+uncertainity,1,True,False
+uncalled,1,True,False
+unbalance,1,True,False
+unavoidable,1,True,False
+unauthorised,1,True,False
+unanimous,1,True,False
+umpire,1,True,False
+umaid bhawan palace,1,True,False
+underwriter,1,True,False
+undertaking,1,True,False
+underhand,1,True,False
+underground symptoms,1,True,False
+under valuation,1,True,False
+under the weather,1,True,False
+under subscribed,1,True,False
+under stitch,1,True,False
+under review,1,True,False
+under mentioned,1,True,False
+angular velocity,1,True,False
+angel,1,True,False
+amplitude,1,True,False
+among,1,True,False
+amendments,1,True,False
+ambulance,1,True,False
+alloy wheel,1,True,False
+allowance,1,True,False
+allotment,1,True,False
+allen key,1,True,False
+unix,1,True,False
+universe,1,True,False
+united nations,1,True,False
+united kingdom,1,True,False
+united arab emirates,1,True,False
+union bank of india,1,True,False
+union,1,True,False
+uniform motion,1,True,False
+unfit,1,True,False
+unencumbered,1,True,False
+unemployment,1,True,False
+unearned,1,True,False
+urgent,1,True,False
+uranus,1,True,False
+upward,1,True,False
+upper division clerk,1,True,False
+upper age limit,1,True,False
+unregistered,1,True,False
+unpaid,1,True,False
+unofficial,1,True,False
+unlucky,1,True,False
+amalgamation,1,True,False
+always,1,True,False
+altitude,1,True,False
+alternative,1,True,False
+alphabet,1,True,False
+alone,1,True,False
+ally,1,True,False
+vapour,1,True,False
+van,1,True,False
+value scale,1,True,False
+value,1,True,False
+valuable consideration,1,True,False
+valid,1,True,False
+vaishno devi,1,True,False
+vada,1,True,False
+vaccum,1,True,False
+vacancy,1,True,False
+v neck,1,True,False
+uzbekistan,1,True,False
+uttarakhand,1,True,False
+utility of mushroom,1,True,False
+us,1,True,False
+uruguay,1,True,False
+venus,1,True,False
+vent,1,True,False
+venezuela,1,True,False
+vendor,1,True,False
+vendee,1,True,False
+velocity,1,True,False
+velcro,1,True,False
+vehicle,1,True,False
+vegetarian,1,True,False
+vegetables,1,True,False
+vegetable preservation,1,True,False
+vector graphics,1,True,False
+vault safe deposit,1,True,False
+vault,1,True,False
+variety,1,True,False
+varieties of mushroom,1,True,False
+alkali soil,1,True,False
+algeria,1,True,False
+alcohol,1,True,False
+albania,1,True,False
+alarm system,1,True,False
+akshay kumar,1,True,False
+ajmer sharif dargah,1,True,False
+airtel,1,True,False
+very wealthy person,1,True,False
+very,1,True,False
+vertical scroll bar,1,True,False
+vertical,1,True,False
+versus,1,True,False
+vernier caliper,1,True,False
+verdict,1,True,False
+verb,1,True,False
+video relay service,1,True,False
+video cassette recorder,1,True,False
+video card,1,True,False
+video call,1,True,False
+vide,1,True,False
+vice president,1,True,False
+vibration,1,True,False
+vibrant image,1,True,False
+veterinarian,1,True,False
+veteran,1,True,False
+allahabad bank,1,True,False
+allah,1,True,False
+all india trinamool congress,1,True,False
+all india foundation of deaf women,1,True,False
+all india federation of the deaf,1,True,False
+all,1,True,False
+agriculture,1,True,False
+agricultural robot,1,True,False
+agreement,1,True,False
+visual,1,True,False
+visitor,1,True,False
+visit,1,True,False
+visible ray,1,True,False
+vishnu,1,True,False
+virtual image,1,True,False
+virat kohli,1,True,False
+viral diseases animals,1,True,False
+violin,1,True,False
+violet,1,True,False
+vijaya bank,1,True,False
+vigilance,1,True,False
+videographer,1,True,False
+voice,1,True,False
+vodafone,1,True,False
+vocation,1,True,False
+vocabulary,1,True,False
+vivekananda rock memorial,1,True,False
+vital,1,True,False
+visual aid,1,True,False
+airmail,1,True,False
+airjet,1,True,False
+aircel,1,True,False
+air vistara,1,True,False
+air india,1,True,False
+air deccan,1,True,False
+air conditioner,1,True,False
+ahmedabad,1,True,False
+ahemedabad,1,True,False
+wallet,1,True,False
+wall garden,1,True,False
+wall,1,True,False
+wales,1,True,False
+wake,1,True,False
+waive,1,True,False
+waiting room,1,True,False
+waiting list,1,True,False
+waist,1,True,False
+wage,1,True,False
+voucher,1,True,False
+vomit,1,True,False
+voluntarily,1,True,False
+volleyball,1,True,False
+volley ball,1,True,False
+voit,1,True,False
+water erosion,1,True,False
+water bottle,1,True,False
+wastage,1,True,False
+washroom,1,True,False
+washing machine,1,True,False
+washerman,1,True,False
+washbasin,1,True,False
+warning,1,True,False
+warehouse,1,True,False
+agave fillifera,1,True,False
+afghanistan,1,True,False
+affirm,1,True,False
+affidavit,1,True,False
+aeroplane sprayer,1,True,False
+advocate general,1,True,False
+advocate,1,True,False
+adjustable screw,1,True,False
+adjudge,1,True,False
+adhesive,1,True,False
+wavemotion,1,True,False
+wavegraph,1,True,False
+waveform,1,True,False
+wave length,1,True,False
+wattmeter,1,True,False
+watt,1,True,False
+water pump,1,True,False
+water pollution,1,True,False
+water pipe,1,True,False
+water motor,1,True,False
+water logged hedges,1,True,False
+water lifting equipments,1,True,False
+water filter,1,True,False
+weather,1,True,False
+weapon,1,True,False
+wealthy,1,True,False
+wealth,1,True,False
+ways,1,True,False
+waxing,1,True,False
+wax,1,True,False
+wavy hair,1,True,False
+advise,1,True,False
+advantages of drainage,1,True,False
+adoptive parent,1,True,False
+adoptive child,1,True,False
+adopt,1,True,False
+adobe acrobat reader,1,True,False
+admissible,1,True,False
+adjustment,1,True,False
+actor,1,True,False
+active,1,True,False
+acting,1,True,False
+across,1,True,False
+acknowledgement,1,True,False
+accuse,1,True,False
+accured,1,True,False
+accurate,1,True,False
+welding hand screen,1,True,False
+weightlifting,1,True,False
+weigh,1,True,False
+weekly return,1,True,False
+weeds near to pond margin,1,True,False
+wedge,1,True,False
+web camera,1,True,False
+weave,1,True,False
+white collar job,1,True,False
+while,1,True,False
+when,1,True,False
+wheeled robots,1,True,False
+wheat rust,1,True,False
+whatsapp,1,True,False
+whatever,1,True,False
+what is your name,1,True,False
+what happened,1,True,False
+well,1,True,False
+additional,1,True,False
+addendum,1,True,False
+ad infinitum,1,True,False
+actuary,1,True,False
+actual,1,True,False
+actress,1,True,False
+account minor,1,True,False
+account margin,1,True,False
+account joint,1,True,False
+account inoperative,1,True,False
+account holder,1,True,False
+account head,1,True,False
+account govemment,1,True,False
+account discount,1,True,False
+account day,1,True,False
+wide,1,True,False
+wicketkeeper,1,True,False
+wicket,1,True,False
+whose,1,True,False
+wholesale merchants,1,True,False
+wholesale,1,True,False
+whiteboard,1,True,False
+window garden,1,True,False
+window dressing,1,True,False
+winding up,1,True,False
+wind erosion,1,True,False
+wind energy,1,True,False
+wind borne disease,1,True,False
+will,1,True,False
+wild swine,1,True,False
+wikipedia,1,True,False
+accumulated,1,True,False
+accounts,1,True,False
+account suspence,1,True,False
+account suit filed,1,True,False
+account rupee,1,True,False
+account profit and loss,1,True,False
+account payee only,1,True,False
+accordion,1,True,False
+accommodation,1,True,False
+accessories,1,True,False
+access,1,True,False
+women jail,1,True,False
+witness,1,True,False
+without prejudice,1,True,False
+withhold,1,True,False
+withdrawal slip,1,True,False
+withdraw money from bank,1,True,False
+with,1,True,False
+wish,1,True,False
+wire stripper,1,True,False
+wire man,1,True,False
+wipe,1,True,False
+winter,1,True,False
+working hours,1,True,False
+working capital,1,True,False
+words and figures,1,True,False
+word pad,1,True,False
+woodpecker,1,True,False
+wood plane,1,True,False
+account current,1,True,False
+account currency,1,True,False
+account commission,1,True,False
+account closing,1,True,False
+account closed,1,True,False
+account charges,1,True,False
+account book,1,True,False
+account blocked,1,True,False
+account,1,True,False
+accordion pleats,1,True,False
+yolk,1,True,False
+yahoo,1,True,False
+xylophone,1,True,False
+xbox,1,True,False
+x-ray,1,True,False
+x ray,1,True,False
+written down value,1,True,False
+writer,1,True,False
+writ,1,True,False
+wrench,1,True,False
+woven,1,True,False
+worth,1,True,False
+world federation of the deaf youth section,1,True,False
+world federation of the deaf,1,True,False
+world association of sign language interpreters,1,True,False
+workshop,1,True,False
+acacia modesta,1,True,False
+acacia fernesiana,1,True,False
+abuttal,1,True,False
+5g,1,True,False
+abstract of account,1,True,False
+abstract,1,True,False
+abstention,1,True,False
+absorption of water,1,True,False
+absorption,1,True,False
+absorb,1,True,False
+absolve,1,True,False
+zero correction,1,True,False
+zero,1,True,False
+zambia,1,True,False
+yearly,1,True,False
+year under report,1,True,False
+abscond,1,True,False
+abrogate,1,True,False
+abrasive,1,True,False
+above,1,True,False
+zoom,1,True,False
+zone,1,True,False
+zonal,1,True,False
+zipper foot,1,True,False
+zipper,1,True,False
+zinc sheet,1,True,False
+zimbabwe,1,True,False
+zigzag,1,True,False
+zero error,1,True,False
+yoke,1,True,False
+yoga,1,True,False
+3g,1,True,False

@@ -1,0 +1,27 @@
+{
+  "stage": "5.3",
+  "status": "FAIL",
+  "videos": 7049,
+  "frames_expected": 56392,
+  "frames_saved": 56392,
+  "missing_images": 0,
+  "complete_videos": 6628,
+  "incomplete_videos": 421,
+  "valid_detection_rate": 0.62879486451979,
+  "fallback_rate": 0.36372180451127817,
+  "mean_roi_area_fraction": 0.5022742088023346,
+  "mean_confidence_proxy": 0.04734602800239593,
+  "mean_extraction_latency_ms": 1.022019830708659,
+  "roi_jpg_files": 55970,
+  "dimension_errors": 0,
+  "duplicate_output_paths": 421,
+  "extraction_errors": 422,
+  "decoder_counts": {
+    "OpenCV_sequential": 53016,
+    "FFmpeg_sequential_partial": 3368,
+    "FFmpeg_sequential": 8
+  },
+  "raw_videos_modified": false,
+  "training_performed": false,
+  "retrieval_performed": false
+}

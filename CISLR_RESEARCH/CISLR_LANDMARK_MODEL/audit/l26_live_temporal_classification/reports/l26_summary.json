@@ -1,0 +1,29 @@
+{
+  "frames_processed": 579,
+  "capture_duration_sec": 78.75589174599918,
+  "overall_pipeline_fps": 7.351830919105978,
+  "frames_with_hand": 380,
+  "hand_detection_rate": 0.6563039723661486,
+  "total_hand_instances": 610,
+  "raw_classifications": 51,
+  "mean_raw_confidence": 0.2384301824312584,
+  "prediction_distribution": {
+    "thursday": 31,
+    "pencil": 8,
+    "rubber": 5,
+    "wash": 4,
+    "tuesday": 1,
+    "interest": 1,
+    "friday": 1
+  },
+  "mean_complete_frame_ms": 132.43287001553094,
+  "mean_palm_ms": 5.585037074271836,
+  "mean_landmark_ms": 4.755762081178282,
+  "mean_videomae_ms": 1213.2749023724803,
+  "median_videomae_ms": 1211.5371370000503,
+  "min_videomae_ms": 1083.3542559994385,
+  "max_videomae_ms": 1288.799136000307,
+  "no_sign_rejection": false,
+  "temporal_stabilization": false,
+  "locked_test_used": false
+}

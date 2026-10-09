@@ -1,0 +1,123 @@
+{
+  "stage": "4.8",
+  "stage_name": "OpenVINO FP32 Benchmark",
+  "project": "CISLR",
+  "selected_model": "MobileNetV3-Large",
+  "precision": "FP32",
+  "input_shape": [
+    1,
+    3,
+    224,
+    224
+  ],
+  "output_shape": [
+    1,
+    4764
+  ],
+  "warmup_iterations": 50,
+  "measurement_iterations": 200,
+  "openvino_version": "2026.3.1-22476-759c5a6ab8c-releases/2026/3",
+  "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.39",
+  "python_version": "3.11.15 (main, Jun 11 2026, 15:20:16) [GCC 14.3.0]",
+  "available_devices": [
+    "CPU",
+    "GPU"
+  ],
+  "input_ir": {
+    "xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.xml",
+    "bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.bin",
+    "xml_size_mb": 0.1752490997314453,
+    "bin_size_mb": 39.26286315917969,
+    "total_size_mb": 39.43811225891113,
+    "xml_sha256": "0aed6383ce26dfc4dfbb17eb67f9082ae4ec2fb8c99fac4be7519fce65e60ff0",
+    "bin_sha256": "02de73f512dd6817c4ef0aafff5d305dc4bd62a9d848aa7084f3f00de8d40a79"
+  },
+  "cpu": {
+    "device": "CPU",
+    "available": true,
+    "compile_time_s": 0.1471747819960001,
+    "warmup_iterations": 50,
+    "measurement_iterations": 200,
+    "warmup_mean_ms": 4.044928659859579,
+    "mean_latency_ms": 3.7023044952002238,
+    "median_latency_ms": 3.608521496062167,
+    "p95_latency_ms": 4.352724896307336,
+    "p99_latency_ms": 4.636776541519793,
+    "min_latency_ms": 3.260067998780869,
+    "max_latency_ms": 4.947859997628257,
+    "std_latency_ms": 0.30811015835850497,
+    "fps": 270.1020408495383,
+    "median_fps": 277.1218076686697,
+    "output_shape": [
+      1,
+      4764
+    ],
+    "output_dtype": "float32",
+    "properties": {
+      "OPTIMAL_NUMBER_OF_INFER_REQUESTS": "1",
+      "NUM_STREAMS": "1",
+      "INFERENCE_NUM_THREADS": "8",
+      "PERFORMANCE_HINT": "LATENCY"
+    }
+  },
+  "gpu": {
+    "device": "GPU",
+    "available": true,
+    "compile_time_s": 2.7042054339981405,
+    "warmup_iterations": 50,
+    "measurement_iterations": 200,
+    "warmup_mean_ms": 4.423805499827722,
+    "mean_latency_ms": 3.3361190347204683,
+    "median_latency_ms": 3.2832414981385227,
+    "p95_latency_ms": 3.7400043995148735,
+    "p99_latency_ms": 3.991901053668697,
+    "min_latency_ms": 3.036344001884572,
+    "max_latency_ms": 4.3359929986763746,
+    "std_latency_ms": 0.20560980523999453,
+    "fps": 299.74949622377295,
+    "median_fps": 304.5770469723178,
+    "output_shape": [
+      1,
+      4764
+    ],
+    "output_dtype": "float32",
+    "properties": {
+      "OPTIMAL_NUMBER_OF_INFER_REQUESTS": "1",
+      "NUM_STREAMS": "1",
+      "INFERENCE_NUM_THREADS": null,
+      "PERFORMANCE_HINT": "PerformanceMode.LATENCY"
+    }
+  },
+  "stage4_3_pytorch_reference": {
+    "CPU": {
+      "latency_ms": 18.989,
+      "fps": 52.66
+    },
+    "GPU": {
+      "latency_ms": 5.362,
+      "fps": 186.51
+    }
+  },
+  "comparison": [
+    {
+      "device": "CPU",
+      "pytorch_latency_ms": 18.989,
+      "openvino_latency_ms": 3.7023044952002238,
+      "latency_speedup_x": 5.128967653691882,
+      "latency_reduction_percent": 80.50289907209319,
+      "pytorch_fps": 52.66,
+      "openvino_fps": 270.1020408495383,
+      "fps_speedup_x": 5.1291690248677995
+    },
+    {
+      "device": "OpenVINO-GPU",
+      "pytorch_latency_ms": 5.362,
+      "openvino_latency_ms": 3.3361190347204683,
+      "latency_speedup_x": 1.6072567987518704,
+      "latency_reduction_percent": 37.78218883400842,
+      "pytorch_fps": 186.51,
+      "openvino_fps": 299.74949622377295,
+      "fps_speedup_x": 1.607149730436829
+    }
+  ]
+}

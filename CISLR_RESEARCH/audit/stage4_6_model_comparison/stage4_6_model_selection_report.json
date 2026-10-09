@@ -1,0 +1,99 @@
+{
+  "stage": "4.6",
+  "title": "CISLR Model Comparison and Scientific Selection",
+  "selected_model": "MobileNetV3-Large",
+  "selection_method": {
+    "retrieval_weight": 0.65,
+    "efficiency_weight": 0.35,
+    "retrieval_metrics": {
+      "Top1": 0.35,
+      "Top5": 0.25,
+      "Recall10": 0.2,
+      "MRR": 0.2
+    },
+    "efficiency_metrics": {
+      "CPU_FPS": 0.4,
+      "GFLOPs": 0.2,
+      "Model_Size_MB": 0.15,
+      "Peak_GPU_Memory_MB": 0.1,
+      "Params": 0.15
+    }
+  },
+  "models": [
+    {
+      "Model": "MobileNetV3-Large",
+      "Top1": 0.1579868708971553,
+      "Top5": 0.237199124726477,
+      "Recall10": 0.2665207877461706,
+      "MRR": 0.1952844813962953,
+      "Mean_Rank": 1572.5203501094093,
+      "Median_Rank": 1229.0,
+      "CPU_FPS": 52.66308978231023,
+      "GPU_FPS": 186.5134595293293,
+      "GFLOPs": 0.44281536,
+      "Model_Size_MB": 39.500624656677246,
+      "Params": 10304716,
+      "Peak_GPU_Memory_MB": 56.62060546875,
+      "Retrieval_Score": 1.0,
+      "Efficiency_Score": 0.9842498210479568,
+      "Overall_Deployment_Score": 0.9944874373667849,
+      "Overall_Rank": 1
+    },
+    {
+      "Model": "EfficientNet-B0",
+      "Top1": 0.1286652078774617,
+      "Top5": 0.212253829321663,
+      "Recall10": 0.2437636761487965,
+      "MRR": 0.1695790360830049,
+      "Mean_Rank": 1781.712035010941,
+      "Median_Rank": 1681.0,
+      "CPU_FPS": 29.12448972922355,
+      "GPU_FPS": 132.23027464443658,
+      "GFLOPs": 0.781265344,
+      "Model_Size_MB": 38.84672451019287,
+      "Params": 10110232,
+      "Peak_GPU_Memory_MB": 59.10107421875,
+      "Retrieval_Score": 0.19225494915979532,
+      "Efficiency_Score": 0.6990202337679668,
+      "Overall_Deployment_Score": 0.36962279877265536,
+      "Overall_Rank": 2
+    },
+    {
+      "Model": "ResNet18",
+      "Top1": 0.111597374179431,
+      "Top5": 0.2131291028446389,
+      "Recall10": 0.2529540481400437,
+      "MRR": 0.1576259666113365,
+      "Mean_Rank": 1389.8739606126917,
+      "Median_Rank": 856.0,
+      "CPU_FPS": 16.84101663289351,
+      "GPU_FPS": 418.2378743755332,
+      "GFLOPs": 3.632001024,
+      "Model_Size_MB": 52.03126049041748,
+      "Params": 13620444,
+      "Peak_GPU_Memory_MB": 71.2841796875,
+      "Retrieval_Score": 0.08954116059379146,
+      "Efficiency_Score": 0.0,
+      "Overall_Deployment_Score": 0.05820175438596445,
+      "Overall_Rank": 3
+    }
+  ],
+  "scientific_decision": "Stage 4.6 selects MobileNetV3-Large as the primary deployment candidate for OpenVINO conversion. The selection is based on the joint evaluation of official CISLR prototype-to-test retrieval performance and computational efficiency. MobileNetV3-Large achieved the strongest Top-1, Top-5, Recall@10 and MRR among the evaluated architectures while also providing substantially lower computational cost than ResNet18. ResNet18 remains superior in GPU batch-1 latency and mean/median retrieval rank, so MobileNetV3-Large is not claimed to dominate every metric. Instead, it is selected as the best balanced deployment candidate under the defined criteria. OpenVINO conversion and benchmarking will provide the final deployment validation.",
+  "caveats": [
+    "Stage 4.4 training accuracy is a convergence diagnostic, not the official CISLR evaluation metric.",
+    "Stage 4.5 evaluates prototype-to-test retrieval rather than conventional closed-set classification.",
+    "The official prototype set contains one prototype video per class.",
+    "The Stage 4.4 frozen training pool contained 4,417 readable videos/classes, whereas the valid prototype set contains 4,764 videos.",
+    "Therefore, 347 prototype videos/classes were not represented in the frozen Stage 4.4 training pool.",
+    "Stage 4.5 uses mean penultimate embeddings for cosine retrieval rather than classifier logits.",
+    "ResNet18 has the fastest GPU batch-1 latency in Stage 4.3 and remains relevant for GPU-only deployment scenarios.",
+    "The Stage 4.6 weighted score is a transparent decision framework for this project and is not a universal model quality metric.",
+    "OpenVINO conversion and benchmarking are required before making final deployment-speed claims."
+  ],
+  "input_artifacts": {
+    "stage4_3_csv": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_3_benchmark/stage4_3_computational_benchmark.csv",
+    "stage4_3_json": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_3_benchmark/stage4_3_computational_benchmark.json",
+    "stage4_5_csv": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_5_official_evaluation/stage4_5_official_model_comparison.csv",
+    "stage4_5_json": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_5_official_evaluation/stage4_5_official_model_comparison.json"
+  }
+}

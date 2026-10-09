@@ -1,0 +1,52 @@
+{
+  "stage": "L17",
+  "status": "COMPLETE_AND_FROZEN",
+  "experiment": "10-sign restricted-vocabulary deployment",
+  "num_deployment_classes": 10,
+  "selection_seed": 42,
+  "selection_basis": "Dataset support + L9 TRAIN support + L9 TRAIN landmark quality",
+  "l16_per_sample_test_information_used": false,
+  "selected_glosses": [
+    "monday",
+    "interest",
+    "thursday",
+    "christmas",
+    "pencil",
+    "mother",
+    "tuesday",
+    "friday",
+    "rubber",
+    "wash"
+  ],
+  "deployment_mapping": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "existing_l9_train_clips": 70,
+  "l18_new_recordings_per_sign": 60,
+  "l18_total_new_recordings": 600,
+  "l18_new_train_clips": 400,
+  "l18_new_validation_clips": 100,
+  "l18_new_test_clips": 100,
+  "research_reference": {
+    "l16_num_classes": 211,
+    "l16_test_top1": 41.23222748815166,
+    "l16_test_top5": 52.13270142180095,
+    "status": "frozen_do_not_retune"
+  },
+  "accuracy_target": {
+    "deployment_validation_target": ">=90%",
+    "guaranteed": false,
+    "must_be_measured": true
+  },
+  "next_stage": "L18 — deployment data expansion and recording",
+  "timestamp": "2026-10-04T00:19:44.729686"
+}

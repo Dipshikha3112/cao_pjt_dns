@@ -1,0 +1,54 @@
+{
+  "stage": "L23",
+  "name": "PyTorch OpenVINO prediction verification",
+  "evaluation_population": "L18B validation only",
+  "num_samples": 10,
+  "locked_test_used": false,
+  "source_pytorch_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+  "source_openvino_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+  "source_openvino_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+  "openvino_device": "CPU",
+  "input_shape": [
+    1,
+    16,
+    3,
+    224,
+    224
+  ],
+  "output_shape": [
+    1,
+    10
+  ],
+  "preprocessing": {
+    "cache": "L18B RGB cache",
+    "temporal_sampling": "deterministic uniform 16-frame sampling",
+    "crop": "center 224x224",
+    "scaling": "0..255 -> 0..1",
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "same_tensor_to_both_engines": true
+  },
+  "equivalence_criteria": {
+    "top1_agreement_required": 1.0,
+    "max_absolute_logit_error": 0.0001,
+    "max_probability_error": 1e-05,
+    "correct_count_must_match": true
+  },
+  "scientific_integrity": {
+    "training": false,
+    "retraining": false,
+    "threshold_tuning": false,
+    "locked_test_manifest_loaded": false,
+    "locked_test_video_loaded": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false
+  }
+}

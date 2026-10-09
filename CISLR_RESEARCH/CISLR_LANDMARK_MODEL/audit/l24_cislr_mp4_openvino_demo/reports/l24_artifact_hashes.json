@@ -1,0 +1,84 @@
+{
+  "source_l22_xml": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "size_bytes": 355184
+  },
+  "source_l22_bin": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc",
+    "size_bytes": 349756624
+  },
+  "source_validation_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "sha256": "110d791089cb9c42ba6c5f4aa5a36da35cd33dd93961cf2bb2e24a3dc7c60449",
+    "size_bytes": 4084
+  },
+  "predictions_csv": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/reports/l24_mp4_predictions.csv",
+    "sha256": "d2564debd125f3a7915073e18079bcef73ba7256655b37887db54c77dd2a5d72",
+    "size_bytes": 5105
+  },
+  "config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/config/l24_demo_config.json",
+    "sha256": "2fe0a42df05d57dbccf5be7438bfb93e4b588fb901305cbee9a0ae3a1bd7651c",
+    "size_bytes": 1193
+  },
+  "summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/reports/l24_demo_summary.json",
+    "sha256": "e775d3d436dd7132d0de3a3091574ca03c4ec26ba226e4c3fe0e05d39972587e",
+    "size_bytes": 465
+  },
+  "demo_videos": {
+    "01_monday_0YIk1iTjDVY_1_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/01_monday_0YIk1iTjDVY_1_openvino_demo.mp4",
+      "sha256": "47fde9f0fc711e2f14738050aff5db1340527114f58552f6a84230e9b2a398f9",
+      "size_bytes": 228367
+    },
+    "02_interest_jMWvOjMUjYk_1_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/02_interest_jMWvOjMUjYk_1_openvino_demo.mp4",
+      "sha256": "8b2b61c0eb633cca89f06517b21ba13471f79dfb161a686b7b24b18bf1c25e1a",
+      "size_bytes": 249830
+    },
+    "03_thursday_w3iXbhc5vsM_1_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/03_thursday_w3iXbhc5vsM_1_openvino_demo.mp4",
+      "sha256": "ca491d0631f4d23e09acde8ef115dbad2b00a0624963f35e53171962905e98b7",
+      "size_bytes": 232907
+    },
+    "04_christmas_9LDQGtFRVhI_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/04_christmas_9LDQGtFRVhI_openvino_demo.mp4",
+      "sha256": "da5184a1b8bb65ae15fd6695f85e149324d20d87c1e14976709c010e08f2ace8",
+      "size_bytes": 259505
+    },
+    "05_pencil_z1VPeFV_ew4_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/05_pencil_z1VPeFV_ew4_openvino_demo.mp4",
+      "sha256": "5834f163f89d74064b5a8a29cea1031a58f0818cc936f07f2182769d3be9613d",
+      "size_bytes": 183489
+    },
+    "06_mother_YwR00ZeFcQY_1_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/06_mother_YwR00ZeFcQY_1_openvino_demo.mp4",
+      "sha256": "e5ccb5fa3192f214f826da5a4f4c3da7e552a8d9b7d9cef65bbb371d4b0a8a2c",
+      "size_bytes": 257682
+    },
+    "07_tuesday_UlQ5cTjCqT8_1_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/07_tuesday_UlQ5cTjCqT8_1_openvino_demo.mp4",
+      "sha256": "c817f895f73be32e8865a96a11a6376529e5791acd5bf922304649eb59e5c6f8",
+      "size_bytes": 204640
+    },
+    "08_friday_7ChtWi4wz8E_1_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/08_friday_7ChtWi4wz8E_1_openvino_demo.mp4",
+      "sha256": "5e7714ee70ec1d92d87a67fb77ea62547ef11c48e603ae1c092dba0ba728c429",
+      "size_bytes": 193589
+    },
+    "09_rubber_5mRd9gulCKs_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/09_rubber_5mRd9gulCKs_openvino_demo.mp4",
+      "sha256": "aabfe724c4ad0ee422d07fb510fc3a13ad411e7590d8a04f4bfdcc67639aba0e",
+      "size_bytes": 295240
+    },
+    "10_wash_eZ1NWsWssI0_openvino_demo.mp4": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos/10_wash_eZ1NWsWssI0_openvino_demo.mp4",
+      "sha256": "a7cd9cf36792ed918bda02afced18ea2e88a33b949d79ff0dd9777f157a02c73",
+      "size_bytes": 875737
+    }
+  }
+}

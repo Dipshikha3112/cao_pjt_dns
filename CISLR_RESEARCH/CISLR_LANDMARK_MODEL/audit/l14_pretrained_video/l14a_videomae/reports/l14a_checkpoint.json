@@ -1,0 +1,15 @@
+{
+  "frozen_train_count": true,
+  "frozen_validation_count": true,
+  "frozen_test_count": true,
+  "zero_split_overlap": true,
+  "pretrained_videomae_loaded": true,
+  "classifier_classes_211": true,
+  "validation_count_211": true,
+  "finite_validation_top1": true,
+  "finite_validation_top5": true,
+  "best_model_exists": true,
+  "test_paths_not_resolved": true,
+  "test_videos_not_decoded": true,
+  "test_not_evaluated": true
+}

@@ -1,0 +1,45 @@
+{
+  "stage": "L18B",
+  "status": "COMPLETE",
+  "version": "ROBUST_SEQUENTIAL_DECODER",
+  "task": "safe_10_class_dataset_construction",
+  "num_classes": 10,
+  "counts": {
+    "train_original": 70,
+    "validation_original": 10,
+    "test_locked": 10,
+    "total": 90,
+    "balanced_train_draws_per_epoch": 200
+  },
+  "decoder": {
+    "method": "sequential_decode_then_uniform_sample",
+    "random_seek": false,
+    "frame_count_mismatches": 1
+  },
+  "cache": {
+    "sequence_length": 32,
+    "cache_size": 256,
+    "train_cached": 70,
+    "train_created_this_run": 10,
+    "train_reused": 60,
+    "validation_cached": 10,
+    "validation_created_this_run": 10,
+    "validation_reused": 0,
+    "test_cached": 0
+  },
+  "augmentation": {
+    "train": true,
+    "validation": false,
+    "test": false
+  },
+  "leakage_controls": {
+    "train_validation_overlap": 0,
+    "train_test_overlap": 0,
+    "validation_test_overlap": 0,
+    "test_decoded": false,
+    "test_cached": false,
+    "test_used_for_model_selection": false
+  },
+  "next_stage": "L19",
+  "timestamp": "2026-10-04T00:37:34.224138"
+}

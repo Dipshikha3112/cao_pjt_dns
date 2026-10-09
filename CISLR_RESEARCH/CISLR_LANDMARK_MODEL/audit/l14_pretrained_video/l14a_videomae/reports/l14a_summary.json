@@ -1,0 +1,23 @@
+{
+  "stage": "L14A",
+  "architecture": "Pretrained VideoMAE Transfer Learning",
+  "pretrained_model": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "num_frames": 16,
+  "image_size": 224,
+  "classes": 211,
+  "train_samples": 585,
+  "validation_samples": 211,
+  "test_samples": 211,
+  "best_phase": "FINETUNE",
+  "best_epoch": 34,
+  "validation_top1": 37.91469194312796,
+  "validation_top1_correct": 80,
+  "validation_top5": 51.65876777251185,
+  "validation_top5_correct": 109,
+  "l13b_top1": 38.862559,
+  "delta_vs_l13b": -0.9478670568720347,
+  "test_video_paths_resolved": false,
+  "test_videos_decoded": false,
+  "test_evaluated": false,
+  "test_status": "LOCKED"
+}

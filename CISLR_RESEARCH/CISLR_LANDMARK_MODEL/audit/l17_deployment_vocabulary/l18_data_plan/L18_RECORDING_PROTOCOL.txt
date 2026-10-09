@@ -1,0 +1,82 @@
+
+CISLR — L18 DEPLOYMENT DATA COLLECTION PROTOCOL
+================================================
+
+L17 vocabulary size:
+10
+
+NEW recordings/sign:
+60
+
+NEW split/sign:
+TRAIN      = 40
+VALIDATION = 10
+TEST       = 10
+
+TOTAL NEW RECORDINGS:
+600
+
+TARGET:
+Build a high-reliability restricted-vocabulary sign-language
+deployment model.
+
+IMPORTANT:
+The >90% accuracy objective is a TARGET, not a guaranteed result.
+
+DATA COLLECTION RULES
+---------------------
+
+1. Record the COMPLETE sign gesture.
+
+2. Start with hands in a natural/rest position.
+
+3. Perform the sign.
+
+4. Return toward a neutral/rest position.
+
+5. Keep the signer visible.
+
+6. Do not crop hands out of the image.
+
+7. Record variations in:
+   - distance
+   - lighting
+   - background
+   - clothing
+   - speed
+   - hand position
+
+8. Prefer multiple recording sessions.
+
+9. Prefer multiple signers if available.
+
+10. Validation and deployment-test clips must not be duplicates
+    or near-duplicates of training clips.
+
+11. Do not move difficult validation/test clips into training
+    after observing model errors.
+
+12. Original L16 test results must NOT be used for tuning this
+    deployment experiment.
+
+13. Original CISLR L9 TRAIN examples for the selected signs may
+    later be incorporated into deployment TRAINING.
+
+14. Original L9 validation/test samples should NOT be silently
+    reused as the new deployment validation/test benchmark.
+
+15. NO_SIGN / background examples are added later in L20.
+
+DEPLOYMENT CLASSES
+------------------
+
+00 monday
+01 interest
+02 thursday
+03 christmas
+04 pencil
+05 mother
+06 tuesday
+07 friday
+08 rubber
+09 wash

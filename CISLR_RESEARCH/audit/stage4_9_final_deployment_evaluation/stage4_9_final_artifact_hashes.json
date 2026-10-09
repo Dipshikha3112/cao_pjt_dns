@@ -1,0 +1,72 @@
+{
+  "stage": "4.9",
+  "output_artifacts": {
+    "final_metrics_csv": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/stage4_9_final_deployment_metrics.csv",
+      "sha256": "d8b725233447d0318fd1592a7ec3fb4be2a291da09f182c7b5e4ca81bede20d2",
+      "size_bytes": 965
+    },
+    "deployment_summary_json": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/stage4_9_final_deployment_summary.json",
+      "sha256": "067e5ca5cb37f2e05f919750b75f2273d5a614c7164a715512e37be91fab79a0",
+      "size_bytes": 2322
+    },
+    "readiness_checklist_csv": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/stage4_9_deployment_readiness_checklist.csv",
+      "sha256": "89bcabe30b69d44d76dba5c0f5171c12e2d8008e129bba0f5181d619ebbe2e57",
+      "size_bytes": 235
+    },
+    "retrieval_plot": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/plots/stage4_9_retrieval_performance.png",
+      "sha256": "cea26217decf9d08138febf759739c27086251cc47a9f88f7595143f2b27b6ea",
+      "size_bytes": 92426
+    },
+    "cpu_comparison_plot": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/plots/stage4_9_cpu_pytorch_vs_openvino.png",
+      "sha256": "fdc0de636f5d03dadf7ee58844539fed99ba456d9f577d5e8cd07588a1439781",
+      "size_bytes": 82154
+    },
+    "fps_comparison_plot": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/plots/stage4_9_fps_comparison.png",
+      "sha256": "ce026312b601471845dbd7885c3c2e4e025b923f8198b7958e01836efaf10135",
+      "size_bytes": 87870
+    },
+    "latency_distribution_plot": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_9_final_deployment_evaluation/plots/stage4_9_openvino_latency_distribution.png",
+      "sha256": "e7e0663646320858203436332afc6476c11068ca7ea8d347ae1d4b1a7f8c466f",
+      "size_bytes": 81978
+    }
+  },
+  "critical_input_artifacts": {
+    "stage4_7_xml": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.xml",
+      "sha256": "0aed6383ce26dfc4dfbb17eb67f9082ae4ec2fb8c99fac4be7519fce65e60ff0",
+      "size_bytes": 183762
+    },
+    "stage4_7_bin": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.bin",
+      "sha256": "02de73f512dd6817c4ef0aafff5d305dc4bd62a9d848aa7084f3f00de8d40a79",
+      "size_bytes": 41170096
+    },
+    "stage4_8_comparison": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_8_openvino_benchmark/stage4_8_pytorch_vs_openvino_comparison.csv",
+      "sha256": "01af16089a49ad9eb248c7b0d07490132fa678af706a3f4dae79391d88408ce7",
+      "size_bytes": 357
+    },
+    "stage4_8_benchmark": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_8_openvino_benchmark/stage4_8_openvino_benchmark.json",
+      "sha256": "23da2066e6ac6ab9275f45ad12a4957f8c114945a8bf3451496abf07def7623a",
+      "size_bytes": 3660
+    },
+    "stage4_5_retrieval": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_5_official_evaluation/stage4_5_official_model_comparison.csv",
+      "sha256": "e69846870fd5b20c141c7cc2ad4264a44905e7939476e17a44d28e4b740c25c4",
+      "size_bytes": 508
+    },
+    "stage4_3_compute": {
+      "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_3_benchmark/stage4_3_computational_benchmark.csv",
+      "sha256": "813af713af065d5a9f06a85279d56c8ff3158b1a68fea3f3b4cb3ac6ecd45a51",
+      "size_bytes": 1019
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+    "stage": "L10_GRU_BASELINE",
+    "status": "COMPLETE",
+    "seed": 42,
+    "device": "cuda",
+    "population": {
+        "classes": 211,
+        "train": 585,
+        "validation": 211,
+        "test_frozen_not_evaluated": 211
+    },
+    "representation": {
+        "sequence_length": 32,
+        "feature_dim": 254,
+        "continuous_dimensions_standardized": 252,
+        "mask_dimensions_not_standardized": [
+            252,
+            253
+        ]
+    },
+    "preprocessing": {
+        "statistics_fitted_on": "TRAIN_ONLY",
+        "near_zero_std_dimensions": 12,
+        "mean_sha256": "37051f3f3d66cf0addb627bd5546009f8080ebfbf8b5711a537eafaa5e0a9b3d",
+        "std_sha256": "8669c544487de7fd98b2db76c350d6c8de00473576cffe3a63f2a860587fd3d5"
+    },
+    "model": {
+        "type": "GRU",
+        "hidden_size": 256,
+        "num_layers": 1,
+        "dropout": 0.3,
+        "bidirectional": false,
+        "total_parameters": 447955,
+        "trainable_parameters": 447955
+    },
+    "training": {
+        "batch_size": 32,
+        "initial_learning_rate": 0.001,
+        "weight_decay": 0.0001,
+        "max_epochs": 100,
+        "epochs_completed": 34,
+        "early_stopping_patience": 15,
+        "best_epoch": 19,
+        "training_seconds": 4.109296739999991
+    },
+    "validation": {
+        "loss": 5.898699297159204,
+        "top1": 0.07109004739336493,
+        "top1_percent": 7.109004739336493,
+        "top5": 0.13744075829383887,
+        "top5_percent": 13.744075829383887,
+        "top1_correct": 15,
+        "top5_correct": 29,
+        "samples": 211
+    },
+    "chance_reference": {
+        "top1_percent": 0.47393364928909953,
+        "top5_percent": 2.3696682464454977
+    },
+    "test_evaluated": false,
+    "best_model": {
+        "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_gru_baseline/models/l10_best_gru.pt",
+        "sha256": "83e04a54d50ac9ca1ab88b29555ced338791175d534899e9efc6ccce42c077fe"
+    }
+}

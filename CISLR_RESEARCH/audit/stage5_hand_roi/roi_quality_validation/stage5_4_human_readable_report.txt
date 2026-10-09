@@ -1,0 +1,49 @@
+STAGE 5.4 — ROI QUALITY VALIDATION
+================================================================================
+Analysis-valid videos: 6628
+Analysis frames: 53024
+Frames per video: 8
+
+FRAME-LEVEL QUALITY
+Frame read success rate: 1.0000
+ROI saved rate: 1.0000
+Direct OpenCV detection rate: 0.6160
+Temporal fallback rate: 0.0596
+Full-frame fallback rate: 0.3244
+Any fallback rate: 0.3840
+One-hand rate: 0.0957
+Two-hand rate: 0.5228
+Zero-hand rate: 0.3815
+
+ROI AREA
+Mean ROI area fraction: 0.509496
+Median ROI area fraction: 0.379978
+P05 ROI area fraction: 0.021914
+P95 ROI area fraction: 1.000000
+ROI-valid rate: 0.6756
+
+CONFIDENCE
+Mean confidence proxy: 0.042278
+Median confidence proxy: 0.032911
+P05 confidence proxy: 0.000000
+P95 confidence proxy: 0.129633
+
+TEMPORAL CONSISTENCY
+Mean area stability: 0.800531
+Median area stability: 0.828994
+Mean center displacement: 0.071623
+P95 center displacement: 0.177867
+
+VIDEO-LEVEL QUALITY
+All 8 frames directly detected: 0.5605
+At least 6/8 directly detected: 0.5800
+No full-frame fallback: 0.6062
+All 8 ROI images saved: 1.0000
+Mean video quality score: 0.680317
+
+OVERALL QUALITY DECISION
+PASS_WITH_REVIEW
+
+IMPORTANT
+No videos were removed based on ROI quality.
+The frozen 6,628-video analysis population remains unchanged.

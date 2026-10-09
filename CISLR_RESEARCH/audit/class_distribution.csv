@@ -1,0 +1,4765 @@
+gloss,num_videos,category,avg_duration,min_duration,max_duration
+monday,13,time,5.230769230769231,4.0,6.0
+thursday,11,time,5.636363636363637,3.0,7.0
+interest,10,banking,7.2,5.0,12.0
+pencil,9,utility item,4.111111111111111,3.0,6.0
+friday,9,time,5.222222222222222,5.0,6.0
+mother,8,relation,8.125,3.0,10.0
+yellow,8,attribute,8.375,4.0,10.0
+tuesday,8,time,4.375,3.0,6.0
+christmas,8,event,5.125,3.0,7.0
+bill,7,banking,7.285714285714286,4.0,10.0
+angry,7,emotion,6.0,3.0,7.0
+light,7,quantity,5.857142857142857,4.0,8.0
+sunday,7,time,5.142857142857143,3.0,6.0
+name,7,language,4.857142857142857,3.0,8.0
+iron,7,metal and minerals,6.0,4.0,7.0
+increase,7,comparator,6.142857142857143,5.0,9.0
+india,7,geography,5.285714285714286,4.0,8.0
+rubber,7,utility item,6.571428571428571,4.0,9.0
+wash,7,action,5.285714285714286,3.0,12.0
+wednesday,7,time,5.0,4.0,6.0
+date,7,time,5.285714285714286,5.0,6.0
+august,7,time,5.285714285714286,4.0,6.0
+reservation,6,group,7.0,5.0,13.0
+cat,6,flora and fauna,6.166666666666667,4.0,7.0
+grow,6,time,5.833333333333333,3.0,8.0
+duck,6,flora and fauna,6.5,5.0,7.0
+good,6,quality,6.0,4.0,7.0
+week,6,time,5.0,3.0,6.0
+goat,6,flora and fauna,6.5,6.0,7.0
+sick,6,medical,5.666666666666667,4.0,7.0
+ant,6,flora and fauna,5.833333333333333,5.0,6.0
+month,6,time,5.666666666666667,5.0,7.0
+thank you,6,gesture,4.833333333333333,3.0,7.0
+leaf,6,flora and fauna,4.833333333333333,4.0,6.0
+land,6,geography,6.166666666666667,4.0,10.0
+hot,6,sensation,5.166666666666667,4.0,6.0
+bad,6,quality,6.0,3.0,8.0
+brain,6,biology,6.333333333333333,4.0,9.0
+saturday,6,time,5.333333333333333,4.0,6.0
+gujarat,5,geography,5.2,4.0,7.0
+volcano,5,geography,6.6,6.0,7.0
+air,5,substance,5.6,3.0,7.0
+promotion,5,organisation,5.4,4.0,9.0
+projector,5,instrument,4.6,4.0,7.0
+september,5,time,5.4,4.0,6.0
+evening,5,time,6.2,3.0,7.0
+buffalo,5,flora and fauna,5.6,4.0,7.0
+knife,5,utility item,5.6,5.0,6.0
+cold,5,sensation,5.6,4.0,7.0
+area,5,geography,7.0,4.0,11.0
+orange,5,abstract,8.2,4.0,12.0
+kitchen,5,foods and drinks,6.8,6.0,8.0
+triangle,5,math,7.8,3.0,13.0
+tall,5,attribute,4.4,4.0,6.0
+tortoise,5,flora and fauna,6.0,5.0,7.0
+praise,5,action,5.2,4.0,7.0
+hard,5,quality,5.4,4.0,7.0
+understand,5,action,4.2,3.0,6.0
+socks,5,wearable,5.8,3.0,7.0
+bell,5,miscellaneous object,5.4,5.0,6.0
+january,5,time,5.0,3.0,6.0
+calculator,5,math,4.8,4.0,7.0
+address,5,geography,6.8,3.0,9.0
+form,5,readable,7.2,6.0,9.0
+year,5,time,6.2,4.0,9.0
+adult,5,stage,4.4,3.0,5.0
+capital,5,legal,4.8,4.0,7.0
+clever,5,behavior,6.2,5.0,8.0
+pain,5,sensation,4.8,3.0,7.0
+order,5,action,7.0,4.0,15.0
+pen,5,utility item,4.4,3.0,6.0
+lie,5,action,5.6,4.0,6.0
+next,5,time,4.4,3.0,5.0
+right,5,spatial position,5.0,3.0,6.0
+day,5,time,5.2,4.0,8.0
+wood,5,miscellaneous object,6.8,4.0,8.0
+work,5,action,5.4,3.0,8.0
+drug,5,substance,4.0,3.0,5.0
+east,5,spatial position,6.0,3.0,8.0
+blouse,5,wearable,5.6,4.0,7.0
+weak,5,quality,5.0,3.0,7.0
+same,5,comparator,4.4,4.0,6.0
+round,4,math,8.75,4.0,13.0
+wife,4,relation,8.25,5.0,10.0
+engine,4,machine,9.25,8.0,11.0
+brother,4,relation,12.25,11.0,13.0
+why,4,abstract,4.75,3.0,8.0
+silver,4,metal and minerals,5.25,3.0,7.0
+similar,4,comparator,4.25,4.0,5.0
+process,4,event,4.5,4.0,6.0
+profit,4,banking,5.5,4.0,7.0
+promise,4,action,6.0,5.0,7.0
+shine,4,attribute,5.0,4.0,6.0
+guilty,4,emotion,6.5,6.0,7.0
+black,4,quality,8.0,5.0,10.0
+put,4,action,4.75,4.0,6.0
+drawer,4,construction,8.25,5.0,11.0
+hanuman,4,religious,5.0,4.0,6.0
+wait,4,action,5.25,4.0,6.0
+shawl,4,wearable,4.0,4.0,4.0
+blue,4,quality,8.0,6.0,9.0
+blood pressure,4,medical,6.75,5.0,8.0
+share,4,action,4.75,3.0,7.0
+separate,4,action,4.25,3.0,6.0
+carpenter,4,profession,5.5,4.0,7.0
+radio,4,electronic and electrical,6.75,5.0,8.0
+aeroplane,4,transport,4.75,4.0,7.0
+sheep,4,flora and fauna,6.75,5.0,8.0
+quantity,4,quantity,5.75,4.0,8.0
+water,4,substance,7.0,4.0,8.0
+remove,4,action,4.5,3.0,7.0
+reception,4,behavior,6.75,4.0,14.0
+can,4,attribute,6.5,3.0,11.0
+record,4,action,6.75,5.0,9.0
+red,4,abstract,8.0,6.0,10.0
+reduce,4,action,5.5,5.0,6.0
+call,4,action,5.5,5.0,7.0
+gold,4,metal and minerals,7.75,4.0,13.0
+green,4,colour,7.75,6.0,9.0
+seed,4,foods and drinks,6.0,5.0,7.0
+see,4,action,6.5,4.0,9.0
+repair,4,action,6.5,4.0,11.0
+bowl,4,utility item,5.25,5.0,6.0
+watch,4,action,5.5,3.0,8.0
+glass,4,substance,6.5,4.0,8.0
+weight,4,abstract,5.0,4.0,6.0
+scratch,4,action,5.25,4.0,7.0
+welder,4,profession,5.5,4.0,7.0
+gloves,4,wearable,5.0,4.0,6.0
+waterfall,4,geography,6.0,5.0,7.0
+result,4,abstract,4.5,3.0,6.0
+elephant,4,flora and fauna,5.25,4.0,6.0
+eclipse,4,event,7.0,5.0,9.0
+sari,4,wearable,4.75,3.0,6.0
+sandwich,4,foods and drinks,5.5,4.0,7.0
+gas stove,4,instrument,6.0,4.0,8.0
+wedding,4,event,7.0,3.0,10.0
+false,4,abstract,6.25,6.0,7.0
+brown,4,attribute,8.0,7.0,9.0
+allow,4,action,4.0,3.0,6.0
+pig,4,flora and fauna,7.0,7.0,7.0
+pillow,4,utility item,8.5,8.0,9.0
+cholera,4,medical,6.0,6.0,6.0
+sorry,4,greeting,4.5,3.0,7.0
+chennai,4,geography,4.75,4.0,6.0
+donkey,4,flora and fauna,6.0,5.0,7.0
+diwali,4,event,5.25,4.0,7.0
+dog,4,flora and fauna,5.0,4.0,6.0
+cheque,4,banking,5.75,5.0,6.0
+chappels,4,wearable,6.0,6.0,6.0
+silk,4,wearable,7.25,4.0,9.0
+start,4,stage,5.0,4.0,6.0
+coconut,4,foods and drinks,5.75,4.0,8.0
+pakistan,4,geography,4.75,3.0,7.0
+paint,4,action,6.25,6.0,7.0
+sphere,4,abstract,9.25,7.0,10.0
+tripura,4,geography,5.0,5.0,5.0
+pass,4,abstract,6.25,3.0,9.0
+key,4,utility item,6.5,5.0,7.0
+tree,4,flora and fauna,5.5,5.0,6.0
+try,4,action,4.25,3.0,6.0
+trust,4,emotion,6.0,4.0,7.0
+behind,4,spatial position,4.0,3.0,5.0
+peon,4,profession,7.25,5.0,11.0
+permanent,4,attribute,4.75,4.0,6.0
+animals,4,flora and fauna,6.0,4.0,7.0
+peacock,4,flora and fauna,4.75,4.0,7.0
+poision,4,medical,5.5,5.0,6.0
+sit,4,action,5.0,3.0,7.0
+size,4,quantity,7.75,5.0,9.0
+hardworking,4,behavior,8.0,8.0,8.0
+smell,4,sensation,6.0,5.0,7.0
+amazon,4,organisation,4.5,4.0,5.0
+bharatiya janata party,4,politics,3.75,3.0,4.0
+plate,4,utility item,6.0,5.0,7.0
+insult,4,action,5.75,4.0,7.0
+umbrella,4,utility item,6.0,3.0,8.0
+husband,4,relation,7.75,3.0,10.0
+sweater,4,wearable,5.5,4.0,7.0
+swallow,4,biology,7.5,7.0,9.0
+old,4,time,4.75,4.0,6.0
+official,4,profession,5.25,3.0,6.0
+online,4,internet,6.25,6.0,7.0
+monkey,4,flora and fauna,5.75,4.0,7.0
+morning,4,time,6.75,6.0,7.0
+train,4,transport,4.75,4.0,6.0
+suspect,4,legal,7.25,5.0,12.0
+nervous,4,emotion,5.0,4.0,7.0
+night,4,time,5.5,3.0,7.0
+deer,4,flora and fauna,5.25,4.0,7.0
+learn,4,action,6.25,6.0,7.0
+ladder,4,transport,6.25,5.0,8.0
+october,4,time,5.25,4.0,6.0
+trunk,4,biology,6.0,6.0,6.0
+kurta,4,wearable,6.0,6.0,6.0
+true,4,abstract,5.0,4.0,6.0
+trouble,4,stage,6.75,6.0,7.0
+australia,4,geography,6.0,4.0,8.0
+mistake,4,abstract,5.25,3.0,6.0
+magnet,4,physics,7.25,5.0,9.0
+thermometer,4,miscellaneous object,6.0,4.0,9.0
+mechanic,4,profession,6.25,6.0,7.0
+melt,4,process,7.25,7.0,8.0
+temperature,4,weather,8.25,7.0,11.0
+mixer,4,machine,6.5,6.0,7.0
+taste,4,sensation,8.25,5.0,14.0
+run,4,action,6.25,4.0,8.0
+frog,4,flora and fauna,6.5,6.0,7.0
+earth,4,geography,7.0,4.0,8.0
+magic,4,abstract,5.5,4.0,6.0
+explain,4,action,6.25,4.0,8.0
+expensive,4,attribute,5.5,4.0,7.0
+experiment,4,process,7.0,6.0,8.0
+zoo,4,geography,5.5,4.0,6.0
+escape,4,action,5.75,4.0,9.0
+yesterday,3,time,5.333333333333333,3.0,7.0
+without,3,abstract,5.333333333333333,5.0,6.0
+wolf,3,flora and fauna,5.666666666666667,5.0,6.0
+woman,3,human,8.0,3.0,11.0
+wool,3,utility item,7.666666666666667,5.0,9.0
+enemy,3,relation,6.666666666666667,3.0,9.0
+fine,3,emotion,4.333333333333333,4.0,5.0
+absent,3,abstract,4.666666666666667,4.0,5.0
+scent,3,utility item,5.333333333333333,4.0,6.0
+bread,3,foods and drinks,5.333333333333333,4.0,6.0
+website,3,internet,3.6666666666666665,3.0,4.0
+gate,3,construction,6.333333333333333,5.0,7.0
+eat,3,action,6.0,4.0,7.0
+earthquake,3,event,6.0,4.0,7.0
+your,3,relation,5.666666666666667,3.0,7.0
+you,3,relation,5.666666666666667,3.0,7.0
+wrong,3,comparator,5.666666666666667,4.0,7.0
+wrestling,3,sport,4.666666666666667,4.0,6.0
+wound,3,medical,6.666666666666667,4.0,8.0
+sand,3,geography,7.666666666666667,5.0,9.0
+rest,3,action,6.0,4.0,8.0
+busy,3,behavior,6.0,6.0,6.0
+business,3,banking,5.333333333333333,5.0,6.0
+bus,3,transport,4.666666666666667,4.0,6.0
+message,3,readable,5.333333333333333,4.0,8.0
+meat,3,foods and drinks,5.333333333333333,5.0,6.0
+measure,3,math,5.333333333333333,4.0,6.0
+maximum,3,quantity,6.666666666666667,4.0,9.0
+manipur,3,geography,4.0,4.0,4.0
+man,3,human,8.0,4.0,10.0
+make a long story short,3,process,6.333333333333333,4.0,11.0
+throat,3,biology,6.0,4.0,7.0
+this,3,relation,4.666666666666667,4.0,5.0
+think,3,action,6.0,4.0,7.0
+things,3,miscellaneous object,5.666666666666667,4.0,7.0
+maha shivaratri,3,event,4.333333333333333,4.0,5.0
+cylinder,3,math,7.333333333333333,5.0,12.0
+cut,3,action,5.0,3.0,6.0
+lorry,3,transport,6.0,6.0,6.0
+lock,3,machine,6.666666666666667,4.0,8.0
+cream,3,utility item,6.666666666666667,6.0,8.0
+mile,3,metric,7.333333333333333,7.0,8.0
+temporary,3,abstract,4.0,3.0,6.0
+day after,3,time,7.0,6.0,9.0
+litre,3,metric,6.0,5.0,7.0
+listen,3,action,3.6666666666666665,3.0,4.0
+list,3,readable,5.0,4.0,6.0
+lion,3,flora and fauna,6.666666666666667,6.0,7.0
+license,3,legal,4.333333333333333,4.0,5.0
+december,3,time,5.0,4.0,6.0
+level,3,abstract,5.333333333333333,4.0,8.0
+toothbrush,3,utility item,6.333333333333333,5.0,7.0
+arunachal pradesh,3,geography,4.666666666666667,4.0,5.0
+around,3,spatial position,4.666666666666667,4.0,6.0
+arm,3,biology,7.0,5.0,8.0
+television,3,electronic and electrical,6.0,4.0,7.0
+table,3,utility item,6.0,4.0,7.0
+muslim,3,religious,4.333333333333333,3.0,6.0
+murder,3,action,7.0,3.0,15.0
+mouth,3,biology,7.666666666666667,6.0,9.0
+mountain,3,geography,8.0,6.0,9.0
+motorcycle,3,transport,5.333333333333333,5.0,6.0
+corn,3,foods and drinks,8.333333333333334,5.0,14.0
+copy,3,action,7.0,6.0,8.0
+cook,3,foods and drinks,5.666666666666667,5.0,7.0
+teach,3,action,4.0,3.0,5.0
+back,3,spatial position,6.333333333333333,3.0,8.0
+mobile,3,electronic and electrical,4.0,4.0,4.0
+mizoram,3,geography,4.666666666666667,4.0,5.0
+cough,3,medical,6.0,6.0,6.0
+mirror,3,physics,6.333333333333333,5.0,7.0
+minimum,3,comparator,7.0,4.0,9.0
+conference,3,group,5.333333333333333,5.0,6.0
+cone,3,miscellaneous object,9.666666666666666,8.0,12.0
+national anthem,3,sound,6.0,5.0,8.0
+tonic,3,substance,6.666666666666667,4.0,8.0
+tongue,3,biology,5.666666666666667,4.0,7.0
+tongs,3,instrument,6.0,5.0,7.0
+tomorrow,3,time,5.333333333333333,3.0,7.0
+toilet,3,construction,6.333333333333333,6.0,7.0
+degree,3,education,6.333333333333333,5.0,8.0
+decrease,3,comparator,7.666666666666667,6.0,9.0
+decide,3,action,6.0,4.0,7.0
+leave,3,profession,9.0,7.0,13.0
+lawyer,3,legal,5.0,4.0,6.0
+law,3,legal,5.333333333333333,4.0,7.0
+tamil,3,language,4.333333333333333,3.0,6.0
+talk,3,action,8.666666666666666,4.0,11.0
+nothing,3,abstract,4.0,4.0,4.0
+nose,3,biology,7.0,5.0,8.0
+north pole,3,geography,10.666666666666666,8.0,13.0
+north,3,spatial position,5.666666666666667,4.0,8.0
+noon,3,time,6.0,4.0,7.0
+switch,3,electronic and electrical,6.0,4.0,8.0
+swing,3,action,6.0,5.0,7.0
+balloon,3,utility item,4.333333333333333,3.0,6.0
+sweet,3,attribute,5.666666666666667,4.0,7.0
+sweat,3,biology,7.333333333333333,6.0,8.0
+never,3,abstract,5.666666666666667,5.0,6.0
+network,3,internet,7.333333333333333,4.0,9.0
+nepal,3,geography,6.0,5.0,7.0
+neighbour,3,human,8.333333333333334,4.0,11.0
+necklace,3,utility item,5.666666666666667,5.0,6.0
+neck,3,biology,5.333333333333333,4.0,8.0
+oath,3,legal,6.0,5.0,7.0
+november,3,time,5.333333333333333,5.0,6.0
+sunset,3,event,6.333333333333333,5.0,7.0
+april,3,time,5.333333333333333,4.0,6.0
+appointment,3,action,6.0,4.0,10.0
+tractor,3,transport,5.0,4.0,7.0
+town,3,geography,5.0,4.0,6.0
+torch,3,electronic and electrical,6.0,4.0,7.0
+late,3,time,5.333333333333333,4.0,6.0
+lassi,3,foods and drinks,5.333333333333333,5.0,6.0
+lake,3,geography,9.333333333333334,8.0,10.0
+sunrise,3,event,7.0,5.0,8.0
+sunflower,3,flora and fauna,6.333333333333333,5.0,7.0
+sun,3,astronomical,5.333333333333333,3.0,7.0
+sugar,3,foods and drinks,5.0,4.0,6.0
+notify,3,action,4.333333333333333,3.0,5.0
+cobbler,3,profession,5.666666666666667,5.0,7.0
+coat,3,wearable,5.666666666666667,3.0,7.0
+over,3,spatial position,5.333333333333333,5.0,6.0
+oriya,3,language,6.333333333333333,6.0,7.0
+original,3,attribute,7.333333333333333,4.0,9.0
+strong,3,quality,6.333333333333333,5.0,7.0
+straight,3,spatial position,5.666666666666667,3.0,8.0
+stop,3,stage,4.666666666666667,4.0,5.0
+stone,3,metal and minerals,6.333333333333333,5.0,7.0
+steel,3,metal and minerals,6.666666666666667,4.0,8.0
+comb,3,utility item,7.333333333333333,5.0,9.0
+open,3,action,4.666666666666667,4.0,6.0
+onion,3,foods and drinks,4.666666666666667,4.0,5.0
+office,3,organisation,4.0,3.0,6.0
+comfortable,3,sensation,5.333333333333333,4.0,7.0
+come,3,process,4.333333333333333,3.0,5.0
+parliament,3,legal,5.333333333333333,4.0,7.0
+paragraph,3,language,7.0,4.0,11.0
+bedroom,3,construction,8.0,4.0,10.0
+beautiful,3,attribute,5.0,3.0,7.0
+special,3,attribute,3.6666666666666665,3.0,5.0
+papaya,3,foods and drinks,5.0,3.0,7.0
+close,3,action,7.666666666666667,5.0,13.0
+clock,3,utility item,7.0,5.0,8.0
+bathroom,3,construction,8.333333333333334,4.0,11.0
+bath,3,action,5.666666666666667,5.0,6.0
+star,3,astronomical,6.0,5.0,8.0
+square,3,math,13.0,13.0,13.0
+owner,3,human,4.666666666666667,4.0,5.0
+owl,3,flora and fauna,6.333333333333333,5.0,7.0
+cockroach,3,flora and fauna,6.666666666666667,6.0,7.0
+cock,3,flora and fauna,8.333333333333334,8.0,9.0
+cinema,3,entertainment,5.0,4.0,6.0
+perfect,3,attribute,6.333333333333333,3.0,9.0
+percentage,3,math,5.666666666666667,5.0,7.0
+peas,3,foods and drinks,5.0,4.0,7.0
+pause,3,time,5.333333333333333,5.0,6.0
+patience,3,behavior,5.666666666666667,3.0,7.0
+parrot,3,flora and fauna,5.333333333333333,4.0,7.0
+travel,3,action,6.0,4.0,7.0
+transparent,3,attribute,5.666666666666667,4.0,7.0
+king,3,profession,6.0,4.0,7.0
+kilogram,3,metric,7.333333333333333,6.0,8.0
+kerala,3,geography,6.0,5.0,7.0
+kannada,3,language,7.333333333333333,7.0,8.0
+june,3,time,5.333333333333333,4.0,6.0
+anonymous,3,abstract,7.666666666666667,4.0,15.0
+annual,3,time,6.333333333333333,5.0,9.0
+son,3,relation,8.333333333333334,3.0,11.0
+belt,3,wearable,5.333333333333333,4.0,6.0
+before,3,spatial position,4.333333333333333,4.0,5.0
+sometimes,3,abstract,4.666666666666667,4.0,5.0
+photograph,3,miscellaneous object,6.666666666666667,6.0,7.0
+person,3,human,6.666666666666667,3.0,9.0
+tuberculosis,3,medical,7.333333333333333,4.0,9.0
+tubelight,3,electronic and electrical,7.0,5.0,8.0
+july,3,time,5.333333333333333,4.0,6.0
+diabetes,3,medical,6.0,5.0,8.0
+job,3,profession,6.333333333333333,5.0,8.0
+jaundice,3,biology,7.0,5.0,8.0
+island,3,geography,8.333333333333334,7.0,9.0
+die,3,stage,6.0,4.0,7.0
+city,3,geography,5.0,5.0,5.0
+circle,3,math,11.333333333333334,10.0,13.0
+sofa,3,utility item,6.333333333333333,5.0,7.0
+best,3,quality,3.6666666666666665,3.0,4.0
+snow,3,weather,6.666666666666667,5.0,9.0
+planet,3,astronomical,9.333333333333334,8.0,12.0
+angle,3,math,9.0,7.0,10.0
+amritsar,3,geography,4.666666666666667,4.0,6.0
+amount,3,metric,7.0,5.0,8.0
+insect,3,flora and fauna,7.0,6.0,8.0
+individual,3,quantity,6.333333333333333,5.0,7.0
+hygiene,3,attribute,8.333333333333334,5.0,15.0
+allergy,3,medical,6.333333333333333,5.0,7.0
+unfair dismissal,3,action,10.0,6.0,12.0
+division,3,action,9.0,3.0,15.0
+china,3,geography,6.666666666666667,6.0,7.0
+pink,3,abstract,8.0,6.0,12.0
+pick,3,action,5.666666666666667,3.0,8.0
+sleep,3,action,6.0,4.0,7.0
+skirt,3,wearable,5.666666666666667,3.0,7.0
+divide,3,action,5.0,4.0,6.0
+distribute,3,action,5.333333333333333,4.0,7.0
+distance,3,metric,7.0,6.0,8.0
+dissent,3,action,5.0,5.0,5.0
+housefly,3,flora and fauna,6.0,6.0,6.0
+hotel,3,construction,5.333333333333333,5.0,6.0
+hidden file,3,utility item,8.0,6.0,12.0
+hate,3,emotion,6.0,5.0,7.0
+door,3,construction,6.666666666666667,4.0,8.0
+happy,3,emotion,5.666666666666667,3.0,7.0
+skin,3,biology,7.0,4.0,9.0
+sister,3,relation,12.0,11.0,13.0
+police,3,profession,5.666666666666667,4.0,7.0
+please,3,action,4.0,4.0,4.0
+vision,3,abstract,5.333333333333333,4.0,7.0
+shoot,3,action,3.6666666666666665,3.0,4.0
+proof,3,miscellaneous object,5.0,4.0,7.0
+programme,3,event,7.333333333333333,5.0,10.0
+profession,3,profession,6.333333333333333,6.0,7.0
+principal,3,authority,4.666666666666667,3.0,7.0
+singapore,3,geography,6.666666666666667,5.0,8.0
+bite,3,action,6.666666666666667,6.0,7.0
+shy,3,behavior,4.333333333333333,3.0,6.0
+change,3,action,4.333333333333333,4.0,5.0
+chalk,3,utility item,5.666666666666667,4.0,7.0
+prescription,3,medical,5.666666666666667,5.0,7.0
+pray,3,action,4.666666666666667,4.0,6.0
+power,3,attribute,6.333333333333333,4.0,8.0
+potato,3,foods and drinks,5.0,4.0,7.0
+policy,3,legal,5.0,5.0,5.0
+catch,3,action,4.666666666666667,4.0,6.0
+punjabi,3,language,5.333333333333333,4.0,7.0
+punjab,3,geography,5.333333333333333,4.0,8.0
+punctual,3,attribute,6.333333333333333,4.0,8.0
+proud,3,attribute,5.0,3.0,6.0
+shoulder,3,biology,6.333333333333333,4.0,8.0
+shop,3,action,5.333333333333333,4.0,6.0
+alive,3,stage,5.333333333333333,4.0,6.0
+vessel,3,utility item,7.0,7.0,7.0
+variable,3,math,7.666666666666667,6.0,10.0
+valley,3,geography,7.0,5.0,8.0
+handkerchief,3,utility item,5.333333333333333,4.0,6.0
+hair,3,biology,6.333333333333333,4.0,8.0
+drive,3,transport,5.666666666666667,4.0,7.0
+gun,3,machine,4.0,3.0,6.0
+air matress,3,utility item,9.333333333333334,8.0,12.0
+qualification,3,abstract,5.0,4.0,7.0
+visa,3,legal,4.666666666666667,4.0,6.0
+virus,3,medical,5.666666666666667,5.0,6.0
+village,3,geography,4.666666666666667,3.0,6.0
+view,3,action,4.333333333333333,4.0,5.0
+warm,3,weather,5.333333333333333,3.0,7.0
+agra,3,geography,5.0,5.0,5.0
+age,3,stage,6.666666666666667,4.0,8.0
+afternoon,3,time,5.333333333333333,4.0,6.0
+africa,3,geography,5.0,4.0,7.0
+walk,3,action,7.0,4.0,9.0
+group,3,group,7.333333333333333,4.0,9.0
+grey,3,colour,8.333333333333334,8.0,9.0
+body,3,biology,5.666666666666667,4.0,7.0
+pyjama,3,wearable,5.666666666666667,3.0,7.0
+cave,3,geography,8.666666666666666,8.0,9.0
+dubai,3,geography,5.333333333333333,5.0,6.0
+grass,3,flora and fauna,5.333333333333333,4.0,6.0
+grandfather,3,relation,9.0,5.0,11.0
+granddaughter,3,relation,11.333333333333334,9.0,13.0
+gram,3,metric,7.0,6.0,8.0
+way,3,process,4.333333333333333,3.0,6.0
+advertisement,3,internet,6.0,4.0,7.0
+advance,3,banking,7.666666666666667,3.0,11.0
+wave,3,physics,6.666666666666667,5.0,8.0
+bone,3,medical,7.333333333333333,5.0,9.0
+bold,3,attribute,8.666666666666666,6.0,14.0
+careful,3,attribute,6.333333333333333,5.0,7.0
+rat,3,flora and fauna,5.333333333333333,4.0,6.0
+rajasthan,3,geography,5.0,4.0,7.0
+rainbow,3,weather,6.666666666666667,5.0,9.0
+queen,3,authority,5.666666666666667,4.0,7.0
+bury,3,action,7.333333333333333,6.0,8.0
+reporter,3,profession,6.0,4.0,7.0
+secret,3,attribute,4.333333333333333,4.0,5.0
+sea,3,geography,7.0,5.0,8.0
+goa,3,geography,5.333333333333333,4.0,8.0
+girl,3,human,7.333333333333333,5.0,9.0
+ginger,3,foods and drinks,5.333333333333333,4.0,7.0
+action,3,action,7.333333333333333,4.0,10.0
+wedding reception,3,event,7.666666666666667,5.0,13.0
+remember,3,action,6.0,4.0,7.0
+calendar,3,time,4.666666666666667,4.0,5.0
+relative,3,relation,9.0,8.0,11.0
+rectangle,3,math,8.666666666666666,5.0,11.0
+cap,3,wearable,5.666666666666667,5.0,6.0
+candle,3,utility item,7.333333333333333,6.0,8.0
+camel,3,flora and fauna,5.666666666666667,5.0,6.0
+exercise,3,medical,5.333333333333333,4.0,6.0
+follow,3,action,6.0,4.0,8.0
+zebra,3,flora and fauna,6.0,5.0,7.0
+bucket,3,utility item,5.666666666666667,5.0,6.0
+enjoy,3,action,5.333333333333333,4.0,6.0
+environment,3,biology,5.333333333333333,4.0,8.0
+room,3,construction,7.0,5.0,8.0
+rock,3,miscellaneous object,6.333333333333333,5.0,7.0
+white,3,abstract,7.333333333333333,5.0,9.0
+west indies,3,geography,6.0,4.0,7.0
+electrician,3,profession,6.333333333333333,5.0,7.0
+force,3,physics,7.0,4.0,11.0
+finish,3,action,5.0,4.0,6.0
+rice,3,foods and drinks,5.0,5.0,5.0
+reward,3,miscellaneous object,5.0,4.0,7.0
+return,3,action,5.0,4.0,7.0
+today,3,time,5.0,3.0,6.0
+assam,3,geography,5.333333333333333,5.0,6.0
+time,3,time,5.666666666666667,4.0,7.0
+tight,3,quality,5.0,4.0,6.0
+livelihood,3,abstract,4.333333333333333,4.0,5.0
+deadline,3,time,4.0,3.0,5.0
+window,3,construction,7.333333333333333,6.0,8.0
+sad,3,emotion,6.0,4.0,7.0
+russia,3,geography,5.0,3.0,7.0
+rjd,3,politics,4.333333333333333,3.0,6.0
+bulb,3,utility item,6.666666666666667,5.0,8.0
+funny,3,sensation,6.0,5.0,7.0
+full,3,sensation,5.333333333333333,4.0,6.0
+friend,3,relation,8.333333333333334,5.0,10.0
+wind,3,weather,7.0,6.0,8.0
+wifi,3,internet,4.0,4.0,4.0
+aam aadmi party,2,politics,5.0,4.0,6.0
+abusive language,2,language,11.0,11.0,11.0
+zebra crossing,2,transport,6.5,6.0,7.0
+accept,2,action,5.0,4.0,6.0
+winner,2,human,8.0,4.0,12.0
+wiring,2,action,13.0,13.0,13.0
+wise,2,attribute,4.0,4.0,4.0
+accident,2,event,5.5,5.0,6.0
+accompany,2,group,4.5,4.0,5.0
+word,2,language,5.0,4.0,6.0
+world,2,geography,6.0,6.0,6.0
+worry,2,emotion,5.0,4.0,6.0
+family,2,group,9.0,9.0,9.0
+famous,2,attribute,6.5,6.0,7.0
+fan,2,electronic and electrical,6.5,6.0,7.0
+far,2,spatial position,6.0,6.0,6.0
+encourage,2,action,6.0,6.0,6.0
+endure,2,action,4.0,4.0,4.0
+energetic,2,attribute,6.0,6.0,6.0
+engagement,2,event,7.5,4.0,11.0
+rude,2,attribute,9.5,4.0,15.0
+rule,2,authority,4.5,4.0,5.0
+ruler,2,utility item,5.0,4.0,6.0
+ruthless,2,behavior,5.0,5.0,5.0
+safe,2,attribute,4.0,4.0,4.0
+sailor,2,profession,8.5,8.0,9.0
+salary,2,banking,6.0,4.0,8.0
+breathe,2,action,8.0,8.0,8.0
+brick,2,construction,5.5,4.0,7.0
+bright,2,attribute,6.0,4.0,8.0
+salt,2,foods and drinks,5.5,5.0,6.0
+salwar kameez,2,wearable,7.0,7.0,7.0
+roar,2,sound,5.5,5.0,6.0
+role,2,action,4.0,4.0,4.0
+roll,2,action,7.0,6.0,8.0
+roof,2,construction,6.5,6.0,7.0
+satisfied,2,attribute,5.0,4.0,6.0
+branch,2,flora and fauna,6.0,6.0,6.0
+brass,2,metal and minerals,8.5,8.0,9.0
+school,2,organisation,5.0,3.0,7.0
+school bag,2,utility item,5.0,4.0,6.0
+science,2,education,5.0,4.0,6.0
+scissors,2,utility item,4.5,4.0,5.0
+scold,2,action,4.5,3.0,6.0
+restaurant,2,construction,5.0,4.0,6.0
+retire,2,action,6.0,4.0,8.0
+reverse,2,abstract,3.5,3.0,4.0
+rich,2,attribute,5.5,4.0,7.0
+bug,2,flora and fauna,6.0,6.0,6.0
+build,2,action,6.5,6.0,7.0
+ring,2,miscellaneous object,6.0,6.0,6.0
+river,2,geography,8.0,8.0,8.0
+second,2,math,6.5,4.0,9.0
+bottle,2,utility item,5.5,5.0,6.0
+boxing,2,sport,4.0,3.0,5.0
+boy,2,human,8.5,8.0,9.0
+select,2,action,4.0,4.0,4.0
+self,2,relation,5.0,3.0,7.0
+self balancing,2,attribute,9.0,9.0,9.0
+reply,2,action,6.0,6.0,6.0
+requirement,2,abstract,6.5,6.0,7.0
+resign,2,action,4.0,4.0,4.0
+bus conductor,2,human,6.0,5.0,7.0
+butter,2,foods and drinks,6.0,6.0,6.0
+butterfly,2,flora and fauna,6.0,6.0,6.0
+resistor,2,physics,9.5,8.0,11.0
+respect,2,gesture,5.5,4.0,7.0
+sanitary pad,2,miscellaneous object,4.5,4.0,5.0
+capacitor,2,electronic and electrical,8.5,8.0,9.0
+record video,2,action,4.0,4.0,4.0
+refrigerator,2,utility item,8.5,7.0,10.0
+regret,2,emotion,5.5,4.0,7.0
+regular,2,attribute,4.5,4.0,5.0
+rehabilitation,2,process,3.0,3.0,3.0
+relay race,2,event,4.5,4.0,5.0
+release,2,action,5.5,4.0,7.0
+religion,2,religious,4.5,4.0,5.0
+cabbage,2,foods and drinks,6.0,5.0,7.0
+calculation,2,math,9.5,9.0,10.0
+calm,2,emotion,8.0,8.0,8.0
+rent,2,legal,4.5,3.0,6.0
+sculptor,2,profession,8.5,6.0,11.0
+search,2,action,6.0,4.0,8.0
+season,2,time,7.0,7.0,7.0
+selfish,2,behavior,5.0,3.0,7.0
+boil,2,action,10.0,6.0,14.0
+bolt,2,instrument,9.0,6.0,12.0
+bonus,2,abstract,5.0,4.0,6.0
+book,2,readable,5.0,4.0,6.0
+sell,2,action,5.0,4.0,6.0
+send,2,action,5.5,4.0,7.0
+sentence,2,language,5.0,4.0,6.0
+sequential,2,attribute,5.5,5.0,6.0
+serial tv,2,entertainment,4.5,4.0,5.0
+servant,2,profession,10.5,7.0,14.0
+service,2,action,6.5,3.0,10.0
+receive,2,action,5.0,4.0,6.0
+cam,2,instrument,15.0,15.0,15.0
+cancel,2,action,5.5,5.0,6.0
+cancer,2,medical,8.0,8.0,8.0
+cash,2,banking,6.5,4.0,9.0
+railway station,2,transport,6.0,6.0,6.0
+raise,2,action,4.0,4.0,4.0
+rajdhani train,2,transport,3.5,3.0,4.0
+range,2,math,5.0,5.0,5.0
+rank,2,organisation,6.5,5.0,8.0
+rate,2,banking,5.0,5.0,5.0
+ratio,2,math,7.5,7.0,8.0
+reach,2,action,6.0,5.0,7.0
+read,2,action,5.5,5.0,6.0
+capsicum,2,foods and drinks,4.5,4.0,5.0
+car,2,transport,4.5,4.0,5.0
+carrom,2,sport,4.0,3.0,5.0
+carrot,2,foods and drinks,5.5,4.0,7.0
+reason,2,abstract,4.5,3.0,6.0
+receipt,2,banking,6.0,6.0,6.0
+purchase,2,action,7.0,6.0,8.0
+pure,2,attribute,5.5,4.0,7.0
+severally,2,quantity,7.0,7.0,7.0
+shallow,2,attribute,5.0,5.0,5.0
+shape,2,math,5.5,3.0,8.0
+share market,2,banking,6.5,3.0,10.0
+sharpener,2,utility item,5.0,5.0,5.0
+blood,2,biology,6.5,5.0,8.0
+bluetooth,2,internet,5.0,4.0,6.0
+shaving razor,2,utility item,5.0,4.0,6.0
+she,2,abstract,5.0,4.0,6.0
+query,2,abstract,5.5,4.0,7.0
+question,2,abstract,4.0,4.0,4.0
+quickly,2,time,4.0,4.0,4.0
+rabbit,2,flora and fauna,7.0,7.0,7.0
+cartoon,2,entertainment,8.0,4.0,12.0
+shimla,2,geography,5.0,4.0,6.0
+shirt,2,wearable,7.0,7.0,7.0
+shock,2,behavior,3.5,3.0,4.0
+shoe,2,wearable,7.0,7.0,7.0
+shooting,2,action,5.0,3.0,7.0
+blackboard duster,2,education,8.0,8.0,8.0
+shopkeeper,2,profession,6.5,5.0,8.0
+short,2,quality,5.0,4.0,6.0
+should,2,language,3.5,3.0,4.0
+show,2,action,5.5,4.0,7.0
+prove,2,action,6.5,4.0,9.0
+public,2,attribute,7.0,4.0,10.0
+pumpkin,2,foods and drinks,5.5,4.0,7.0
+pune,2,geography,5.0,4.0,6.0
+punish,2,action,4.0,4.0,4.0
+cell,2,abstract,6.5,4.0,9.0
+sikh,2,religious,6.0,6.0,6.0
+sikhism,2,religious,4.5,4.0,5.0
+birds,2,flora and fauna,5.5,5.0,6.0
+birth,2,stage,9.0,9.0,9.0
+birthday,2,event,5.5,4.0,7.0
+biscuit,2,foods and drinks,4.5,3.0,6.0
+simultaneous,2,time,7.0,4.0,10.0
+sing,2,action,5.0,4.0,6.0
+prime minister,2,authority,5.5,4.0,7.0
+printer,2,instrument,5.0,5.0,5.0
+prize,2,miscellaneous object,6.0,4.0,8.0
+certificate,2,readable,6.5,6.0,7.0
+promote,2,action,5.0,5.0,5.0
+property,2,banking,8.0,7.0,9.0
+protect,2,action,4.5,4.0,5.0
+shift,2,spatial position,5.5,4.0,7.0
+post office,2,construction,5.0,4.0,6.0
+postman,2,profession,4.5,4.0,5.0
+cheap,2,attribute,5.0,4.0,6.0
+cheat,2,action,6.0,6.0,6.0
+practice,2,action,4.5,4.0,5.0
+practise,2,action,7.0,7.0,7.0
+prefer,2,action,5.0,5.0,5.0
+present,2,time,6.0,5.0,7.0
+pretend,2,action,6.5,6.0,7.0
+chair,2,utility item,6.0,6.0,6.0
+chandigarh,2,geography,4.5,4.0,5.0
+chart,2,readable,6.5,5.0,8.0
+chat,2,action,8.0,8.0,8.0
+price,2,banking,5.0,4.0,6.0
+priest,2,profession,6.0,6.0,6.0
+sign,2,gesture,4.0,3.0,5.0
+policeman,2,profession,5.0,5.0,5.0
+sink,2,process,7.5,6.0,9.0
+biased,2,attribute,6.0,4.0,8.0
+big,2,attribute,4.5,3.0,6.0
+bihar,2,geography,5.0,4.0,6.0
+bike suspension,2,machine,9.0,9.0,9.0
+six,2,quantity,4.0,4.0,4.0
+sky,2,abstract,6.0,6.0,6.0
+slap,2,action,3.5,3.0,4.0
+slip,2,action,5.0,4.0,6.0
+pollution,2,geography,5.5,4.0,7.0
+pond,2,geography,9.0,9.0,9.0
+poor,2,abstract,6.5,6.0,7.0
+positive,2,abstract,6.0,4.0,8.0
+possible,2,attribute,5.0,4.0,6.0
+post,2,action,5.5,4.0,7.0
+snail,2,flora and fauna,4.0,4.0,4.0
+snake,2,flora and fauna,5.0,4.0,6.0
+bengali,2,language,5.5,5.0,6.0
+soap,2,utility item,5.5,4.0,7.0
+social,2,behavior,5.0,5.0,5.0
+plastic,2,miscellaneous object,7.5,7.0,8.0
+play,2,action,5.5,4.0,7.0
+plenty,2,attribute,5.0,4.0,6.0
+plumber,2,profession,6.0,6.0,6.0
+podium,2,miscellaneous object,7.0,6.0,8.0
+point,2,math,8.0,8.0,8.0
+chest,2,biology,7.0,7.0,7.0
+chew,2,action,7.0,7.0,7.0
+chief minister,2,authority,6.0,5.0,7.0
+poison,2,medical,7.5,6.0,9.0
+pole,2,astronomical,13.0,12.0,14.0
+below,2,spatial position,5.5,5.0,6.0
+sound,2,sound,6.5,6.0,7.0
+soup,2,foods and drinks,4.5,4.0,5.0
+physics,2,physics,12.0,10.0,14.0
+pickle,2,foods and drinks,6.5,6.0,7.0
+picture,2,miscellaneous object,5.0,4.0,6.0
+piece,2,miscellaneous object,7.0,7.0,7.0
+pilot,2,profession,6.5,5.0,8.0
+christian,2,religious,6.0,6.0,6.0
+pizza,2,foods and drinks,4.0,4.0,4.0
+plan,2,action,6.0,5.0,7.0
+slow,2,attribute,5.5,4.0,7.0
+sly,2,attribute,6.5,6.0,7.0
+small,2,quality,6.0,5.0,7.0
+small pox,2,medical,6.0,6.0,6.0
+smile,2,action,5.5,4.0,7.0
+patna,2,geography,5.5,5.0,6.0
+pay,2,banking,5.0,3.0,7.0
+clean,2,action,6.0,5.0,7.0
+clear,2,attribute,4.5,4.0,5.0
+clerk,2,profession,6.5,6.0,7.0
+pay in installment,2,banking,8.5,5.0,12.0
+paytm,2,banking,4.5,4.0,5.0
+peak,2,spatial position,9.0,9.0,9.0
+pen drive,2,electronic and electrical,4.5,4.0,5.0
+personal,2,relation,4.0,4.0,4.0
+soft,2,quality,5.5,4.0,7.0
+soldier,2,profession,6.0,5.0,7.0
+solid,2,substance,5.5,4.0,7.0
+solve,2,action,5.5,4.0,7.0
+some,2,quantity,5.0,4.0,6.0
+belief,2,abstract,7.0,7.0,7.0
+paper,2,utility item,5.5,5.0,6.0
+paper clip,2,utility item,4.5,4.0,5.0
+south,2,spatial position,5.5,4.0,7.0
+south america,2,geography,6.5,5.0,8.0
+spanner,2,instrument,8.0,7.0,9.0
+sparrow,2,flora and fauna,8.5,8.0,9.0
+battery,2,physics,8.0,8.0,8.0
+beak,2,biology,7.0,7.0,7.0
+bear,2,flora and fauna,6.0,6.0,6.0
+bed,2,utility item,8.0,8.0,8.0
+bedsheet,2,utility item,9.0,9.0,9.0
+beer,2,foods and drinks,4.0,4.0,4.0
+speech therapist,2,profession,7.5,7.0,8.0
+spider,2,flora and fauna,5.5,5.0,6.0
+parents,2,relation,7.0,4.0,10.0
+parking,2,transport,5.5,5.0,6.0
+stand,2,action,7.0,7.0,7.0
+standard,2,comparator,5.5,5.0,6.0
+battered child syndrome,2,medical,10.0,10.0,10.0
+stars,2,astronomical,7.0,7.0,7.0
+state,2,geography,4.5,4.0,5.0
+stationery,2,utility item,7.5,6.0,9.0
+statistics,2,math,7.5,5.0,10.0
+stay,2,action,5.5,4.0,7.0
+pair,2,group,5.0,4.0,6.0
+pamphlet,2,utility item,8.0,6.0,10.0
+pan,2,utility item,8.0,8.0,8.0
+panaji,2,geography,4.0,4.0,4.0
+cloth,2,wearable,8.0,8.0,8.0
+clown,2,entertainment,6.5,6.0,7.0
+club,2,organisation,4.5,4.0,5.0
+pant,2,wearable,6.0,6.0,6.0
+banian,2,wearable,7.0,7.0,7.0
+banner,2,miscellaneous object,4.5,4.0,5.0
+barber,2,profession,5.5,5.0,6.0
+bark,2,action,6.0,6.0,6.0
+story,2,readable,6.5,6.0,7.0
+stove,2,utility item,7.5,7.0,8.0
+strength,2,attribute,5.5,4.0,7.0
+strict,2,behavior,3.0,3.0,3.0
+student,2,profession,5.0,3.0,7.0
+opposition,2,action,5.0,2.0,8.0
+our,2,relation,4.5,4.0,5.0
+output,2,miscellaneous object,7.5,7.0,8.0
+coal,2,metal and minerals,9.5,9.0,10.0
+spoil,2,action,6.5,6.0,7.0
+spoon,2,utility item,6.0,6.0,6.0
+squirrel,2,flora and fauna,5.0,4.0,6.0
+communicate,2,process,5.0,4.0,6.0
+company,2,organisation,7.5,5.0,10.0
+often,2,time,5.0,4.0,6.0
+oil,2,foods and drinks,7.5,6.0,9.0
+okay,2,gesture,4.5,4.0,5.0
+on,2,spatial position,4.5,4.0,5.0
+ooty,2,geography,6.5,6.0,7.0
+coimbatore,2,geography,4.5,4.0,5.0
+coin,2,banking,7.5,6.0,9.0
+college,2,education,6.5,6.0,7.0
+colour,2,colour,3.0,3.0,3.0
+colour palette,2,colour,12.0,10.0,14.0
+operation,2,medical,6.0,6.0,6.0
+opinion,2,abstract,5.0,4.0,6.0
+store,2,action,5.5,4.0,7.0
+storey skyscraper,2,construction,8.5,5.0,12.0
+noun,2,language,5.0,4.0,6.0
+study,2,action,5.0,4.0,6.0
+stupid,2,abstract,4.5,4.0,5.0
+subtract,2,math,4.0,4.0,4.0
+summary,2,education,5.0,5.0,5.0
+ban,2,action,4.0,4.0,4.0
+banana,2,foods and drinks,5.5,4.0,7.0
+bangles,2,wearable,6.0,6.0,6.0
+superficial,2,quality,6.0,6.0,6.0
+support,2,action,4.5,4.0,5.0
+surat,2,geography,5.0,4.0,6.0
+now,2,time,6.5,6.0,7.0
+nurse,2,profession,5.5,5.0,6.0
+nut,2,instrument,7.0,6.0,8.0
+obey,2,action,3.0,3.0,3.0
+common,2,abstract,5.5,5.0,6.0
+surname,2,group,7.0,4.0,10.0
+surprise,2,gesture,4.5,3.0,6.0
+sweep,2,action,8.0,7.0,9.0
+sweet lime,2,foods and drinks,4.5,4.0,5.0
+swim,2,action,6.0,5.0,7.0
+balcony,2,construction,9.0,9.0,9.0
+ball,2,sport,4.5,4.0,5.0
+noise,2,sound,6.5,4.0,9.0
+noise pollution,2,sound,7.0,6.0,8.0
+non,2,abstract,11.0,11.0,11.0
+nose stud,2,wearable,5.0,5.0,5.0
+compare,2,process,6.0,4.0,8.0
+compass,2,instrument,11.0,7.0,15.0
+competition,2,event,7.0,6.0,8.0
+complain,2,process,5.0,4.0,6.0
+notification,2,legal,6.5,5.0,8.0
+confident,2,emotion,7.0,7.0,7.0
+confirm,2,process,5.0,5.0,5.0
+confused,2,emotion,5.5,5.0,6.0
+natural,2,biology,7.5,6.0,9.0
+nect tie,2,utility item,6.5,6.0,7.0
+needle,2,utility item,7.0,7.0,7.0
+negative,2,math,5.0,4.0,6.0
+nest,2,flora and fauna,7.0,7.0,7.0
+new,2,quality,5.0,4.0,6.0
+computer,2,computer,6.0,4.0,8.0
+concentrate,2,sensation,8.0,8.0,8.0
+concrete,2,construction,6.0,6.0,6.0
+newspaper,2,readable,7.0,7.0,7.0
+nice,2,quality,4.0,4.0,4.0
+no,2,abstract,4.5,4.0,5.0
+surgeon,2,profession,5.5,5.0,6.0
+myself,2,language,5.5,4.0,7.0
+system,2,instrument,6.5,4.0,9.0
+table tennis,2,sport,5.0,5.0,5.0
+tail,2,attribute,6.0,6.0,6.0
+tailor,2,profession,5.0,5.0,5.0
+take,2,action,4.5,4.0,5.0
+bad language,2,language,4.5,4.0,5.0
+bag,2,utility item,4.0,4.0,4.0
+bake,2,foods and drinks,5.5,4.0,7.0
+balance,2,banking,6.0,4.0,8.0
+tally,2,gesture,8.5,8.0,9.0
+tamil nadu,2,geography,5.5,4.0,7.0
+nail,2,biology,5.0,4.0,6.0
+nail polish,2,utility item,7.0,7.0,7.0
+narrow,2,quality,6.5,6.0,7.0
+national,2,geography,4.5,4.0,5.0
+mogra,2,flora and fauna,7.0,7.0,7.0
+moon,2,astronomical,9.0,9.0,9.0
+more,2,quantity,5.0,4.0,6.0
+copper,2,metal and minerals,9.0,9.0,9.0
+motor,2,electronic and electrical,6.0,6.0,6.0
+move,2,process,5.5,5.0,6.0
+mud,2,substance,10.0,10.0,10.0
+mug,2,utility item,7.0,7.0,7.0
+muharram,2,event,5.0,5.0,5.0
+mumbai,2,geography,5.0,4.0,6.0
+mumps,2,biology,6.0,6.0,6.0
+control,2,action,6.5,6.0,7.0
+mushroom,2,foods and drinks,4.0,4.0,4.0
+music,2,sound,6.5,4.0,9.0
+musician,2,profession,7.0,7.0,7.0
+my,2,language,5.0,3.0,7.0
+mix,2,process,4.5,3.0,6.0
+tap,2,utility item,5.0,5.0,5.0
+target,2,abstract,6.0,4.0,8.0
+autocracy,2,authority,11.0,7.0,15.0
+automatic,2,abstract,7.0,4.0,10.0
+average,2,math,8.5,8.0,9.0
+axe,2,instrument,5.5,4.0,7.0
+baby,2,stage,9.0,9.0,9.0
+backdate,2,time,4.5,4.0,5.0
+tax,2,legal,7.0,5.0,9.0
+taxi,2,transport,5.5,5.0,6.0
+tea,2,foods and drinks,5.5,5.0,6.0
+teacher,2,profession,5.5,5.0,6.0
+team,2,group,3.5,3.0,4.0
+model,2,behavior,6.0,5.0,7.0
+modern,2,time,5.5,4.0,7.0
+crayons,2,utility item,11.0,11.0,11.0
+creeper,2,flora and fauna,7.0,7.0,7.0
+cremate,2,action,12.0,12.0,12.0
+minister,2,authority,5.5,4.0,7.0
+ministry of social justice and empowerment,2,authority,4.5,4.0,5.0
+minor,2,behavior,8.5,8.0,9.0
+minority,2,group,4.5,4.0,5.0
+minute,2,time,10.0,8.0,12.0
+minutes,2,time,6.0,6.0,6.0
+miss,2,emotion,6.0,5.0,7.0
+corruption,2,legal,7.0,7.0,7.0
+cosmetics,2,substance,7.0,7.0,7.0
+country,2,geography,7.0,7.0,7.0
+courier,2,transport,8.0,6.0,10.0
+cover,2,action,6.0,6.0,6.0
+cow,2,flora and fauna,7.0,7.0,7.0
+technician,2,profession,9.0,4.0,14.0
+teeth,2,biology,7.0,7.0,7.0
+telangana,2,geography,5.0,5.0,5.0
+telephone,2,electronic and electrical,7.0,7.0,7.0
+tell,2,action,7.0,7.0,7.0
+telugu,2,language,5.0,3.0,7.0
+temple,2,religious,5.5,4.0,7.0
+tennis,2,sport,5.5,5.0,6.0
+terrace,2,construction,9.0,9.0,9.0
+testify,2,action,11.5,9.0,14.0
+metal,2,metal and minerals,7.0,5.0,9.0
+metre,2,metric,6.5,5.0,8.0
+middle,2,comparator,4.5,4.0,5.0
+milk,2,foods and drinks,5.0,4.0,6.0
+milkman,2,profession,6.0,6.0,6.0
+millilitre,2,metric,6.5,6.0,7.0
+cure,2,medical,7.5,7.0,8.0
+curtain,2,utility item,8.5,8.0,9.0
+mason,2,profession,6.0,5.0,7.0
+mat,2,utility item,8.0,8.0,8.0
+matchbox,2,miscellaneous object,7.5,7.0,8.0
+material,2,substance,6.0,5.0,7.0
+may,2,time,5.0,5.0,5.0
+me,2,human,5.5,5.0,6.0
+mean,2,behavior,4.0,4.0,4.0
+measles,2,biology,6.5,6.0,7.0
+measurement,2,math,5.5,3.0,8.0
+meet,2,group,5.0,4.0,6.0
+meeting,2,group,4.0,4.0,4.0
+meghalaya,2,geography,4.0,4.0,4.0
+crocodile,2,flora and fauna,6.0,6.0,6.0
+tease,2,behavior,6.0,6.0,6.0
+then,2,time,7.0,7.0,7.0
+there,2,geography,4.5,3.0,6.0
+they,2,relation,4.0,4.0,4.0
+thief,2,profession,6.0,6.0,6.0
+thin,2,quality,5.0,4.0,6.0
+attitude,2,behavior,4.0,4.0,4.0
+thorn,2,miscellaneous object,6.0,6.0,6.0
+thrice,2,comparator,5.0,5.0,5.0
+make,2,action,4.5,4.0,5.0
+malayalam,2,language,6.0,5.0,7.0
+manage,2,action,4.0,4.0,4.0
+mango,2,foods and drinks,5.5,4.0,7.0
+manner,2,emotion,4.5,4.0,5.0
+cunning,2,behavior,6.0,6.0,6.0
+cupboard,2,utility item,8.5,8.0,9.0
+curds,2,foods and drinks,5.5,5.0,6.0
+assassination,2,event,13.0,11.0,15.0
+assembly,2,group,7.5,7.0,8.0
+association,2,organisation,6.5,4.0,9.0
+toes,2,biology,9.0,9.0,9.0
+together,2,group,4.0,4.0,4.0
+loan,2,banking,6.0,5.0,7.0
+local,2,spatial position,7.5,5.0,10.0
+lose,2,sport,4.5,4.0,5.0
+lotus,2,flora and fauna,6.0,6.0,6.0
+love,2,emotion,5.5,4.0,7.0
+lunch,2,foods and drinks,4.5,3.0,6.0
+cycle,2,transport,5.5,5.0,6.0
+madhya pradesh,2,geography,5.5,4.0,7.0
+mahavir jayanti,2,event,4.0,4.0,4.0
+that,2,relation,4.5,4.0,5.0
+themselves,2,relation,4.5,4.0,5.0
+lightning,2,weather,6.0,6.0,6.0
+like,2,comparator,6.0,5.0,7.0
+like social media,2,internet,4.0,4.0,4.0
+lips,2,biology,6.5,6.0,7.0
+lipstick,2,utility item,7.0,7.0,7.0
+liquid,2,physics,8.0,6.0,10.0
+dasara,2,religious,7.0,7.0,7.0
+daughter,2,relation,10.0,10.0,10.0
+day before,2,time,7.0,7.0,7.0
+lizard,2,flora and fauna,6.0,6.0,6.0
+throw,2,action,4.5,3.0,6.0
+tie,2,wearable,5.5,4.0,7.0
+tiger,2,flora and fauna,6.0,5.0,7.0
+time table,2,time,5.0,5.0,5.0
+tinda,2,flora and fauna,5.0,5.0,5.0
+tired,2,sensation,6.0,5.0,7.0
+lemon,2,foods and drinks,6.0,5.0,7.0
+tolerate,2,behavior,5.0,5.0,5.0
+tool,2,instrument,5.0,5.0,5.0
+arrest,2,legal,3.5,3.0,4.0
+art,2,entertainment,4.5,4.0,5.0
+asia,2,geography,6.0,5.0,7.0
+ask,2,action,7.0,7.0,7.0
+toothpaste,2,utility item,5.5,5.0,6.0
+leprosy,2,biology,6.0,6.0,6.0
+letter,2,readable,6.0,5.0,7.0
+library,2,readable,6.0,4.0,8.0
+deaf,2,medical,5.5,4.0,7.0
+debit card,2,banking,4.0,4.0,4.0
+licence,2,legal,12.5,10.0,15.0
+lift,2,transport,4.0,4.0,4.0
+lighthouse,2,construction,7.5,7.0,8.0
+demand draft,2,banking,6.0,6.0,6.0
+laptop,2,electronic and electrical,5.0,5.0,5.0
+top,2,comparator,4.0,4.0,4.0
+total,2,quantity,6.0,4.0,8.0
+touch,2,sensation,6.0,6.0,6.0
+towel,2,utility item,5.0,4.0,6.0
+trade,2,commerce,7.0,6.0,8.0
+approve,2,action,3.0,3.0,3.0
+approximate,2,metric,4.0,4.0,4.0
+transfer,2,action,6.5,6.0,7.0
+lazy,2,attribute,8.0,8.0,8.0
+lead,2,authority,5.0,4.0,6.0
+leather,2,substance,8.0,8.0,8.0
+delegate,2,authority,6.5,3.0,10.0
+lecturer,2,education,6.0,5.0,7.0
+legal,2,legal,6.0,4.0,8.0
+kiss,2,action,5.5,5.0,6.0
+translate,2,action,4.0,4.0,4.0
+triple,2,quantity,4.0,4.0,4.0
+truck,2,transport,4.5,4.0,5.0
+anticlockwise,2,metric,9.5,8.0,11.0
+any,2,abstract,5.5,5.0,6.0
+apple,2,flora and fauna,5.5,4.0,7.0
+applicant,2,human,8.0,5.0,11.0
+application,2,action,5.0,4.0,6.0
+kite,2,sport,5.0,5.0,5.0
+know,2,action,5.0,3.0,7.0
+knowledge,2,abstract,5.0,4.0,6.0
+krishna,2,religious,5.0,5.0,5.0
+kumbh mela,2,event,5.5,4.0,7.0
+label,2,action,3.5,3.0,4.0
+delhi,2,geography,5.0,4.0,6.0
+anklets,2,wearable,7.0,7.0,7.0
+antartica,2,geography,7.5,5.0,10.0
+anti corruption law,2,legal,8.0,5.0,11.0
+anti virus,2,computer,7.5,7.0,8.0
+turkey,2,geography,5.0,3.0,7.0
+turn,2,action,5.5,5.0,6.0
+tusks,2,biology,6.0,6.0,6.0
+twin,2,biology,4.0,4.0,4.0
+kali mata,2,religious,4.5,4.0,5.0
+kangaroo,2,flora and fauna,6.0,6.0,6.0
+kick,2,action,6.0,5.0,7.0
+kidney beans,2,foods and drinks,5.0,4.0,6.0
+kill,2,action,5.0,5.0,5.0
+kind,2,behavior,8.0,8.0,8.0
+desert,2,geography,8.0,8.0,8.0
+destroy,2,action,7.0,6.0,8.0
+diode,2,electronic and electrical,10.5,9.0,12.0
+isl,2,language,5.0,5.0,5.0
+it,2,language,5.0,4.0,6.0
+jackfruit,2,foods and drinks,6.5,6.0,7.0
+jail,2,construction,5.5,5.0,6.0
+jaipur,2,geography,5.0,5.0,5.0
+jam,2,foods and drinks,6.0,6.0,6.0
+janmashtami,2,event,5.0,5.0,5.0
+jawaharlal nehru,2,human,4.0,4.0,4.0
+jew,2,religious,6.0,6.0,6.0
+judge,2,authority,7.0,6.0,8.0
+judgement,2,action,10.0,10.0,10.0
+dhobi,2,profession,6.5,6.0,7.0
+dhothi,2,wearable,7.0,7.0,7.0
+juice,2,foods and drinks,5.5,5.0,6.0
+jump,2,process,6.0,6.0,6.0
+insurance,2,banking,6.5,5.0,8.0
+twins,2,biology,9.0,9.0,9.0
+twitter,2,internet,4.5,4.0,5.0
+typist,2,profession,5.5,5.0,6.0
+under,2,spatial position,4.5,4.0,5.0
+ammeter,2,physics,9.5,8.0,11.0
+andhra pradesh,2,geography,5.5,4.0,7.0
+angle of refraction,2,physics,10.0,10.0,10.0
+unemployed,2,comparator,4.0,4.0,4.0
+international,2,geography,5.0,5.0,5.0
+interview,2,process,7.5,6.0,9.0
+introduce,2,action,5.0,4.0,6.0
+invent,2,process,6.0,6.0,6.0
+diesel,2,transport,8.0,6.0,10.0
+diet,2,foods and drinks,8.5,6.0,11.0
+difference,2,comparator,7.5,7.0,8.0
+independent,2,attribute,7.0,4.0,10.0
+indigo,2,colour,8.0,6.0,10.0
+industry,2,profession,9.5,9.0,10.0
+influence,2,action,5.0,3.0,7.0
+information,2,legal,6.5,6.0,7.0
+initial,2,time,8.5,8.0,9.0
+initiative,2,behavior,8.0,8.0,8.0
+input,2,process,8.5,8.0,9.0
+instagram,2,internet,4.0,3.0,5.0
+direct current,2,physics,9.5,9.0,10.0
+director,2,authority,7.0,6.0,8.0
+dirty,2,quality,6.5,6.0,7.0
+disappear,2,action,5.0,5.0,5.0
+discount,2,banking,7.5,6.0,9.0
+instigate,2,action,7.0,7.0,7.0
+instrument,2,instrument,9.0,9.0,9.0
+university,2,education,5.5,4.0,7.0
+unlawful,2,legal,6.0,5.0,7.0
+already,2,time,3.5,3.0,4.0
+alternate current,2,physics,8.0,8.0,8.0
+aluminium,2,metal and minerals,8.0,8.0,8.0
+unlimited,2,quantity,5.5,5.0,6.0
+until,2,time,6.5,6.0,7.0
+up,2,spatial position,4.0,3.0,5.0
+hungry,2,sensation,5.5,4.0,7.0
+hyderabad,2,geography,6.0,6.0,6.0
+ice cream,2,foods and drinks,5.5,5.0,6.0
+idle talk,2,process,6.0,4.0,8.0
+illegal,2,legal,6.5,5.0,8.0
+in,2,spatial position,4.5,4.0,5.0
+discuss,2,process,5.5,5.0,6.0
+disease,2,biology,8.5,7.0,10.0
+do,2,action,4.5,3.0,6.0
+horns,2,biology,6.5,6.0,7.0
+horse,2,flora and fauna,6.0,6.0,6.0
+hot air balloon,2,transport,7.0,5.0,9.0
+hour,2,time,5.0,3.0,7.0
+hours,2,time,6.5,6.0,7.0
+house,2,construction,6.0,4.0,8.0
+district,2,geography,6.5,5.0,8.0
+how many,2,quantity,5.0,4.0,6.0
+hug,2,gesture,4.5,4.0,5.0
+humid,2,weather,5.0,5.0,5.0
+uniform,2,quantity,7.0,6.0,8.0
+unit,2,metric,6.5,6.0,7.0
+unite,2,action,4.0,4.0,4.0
+united nations convention on the rights of persons with disabilities uncrpd,2,organisation,4.5,4.0,5.0
+united states of america,2,geography,5.5,4.0,7.0
+draw,2,action,5.0,4.0,6.0
+hawker,2,profession,10.5,7.0,14.0
+he,2,language,5.0,3.0,7.0
+head,2,biology,6.0,5.0,7.0
+hear,2,sound,8.0,8.0,8.0
+hearing,2,sound,5.0,4.0,6.0
+hearing aid,2,sound,8.5,8.0,9.0
+heart,2,biology,7.5,7.0,8.0
+help,2,process,7.0,7.0,7.0
+hen,2,flora and fauna,6.0,6.0,6.0
+hill,2,geography,9.0,9.0,9.0
+hindu,2,religious,5.5,5.0,6.0
+hip,2,biology,6.5,6.0,7.0
+hippo,2,flora and fauna,7.0,7.0,7.0
+hole,2,spatial position,6.5,6.0,7.0
+hope,2,action,7.0,7.0,7.0
+hang,2,action,6.0,6.0,6.0
+upset,2,behavior,4.0,4.0,4.0
+urdu,2,language,5.0,3.0,7.0
+uttar pradesh,2,geography,5.0,4.0,6.0
+vacation,2,event,6.5,4.0,9.0
+vadodara,2,geography,5.0,4.0,6.0
+varanasi,2,geography,4.5,4.0,5.0
+vehicles,2,transport,6.5,6.0,7.0
+verification,2,legal,8.0,8.0,8.0
+very hot,2,weather,4.5,4.0,5.0
+alarm,2,utility item,4.5,4.0,5.0
+victory,2,event,4.0,4.0,4.0
+video,2,computer,3.5,3.0,4.0
+hard drive,2,electronic and electrical,5.5,5.0,6.0
+harmonium,2,sound,5.5,5.0,6.0
+doubt,2,attribute,5.0,4.0,6.0
+video camera,2,electronic and electrical,9.5,8.0,11.0
+vietnam,2,geography,3.0,3.0,3.0
+air pollution,2,chemistry,8.5,5.0,12.0
+airport,2,transport,5.0,5.0,5.0
+vodka,2,foods and drinks,4.0,4.0,4.0
+volkswagen,2,organisation,4.5,4.0,5.0
+voltmeter,2,instrument,11.5,10.0,13.0
+volume,2,sound,5.5,5.0,6.0
+gujarati,2,geography,4.5,3.0,6.0
+gurudwara,2,religious,5.0,5.0,5.0
+dream,2,behavior,5.0,4.0,6.0
+dress,2,wearable,5.0,3.0,7.0
+driver,2,profession,6.0,5.0,7.0
+drop,2,action,6.0,6.0,6.0
+hair dryer,2,utility item,6.0,6.0,6.0
+half,2,math,6.0,3.0,9.0
+waste,2,abstract,5.0,4.0,6.0
+watermelon,2,foods and drinks,5.5,4.0,7.0
+advantage,2,metric,6.0,3.0,9.0
+waves,2,physics,8.0,8.0,8.0
+we,2,group,4.0,3.0,5.0
+government,2,authority,5.5,4.0,7.0
+grandmother,2,relation,8.0,5.0,11.0
+dry,2,attribute,4.5,3.0,6.0
+vote,2,action,6.0,4.0,8.0
+want,2,abstract,6.0,6.0,6.0
+after,2,spatial position,5.0,4.0,6.0
+again,2,time,5.0,4.0,6.0
+agenda,2,process,8.0,6.0,10.0
+agree,2,action,5.5,5.0,6.0
+war,2,abstract,5.0,5.0,5.0
+warn,2,action,5.0,3.0,7.0
+weekly,2,time,7.5,4.0,11.0
+weird,2,abstract,3.5,3.0,4.0
+welcome,2,greeting,4.5,3.0,6.0
+add,2,math,6.0,5.0,7.0
+west,2,spatial position,5.5,3.0,8.0
+west bengal,2,geography,5.5,4.0,7.0
+generator,2,electronic and electrical,7.5,5.0,10.0
+genuine,2,attribute,5.5,4.0,7.0
+geography,2,geography,6.5,3.0,10.0
+germany,2,geography,5.5,4.0,7.0
+giraffe,2,flora and fauna,6.0,6.0,6.0
+during,2,time,6.0,6.0,6.0
+dustbin,2,utility item,5.0,5.0,5.0
+each,2,quantity,4.5,4.0,5.0
+go,2,process,4.5,3.0,6.0
+goal,2,abstract,5.0,4.0,6.0
+election,2,event,6.5,5.0,8.0
+from,2,language,5.0,5.0,5.0
+fruits,2,foods and drinks,6.0,5.0,7.0
+full moon day,2,event,9.0,9.0,9.0
+full stomach,2,sensation,4.5,4.0,5.0
+funeral,2,event,9.0,9.0,9.0
+eagle,2,flora and fauna,8.5,8.0,9.0
+earn,2,profession,7.5,6.0,9.0
+easter,2,religious,8.0,8.0,8.0
+easy,2,comparator,5.5,5.0,6.0
+economics,2,education,5.0,4.0,6.0
+garden,2,construction,4.5,4.0,5.0
+gardener,2,profession,6.0,5.0,7.0
+garlic,2,foods and drinks,6.0,5.0,7.0
+wear,2,action,5.0,4.0,6.0
+weaver,2,profession,7.0,6.0,8.0
+wet,2,attribute,4.5,3.0,6.0
+whale,2,flora and fauna,8.0,8.0,8.0
+what,2,abstract,4.5,3.0,6.0
+what time,2,abstract,4.5,3.0,6.0
+wheat,2,foods and drinks,5.0,5.0,5.0
+where,2,abstract,4.5,3.0,6.0
+which,2,abstract,4.5,4.0,5.0
+whistle,2,sound,5.0,5.0,5.0
+who,2,abstract,4.5,4.0,5.0
+win,2,comparator,4.5,4.0,5.0
+fresh,2,quality,6.0,4.0,8.0
+edit,2,action,4.0,4.0,4.0
+education,2,education,5.5,5.0,6.0
+egg,2,foods and drinks,6.5,6.0,7.0
+egypt,2,geography,3.5,3.0,4.0
+elbow,2,biology,7.5,7.0,8.0
+embroidery,2,wearable,6.5,6.0,7.0
+emergency,2,event,7.0,5.0,9.0
+float,2,action,8.5,6.0,11.0
+flood,2,event,9.0,9.0,9.0
+floor,2,construction,8.0,8.0,8.0
+flower,2,flora and fauna,6.0,6.0,6.0
+flute,2,sound,6.5,6.0,7.0
+food,2,foods and drinks,5.0,4.0,6.0
+foot,2,biology,7.0,7.0,7.0
+forget,2,action,5.5,4.0,7.0
+format,2,attribute,10.5,6.0,15.0
+electrode,2,chemistry,10.0,10.0,10.0
+fox,2,flora and fauna,6.0,6.0,6.0
+france,2,geography,5.5,4.0,7.0
+free,2,behavior,5.5,4.0,7.0
+freeze,2,process,4.5,3.0,6.0
+father,2,relation,9.5,9.0,10.0
+father-in-law,2,relation,10.5,10.0,11.0
+fear,2,emotion,7.0,7.0,7.0
+feather,2,flora and fauna,6.5,6.0,7.0
+february,2,time,6.0,6.0,6.0
+feel,2,sensation,6.0,6.0,6.0
+few,2,quantity,4.5,4.0,5.0
+field,2,geography,9.0,8.0,10.0
+filament,2,substance,11.0,11.0,11.0
+file,2,readable,6.5,5.0,8.0
+film,2,instrument,8.0,7.0,9.0
+fingers,2,human,8.0,7.0,9.0
+fire,2,substance,8.0,8.0,8.0
+first floor,2,construction,8.0,8.0,8.0
+fish,2,foods and drinks,6.0,6.0,6.0
+embarrass,2,action,3.5,3.0,4.0
+youth association of the deaf india,2,organisation,3.0,3.0,3.0
+abdicate,2,action,13.5,12.0,15.0
+yes,2,comparator,3.5,3.0,4.0
+express,2,action,4.0,4.0,4.0
+extinct,2,biology,4.0,4.0,4.0
+extra,2,quantity,6.5,5.0,8.0
+eye,2,biology,4.5,3.0,6.0
+face,2,biology,7.5,7.0,8.0
+factory,2,construction,5.5,5.0,6.0
+engineer,2,profession,6.0,5.0,7.0
+england,2,geography,4.0,3.0,5.0
+english,2,language,3.5,3.0,4.0
+enough,2,quantity,5.0,4.0,6.0
+equal,2,metric,5.5,4.0,7.0
+faith,2,abstract,6.0,6.0,6.0
+wine,2,foods and drinks,3.5,3.0,4.0
+rose,2,flora and fauna,7.0,7.0,7.0
+bud,2,flora and fauna,6.0,6.0,6.0
+buddha purnima,2,religious,7.0,6.0,8.0
+rough,2,sensation,5.5,4.0,7.0
+route,2,transport,8.0,6.0,10.0
+zip,2,utility item,4.0,4.0,4.0
+examination,2,education,7.0,7.0,7.0
+equator,2,geography,9.5,8.0,11.0
+ethics,2,behavior,4.5,4.0,5.0
+europe,2,geography,6.0,4.0,8.0
+expansion,2,quantity,8.5,8.0,9.0
+expiry,2,banking,7.5,6.0,9.0
+write,2,action,5.0,4.0,6.0
+yak,2,flora and fauna,5.5,5.0,6.0
+young,2,attribute,5.0,4.0,6.0
+yourself,2,abstract,5.0,3.0,7.0
+4g,1,internet,3.0,3.0,3.0
+a line skirt,1,wearable,7.0,7.0,7.0
+a lot,1,quantity,4.0,4.0,4.0
+abacus,1,instrument,7.0,7.0,7.0
+abbreviation,1,language,11.0,11.0,11.0
+abeyance,1,banking,8.0,8.0,8.0
+able,1,abstract,7.0,7.0,7.0
+about,1,spatial position,6.0,6.0,6.0
+yellow flowered plants,1,attribute,11.0,11.0,11.0
+year to year,1,comparator,9.0,9.0,9.0
+year of harvest,1,time,8.0,8.0,8.0
+year financial,1,banking,7.0,7.0,7.0
+year calender,1,readable,8.0,8.0,8.0
+year book,1,readable,7.0,7.0,7.0
+yardstick,1,utility item,8.0,8.0,8.0
+yamaha bike,1,transport,4.0,4.0,4.0
+acceptance letter,1,education,6.0,6.0,6.0
+acceptance clean,1,banking,12.0,12.0,12.0
+acceptance,1,abstract,10.0,10.0,10.0
+acceleration,1,physics,7.0,7.0,7.0
+youtube,1,internet,5.0,5.0,5.0
+youth,1,group,5.0,5.0,5.0
+younger sister,1,relation,4.0,4.0,4.0
+younger brother,1,relation,3.0,3.0,3.0
+younger,1,comparator,4.0,4.0,4.0
+equation,1,math,8.0,8.0,8.0
+excuse me,1,action,4.0,4.0,4.0
+excuse,1,action,6.0,6.0,6.0
+exclude,1,action,5.0,5.0,5.0
+excited,1,emotion,4.0,4.0,4.0
+exchange positions,1,action,4.0,4.0,4.0
+exchange foreign,1,banking,11.0,11.0,11.0
+exchange,1,action,5.0,5.0,5.0
+excavation,1,process,8.0,8.0,8.0
+example,1,abstract,4.0,4.0,4.0
+examine,1,action,6.0,6.0,6.0
+exam,1,education,6.0,6.0,6.0
+ewe,1,flora and fauna,10.0,10.0,10.0
+evil,1,quality,4.0,4.0,4.0
+everyday,1,time,4.0,4.0,4.0
+every time,1,time,4.0,4.0,4.0
+expert,1,attribute,9.0,9.0,9.0
+experience,1,abstract,5.0,5.0,5.0
+expenditure,1,banking,9.0,9.0,9.0
+exotic sheep,1,flora and fauna,15.0,15.0,15.0
+exhaust pump,1,machine,9.0,9.0,9.0
+exemption,1,banking,8.0,8.0,8.0
+event,1,event,5.0,5.0,5.0
+estimate,1,banking,7.0,7.0,7.0
+establishment,1,organisation,9.0,9.0,9.0
+establish,1,action,6.0,6.0,6.0
+essel world,1,entertainment,5.0,5.0,5.0
+essay,1,readable,7.0,7.0,7.0
+error of omission,1,banking,7.0,7.0,7.0
+ernission,1,action,8.0,8.0,8.0
+erect,1,attribute,6.0,6.0,6.0
+eraser,1,utility item,7.0,7.0,7.0
+engineering scale,1,instrument,13.0,13.0,13.0
+engineering compass,1,instrument,14.0,14.0,14.0
+fail,1,action,6.0,6.0,6.0
+factorisation,1,math,14.0,14.0,14.0
+facsimile signature,1,legal,8.0,8.0,8.0
+face value,1,banking,7.0,7.0,7.0
+eyebrow,1,biology,5.0,5.0,5.0
+extrahepatic,1,medical,10.0,10.0,10.0
+external parasite,1,biology,11.0,11.0,11.0
+external,1,attribute,9.0,9.0,9.0
+extermal combustion engine,1,machine,11.0,11.0,11.0
+extension counter,1,banking,7.0,7.0,7.0
+extend,1,action,5.0,5.0,5.0
+express train,1,transport,6.0,6.0,6.0
+exporting graphics,1,computer,15.0,15.0,15.0
+expertise,1,quality,4.0,4.0,4.0
+fast growing temporary hedges,1,flora and fauna,12.0,12.0,12.0
+fast,1,attribute,6.0,6.0,6.0
+farmer,1,profession,6.0,6.0,6.0
+farm,1,construction,7.0,7.0,7.0
+fare,1,banking,9.0,9.0,9.0
+family tree,1,group,14.0,14.0,14.0
+family court,1,legal,15.0,15.0,15.0
+false flooring,1,construction,9.0,9.0,9.0
+fall,1,action,5.0,5.0,5.0
+fake,1,attribute,5.0,5.0,5.0
+epistaxis,1,medical,10.0,10.0,10.0
+epaulet,1,wearable,9.0,9.0,9.0
+environmental pollution,1,biology,7.0,7.0,7.0
+envelope,1,utility item,6.0,6.0,6.0
+entertainment,1,entertainment,5.0,5.0,5.0
+enquiry,1,banking,8.0,8.0,8.0
+fax,1,electronic and electrical,8.0,8.0,8.0
+faucet aerator,1,instrument,8.0,8.0,8.0
+fat test of milk,1,process,12.0,12.0,12.0
+fat,1,attribute,6.0,6.0,6.0
+fast track court,1,legal,14.0,14.0,14.0
+energymeter,1,physics,11.0,11.0,11.0
+energy meter,1,physics,9.0,9.0,9.0
+energy,1,physics,11.0,11.0,11.0
+endorsement,1,banking,9.0,9.0,9.0
+end use,1,banking,8.0,8.0,8.0
+enclosure,1,banking,9.0,9.0,9.0
+encashment,1,banking,10.0,10.0,10.0
+empty,1,quantity,6.0,6.0,6.0
+empowerment,1,abstract,4.0,4.0,4.0
+employment,1,banking,10.0,10.0,10.0
+emphasize,1,action,7.0,7.0,7.0
+first coat,1,wearable,10.0,10.0,10.0
+first charge,1,banking,8.0,8.0,8.0
+fir,1,legal,10.0,10.0,10.0
+fingerspell,1,gesture,4.0,4.0,4.0
+fingerprints,1,human,12.0,12.0,12.0
+financial year,1,banking,11.0,11.0,11.0
+finance,1,banking,7.0,7.0,7.0
+final accounts,1,banking,10.0,10.0,10.0
+final,1,stage,7.0,7.0,7.0
+filter pump,1,instrument,11.0,11.0,11.0
+fill,1,action,5.0,5.0,5.0
+figure,1,instrument,8.0,8.0,8.0
+fight,1,action,5.0,5.0,5.0
+fever,1,medical,7.0,7.0,7.0
+festivals,1,event,6.0,6.0,6.0
+feed,1,action,6.0,6.0,6.0
+eleven,1,math,4.0,4.0,4.0
+elevator,1,construction,4.0,4.0,4.0
+elevation,1,geography,15.0,15.0,15.0
+elevated plot,1,geography,11.0,11.0,11.0
+eletronegative force,1,physics,10.0,10.0,10.0
+electronics,1,electronic and electrical,10.0,10.0,10.0
+fixed asset,1,banking,13.0,13.0,13.0
+five hundred,1,math,4.0,4.0,4.0
+five,1,math,5.0,5.0,5.0
+fitted,1,attribute,10.0,10.0,10.0
+fishing net,1,instrument,7.0,7.0,7.0
+fishing for games,1,sport,5.0,5.0,5.0
+fisher man,1,profession,7.0,7.0,7.0
+fish food,1,foods and drinks,10.0,10.0,10.0
+fish as a human food,1,foods and drinks,9.0,9.0,9.0
+fish as a food of cattle,1,foods and drinks,7.0,7.0,7.0
+floating plants,1,flora and fauna,13.0,13.0,13.0
+flexible,1,attribute,6.0,6.0,6.0
+flatulence,1,human,10.0,10.0,10.0
+flatfoot,1,human,11.0,11.0,11.0
+flat gardens,1,geography,11.0,11.0,11.0
+flat belt,1,instrument,14.0,14.0,14.0
+flat,1,attribute,6.0,6.0,6.0
+flag,1,miscellaneous object,7.0,7.0,7.0
+fixed rate,1,banking,7.0,7.0,7.0
+fixed deposit,1,banking,4.0,4.0,4.0
+emoluments,1,banking,9.0,9.0,9.0
+emergency medical technician,1,profession,7.0,7.0,7.0
+embryonic development,1,biology,15.0,15.0,15.0
+email,1,internet,4.0,4.0,4.0
+ellipse tool,1,instrument,10.0,10.0,10.0
+eliminate,1,action,7.0,7.0,7.0
+fluid pressure,1,physics,10.0,10.0,10.0
+fluctuation,1,action,10.0,10.0,10.0
+flowers for pot,1,flora and fauna,8.0,8.0,8.0
+flowering hedges,1,flora and fauna,10.0,10.0,10.0
+flower for recreation,1,flora and fauna,10.0,10.0,10.0
+flower for medical importance,1,flora and fauna,10.0,10.0,10.0
+flower for exhibition,1,flora and fauna,13.0,13.0,13.0
+flower for controlling soil erosion,1,flora and fauna,11.0,11.0,11.0
+flower for beautification,1,flora and fauna,8.0,8.0,8.0
+flouresence,1,attribute,8.0,8.0,8.0
+flounce  hem,1,wearable,15.0,15.0,15.0
+floriculture,1,flora and fauna,11.0,11.0,11.0
+floppy drive,1,computer,13.0,13.0,13.0
+floppy disk,1,computer,12.0,12.0,12.0
+floppy,1,computer,7.0,7.0,7.0
+flooring,1,construction,8.0,8.0,8.0
+foreign,1,geography,7.0,7.0,7.0
+forehead,1,biology,5.0,5.0,5.0
+footpath,1,construction,7.0,7.0,7.0
+football,1,sport,7.0,7.0,7.0
+footage,1,computer,11.0,11.0,11.0
+foot body part,1,biology,5.0,5.0,5.0
+foolish,1,behavior,6.0,6.0,6.0
+fool,1,behavior,6.0,6.0,6.0
+font weight,1,attribute,7.0,7.0,7.0
+folio,1,readable,9.0,9.0,9.0
+folder,1,utility item,11.0,11.0,11.0
+fog,1,weather,5.0,5.0,5.0
+focal length,1,physics,10.0,10.0,10.0
+fly,1,flora and fauna,4.0,4.0,4.0
+fluted  pleats,1,wearable,14.0,14.0,14.0
+flush door,1,construction,5.0,5.0,5.0
+electrical engineering,1,education,6.0,6.0,6.0
+electrical energy,1,physics,9.0,9.0,9.0
+electrical burns,1,medical,9.0,9.0,9.0
+electric tester,1,instrument,7.0,7.0,7.0
+electric charge,1,physics,9.0,9.0,9.0
+electric car,1,transport,10.0,10.0,10.0
+foundation,1,construction,10.0,10.0,10.0
+fossll fueis,1,substance,10.0,10.0,10.0
+fornication,1,action,15.0,15.0,15.0
+formula,1,math,8.0,8.0,8.0
+former,1,comparator,5.0,5.0,5.0
+fork,1,utility item,5.0,5.0,5.0
+forgive,1,behavior,8.0,8.0,8.0
+forged,1,quality,9.0,9.0,9.0
+forever,1,time,4.0,4.0,4.0
+forest,1,geography,5.0,5.0,5.0
+freexing,1,behavior,7.0,7.0,7.0
+fray  edges,1,time,11.0,11.0,11.0
+fraud,1,banking,5.0,5.0,5.0
+frank,1,behavior,6.0,6.0,6.0
+fourteen,1,math,4.0,4.0,4.0
+four cricket,1,sport,4.0,4.0,4.0
+four,1,math,5.0,5.0,5.0
+foundation organization,1,organisation,7.0,7.0,7.0
+electron,1,physics,12.0,12.0,12.0
+electromagnetic wave,1,physics,12.0,12.0,12.0
+electromagnet,1,physics,8.0,8.0,8.0
+electrolyte,1,chemistry,11.0,11.0,11.0
+electricity,1,physics,4.0,4.0,4.0
+electrical tester,1,instrument,9.0,9.0,9.0
+electrical service,1,organisation,6.0,6.0,6.0
+electrical leakage,1,physics,10.0,10.0,10.0
+frock,1,wearable,8.0,8.0,8.0
+froage crops,1,foods and drinks,15.0,15.0,15.0
+frisbee,1,sport,6.0,6.0,6.0
+electric bus,1,transport,13.0,13.0,13.0
+electric bike,1,transport,10.0,10.0,10.0
+electric appliances,1,electronic and electrical,9.0,9.0,9.0
+elder brother,1,relation,3.0,3.0,3.0
+elastic,1,attribute,12.0,12.0,12.0
+el salvador,1,geography,4.0,4.0,4.0
+eighteen,1,math,5.0,5.0,5.0
+eight,1,math,4.0,4.0,4.0
+eggplant,1,foods and drinks,6.0,6.0,6.0
+edge,1,spatial position,9.0,9.0,9.0
+frictional force,1,physics,10.0,10.0,10.0
+frequency,1,time,8.0,8.0,8.0
+freezing,1,process,12.0,12.0,12.0
+galvanometer,1,instrument,10.0,10.0,10.0
+galaxy,1,astronomical,12.0,12.0,12.0
+future,1,time,5.0,5.0,5.0
+fuse,1,electronic and electrical,9.0,9.0,9.0
+funnel  neck,1,instrument,10.0,10.0,10.0
+funeral pyre,1,construction,5.0,5.0,5.0
+funeral cremation,1,event,11.0,11.0,11.0
+funds,1,banking,6.0,6.0,6.0
+funding,1,banking,6.0,6.0,6.0
+fund,1,banking,7.0,7.0,7.0
+fumiture,1,utility item,11.0,11.0,11.0
+full frame,1,attribute,15.0,15.0,15.0
+fryers,1,foods and drinks,15.0,15.0,15.0
+fry,1,action,5.0,5.0,5.0
+frustrate,1,behavior,5.0,5.0,5.0
+fruit disease,1,biology,15.0,15.0,15.0
+gas,1,physics,10.0,10.0,10.0
+garib rath express,1,transport,5.0,5.0,5.0
+garage door opener,1,utility item,6.0,6.0,6.0
+garage,1,construction,6.0,6.0,6.0
+gangtok,1,geography,4.0,4.0,4.0
+gang box,1,utility item,9.0,9.0,9.0
+gandhinagar,1,geography,3.0,3.0,3.0
+eczema,1,medical,7.0,7.0,7.0
+economic importance of fish in india,1,banking,12.0,12.0,12.0
+economic,1,education,11.0,11.0,11.0
+echo,1,action,11.0,11.0,11.0
+earth rammer,1,machine,9.0,9.0,9.0
+ear,1,biology,5.0,5.0,5.0
+ganapathi,1,religious,6.0,6.0,6.0
+gamma ray,1,physics,10.0,10.0,10.0
+games,1,sport,6.0,6.0,6.0
+germination,1,process,13.0,13.0,13.0
+german measles rubella,1,biology,5.0,5.0,5.0
+geothermal energy,1,physics,12.0,12.0,12.0
+georgia,1,geography,4.0,4.0,4.0
+geometry,1,math,8.0,8.0,8.0
+geodetic surveying,1,education,14.0,14.0,14.0
+geodetic survey,1,education,14.0,14.0,14.0
+genius,1,behavior,4.0,4.0,4.0
+general secretary,1,profession,4.0,4.0,4.0
+general ladger,1,banking,8.0,8.0,8.0
+general,1,abstract,4.0,4.0,4.0
+gazette,1,readable,10.0,10.0,10.0
+gas tractor,1,transport,8.0,8.0,8.0
+gas pipe,1,instrument,7.0,7.0,7.0
+gas lighter,1,utility item,5.0,5.0,5.0
+gas equation,1,physics,11.0,11.0,11.0
+dussehra,1,religious,4.0,4.0,4.0
+duronto express,1,transport,5.0,5.0,5.0
+durga,1,religious,6.0,6.0,6.0
+duration,1,time,10.0,10.0,10.0
+glass block,1,substance,9.0,9.0,9.0
+give,1,action,6.0,6.0,6.0
+girlfriend,1,relation,5.0,5.0,5.0
+gionee,1,organisation,6.0,6.0,6.0
+giga byte,1,metric,13.0,13.0,13.0
+gift,1,utility item,4.0,4.0,4.0
+ghost,1,religious,6.0,6.0,6.0
+ghee,1,foods and drinks,6.0,6.0,6.0
+ghana,1,geography,3.0,3.0,3.0
+geyser,1,machine,11.0,11.0,11.0
+get up,1,process,4.0,4.0,4.0
+get,1,action,4.0,4.0,4.0
+go air,1,organisation,5.0,5.0,5.0
+glue gun,1,machine,15.0,15.0,15.0
+glue,1,substance,4.0,4.0,4.0
+globe,1,geography,9.0,9.0,9.0
+glass stab,1,substance,10.0,10.0,10.0
+glass cutter,1,instrument,14.0,14.0,14.0
+glass bod,1,utility item,8.0,8.0,8.0
+e-mail,1,internet,7.0,7.0,7.0
+e-book,1,readable,4.0,4.0,4.0
+e office portal,1,internet,9.0,9.0,9.0
+dysuria,1,medical,12.0,12.0,12.0
+dwarf ornamental hedges,1,flora and fauna,14.0,14.0,14.0
+dwarf,1,attribute,6.0,6.0,6.0
+dvd,1,computer,6.0,6.0,6.0
+duster,1,utility item,6.0,6.0,6.0
+dust,1,miscellaneous object,6.0,6.0,6.0
+gprs,1,internet,9.0,9.0,9.0
+gossip,1,action,6.0,6.0,6.0
+google pay,1,internet,4.0,4.0,4.0
+google map,1,internet,9.0,9.0,9.0
+google chat,1,internet,6.0,6.0,6.0
+goods retumed,1,utility item,8.0,8.0,8.0
+goods,1,utility item,10.0,10.0,10.0
+goodbye,1,greeting,5.0,5.0,5.0
+good night,1,greeting,4.0,4.0,4.0
+good morning,1,greeting,4.0,4.0,4.0
+good afternoon,1,greeting,4.0,4.0,4.0
+golf,1,sport,5.0,5.0,5.0
+goldfish,1,flora and fauna,6.0,6.0,6.0
+golden temple,1,religious,5.0,5.0,5.0
+godet,1,wearable,14.0,14.0,14.0
+god,1,religious,6.0,6.0,6.0
+drum,1,sound,5.0,5.0,5.0
+drug overdose,1,stage,8.0,8.0,8.0
+drug addiction,1,stage,14.0,14.0,14.0
+drug abuse and addiction,1,stage,9.0,9.0,9.0
+drown,1,action,6.0,6.0,6.0
+green hand,1,behavior,9.0,9.0,9.0
+green bean,1,foods and drinks,6.0,6.0,6.0
+greedy,1,behavior,4.0,4.0,4.0
+gravity,1,physics,12.0,12.0,12.0
+graphics,1,computer,8.0,8.0,8.0
+grapes,1,foods and drinks,4.0,4.0,4.0
+grandson,1,relation,11.0,11.0,11.0
+grammar,1,language,5.0,5.0,5.0
+grain,1,foods and drinks,6.0,6.0,6.0
+graft,1,biology,5.0,5.0,5.0
+graders,1,education,10.0,10.0,10.0
+guard,1,profession,7.0,7.0,7.0
+grudge,1,emotion,6.0,6.0,6.0
+growth,1,time,8.0,8.0,8.0
+groundnut,1,foods and drinks,6.0,6.0,6.0
+ground water,1,substance,11.0,11.0,11.0
+grommets,1,machine,12.0,12.0,12.0
+grind,1,process,6.0,6.0,6.0
+grill,1,construction,8.0,8.0,8.0
+grenade,1,machine,12.0,12.0,12.0
+duranta spinosa,1,flora and fauna,7.0,7.0,7.0
+duplicate,1,comparator,9.0,9.0,9.0
+duffle,1,wearable,9.0,9.0,9.0
+dry cell,1,chemistry,8.0,8.0,8.0
+drunk driving law,1,legal,10.0,10.0,10.0
+drunk driving,1,legal,5.0,5.0,5.0
+drumstick,1,foods and drinks,7.0,7.0,7.0
+drawing,1,action,10.0,10.0,10.0
+hacksaw,1,instrument,7.0,7.0,7.0
+hack saw frame,1,instrument,8.0,8.0,8.0
+hack saw blade,1,instrument,7.0,7.0,7.0
+habit,1,behavior,5.0,5.0,5.0
+guwahati,1,geography,5.0,5.0,5.0
+gutka,1,foods and drinks,3.0,3.0,3.0
+gurunanak jayanthi,1,event,8.0,8.0,8.0
+guru nanak,1,human,5.0,5.0,5.0
+gulab jamun,1,foods and drinks,5.0,5.0,5.0
+guitar,1,sound,5.0,5.0,5.0
+guinea,1,geography,4.0,4.0,4.0
+guilt,1,emotion,5.0,5.0,5.0
+guide,1,utility item,6.0,6.0,6.0
+guess,1,foods and drinks,5.0,5.0,5.0
+guava,1,foods and drinks,4.0,4.0,4.0
+hammer,1,instrument,6.0,6.0,6.0
+halting allowance,1,banking,9.0,9.0,9.0
+halter top,1,wearable,11.0,11.0,11.0
+haji ali dargah,1,religious,6.0,6.0,6.0
+hairdresser,1,utility item,9.0,9.0,9.0
+hair clip,1,utility item,4.0,4.0,4.0
+hail,1,weather,7.0,7.0,7.0
+dropped  armhole sleeve,1,wearable,13.0,13.0,13.0
+droplet,1,quantity,6.0,6.0,6.0
+dropbox,1,internet,6.0,6.0,6.0
+drop cap,1,language,14.0,14.0,14.0
+drizzle,1,weather,7.0,7.0,7.0
+drip irrigation,1,process,14.0,14.0,14.0
+drink,1,action,6.0,6.0,6.0
+drilling machine pedestal,1,machine,8.0,8.0,8.0
+drill bit,1,machine,8.0,8.0,8.0
+dosa,1,foods and drinks,6.0,6.0,6.0
+donald duck,1,entertainment,5.0,5.0,5.0
+harvest,1,flora and fauna,6.0,6.0,6.0
+hariyana,1,geography,7.0,7.0,7.0
+hardware,1,electronic and electrical,7.0,7.0,7.0
+hard of hearing,1,sound,5.0,5.0,5.0
+harass,1,emotion,4.0,4.0,4.0
+happen,1,time,4.0,4.0,4.0
+hands,1,biology,5.0,5.0,5.0
+handpump water,1,substance,5.0,5.0,5.0
+handle,1,utility item,10.0,10.0,10.0
+handicapped,1,biology,7.0,7.0,7.0
+handcuffs,1,machine,8.0,8.0,8.0
+hand sanitizer,1,substance,9.0,9.0,9.0
+hand rail,1,construction,4.0,4.0,4.0
+hand,1,biology,7.0,7.0,7.0
+hdfc  bank,1,organisation,6.0,6.0,6.0
+have,1,action,4.0,4.0,4.0
+hatchet,1,instrument,11.0,11.0,11.0
+hat,1,wearable,3.0,3.0,3.0
+hashtag,1,language,3.0,3.0,3.0
+haryana,1,geography,5.0,5.0,5.0
+draughtsman,1,profession,7.0,7.0,7.0
+drama,1,action,6.0,6.0,6.0
+drainage,1,miscellaneous object,15.0,15.0,15.0
+draftsmen,1,profession,7.0,7.0,7.0
+draft,1,legal,4.0,4.0,4.0
+download,1,computer,8.0,8.0,8.0
+down,1,spatial position,5.0,5.0,5.0
+double entry,1,banking,11.0,11.0,11.0
+double click,1,computer,7.0,7.0,7.0
+double,1,quantity,4.0,4.0,4.0
+here,1,spatial position,5.0,5.0,5.0
+her,1,language,6.0,6.0,6.0
+hemophilia,1,biology,11.0,11.0,11.0
+helicopter,1,transport,8.0,8.0,8.0
+heir,1,relation,9.0,9.0,9.0
+heifer calf,1,flora and fauna,12.0,12.0,12.0
+heavy,1,attribute,7.0,7.0,7.0
+heavier,1,comparator,8.0,8.0,8.0
+heat engine,1,machine,10.0,10.0,10.0
+heat,1,physics,8.0,8.0,8.0
+hearsay,1,legal,15.0,15.0,15.0
+health,1,medical,8.0,8.0,8.0
+headache,1,biology,4.0,4.0,4.0
+head pan,1,utility item,4.0,4.0,4.0
+head office,1,profession,8.0,8.0,8.0
+head of income,1,banking,9.0,9.0,9.0
+hindu undivided family,1,group,11.0,11.0,11.0
+hindi,1,language,7.0,7.0,7.0
+himself,1,language,6.0,6.0,6.0
+himachal pradesh,1,geography,7.0,7.0,7.0
+him,1,language,7.0,7.0,7.0
+hill garden,1,geography,12.0,12.0,12.0
+high resistance,1,electronic and electrical,13.0,13.0,13.0
+high court,1,legal,11.0,11.0,11.0
+high,1,spatial position,7.0,7.0,7.0
+hide,1,spatial position,5.0,5.0,5.0
+hexadecimal,1,metric,10.0,10.0,10.0
+herself,1,language,6.0,6.0,6.0
+hers,1,relation,6.0,6.0,6.0
+herps virus,1,flora and fauna,5.0,5.0,5.0
+herpes,1,biology,7.0,7.0,7.0
+herniated intervertebral,1,biology,14.0,14.0,14.0
+home,1,geography,8.0,8.0,8.0
+holy,1,religious,8.0,8.0,8.0
+hollow blocks,1,construction,10.0,10.0,10.0
+hollow,1,spatial position,6.0,6.0,6.0
+holiday,1,event,5.0,5.0,5.0
+holi,1,event,6.0,6.0,6.0
+holder,1,instrument,10.0,10.0,10.0
+hold,1,action,6.0,6.0,6.0
+hoe,1,instrument,3.0,3.0,3.0
+hockey,1,sport,5.0,5.0,5.0
+hoarding,1,banking,12.0,12.0,12.0
+history,1,education,6.0,6.0,6.0
+his,1,language,6.0,6.0,6.0
+hire purchase,1,banking,10.0,10.0,10.0
+hire charges,1,banking,10.0,10.0,10.0
+hip hugger,1,wearable,6.0,6.0,6.0
+documents,1,readable,10.0,10.0,10.0
+document,1,readable,5.0,5.0,5.0
+doctor,1,profession,7.0,7.0,7.0
+dizzy,1,sensation,5.0,5.0,5.0
+divorcee,1,legal,7.0,7.0,7.0
+divorce petition,1,legal,11.0,11.0,11.0
+divorce,1,legal,6.0,6.0,6.0
+horizontal line,1,math,7.0,7.0,7.0
+horizontal,1,spatial position,7.0,7.0,7.0
+hop,1,action,6.0,6.0,6.0
+hook worm disease,1,biology,9.0,9.0,9.0
+hook and eye,1,utility item,9.0,9.0,9.0
+honorarium,1,banking,8.0,8.0,8.0
+honey,1,foods and drinks,5.0,5.0,5.0
+homicide,1,action,14.0,14.0,14.0
+home gardens,1,geography,11.0,11.0,11.0
+disrespect,1,behavior,5.0,5.0,5.0
+displacement,1,physics,8.0,8.0,8.0
+dispersion,1,physics,7.0,7.0,7.0
+housing loan,1,banking,8.0,8.0,8.0
+housing,1,banking,10.0,10.0,10.0
+hot to feel,1,sensation,7.0,7.0,7.0
+hosticide,1,action,14.0,14.0,14.0
+hospital,1,construction,6.0,6.0,6.0
+horse cart,1,transport,7.0,7.0,7.0
+horizontal surface,1,spatial position,9.0,9.0,9.0
+dolly,1,action,12.0,12.0,12.0
+dollar,1,commerce,6.0,6.0,6.0
+doll,1,miscellaneous object,6.0,6.0,6.0
+doli in capax,1,legal,14.0,14.0,14.0
+doe,1,flora and fauna,10.0,10.0,10.0
+documents of title,1,readable,15.0,15.0,15.0
+huge,1,math,4.0,4.0,4.0
+huawei mobile,1,organisation,6.0,6.0,6.0
+html tag,1,internet,13.0,13.0,13.0
+html,1,internet,15.0,15.0,15.0
+htc mobile,1,organisation,6.0,6.0,6.0
+hsbc bank,1,organisation,5.0,5.0,5.0
+how much,1,quantity,6.0,6.0,6.0
+how big,1,quantity,6.0,6.0,6.0
+how,1,quantity,5.0,5.0,5.0
+diving,1,sport,5.0,5.0,5.0
+dividend,1,math,8.0,8.0,8.0
+dithering,1,sound,12.0,12.0,12.0
+district jail,1,legal,5.0,5.0,5.0
+district court,1,legal,13.0,13.0,13.0
+distribution,1,action,11.0,11.0,11.0
+distance learning,1,education,6.0,6.0,6.0
+hydrology,1,geography,9.0,9.0,9.0
+hydro energy,1,physics,10.0,10.0,10.0
+hydro electricity,1,physics,11.0,11.0,11.0
+hydrautic press,1,machine,9.0,9.0,9.0
+hydrautic lift,1,machine,12.0,12.0,12.0
+hydrautic brake,1,machine,11.0,11.0,11.0
+hydraulic sprayer,1,utility item,10.0,10.0,10.0
+hydathodes,1,biology,11.0,11.0,11.0
+hut,1,construction,6.0,6.0,6.0
+hurt,1,sensation,5.0,5.0,5.0
+hurdle race,1,sport,4.0,4.0,4.0
+hungary,1,geography,3.0,3.0,3.0
+hundred,1,math,4.0,4.0,4.0
+humped,1,biology,15.0,15.0,15.0
+humidity,1,weather,14.0,14.0,14.0
+humble,1,sensation,4.0,4.0,4.0
+identification,1,action,8.0,8.0,8.0
+identical,1,comparator,8.0,8.0,8.0
+idea,1,abstract,5.0,5.0,5.0
+idd,1,event,8.0,8.0,8.0
+idbi bank,1,organisation,6.0,6.0,6.0
+icici bank,1,organisation,6.0,6.0,6.0
+iceland,1,geography,4.0,4.0,4.0
+ice hockey,1,sport,3.0,3.0,3.0
+iball mobile,1,electronic and electrical,6.0,6.0,6.0
+i understand,1,action,5.0,5.0,5.0
+i don't know,1,action,4.0,4.0,4.0
+i,1,language,6.0,6.0,6.0
+hypoxia,1,biology,10.0,10.0,10.0
+hypothecated,1,commerce,13.0,13.0,13.0
+hypotension,1,biology,6.0,6.0,6.0
+hydropneumatic sprayer,1,machine,14.0,14.0,14.0
+in front of,1,spatial position,6.0,6.0,6.0
+in advance,1,time,9.0,9.0,9.0
+impure,1,substance,5.0,5.0,5.0
+improvement,1,time,9.0,9.0,9.0
+improve,1,time,5.0,5.0,5.0
+important,1,attribute,9.0,9.0,9.0
+import,1,transport,7.0,7.0,7.0
+implementation,1,action,9.0,9.0,9.0
+immovable property,1,legal,8.0,8.0,8.0
+immiscibility,1,attribute,8.0,8.0,8.0
+immediate,1,time,8.0,8.0,8.0
+illiterate,1,education,7.0,7.0,7.0
+ifsc,1,readable,5.0,5.0,5.0
+idfc bank,1,organisation,5.0,5.0,5.0
+identity card,1,utility item,5.0,5.0,5.0
+identity,1,behavior,4.0,4.0,4.0
+diseases,1,biology,9.0,9.0,9.0
+disease control of plant,1,biology,13.0,13.0,13.0
+discretionary limit,1,banking,10.0,10.0,10.0
+discover,1,process,8.0,8.0,8.0
+income tax,1,banking,8.0,8.0,8.0
+income,1,banking,8.0,8.0,8.0
+include,1,action,5.0,5.0,5.0
+incharge,1,authority,10.0,10.0,10.0
+inch,1,metric,6.0,6.0,6.0
+incentive,1,legal,9.0,9.0,9.0
+inauguration,1,event,4.0,4.0,4.0
+inauguaration,1,event,7.0,7.0,7.0
+inactive,1,behavior,4.0,4.0,4.0
+in the middle,1,spatial position,5.0,5.0,5.0
+in multiples of,1,math,8.0,8.0,8.0
+in lieu of,1,comparator,8.0,8.0,8.0
+indian national congress,1,politics,3.0,3.0,3.0
+india gate,1,construction,6.0,6.0,6.0
+index,1,abstract,9.0,9.0,9.0
+independence day,1,event,5.0,5.0,5.0
+indent,1,attribute,13.0,13.0,13.0
+incompetence,1,attribute,7.0,7.0,7.0
+disolution,1,banking,10.0,10.0,10.0
+disobey,1,behavior,5.0,5.0,5.0
+dismissal,1,action,9.0,9.0,9.0
+dislike,1,comparator,6.0,6.0,6.0
+dishonoured bill,1,banking,9.0,9.0,9.0
+dish antenna,1,electronic and electrical,11.0,11.0,11.0
+dish,1,utility item,7.0,7.0,7.0
+disguise,1,gesture,6.0,6.0,6.0
+diseases of animals,1,biology,8.0,8.0,8.0
+diseases and enemies of fish,1,biology,15.0,15.0,15.0
+influenza flu,1,biology,10.0,10.0,10.0
+inflammatory bowel disease,1,biology,12.0,12.0,12.0
+infinity,1,math,8.0,8.0,8.0
+infection,1,biology,15.0,15.0,15.0
+infanticide,1,action,13.0,13.0,13.0
+inelastic,1,substance,8.0,8.0,8.0
+inefficient,1,quality,8.0,8.0,8.0
+industrial building,1,construction,8.0,8.0,8.0
+inductor,1,electronic and electrical,11.0,11.0,11.0
+indoor gardening,1,profession,11.0,11.0,11.0
+indonesia,1,geography,4.0,4.0,4.0
+indira gandhi,1,human,4.0,4.0,4.0
+indicator,1,time,15.0,15.0,15.0
+indian sign language teachers  association,1,organisation,3.0,3.0,3.0
+indian sign language research and training centre,1,organisation,5.0,5.0,5.0
+indian sign language interpreters association,1,organisation,3.0,3.0,3.0
+dirndl  skirt,1,wearable,13.0,13.0,13.0
+direction,1,geography,11.0,11.0,11.0
+direct appointment,1,authority,8.0,8.0,8.0
+inspire,1,action,9.0,9.0,9.0
+inspection,1,authority,8.0,8.0,8.0
+insects,1,flora and fauna,7.0,7.0,7.0
+innovate,1,action,8.0,8.0,8.0
+inner shell membrane,1,biology,14.0,14.0,14.0
+injury,1,medical,3.0,3.0,3.0
+injection,1,medical,6.0,6.0,6.0
+initials,1,banking,8.0,8.0,8.0
+inheritance,1,relation,13.0,13.0,13.0
+ingadulicis,1,flora and fauna,13.0,13.0,13.0
+infrasonic,1,physics,8.0,8.0,8.0
+infrared ray,1,physics,11.0,11.0,11.0
+informal,1,attribute,5.0,5.0,5.0
+intensity,1,quantity,8.0,8.0,8.0
+integrated chip,1,electronic and electrical,10.0,10.0,10.0
+instument,1,instrument,11.0,11.0,11.0
+instruction,1,authority,7.0,7.0,7.0
+institution,1,organisation,7.0,7.0,7.0
+institute,1,organisation,7.0,7.0,7.0
+instalment,1,banking,8.0,8.0,8.0
+installation,1,banking,9.0,9.0,9.0
+disconnect,1,action,7.0,7.0,7.0
+discipline,1,behavior,4.0,4.0,4.0
+discharge,1,action,9.0,9.0,9.0
+disc brake master cylinder,1,machine,14.0,14.0,14.0
+disbursement,1,banking,9.0,9.0,9.0
+disapproval,1,gesture,9.0,9.0,9.0
+disabled,1,biology,10.0,10.0,10.0
+disability,1,biology,4.0,4.0,4.0
+interval,1,time,10.0,10.0,10.0
+interruption,1,action,8.0,8.0,8.0
+interrogation,1,legal,10.0,10.0,10.0
+interpreter,1,profession,4.0,4.0,4.0
+interpret,1,action,4.0,4.0,4.0
+internet disconnection,1,internet,5.0,5.0,5.0
+internet,1,internet,8.0,8.0,8.0
+internal,1,spatial position,8.0,8.0,8.0
+intermediate,1,stage,10.0,10.0,10.0
+intermal combustion engine,1,chemistry,9.0,9.0,9.0
+interim,1,profession,7.0,7.0,7.0
+interference,1,process,9.0,9.0,9.0
+interfere,1,process,6.0,6.0,6.0
+interest on savings account,1,banking,7.0,7.0,7.0
+inter branch transaction,1,banking,12.0,12.0,12.0
+intensive,1,quantity,8.0,8.0,8.0
+different,1,comparator,5.0,5.0,5.0
+dictionary,1,readable,4.0,4.0,4.0
+irrevocable,1,attribute,11.0,11.0,11.0
+irreversible,1,attribute,8.0,8.0,8.0
+irregular vibration,1,physics,10.0,10.0,10.0
+irregular,1,attribute,10.0,10.0,10.0
+ireland,1,geography,4.0,4.0,4.0
+iraq,1,geography,4.0,4.0,4.0
+iran,1,geography,4.0,4.0,4.0
+iphone,1,electronic and electrical,5.0,5.0,5.0
+invite,1,action,5.0,5.0,5.0
+inverter,1,electronic and electrical,6.0,6.0,6.0
+inverse,1,math,9.0,9.0,9.0
+invalid,1,legal,8.0,8.0,8.0
+introduction,1,process,9.0,9.0,9.0
+intestate,1,legal,13.0,13.0,13.0
+itself,1,language,3.0,3.0,3.0
+its,1,language,5.0,5.0,5.0
+item,1,utility item,11.0,11.0,11.0
+italy,1,geography,3.0,3.0,3.0
+it's raining cats and dogs,1,weather,7.0,7.0,7.0
+isreal,1,geography,6.0,6.0,6.0
+israel,1,geography,5.0,5.0,5.0
+direct,1,language,9.0,9.0,9.0
+dinner,1,foods and drinks,6.0,6.0,6.0
+dim,1,attribute,8.0,8.0,8.0
+digital electronics,1,electronic and electrical,13.0,13.0,13.0
+digging bar,1,instrument,6.0,6.0,6.0
+dig,1,action,5.0,5.0,5.0
+diffraction,1,physics,10.0,10.0,10.0
+difficult,1,attribute,5.0,5.0,5.0
+differential rate of interest,1,banking,11.0,11.0,11.0
+jams,1,wearable,10.0,10.0,10.0
+jammu & kashmir,1,geography,5.0,5.0,5.0
+jamaica,1,geography,3.0,3.0,3.0
+jama masjid,1,religious,5.0,5.0,5.0
+jalpur,1,geography,6.0,6.0,6.0
+jalebi,1,foods and drinks,8.0,8.0,8.0
+jal mahal,1,geography,6.0,6.0,6.0
+jainism,1,religious,3.0,3.0,3.0
+jain,1,religious,5.0,5.0,5.0
+jailor,1,profession,7.0,7.0,7.0
+jagannath ratha yatra,1,transport,6.0,6.0,6.0
+jackfrui,1,foods and drinks,6.0,6.0,6.0
+jacket,1,wearable,4.0,4.0,4.0
+jack plane,1,instrument,4.0,4.0,4.0
+jabot,1,wearable,5.0,5.0,5.0
+j k bank,1,banking,5.0,5.0,5.0
+jharkhand,1,geography,5.0,5.0,5.0
+jeweller,1,profession,7.0,7.0,7.0
+jewelery,1,utility item,6.0,6.0,6.0
+jewel neckline`,1,wearable,5.0,5.0,5.0
+jet airways,1,transport,6.0,6.0,6.0
+jesus,1,religious,5.0,5.0,5.0
+jellyfish,1,flora and fauna,5.0,5.0,5.0
+jeep,1,transport,6.0,6.0,6.0
+jealous,1,emotion,7.0,7.0,7.0
+jd u,1,politics,4.0,4.0,4.0
+javelin throw,1,sport,3.0,3.0,3.0
+jasminum sambac,1,flora and fauna,9.0,9.0,9.0
+jasmine,1,flora and fauna,5.0,5.0,5.0
+jantar mantar,1,geography,5.0,5.0,5.0
+janitor,1,profession,6.0,6.0,6.0
+jamun,1,foods and drinks,5.0,5.0,5.0
+devil,1,religious,5.0,5.0,5.0
+device setting,1,electronic and electrical,9.0,9.0,9.0
+developmental delay,1,legal,10.0,10.0,10.0
+development,1,action,9.0,9.0,9.0
+develop,1,action,6.0,6.0,6.0
+determined,1,emotion,12.0,12.0,12.0
+judaism,1,religious,5.0,5.0,5.0
+joumal entry,1,readable,10.0,10.0,10.0
+joumal,1,readable,13.0,13.0,13.0
+joule,1,metric,9.0,9.0,9.0
+jordan,1,geography,3.0,3.0,3.0
+joke,1,sensation,5.0,5.0,5.0
+jointing,1,process,14.0,14.0,14.0
+join,1,group,4.0,4.0,4.0
+jodhpur pants,1,wearable,10.0,10.0,10.0
+job consciousness,1,profession,11.0,11.0,11.0
+kamataka,1,flora and fauna,6.0,6.0,6.0
+kaleidoscope,1,instrument,11.0,11.0,11.0
+kajal,1,utility item,4.0,4.0,4.0
+justice,1,legal,6.0,6.0,6.0
+jupiter,1,astronomical,10.0,10.0,10.0
+junior,1,attribute,10.0,10.0,10.0
+juliet sleeve,1,wearable,7.0,7.0,7.0
+juhu beach,1,geography,4.0,4.0,4.0
+judicial,1,legal,7.0,7.0,7.0
+dicoty ledoneae,1,flora and fauna,11.0,11.0,11.0
+dice,1,sport,3.0,3.0,3.0
+diarrhea,1,medical,5.0,5.0,5.0
+diagonal,1,math,10.0,10.0,10.0
+diaeases,1,medical,8.0,8.0,8.0
+diabetic,1,medical,12.0,12.0,12.0
+diabeletes,1,medical,8.0,8.0,8.0
+keying,1,action,14.0,14.0,14.0
+keyhole,1,utility item,8.0,8.0,8.0
+keyboard,1,electronic and electrical,10.0,10.0,10.0
+kerning,1,attribute,12.0,12.0,12.0
+kenya,1,geography,3.0,3.0,3.0
+kelvin,1,metric,8.0,8.0,8.0
+keeper,1,human,10.0,10.0,10.0
+keep,1,action,7.0,7.0,7.0
+kazakhstan,1,geography,3.0,3.0,3.0
+kathakali,1,event,6.0,6.0,6.0
+karnataka bank,1,banking,5.0,5.0,5.0
+karnataka,1,geography,4.0,4.0,4.0
+karate,1,sport,3.0,3.0,3.0
+kaposi sarcoma,1,biology,7.0,7.0,7.0
+kanpur,1,geography,6.0,6.0,6.0
+kangaroo pocket,1,biology,7.0,7.0,7.0
+deputy director,1,authority,5.0,5.0,5.0
+deputation,1,authority,10.0,10.0,10.0
+depth,1,attribute,9.0,9.0,9.0
+depreciation,1,comparator,9.0,9.0,9.0
+deposit slip,1,banking,8.0,8.0,8.0
+deposit short,1,banking,12.0,12.0,12.0
+deposit safe custody,1,banking,9.0,9.0,9.0
+kinds of germination,1,biology,13.0,13.0,13.0
+kindhearted,1,attribute,6.0,6.0,6.0
+kilometre,1,metric,9.0,9.0,9.0
+kilometer,1,metric,7.0,7.0,7.0
+kidney disease,1,biology,6.0,6.0,6.0
+kidney cancer renal cell,1,biology,4.0,4.0,4.0
+kidnapping & abducting,1,action,11.0,11.0,11.0
+kidnap,1,group,4.0,4.0,4.0
+kick out,1,group,4.0,4.0,4.0
+known loss,1,banking,8.0,8.0,8.0
+knowledgeable,1,attribute,4.0,4.0,4.0
+knowledge working,1,abstract,11.0,11.0,11.0
+know your customer kyc form,1,action,8.0,8.0,8.0
+knock,1,gesture,3.0,3.0,3.0
+knit,1,process,7.0,7.0,7.0
+knee,1,biology,7.0,7.0,7.0
+kinetic energy,1,physics,11.0,11.0,11.0
+kinds of honey bee found in india,1,flora and fauna,10.0,10.0,10.0
+detective,1,profession,12.0,12.0,12.0
+despatch,1,action,10.0,10.0,10.0
+desktop cleanup wizard,1,computer,8.0,8.0,8.0
+designing,1,action,6.0,6.0,6.0
+designer,1,profession,11.0,11.0,11.0
+descendant,1,authority,4.0,4.0,4.0
+dermatits,1,medical,12.0,12.0,12.0
+laddu,1,foods and drinks,5.0,5.0,5.0
+lacing,1,process,11.0,11.0,11.0
+lace edge binding,1,process,9.0,9.0,9.0
+labourer,1,profession,9.0,9.0,9.0
+labour,1,profession,10.0,10.0,10.0
+laboratary,1,education,8.0,8.0,8.0
+l.e.d,1,electronic and electrical,9.0,9.0,9.0
+l square,1,instrument,7.0,7.0,7.0
+kuwait,1,geography,4.0,4.0,4.0
+kotak mahindra bank,1,banking,5.0,5.0,5.0
+korea,1,geography,3.0,3.0,3.0
+konark sun temple,1,geography,7.0,7.0,7.0
+kolkata calcutta,1,geography,5.0,5.0,5.0
+kohima,1,geography,5.0,5.0,5.0
+kochi,1,geography,6.0,6.0,6.0
+knurling,1,process,7.0,7.0,7.0
+demolishing,1,action,8.0,8.0,8.0
+demarcation west bengal,1,authority,10.0,10.0,10.0
+demand,1,action,7.0,7.0,7.0
+delivery,1,action,9.0,9.0,9.0
+delicious,1,attribute,5.0,5.0,5.0
+delete,1,action,8.0,8.0,8.0
+delegation,1,organisation,13.0,13.0,13.0
+land revenue,1,banking,10.0,10.0,10.0
+land improvement reform,1,legal,10.0,10.0,10.0
+land holding,1,legal,9.0,9.0,9.0
+land cess,1,legal,10.0,10.0,10.0
+land acquisition,1,legal,9.0,9.0,9.0
+lamp,1,electronic and electrical,5.0,5.0,5.0
+lame,1,biology,7.0,7.0,7.0
+ladyfinger,1,foods and drinks,4.0,4.0,4.0
+lady,1,human,3.0,3.0,3.0
+last month,1,time,5.0,5.0,5.0
+last,1,attribute,6.0,6.0,6.0
+large,1,quantity,4.0,4.0,4.0
+lapse,1,banking,10.0,10.0,10.0
+lapel,1,wearable,11.0,11.0,11.0
+laos,1,geography,3.0,3.0,3.0
+lantana camera,1,flora and fauna,14.0,14.0,14.0
+language,1,language,3.0,3.0,3.0
+landlord,1,banking,10.0,10.0,10.0
+deposit,1,banking,10.0,10.0,10.0
+deploy,1,action,8.0,8.0,8.0
+department,1,abstract,11.0,11.0,11.0
+density,1,attribute,6.0,6.0,6.0
+denomination,1,banking,12.0,12.0,12.0
+denmark,1,geography,3.0,3.0,3.0
+dengue,1,medical,5.0,5.0,5.0
+leaders,1,authority,14.0,14.0,14.0
+leader,1,authority,7.0,7.0,7.0
+ldli,1,foods and drinks,6.0,6.0,6.0
+lc,1,banking,8.0,8.0,8.0
+laying,1,action,15.0,15.0,15.0
+layered skirt,1,wearable,11.0,11.0,11.0
+lay out,1,banking,11.0,11.0,11.0
+lay off,1,banking,8.0,8.0,8.0
+lawn,1,construction,8.0,8.0,8.0
+lauki,1,foods and drinks,5.0,5.0,5.0
+laugh,1,gesture,6.0,6.0,6.0
+latitude,1,geography,14.0,14.0,14.0
+lathe,1,machine,6.0,6.0,6.0
+last year,1,time,4.0,4.0,4.0
+last week,1,time,5.0,5.0,5.0
+last pay certificate,1,banking,10.0,10.0,10.0
+deed of sale,1,event,12.0,12.0,12.0
+decline,1,comparator,12.0,12.0,12.0
+declaration,1,action,12.0,12.0,12.0
+decimal,1,math,9.0,9.0,9.0
+lebanon,1,geography,4.0,4.0,4.0
+leave study,1,profession,8.0,8.0,8.0
+leave preparatory to retirement,1,profession,11.0,11.0,11.0
+leave medical,1,profession,9.0,9.0,9.0
+leave extraordinary,1,profession,8.0,8.0,8.0
+leave earned,1,profession,10.0,10.0,10.0
+leave duty,1,profession,8.0,8.0,8.0
+leave compensatory,1,profession,10.0,10.0,10.0
+least count,1,metric,8.0,8.0,8.0
+leak,1,process,7.0,7.0,7.0
+leafy vegetables,1,foods and drinks,8.0,8.0,8.0
+leaf spring,1,transport,14.0,14.0,14.0
+legal advisor,1,legal,9.0,9.0,9.0
+leg mutton sleeve,1,wearable,10.0,10.0,10.0
+leg,1,biology,9.0,9.0,9.0
+left indent,1,attribute,8.0,8.0,8.0
+left demrocatic front,1,politics,3.0,3.0,3.0
+left,1,spatial position,4.0,4.0,4.0
+ledger balance,1,banking,11.0,11.0,11.0
+ledger,1,banking,11.0,11.0,11.0
+lecture,1,education,4.0,4.0,4.0
+delegate west bengal,1,authority,3.0,3.0,3.0
+dehradun,1,geography,4.0,4.0,4.0
+defraud,1,banking,5.0,5.0,5.0
+defend,1,action,5.0,5.0,5.0
+default,1,stage,12.0,12.0,12.0
+deepika padukone,1,human,4.0,4.0,4.0
+deep rooted,1,emotion,13.0,13.0,13.0
+libya,1,geography,4.0,4.0,4.0
+librarian,1,profession,4.0,4.0,4.0
+liberia,1,geography,4.0,4.0,4.0
+lgnore,1,action,5.0,5.0,5.0
+lg mobile,1,organisation,5.0,5.0,5.0
+lfc,1,banking,9.0,9.0,9.0
+level rate,1,banking,11.0,11.0,11.0
+letter of authority,1,authority,9.0,9.0,9.0
+less,1,quantity,6.0,6.0,6.0
+lens,1,physics,8.0,8.0,8.0
+lenovo,1,organisation,6.0,6.0,6.0
+lend,1,banking,6.0,6.0,6.0
+legged robots,1,electronic and electrical,13.0,13.0,13.0
+legally protected,1,legal,10.0,10.0,10.0
+legalese,1,legal,15.0,15.0,15.0
+legal claim,1,legal,9.0,9.0,9.0
+life,1,abstract,5.0,5.0,5.0
+lick,1,action,7.0,7.0,7.0
+lic,1,banking,10.0,10.0,10.0
+deceive,1,action,6.0,6.0,6.0
+deceased,1,medical,7.0,7.0,7.0
+decade,1,time,5.0,5.0,5.0
+debug,1,computer,11.0,11.0,11.0
+debt doubtful,1,banking,10.0,10.0,10.0
+debt,1,banking,9.0,9.0,9.0
+debit advice,1,banking,11.0,11.0,11.0
+debate,1,action,5.0,5.0,5.0
+death row,1,event,10.0,10.0,10.0
+death in service,1,event,13.0,13.0,13.0
+death certificate,1,readable,3.0,3.0,3.0
+deal,1,commerce,5.0,5.0,5.0
+deafness,1,medical,3.0,3.0,3.0
+darts munger,1,sport,6.0,6.0,6.0
+dangerous,1,attribute,6.0,6.0,6.0
+damp proofing material,1,substance,13.0,13.0,13.0
+little,1,quantity,6.0,6.0,6.0
+liquor,1,substance,6.0,6.0,6.0
+liquidation,1,process,8.0,8.0,8.0
+liquid fuels,1,substance,11.0,11.0,11.0
+link,1,relation,4.0,4.0,4.0
+lines and pins,1,utility item,15.0,15.0,15.0
+line,1,math,6.0,6.0,6.0
+limitless,1,metric,5.0,5.0,5.0
+limit,1,metric,4.0,4.0,4.0
+lime paste,1,substance,7.0,7.0,7.0
+light year,1,metric,9.0,9.0,9.0
+light fixture,1,electronic and electrical,7.0,7.0,7.0
+life jacket,1,wearable,12.0,12.0,12.0
+lonely,1,emotion,4.0,4.0,4.0
+lollipop,1,foods and drinks,5.0,5.0,5.0
+lok janshakti party,1,politics,4.0,4.0,4.0
+login,1,group,6.0,6.0,6.0
+log off,1,group,7.0,7.0,7.0
+locker,1,machine,10.0,10.0,10.0
+local train,1,transport,4.0,4.0,4.0
+loan terminable,1,banking,9.0,9.0,9.0
+lnaugurate,1,process,7.0,7.0,7.0
+live,1,process,5.0,5.0,5.0
+deadly weapon,1,miscellaneous object,15.0,15.0,15.0
+days before,1,time,10.0,10.0,10.0
+days after tomorrow,1,time,9.0,9.0,9.0
+day book,1,banking,10.0,10.0,10.0
+date of retirement,1,time,13.0,13.0,13.0
+dash,1,language,14.0,14.0,14.0
+luck,1,abstract,4.0,4.0,4.0
+lubrication oil,1,substance,8.0,8.0,8.0
+lower division clerk,1,profession,4.0,4.0,4.0
+lower court,1,legal,15.0,15.0,15.0
+low lying area,1,geography,10.0,10.0,10.0
+low,1,geography,7.0,7.0,7.0
+love marriage,1,relation,15.0,15.0,15.0
+loud speaker,1,electronic and electrical,9.0,9.0,9.0
+losses due to exessive water,1,biology,10.0,10.0,10.0
+loose leaf binder,1,utility item,11.0,11.0,11.0
+loose,1,quality,6.0,6.0,6.0
+longitudinal wave,1,geography,11.0,11.0,11.0
+longitude,1,geography,13.0,13.0,13.0
+long term,1,legal,4.0,4.0,4.0
+long jump,1,sport,4.0,4.0,4.0
+long day plant,1,flora and fauna,15.0,15.0,15.0
+cutlery,1,foods and drinks,7.0,7.0,7.0
+cute,1,attribute,4.0,4.0,4.0
+cut  line,1,instrument,12.0,12.0,12.0
+customer service,1,organisation,11.0,11.0,11.0
+madagascar,1,geography,3.0,3.0,3.0
+machines,1,machine,8.0,8.0,8.0
+machine water pump,1,machine,9.0,9.0,9.0
+machine,1,machine,6.0,6.0,6.0
+macau,1,geography,4.0,4.0,4.0
+luster,1,quality,9.0,9.0,9.0
+lunar eclipse,1,astronomical,12.0,12.0,12.0
+lunacy,1,attribute,9.0,9.0,9.0
+lumpsum,1,banking,8.0,8.0,8.0
+lumberjack,1,profession,11.0,11.0,11.0
+lucky,1,quality,7.0,7.0,7.0
+lucknow,1,geography,5.0,5.0,5.0
+mahatma gandhi,1,human,5.0,5.0,5.0
+maharastra,1,geography,7.0,7.0,7.0
+maharashtra,1,geography,4.0,4.0,4.0
+magnification,1,physics,8.0,8.0,8.0
+magnetism,1,physics,8.0,8.0,8.0
+magnetic ink character recognition,1,computer,15.0,15.0,15.0
+magician,1,profession,4.0,4.0,4.0
+dam,1,construction,7.0,7.0,7.0
+daisychaining,1,electronic and electrical,5.0,5.0,5.0
+dairy science,1,profession,9.0,9.0,9.0
+dairy farm record,1,readable,10.0,10.0,10.0
+daily list,1,banking,11.0,11.0,11.0
+czech republic,1,geography,4.0,4.0,4.0
+cyprus,1,geography,4.0,4.0,4.0
+cycling,1,transport,4.0,4.0,4.0
+cutout,1,sound,7.0,7.0,7.0
+management,1,profession,7.0,7.0,7.0
+mallet,1,instrument,11.0,11.0,11.0
+mall,1,geography,4.0,4.0,4.0
+mali,1,geography,3.0,3.0,3.0
+malaysia,1,geography,4.0,4.0,4.0
+malawi,1,geography,3.0,3.0,3.0
+majority,1,quantity,9.0,9.0,9.0
+major,1,quality,8.0,8.0,8.0
+maintenance allowance,1,banking,10.0,10.0,10.0
+mainsworn,1,legal,15.0,15.0,15.0
+main scale,1,instrument,9.0,9.0,9.0
+main,1,quality,9.0,9.0,9.0
+mail transfer,1,banking,9.0,9.0,9.0
+mail,1,readable,6.0,6.0,6.0
+mahavir jayanthi,1,event,7.0,7.0,7.0
+mahavir,1,behavior,4.0,4.0,4.0
+curing,1,medical,13.0,13.0,13.0
+curd,1,foods and drinks,5.0,5.0,5.0
+cup,1,utility item,6.0,6.0,6.0
+cummerband,1,wearable,6.0,6.0,6.0
+mark,1,action,9.0,9.0,9.0
+marigold,1,flora and fauna,5.0,5.0,5.0
+margin,1,banking,8.0,8.0,8.0
+march,1,time,7.0,7.0,7.0
+marathi,1,language,7.0,7.0,7.0
+map,1,geography,8.0,8.0,8.0
+manure,1,flora and fauna,8.0,8.0,8.0
+manufacture,1,process,7.0,7.0,7.0
+manual of instruction,1,readable,9.0,9.0,9.0
+manjira,1,sound,6.0,6.0,6.0
+mandatory,1,legal,7.0,7.0,7.0
+manager,1,profession,6.0,6.0,6.0
+mason square,1,instrument,11.0,11.0,11.0
+masculine,1,behavior,4.0,4.0,4.0
+mary,1,human,6.0,6.0,6.0
+maruti car,1,transport,5.0,5.0,5.0
+marth,1,human,6.0,6.0,6.0
+marry,1,action,5.0,5.0,5.0
+marking table,1,utility item,15.0,15.0,15.0
+marketing of vegetables,1,profession,12.0,12.0,12.0
+market,1,geography,6.0,6.0,6.0
+custody,1,legal,9.0,9.0,9.0
+custard apple,1,foods and drinks,8.0,8.0,8.0
+curved,1,math,6.0,6.0,6.0
+curvature,1,physics,10.0,10.0,10.0
+curry,1,foods and drinks,6.0,6.0,6.0
+current,1,physics,8.0,8.0,8.0
+currency chest,1,banking,10.0,10.0,10.0
+meager,1,quantity,4.0,4.0,4.0
+mazdoor,1,profession,4.0,4.0,4.0
+maybe,1,language,3.0,3.0,3.0
+mauritius,1,geography,4.0,4.0,4.0
+maturity,1,behavior,10.0,10.0,10.0
+mature,1,behavior,13.0,13.0,13.0
+matrimonial home,1,geography,10.0,10.0,10.0
+mating method of poultry,1,biology,14.0,14.0,14.0
+maths,1,math,3.0,3.0,3.0
+mathematics,1,math,6.0,6.0,6.0
+mathematical,1,math,8.0,8.0,8.0
+maternal aunt,1,relation,4.0,4.0,4.0
+match,1,event,4.0,4.0,4.0
+mass,1,physics,5.0,5.0,5.0
+masquito,1,flora and fauna,6.0,6.0,6.0
+masonry bit,1,instrument,14.0,14.0,14.0
+crow bar,1,machine,5.0,5.0,5.0
+crow,1,flora and fauna,8.0,8.0,8.0
+crossing,1,transport,7.0,7.0,7.0
+cross belt drive,1,machine,13.0,13.0,13.0
+cross,1,action,5.0,5.0,5.0
+crops,1,flora and fauna,15.0,15.0,15.0
+cropping tool,1,instrument,8.0,8.0,8.0
+croatia,1,geography,3.0,3.0,3.0
+criticize,1,action,6.0,6.0,6.0
+medium shrubs,1,flora and fauna,8.0,8.0,8.0
+meditate,1,action,7.0,7.0,7.0
+mediocre,1,quality,4.0,4.0,4.0
+medicine,1,substance,7.0,7.0,7.0
+medal,1,utility item,5.0,5.0,5.0
+mechanics,1,physics,9.0,9.0,9.0
+measuring tape,1,instrument,5.0,5.0,5.0
+merger,1,organisation,8.0,8.0,8.0
+merge,1,action,6.0,6.0,6.0
+mercury,1,astronomical,9.0,9.0,9.0
+merchant,1,profession,9.0,9.0,9.0
+menu,1,readable,5.0,5.0,5.0
+memory unit,1,metric,15.0,15.0,15.0
+memory card,1,electronic and electrical,9.0,9.0,9.0
+memorize,1,action,7.0,7.0,7.0
+memo,1,legal,7.0,7.0,7.0
+melting point,1,physics,9.0,9.0,9.0
+cultivators,1,profession,7.0,7.0,7.0
+culottes,1,wearable,9.0,9.0,9.0
+cuffs,1,instrument,11.0,11.0,11.0
+cucumber,1,foods and drinks,7.0,7.0,7.0
+cry,1,behavior,7.0,7.0,7.0
+crown,1,authority,7.0,7.0,7.0
+might,1,language,3.0,3.0,3.0
+microwave,1,electronic and electrical,8.0,8.0,8.0
+microphone,1,electronic and electrical,5.0,5.0,5.0
+micromax mobile,1,electronic and electrical,6.0,6.0,6.0
+mi xiaomi,1,electronic and electrical,6.0,6.0,6.0
+mho,1,metric,9.0,9.0,9.0
+mexico,1,geography,3.0,3.0,3.0
+metro,1,transport,4.0,4.0,4.0
+methods of drainage,1,instrument,9.0,9.0,9.0
+method of accounting,1,banking,10.0,10.0,10.0
+method,1,math,5.0,5.0,5.0
+meter,1,metal and minerals,7.0,7.0,7.0
+messenger,1,internet,10.0,10.0,10.0
+messages videos,1,internet,6.0,6.0,6.0
+message video,1,internet,5.0,5.0,5.0
+merit and demerits,1,quality,8.0,8.0,8.0
+crease,1,metal and minerals,10.0,10.0,10.0
+crawler loader,1,machine,6.0,6.0,6.0
+cpi,1,education,4.0,4.0,4.0
+milter hat,1,wearable,8.0,8.0,8.0
+millionaire,1,behavior,6.0,6.0,6.0
+milling cutter convex,1,instrument,6.0,6.0,6.0
+milling cutter concave,1,instrument,8.0,8.0,8.0
+milling cutter angle,1,instrument,9.0,9.0,9.0
+millimetre,1,metric,9.0,9.0,9.0
+milligram,1,metric,9.0,9.0,9.0
+milli litre,1,metric,6.0,6.0,6.0
+milk powder,1,substance,7.0,7.0,7.0
+milk bottle,1,utility item,5.0,5.0,5.0
+milk adultration,1,biology,9.0,9.0,9.0
+mild steel rod,1,instrument,8.0,8.0,8.0
+milad un nabi,1,human,4.0,4.0,4.0
+missing,1,emotion,7.0,7.0,7.0
+misbehaviour,1,emotion,9.0,9.0,9.0
+misappropriation,1,emotion,10.0,10.0,10.0
+minimize,1,math,13.0,13.0,13.0
+mineral matter,1,geography,11.0,11.0,11.0
+mime,1,gesture,6.0,6.0,6.0
+milter stripes,1,wearable,9.0,9.0,9.0
+criminal court,1,legal,7.0,7.0,7.0
+crime scene,1,legal,10.0,10.0,10.0
+crime,1,legal,5.0,5.0,5.0
+cricket,1,sport,5.0,5.0,5.0
+credit voucher,1,banking,12.0,12.0,12.0
+credit sale,1,banking,9.0,9.0,9.0
+credit purchase,1,banking,8.0,8.0,8.0
+credit,1,banking,10.0,10.0,10.0
+created,1,action,8.0,8.0,8.0
+molecule,1,physics,11.0,11.0,11.0
+molecuiar motion,1,physics,14.0,14.0,14.0
+modification,1,process,11.0,11.0,11.0
+modern roof,1,construction,8.0,8.0,8.0
+mobilisation deposit,1,banking,10.0,10.0,10.0
+mitsubishi motors,1,organisation,5.0,5.0,5.0
+misunderstand,1,emotion,4.0,4.0,4.0
+cowl  sleeve,1,wearable,12.0,12.0,12.0
+court hall,1,legal,9.0,9.0,9.0
+court,1,legal,6.0,6.0,6.0
+counter sinking,1,process,6.0,6.0,6.0
+counter,1,process,13.0,13.0,13.0
+count,1,metric,7.0,7.0,7.0
+counsel,1,organisation,3.0,3.0,3.0
+cotter ring,1,metal and minerals,15.0,15.0,15.0
+costa rica,1,geography,4.0,4.0,4.0
+cooling sheet,1,metal and minerals,6.0,6.0,6.0
+coolie,1,profession,6.0,6.0,6.0
+cooker,1,foods and drinks,5.0,5.0,5.0
+conveyance allowance,1,legal,9.0,9.0,9.0
+moral,1,abstract,6.0,6.0,6.0
+monthly statement,1,banking,9.0,9.0,9.0
+monthly return,1,banking,10.0,10.0,10.0
+monster truck,1,transport,10.0,10.0,10.0
+monsoon,1,geography,7.0,7.0,7.0
+monocotyledonae,1,flora and fauna,11.0,11.0,11.0
+monitoring,1,action,9.0,9.0,9.0
+mongolia,1,geography,3.0,3.0,3.0
+moneylender,1,profession,8.0,8.0,8.0
+money order,1,legal,9.0,9.0,9.0
+money,1,banking,6.0,6.0,6.0
+monetary,1,banking,7.0,7.0,7.0
+motivate,1,action,4.0,4.0,4.0
+motion,1,physics,8.0,8.0,8.0
+motherboard,1,electronic and electrical,14.0,14.0,14.0
+mother tongue,1,language,7.0,7.0,7.0
+mother in law,1,relation,5.0,5.0,5.0
+mosquito,1,flora and fauna,5.0,5.0,5.0
+mosque,1,religious,6.0,6.0,6.0
+mortgage,1,banking,10.0,10.0,10.0
+corresponding branch,1,banking,10.0,10.0,10.0
+corporation bank,1,banking,4.0,4.0,4.0
+corel draw,1,internet,7.0,7.0,7.0
+copy and paste,1,action,4.0,4.0,4.0
+copper wire,1,metal and minerals,10.0,10.0,10.0
+cop,1,profession,6.0,6.0,6.0
+coordinate,1,action,8.0,8.0,8.0
+cooperate,1,action,7.0,7.0,7.0
+ms word,1,computer,10.0,10.0,10.0
+ms windows,1,computer,10.0,10.0,10.0
+ms powerpoint,1,computer,5.0,5.0,5.0
+ms excel,1,computer,10.0,10.0,10.0
+movie,1,entertainment,4.0,4.0,4.0
+movement,1,process,3.0,3.0,3.0
+movable property,1,legal,10.0,10.0,10.0
+mouthwash,1,substance,5.0,5.0,5.0
+mouth spray,1,substance,4.0,4.0,4.0
+mouth parts,1,biology,12.0,12.0,12.0
+mouth organ,1,biology,5.0,5.0,5.0
+mouse pad,1,computer,11.0,11.0,11.0
+mouse click,1,computer,9.0,9.0,9.0
+mouse,1,flora and fauna,5.0,5.0,5.0
+motorola,1,organisation,5.0,5.0,5.0
+motorcycle air filter,1,machine,15.0,15.0,15.0
+consultant,1,profession,6.0,6.0,6.0
+construction contract,1,construction,15.0,15.0,15.0
+construction,1,construction,5.0,5.0,5.0
+constitutional rights,1,legal,15.0,15.0,15.0
+conservation,1,biology,8.0,8.0,8.0
+museum,1,geography,6.0,6.0,6.0
+murraya exotica,1,flora and fauna,13.0,13.0,13.0
+multiply,1,math,7.0,7.0,7.0
+multiple,1,math,4.0,4.0,4.0
+multi storey building,1,construction,7.0,7.0,7.0
+muitimeter,1,instrument,10.0,10.0,10.0
+mugshot,1,legal,12.0,12.0,12.0
+muffler,1,wearable,9.0,9.0,9.0
+mucosal disease,1,biology,13.0,13.0,13.0
+mtnl,1,organisation,5.0,5.0,5.0
+mtl,1,banking,10.0,10.0,10.0
+mutual agreement,1,legal,8.0,8.0,8.0
+mute,1,sound,7.0,7.0,7.0
+mushroom storage,1,process,13.0,13.0,13.0
+mushroom production,1,process,7.0,7.0,7.0
+mushroom pleating,1,process,9.0,9.0,9.0
+mushroom harvesting,1,process,8.0,8.0,8.0
+convex mirror,1,physics,9.0,9.0,9.0
+convex lens,1,physics,11.0,11.0,11.0
+convex,1,physics,12.0,12.0,12.0
+convertible  collar,1,wearable,7.0,7.0,7.0
+conversion,1,action,9.0,9.0,9.0
+contractual,1,legal,6.0,6.0,6.0
+contraction,1,physics,9.0,9.0,9.0
+continue,1,process,6.0,6.0,6.0
+continent,1,geography,7.0,7.0,7.0
+contest,1,event,5.0,5.0,5.0
+condom,1,substance,4.0,4.0,4.0
+condition,1,quality,7.0,7.0,7.0
+nationalisation,1,sensation,12.0,12.0,12.0
+national capital region,1,geography,5.0,5.0,5.0
+national association of the deaf,1,group,3.0,3.0,3.0
+nappy,1,utility item,6.0,6.0,6.0
+nap fabrick,1,utility item,9.0,9.0,9.0
+namibia,1,geography,3.0,3.0,3.0
+namaste,1,greeting,4.0,4.0,4.0
+nail cutter,1,utility item,5.0,5.0,5.0
+nagpur,1,geography,5.0,5.0,5.0
+nagaland,1,geography,4.0,4.0,4.0
+mysuru,1,geography,6.0,6.0,6.0
+mysore,1,geography,7.0,7.0,7.0
+myanmar,1,geography,3.0,3.0,3.0
+my name is,1,language,4.0,4.0,4.0
+near,1,spatial position,6.0,6.0,6.0
+ncp,1,politics,4.0,4.0,4.0
+nature,1,biology,5.0,5.0,5.0
+natural numbers,1,math,9.0,9.0,9.0
+natural gaurdian,1,legal,7.0,7.0,7.0
+natural gas,1,substance,10.0,10.0,10.0
+nationalist congress party,1,politics,5.0,5.0,5.0
+consent,1,process,6.0,6.0,6.0
+connect,1,process,6.0,6.0,6.0
+congratulations,1,greeting,4.0,4.0,4.0
+confirmed member,1,human,10.0,10.0,10.0
+confidential report,1,legal,10.0,10.0,10.0
+confidence,1,emotion,5.0,5.0,5.0
+confession,1,process,12.0,12.0,12.0
+confess,1,process,6.0,6.0,6.0
+conductor,1,physics,12.0,12.0,12.0
+neptune,1,astronomical,10.0,10.0,10.0
+nephew,1,relation,5.0,5.0,5.0
+nematology,1,biology,13.0,13.0,13.0
+nematode control,1,biology,15.0,15.0,15.0
+nehru collar,1,wearable,7.0,7.0,7.0
+negogiable instrumemts,1,instrument,10.0,10.0,10.0
+negligible,1,quantity,7.0,7.0,7.0
+negligent,1,quality,4.0,4.0,4.0
+negligence,1,attribute,9.0,9.0,9.0
+negative error,1,math,9.0,9.0,9.0
+need,1,abstract,6.0,6.0,6.0
+neck band,1,utility item,6.0,6.0,6.0
+necessary,1,comparator,6.0,6.0,6.0
+neat,1,quality,4.0,4.0,4.0
+nearly,1,attribute,5.0,5.0,5.0
+nearby,1,spatial position,4.0,4.0,4.0
+concave,1,physics,12.0,12.0,12.0
+computing,1,computer,13.0,13.0,13.0
+computerisation,1,computer,8.0,8.0,8.0
+compulsory,1,education,7.0,7.0,7.0
+news,1,entertainment,4.0,4.0,4.0
+newly weds,1,relation,6.0,6.0,6.0
+newly married,1,geography,12.0,12.0,12.0
+new zealand,1,geography,3.0,3.0,3.0
+new moon day,1,event,10.0,10.0,10.0
+new delhi,1,geography,5.0,5.0,5.0
+neutron,1,physics,10.0,10.0,10.0
+neutral,1,physics,10.0,10.0,10.0
+netherlands,1,geography,3.0,3.0,3.0
+netflix,1,organisation,4.0,4.0,4.0
+netaji subhas chandra bose,1,human,6.0,6.0,6.0
+net profit,1,banking,9.0,9.0,9.0
+niece,1,relation,4.0,4.0,4.0
+nice to meet you,1,greeting,4.0,4.0,4.0
+next year,1,time,4.0,4.0,4.0
+next week,1,time,4.0,4.0,4.0
+next month,1,time,4.0,4.0,4.0
+newton,1,human,8.0,8.0,8.0
+newsreader,1,computer,8.0,8.0,8.0
+concurrent,1,abstract,11.0,11.0,11.0
+concrete mixture,1,construction,11.0,11.0,11.0
+conclude,1,process,6.0,6.0,6.0
+conciliation,1,process,11.0,11.0,11.0
+concession,1,banking,8.0,8.0,8.0
+concept,1,education,4.0,4.0,4.0
+concealment of identity,1,legal,14.0,14.0,14.0
+concave mirror,1,physics,10.0,10.0,10.0
+concave lens,1,physics,11.0,11.0,11.0
+non payment,1,banking,8.0,8.0,8.0
+non legal,1,legal,8.0,8.0,8.0
+non infectious disease,1,biology,14.0,14.0,14.0
+non access,1,abstract,14.0,14.0,14.0
+nomographer,1,legal,13.0,13.0,13.0
+nominee,1,human,7.0,7.0,7.0
+nominate,1,action,6.0,6.0,6.0
+nominal value,1,banking,8.0,8.0,8.0
+nokia mobile,1,electronic and electrical,6.0,6.0,6.0
+noc,1,legal,9.0,9.0,9.0
+no due certificate,1,legal,10.0,10.0,10.0
+ninth,1,math,6.0,6.0,6.0
+nineteen,1,math,4.0,4.0,4.0
+nine,1,math,4.0,4.0,4.0
+nigeria,1,geography,4.0,4.0,4.0
+niger,1,geography,3.0,3.0,3.0
+complainant and complaint,1,legal,10.0,10.0,10.0
+compate,1,process,6.0,6.0,6.0
+compass surveying,1,process,13.0,13.0,13.0
+company secretary,1,profession,6.0,6.0,6.0
+note,1,banking,6.0,6.0,6.0
+notch collar,1,wearable,10.0,10.0,10.0
+notary public,1,legal,10.0,10.0,10.0
+not negotiable,1,attribute,8.0,8.0,8.0
+not,1,abstract,4.0,4.0,4.0
+norway,1,geography,4.0,4.0,4.0
+north-east,1,spatial position,5.0,5.0,5.0
+north korea,1,geography,4.0,4.0,4.0
+north america,1,geography,8.0,8.0,8.0
+norfolk jacket,1,wearable,9.0,9.0,9.0
+none,1,abstract,4.0,4.0,4.0
+non vegetarian,1,foods and drinks,6.0,6.0,6.0
+nucleus,1,physics,11.0,11.0,11.0
+nuclear reactor,1,physics,13.0,13.0,13.0
+nuclear energy,1,physics,14.0,14.0,14.0
+nri,1,human,10.0,10.0,10.0
+notice board,1,utility item,9.0,9.0,9.0
+notice,1,legal,10.0,10.0,10.0
+notesheet,1,utility item,5.0,5.0,5.0
+note book,1,utility item,6.0,6.0,6.0
+compromise,1,process,7.0,7.0,7.0
+compression,1,physics,8.0,8.0,8.0
+compound microscope,1,biology,9.0,9.0,9.0
+compound interest,1,banking,9.0,9.0,9.0
+composition of milk,1,foods and drinks,6.0,6.0,6.0
+compositing,1,construction,15.0,15.0,15.0
+complete,1,process,8.0,8.0,8.0
+complaint,1,process,7.0,7.0,7.0
+commercial vegetable gardening,1,biology,9.0,9.0,9.0
+commercial building,1,construction,14.0,14.0,14.0
+commerce,1,commerce,5.0,5.0,5.0
+octal,1,math,8.0,8.0,8.0
+occupation,1,profession,6.0,6.0,6.0
+observation,1,action,8.0,8.0,8.0
+obligate saprophyte,1,biology,14.0,14.0,14.0
+objection,1,action,6.0,6.0,6.0
+object,1,miscellaneous object,8.0,8.0,8.0
+obedience,1,behavior,7.0,7.0,7.0
+nutrition,1,medical,13.0,13.0,13.0
+nuncupative will,1,legal,10.0,10.0,10.0
+numpad,1,computer,12.0,12.0,12.0
+numerous,1,math,4.0,4.0,4.0
+numerical control,1,math,10.0,10.0,10.0
+number system,1,math,12.0,12.0,12.0
+office hours,1,time,8.0,8.0,8.0
+office branch,1,organisation,7.0,7.0,7.0
+office bearer,1,profession,9.0,9.0,9.0
+offence,1,legal,9.0,9.0,9.0
+off shore banking,1,banking,9.0,9.0,9.0
+off season,1,time,8.0,8.0,8.0
+of,1,language,6.0,6.0,6.0
+octopus,1,flora and fauna,5.0,5.0,5.0
+company partnership,1,commerce,12.0,12.0,12.0
+company joint stock,1,commerce,12.0,12.0,12.0
+compaction,1,construction,10.0,10.0,10.0
+compact disc,1,computer,8.0,8.0,8.0
+community,1,group,5.0,5.0,5.0
+communication,1,process,8.0,8.0,8.0
+common cold,1,biology,3.0,3.0,3.0
+committee,1,group,4.0,4.0,4.0
+on the basis of major causal agents,1,biology,15.0,15.0,15.0
+on the basis of life cycle,1,medical,13.0,13.0,13.0
+on probation,1,legal,9.0,9.0,9.0
+on demand,1,banking,9.0,9.0,9.0
+on cloud nine,1,emotion,15.0,15.0,15.0
+omit,1,action,6.0,6.0,6.0
+omission,1,action,4.0,4.0,4.0
+olympics,1,sport,5.0,5.0,5.0
+olericulture,1,biology,12.0,12.0,12.0
+older sister,1,relation,3.0,3.0,3.0
+ohm,1,metric,11.0,11.0,11.0
+ogle from head to toe,1,action,5.0,5.0,5.0
+offline editing,1,action,9.0,9.0,9.0
+officiating,1,legal,7.0,7.0,7.0
+officer in charge of jail,1,profession,13.0,13.0,13.0
+officer,1,profession,7.0,7.0,7.0
+cohesive,1,physics,8.0,8.0,8.0
+coherent,1,physics,7.0,7.0,7.0
+coffee rust,1,flora and fauna,15.0,15.0,15.0
+opaque,1,attribute,7.0,7.0,7.0
+only,1,quantity,6.0,6.0,6.0
+online shopping,1,internet,4.0,4.0,4.0
+online editing,1,internet,12.0,12.0,12.0
+online banking,1,banking,5.0,5.0,5.0
+oneplus mobile,1,electronic and electrical,4.0,4.0,4.0
+one lakh,1,math,5.0,5.0,5.0
+one crore,1,math,5.0,5.0,5.0
+one and a half hours,1,time,4.0,4.0,4.0
+one,1,math,4.0,4.0,4.0
+once,1,math,4.0,4.0,4.0
+on the basis of use of pond,1,biology,15.0,15.0,15.0
+on the basis of propagation,1,physics,15.0,15.0,15.0
+optical fiber cable,1,electronic and electrical,11.0,11.0,11.0
+optical character recognition,1,electronic and electrical,12.0,12.0,12.0
+opposite,1,comparator,4.0,4.0,4.0
+opportunity,1,abstract,4.0,4.0,4.0
+oppo mobile,1,electronic and electrical,6.0,6.0,6.0
+operate an account,1,banking,10.0,10.0,10.0
+opening balance,1,banking,9.0,9.0,9.0
+open dated,1,time,9.0,9.0,9.0
+open circuit,1,physics,15.0,15.0,15.0
+open belt drive,1,machine,10.0,10.0,10.0
+column,1,construction,14.0,14.0,14.0
+coloured follage shrubs,1,flora and fauna,10.0,10.0,10.0
+colour filter,1,colour,12.0,12.0,12.0
+colombia,1,geography,4.0,4.0,4.0
+colllsion,1,physics,8.0,8.0,8.0
+cold drink,1,foods and drinks,6.0,6.0,6.0
+out,1,spatial position,6.0,6.0,6.0
+ourselves,1,relation,7.0,7.0,7.0
+ostrich,1,flora and fauna,6.0,6.0,6.0
+osmosis,1,physics,7.0,7.0,7.0
+osclllatory motion,1,physics,12.0,12.0,12.0
+oscillator,1,instrument,8.0,8.0,8.0
+oscillation,1,physics,11.0,11.0,11.0
+ornithology,1,biology,9.0,9.0,9.0
+ornaments,1,instrument,8.0,8.0,8.0
+orissa,1,geography,4.0,4.0,4.0
+oriental bank of commerce,1,organisation,6.0,6.0,6.0
+organization,1,organisation,4.0,4.0,4.0
+order standing,1,banking,10.0,10.0,10.0
+orbit,1,astronomical,13.0,13.0,13.0
+opuntia,1,biology,12.0,12.0,12.0
+option,1,construction,5.0,5.0,5.0
+coach,1,sport,6.0,6.0,6.0
+co accused,1,legal,14.0,14.0,14.0
+cng stone carving machine,1,machine,10.0,10.0,10.0
+clutch lever,1,machine,10.0,10.0,10.0
+over valuation,1,banking,9.0,9.0,9.0
+over head projector,1,instrument,8.0,8.0,8.0
+over and over again,1,abstract,4.0,4.0,4.0
+outstanding report,1,readable,9.0,9.0,9.0
+outstanding cheque,1,banking,8.0,8.0,8.0
+outstanding,1,quality,10.0,10.0,10.0
+outside,1,spatial position,3.0,3.0,3.0
+outer shell,1,substance,13.0,13.0,13.0
+outdo,1,action,4.0,4.0,4.0
+outdated,1,time,5.0,5.0,5.0
+out of work,1,event,4.0,4.0,4.0
+out of print,1,event,8.0,8.0,8.0
+oviparous,1,biology,13.0,13.0,13.0
+ovi viviparous,1,biology,15.0,15.0,15.0
+overtime allowance,1,banking,9.0,9.0,9.0
+overseas,1,spatial position,7.0,7.0,7.0
+overleaf,1,abstract,9.0,9.0,9.0
+overdue,1,time,9.0,9.0,9.0
+overdraft,1,banking,8.0,8.0,8.0
+overcharge,1,banking,6.0,6.0,6.0
+overall,1,abstract,8.0,8.0,8.0
+over writing,1,action,10.0,10.0,10.0
+coffee,1,foods and drinks,6.0,6.0,6.0
+cock erels,1,flora and fauna,11.0,11.0,11.0
+cochin,1,geography,6.0,6.0,6.0
+coccidiosis,1,biology,11.0,11.0,11.0
+coat  dress,1,wearable,12.0,12.0,12.0
+coarse aggregate,1,metal and minerals,13.0,13.0,13.0
+climb up,1,action,6.0,6.0,6.0
+climb down,1,action,6.0,6.0,6.0
+climb,1,action,5.0,5.0,5.0
+palm tree,1,flora and fauna,6.0,6.0,6.0
+palazo pants,1,wearable,10.0,10.0,10.0
+paise,1,banking,5.0,5.0,5.0
+paid up capital,1,banking,9.0,9.0,9.0
+page layout,1,attribute,10.0,10.0,10.0
+page,1,utility item,6.0,6.0,6.0
+packing credit,1,banking,9.0,9.0,9.0
+pacing,1,action,15.0,15.0,15.0
+paan,1,foods and drinks,5.0,5.0,5.0
+ox,1,flora and fauna,4.0,4.0,4.0
+owner cultivated,1,relation,9.0,9.0,9.0
+own,1,relation,4.0,4.0,4.0
+owe,1,action,5.0,5.0,5.0
+par - above,1,comparator,8.0,8.0,8.0
+pappad,1,foods and drinks,6.0,6.0,6.0
+panic,1,emotion,5.0,5.0,5.0
+pani puri,1,foods and drinks,5.0,5.0,5.0
+panel door,1,utility item,9.0,9.0,9.0
+paneer,1,foods and drinks,4.0,4.0,4.0
+panasonic mobile,1,electronic and electrical,6.0,6.0,6.0
+panama,1,geography,3.0,3.0,3.0
+clumsy,1,behavior,12.0,12.0,12.0
+cloudy,1,weather,7.0,7.0,7.0
+clouds,1,weather,7.0,7.0,7.0
+close up,1,action,8.0,8.0,8.0
+close relation,1,relation,5.0,5.0,5.0
+close friend,1,relation,6.0,6.0,6.0
+clockwise,1,spatial position,11.0,11.0,11.0
+clinical thermometer,1,medical,10.0,10.0,10.0
+parkinsonia aculeata,1,biology,15.0,15.0,15.0
+parental,1,relation,10.0,10.0,10.0
+parent branch,1,organisation,9.0,9.0,9.0
+parent,1,relation,10.0,10.0,10.0
+parcel,1,miscellaneous object,4.0,4.0,4.0
+paratha,1,foods and drinks,5.0,5.0,5.0
+parapet,1,construction,7.0,7.0,7.0
+parameter,1,computer,8.0,8.0,8.0
+paramedic,1,medical,7.0,7.0,7.0
+parallel circuit,1,physics,14.0,14.0,14.0
+parallel,1,math,9.0,9.0,9.0
+paraguay,1,geography,3.0,3.0,3.0
+parade,1,event,5.0,5.0,5.0
+parachute,1,miscellaneous object,12.0,12.0,12.0
+par - below,1,comparator,10.0,10.0,10.0
+par - at,1,comparator,8.0,8.0,8.0
+passbook printing machine,1,banking,6.0,6.0,6.0
+passbook bank,1,banking,5.0,5.0,5.0
+pass to,1,action,8.0,8.0,8.0
+pass book,1,banking,8.0,8.0,8.0
+party,1,event,4.0,4.0,4.0
+parts,1,math,3.0,3.0,3.0
+partnership deed,1,relation,10.0,10.0,10.0
+partnership,1,relation,10.0,10.0,10.0
+partly paid,1,banking,10.0,10.0,10.0
+particulars,1,attribute,10.0,10.0,10.0
+particular,1,attribute,12.0,12.0,12.0
+participation,1,action,8.0,8.0,8.0
+part time,1,profession,11.0,11.0,11.0
+part,1,math,4.0,4.0,4.0
+parsi,1,religious,5.0,5.0,5.0
+parricide,1,legal,10.0,10.0,10.0
+classification of shrubs,1,action,9.0,9.0,9.0
+classification of poultry feeds,1,action,15.0,15.0,15.0
+classification of poultry diseases,1,action,10.0,10.0,10.0
+classification of hedges,1,action,11.0,11.0,11.0
+classification of fungus,1,action,9.0,9.0,9.0
+classification based on the transplanting capacity,1,action,14.0,14.0,14.0
+paws,1,flora and fauna,6.0,6.0,6.0
+paw,1,flora and fauna,6.0,6.0,6.0
+patriotic,1,attribute,7.0,7.0,7.0
+pastry,1,foods and drinks,5.0,5.0,5.0
+paste,1,action,5.0,5.0,5.0
+past,1,time,3.0,3.0,3.0
+password,1,computer,9.0,9.0,9.0
+passive debt,1,banking,10.0,10.0,10.0
+passion,1,emotion,6.0,6.0,6.0
+passing official,1,banking,9.0,9.0,9.0
+pencil box,1,utility item,5.0,5.0,5.0
+penality,1,legal,6.0,6.0,6.0
+penal interest,1,banking,8.0,8.0,8.0
+peep,1,action,5.0,5.0,5.0
+pear,1,foods and drinks,4.0,4.0,4.0
+peanut,1,foods and drinks,6.0,6.0,6.0
+pdp,1,politics,5.0,5.0,5.0
+paytm payments bank,1,banking,6.0,6.0,6.0
+paying slip,1,banking,9.0,9.0,9.0
+payee,1,banking,8.0,8.0,8.0
+client,1,human,15.0,15.0,15.0
+clearing house,1,banking,11.0,11.0,11.0
+clean bill,1,banking,10.0,10.0,10.0
+claw hammer,1,instrument,6.0,6.0,6.0
+clauses,1,language,14.0,14.0,14.0
+classification of vegetables,1,action,9.0,9.0,9.0
+citrus vulgaris,1,foods and drinks,13.0,13.0,13.0
+circus,1,entertainment,6.0,6.0,6.0
+circular motion,1,physics,11.0,11.0,11.0
+circuit breaker,1,physics,9.0,9.0,9.0
+circuit,1,physics,10.0,10.0,10.0
+period time,1,time,5.0,5.0,5.0
+period,1,time,8.0,8.0,8.0
+peril,1,abstract,4.0,4.0,4.0
+perform,1,action,6.0,6.0,6.0
+per pro,1,legal,8.0,8.0,8.0
+pepper,1,foods and drinks,6.0,6.0,6.0
+people,1,group,7.0,7.0,7.0
+pentode,1,electronic and electrical,11.0,11.0,11.0
+penguin,1,flora and fauna,4.0,4.0,4.0
+pendulum,1,miscellaneous object,12.0,12.0,12.0
+pencil leg,1,wearable,12.0,12.0,12.0
+peter pan collar,1,wearable,9.0,9.0,9.0
+peru,1,geography,4.0,4.0,4.0
+personality,1,attribute,12.0,12.0,12.0
+perpendicular,1,math,8.0,8.0,8.0
+permit,1,action,4.0,4.0,4.0
+permission,1,abstract,4.0,4.0,4.0
+periscope,1,instrument,13.0,13.0,13.0
+periods,1,biology,3.0,3.0,3.0
+classification based on season,1,action,14.0,14.0,14.0
+classification according to parts used for crop,1,action,15.0,15.0,15.0
+classification,1,action,11.0,11.0,11.0
+class room,1,education,7.0,7.0,7.0
+clap,1,action,6.0,6.0,6.0
+claim,1,action,8.0,8.0,8.0
+cl,1,legal,7.0,7.0,7.0
+civil engineering,1,education,4.0,4.0,4.0
+piano,1,instrument,8.0,8.0,8.0
+physical training,1,action,8.0,8.0,8.0
+physical balance,1,instrument,11.0,11.0,11.0
+photosynthesis process,1,biology,12.0,12.0,12.0
+photosynthesis,1,biology,14.0,14.0,14.0
+photoperiodism,1,biology,14.0,14.0,14.0
+photographic plate,1,instrument,8.0,8.0,8.0
+photographic camera,1,instrument,8.0,8.0,8.0
+photographer,1,profession,5.0,5.0,5.0
+photocopy,1,miscellaneous object,5.0,5.0,5.0
+photo,1,miscellaneous object,5.0,5.0,5.0
+phone,1,electronic and electrical,6.0,6.0,6.0
+pharmacist,1,medical,9.0,9.0,9.0
+pf,1,banking,6.0,6.0,6.0
+petrol,1,transport,9.0,9.0,9.0
+peteti,1,event,8.0,8.0,8.0
+chimney,1,utility item,14.0,14.0,14.0
+chilli,1,foods and drinks,5.0,5.0,5.0
+chile,1,geography,3.0,3.0,3.0
+children,1,stage,8.0,8.0,8.0
+child prostitution,1,legal,13.0,13.0,13.0
+piston,1,miscellaneous object,9.0,9.0,9.0
+pista,1,foods and drinks,8.0,8.0,8.0
+pisciculture,1,biology,13.0,13.0,13.0
+piping,1,wearable,12.0,12.0,12.0
+pinking shears,1,instrument,9.0,9.0,9.0
+pineapple,1,foods and drinks,5.0,5.0,5.0
+pin,1,utility item,9.0,9.0,9.0
+pigments,1,biology,9.0,9.0,9.0
+pickpocket,1,action,13.0,13.0,13.0
+pick stitch,1,action,11.0,11.0,11.0
+pick axe,1,instrument,4.0,4.0,4.0
+plant water relation,1,biology,15.0,15.0,15.0
+plant physiology,1,biology,15.0,15.0,15.0
+plant,1,flora and fauna,5.0,5.0,5.0
+plane mirror,1,physics,8.0,8.0,8.0
+plane convex lens,1,physics,10.0,10.0,10.0
+plane concave lens,1,physics,11.0,11.0,11.0
+plane,1,math,9.0,9.0,9.0
+plain cement concrete,1,construction,7.0,7.0,7.0
+place,1,spatial position,4.0,4.0,4.0
+cif number,1,legal,8.0,8.0,8.0
+church,1,religious,6.0,6.0,6.0
+chronic illness,1,medical,9.0,9.0,9.0
+christianity,1,religious,4.0,4.0,4.0
+choking,1,medical,14.0,14.0,14.0
+chocolate,1,foods and drinks,6.0,6.0,6.0
+chipping,1,process,4.0,4.0,4.0
+chickenpox,1,medical,4.0,4.0,4.0
+chicken mesh,1,biology,6.0,6.0,6.0
+chhattisgarh,1,geography,4.0,4.0,4.0
+chesterfield  coat,1,wearable,11.0,11.0,11.0
+chess,1,sport,6.0,6.0,6.0
+points,1,math,4.0,4.0,4.0
+pluto,1,astronomical,10.0,10.0,10.0
+plunger,1,instrument,7.0,7.0,7.0
+plumbing,1,action,4.0,4.0,4.0
+plumb bob and line,1,instrument,10.0,10.0,10.0
+plum,1,foods and drinks,4.0,4.0,4.0
+plug point,1,physics,7.0,7.0,7.0
+plug,1,electronic and electrical,6.0,6.0,6.0
+plough,1,instrument,6.0,6.0,6.0
+pledge,1,legal,4.0,4.0,4.0
+plastering,1,action,11.0,11.0,11.0
+politician,1,profession,4.0,4.0,4.0
+polite,1,attribute,5.0,5.0,5.0
+polisher,1,profession,14.0,14.0,14.0
+polish,1,action,6.0,6.0,6.0
+police station,1,legal,5.0,5.0,5.0
+police car,1,transport,10.0,10.0,10.0
+pole vault,1,miscellaneous object,5.0,5.0,5.0
+poland,1,geography,3.0,3.0,3.0
+child abuse,1,legal,13.0,13.0,13.0
+child,1,stage,9.0,9.0,9.0
+chikoo,1,foods and drinks,4.0,4.0,4.0
+chief justice,1,legal,13.0,13.0,13.0
+chief,1,authority,5.0,5.0,5.0
+chicks,1,flora and fauna,12.0,12.0,12.0
+chickpea,1,foods and drinks,5.0,5.0,5.0
+chickoo,1,foods and drinks,7.0,7.0,7.0
+postpone,1,action,6.0,6.0,6.0
+posting,1,readable,7.0,7.0,7.0
+post dated,1,time,9.0,9.0,9.0
+post card,1,readable,8.0,8.0,8.0
+possess,1,action,6.0,6.0,6.0
+positive error,1,math,9.0,9.0,9.0
+portugal,1,geography,3.0,3.0,3.0
+ports tab,1,electronic and electrical,5.0,5.0,5.0
+popcorn,1,foods and drinks,5.0,5.0,5.0
+pongal,1,event,6.0,6.0,6.0
+pond on the basis of situation,1,geography,14.0,14.0,14.0
+pomegranate,1,foods and drinks,5.0,5.0,5.0
+polygraph,1,instrument,13.0,13.0,13.0
+polygon tool,1,instrument,11.0,11.0,11.0
+polo shrit,1,wearable,6.0,6.0,6.0
+politics,1,politics,4.0,4.0,4.0
+cheque endorsement,1,banking,9.0,9.0,9.0
+cheque drop box,1,banking,8.0,8.0,8.0
+cheque crossed,1,banking,11.0,11.0,11.0
+chemistry,1,chemistry,6.0,6.0,6.0
+chemical energy,1,chemistry,8.0,8.0,8.0
+chef,1,profession,8.0,8.0,8.0
+pour,1,action,5.0,5.0,5.0
+poultry science,1,flora and fauna,12.0,12.0,12.0
+poultry production,1,flora and fauna,9.0,9.0,9.0
+poultry mash,1,flora and fauna,7.0,7.0,7.0
+poultry feeds,1,flora and fauna,13.0,13.0,13.0
+potty,1,biology,4.0,4.0,4.0
+potentiometer,1,instrument,10.0,10.0,10.0
+potentiality,1,attribute,7.0,7.0,7.0
+potential energy,1,physics,11.0,11.0,11.0
+potential,1,attribute,10.0,10.0,10.0
+predict,1,action,7.0,7.0,7.0
+predecessor,1,stage,10.0,10.0,10.0
+precaution,1,abstract,7.0,7.0,7.0
+pre paid,1,banking,7.0,7.0,7.0
+pram,1,instrument,5.0,5.0,5.0
+powerlines,1,electronic and electrical,10.0,10.0,10.0
+power sockets,1,electronic and electrical,6.0,6.0,6.0
+power hacksaw,1,instrument,10.0,10.0,10.0
+power duster,1,instrument,13.0,13.0,13.0
+powder,1,utility item,6.0,6.0,6.0
+cherry,1,foods and drinks,4.0,4.0,4.0
+cheque travellers,1,banking,9.0,9.0,9.0
+cheque stale,1,banking,9.0,9.0,9.0
+cheque postdated,1,banking,12.0,12.0,12.0
+cheque mutilated,1,banking,9.0,9.0,9.0
+cheque gift,1,banking,10.0,10.0,10.0
+change in state,1,chemistry,8.0,8.0,8.0
+chamfering,1,process,7.0,7.0,7.0
+chamber,1,construction,15.0,15.0,15.0
+prevent,1,action,12.0,12.0,12.0
+pressure foot,1,instrument,12.0,12.0,12.0
+pressure cooker,1,utility item,4.0,4.0,4.0
+pressure,1,physics,8.0,8.0,8.0
+press,1,action,6.0,6.0,6.0
+president,1,authority,4.0,4.0,4.0
+prescribe,1,action,8.0,8.0,8.0
+preposition,1,language,7.0,7.0,7.0
+premium,1,attribute,8.0,8.0,8.0
+premises,1,construction,7.0,7.0,7.0
+premature,1,attribute,10.0,10.0,10.0
+preliminary,1,attribute,7.0,7.0,7.0
+prejudice,1,abstract,5.0,5.0,5.0
+private gardens,1,construction,14.0,14.0,14.0
+private,1,attribute,5.0,5.0,5.0
+prism,1,instrument,9.0,9.0,9.0
+priority,1,attribute,7.0,7.0,7.0
+printed circuit board,1,electronic and electrical,11.0,11.0,11.0
+print,1,action,4.0,4.0,4.0
+prime location,1,spatial position,12.0,12.0,12.0
+primary,1,attribute,8.0,8.0,8.0
+previous,1,time,7.0,7.0,7.0
+preventive measures,1,action,9.0,9.0,9.0
+charge sheet,1,banking,11.0,11.0,11.0
+charge,1,banking,10.0,10.0,10.0
+chapter,1,education,6.0,6.0,6.0
+chapathi,1,foods and drinks,6.0,6.0,6.0
+change of venue,1,action,11.0,11.0,11.0
+change in temperature,1,chemistry,9.0,9.0,9.0
+centimetre,1,metric,10.0,10.0,10.0
+centimeter,1,metric,7.0,7.0,7.0
+centigram,1,metric,7.0,7.0,7.0
+program,1,action,3.0,3.0,3.0
+proforma,1,legal,8.0,8.0,8.0
+profile levelling,1,physics,14.0,14.0,14.0
+professor,1,profession,5.0,5.0,5.0
+professional,1,attribute,5.0,5.0,5.0
+product,1,miscellaneous object,7.0,7.0,7.0
+produce,1,action,6.0,6.0,6.0
+proceeding,1,legal,8.0,8.0,8.0
+procedure,1,action,7.0,7.0,7.0
+problem,1,abstract,4.0,4.0,4.0
+probing,1,action,7.0,7.0,7.0
+pro circle,1,utility item,15.0,15.0,15.0
+private secretaryps,1,profession,14.0,14.0,14.0
+projectile motion,1,physics,10.0,10.0,10.0
+project,1,abstract,8.0,8.0,8.0
+prohibit,1,action,8.0,8.0,8.0
+progress,1,action,6.0,6.0,6.0
+chain surveying,1,metric,9.0,9.0,9.0
+chain reaction,1,chemistry,10.0,10.0,10.0
+chain drive,1,instrument,14.0,14.0,14.0
+cervical cancer,1,medical,10.0,10.0,10.0
+cerebral palsy,1,medical,8.0,8.0,8.0
+cereal disease,1,medical,10.0,10.0,10.0
+century,1,time,11.0,11.0,11.0
+centripetal,1,physics,14.0,14.0,14.0
+centrifugal,1,physics,14.0,14.0,14.0
+centre of curvature,1,physics,9.0,9.0,9.0
+centre  front,1,spatial position,8.0,8.0,8.0
+central processing unit,1,computer,11.0,11.0,11.0
+publication,1,education,6.0,6.0,6.0
+public gardens,1,construction,9.0,9.0,9.0
+psychology,1,biology,4.0,4.0,4.0
+provision,1,action,8.0,8.0,8.0
+proton,1,physics,11.0,11.0,11.0
+protest,1,event,6.0,6.0,6.0
+prospectus,1,utility item,7.0,7.0,7.0
+prosecution,1,legal,6.0,6.0,6.0
+proprietory,1,authority,7.0,7.0,7.0
+property tax,1,banking,6.0,6.0,6.0
+property public,1,banking,12.0,12.0,12.0
+property landed,1,banking,12.0,12.0,12.0
+propeller pump,1,instrument,15.0,15.0,15.0
+pronoun,1,language,5.0,5.0,5.0
+prompt action,1,action,7.0,7.0,7.0
+promisory note,1,banking,8.0,8.0,8.0
+cause of action,1,action,12.0,12.0,12.0
+cauliflower,1,foods and drinks,7.0,7.0,7.0
+category,1,abstract,4.0,4.0,4.0
+catch  stitch,1,wearable,11.0,11.0,11.0
+cataract,1,medical,7.0,7.0,7.0
+punjab national bank,1,organisation,5.0,5.0,5.0
+punishment,1,action,5.0,5.0,5.0
+pump,1,machine,8.0,8.0,8.0
+pulley,1,instrument,9.0,9.0,9.0
+pullet,1,flora and fauna,11.0,11.0,11.0
+pull someone's leg,1,action,3.0,3.0,3.0
+pull,1,action,6.0,6.0,6.0
+puja,1,religious,6.0,6.0,6.0
+puducherry,1,geography,4.0,4.0,4.0
+publish,1,action,4.0,4.0,4.0
+publicity material,1,politics,8.0,8.0,8.0
+put up,1,action,7.0,7.0,7.0
+push,1,action,6.0,6.0,6.0
+purpose,1,abstract,6.0,6.0,6.0
+purple flowered plants,1,flora and fauna,11.0,11.0,11.0
+puri,1,foods and drinks,6.0,6.0,6.0
+purchase retum,1,banking,9.0,9.0,9.0
+puppet show,1,event,5.0,5.0,5.0
+puppet,1,miscellaneous object,8.0,8.0,8.0
+center  back,1,spatial position,10.0,10.0,10.0
+center,1,spatial position,6.0,6.0,6.0
+cement mortar,1,construction,9.0,9.0,9.0
+cement,1,construction,6.0,6.0,6.0
+celsius,1,metric,9.0,9.0,9.0
+celebrate,1,event,6.0,6.0,6.0
+ceiling,1,construction,13.0,13.0,13.0
+cd,1,computer,4.0,4.0,4.0
+quota,1,banking,7.0,7.0,7.0
+quit,1,abstract,6.0,6.0,6.0
+quiet,1,sound,4.0,4.0,4.0
+quick,1,time,6.0,6.0,6.0
+queue,1,group,3.0,3.0,3.0
+questions,1,abstract,5.0,5.0,5.0
+questionnaire,1,utility item,7.0,7.0,7.0
+quarter,1,math,12.0,12.0,12.0
+quarrel,1,action,4.0,4.0,4.0
+quality,1,quality,6.0,6.0,6.0
+qualified,1,abstract,7.0,7.0,7.0
+qualification essential,1,abstract,7.0,7.0,7.0
+quadrupedal robot,1,electronic and electrical,13.0,13.0,13.0
+python,1,flora and fauna,6.0,6.0,6.0
+pyramid,1,math,11.0,11.0,11.0
+puzzle,1,process,5.0,5.0,5.0
+cash book,1,banking,10.0,10.0,10.0
+cartidge,1,utility item,15.0,15.0,15.0
+carry on,1,stage,5.0,5.0,5.0
+carry,1,action,6.0,6.0,6.0
+raid,1,event,7.0,7.0,7.0
+rafter,1,construction,15.0,15.0,15.0
+radish,1,foods and drinks,4.0,4.0,4.0
+radio wave,1,physics,12.0,12.0,12.0
+radiation,1,physics,10.0,10.0,10.0
+raddish,1,foods and drinks,7.0,7.0,7.0
+racism,1,human,4.0,4.0,4.0
+race,1,event,6.0,6.0,6.0
+rabindranath tagore,1,human,6.0,6.0,6.0
+quran,1,religious,6.0,6.0,6.0
+quote,1,abstract,6.0,6.0,6.0
+quotation,1,abstract,8.0,8.0,8.0
+raipur,1,geography,4.0,4.0,4.0
+rainy season vegetables,1,flora and fauna,11.0,11.0,11.0
+rain,1,weather,5.0,5.0,5.0
+railway track,1,transport,5.0,5.0,5.0
+railway hedges,1,transport,15.0,15.0,15.0
+rail section,1,transport,15.0,15.0,15.0
+rail road switch,1,transport,7.0,7.0,7.0
+catalogue,1,utility item,9.0,9.0,9.0
+cassette,1,sound,7.0,7.0,7.0
+casio,1,sound,5.0,5.0,5.0
+cashier,1,profession,7.0,7.0,7.0
+cash remmitance,1,banking,10.0,10.0,10.0
+cash receipt,1,banking,9.0,9.0,9.0
+cash credit key,1,banking,10.0,10.0,10.0
+cash credit,1,banking,9.0,9.0,9.0
+cash certificates,1,banking,10.0,10.0,10.0
+rate concessional,1,banking,6.0,6.0,6.0
+raster graphics,1,computer,15.0,15.0,15.0
+rasgulla,1,foods and drinks,6.0,6.0,6.0
+rarely,1,attribute,7.0,7.0,7.0
+rare,1,attribute,5.0,5.0,5.0
+rapidly,1,time,8.0,8.0,8.0
+ranveer singh,1,human,4.0,4.0,4.0
+rani of jhansi,1,human,4.0,4.0,4.0
+random motion,1,physics,11.0,11.0,11.0
+random,1,abstract,8.0,8.0,8.0
+ranchi,1,geography,4.0,4.0,4.0
+ramzan,1,event,9.0,9.0,9.0
+rama,1,religious,5.0,5.0,5.0
+ram navami,1,religious,6.0,6.0,6.0
+ram,1,religious,5.0,5.0,5.0
+rally,1,event,6.0,6.0,6.0
+capital punishment,1,legal,6.0,6.0,6.0
+capillary tube,1,medical,8.0,8.0,8.0
+capacity,1,quantity,11.0,11.0,11.0
+real,1,attribute,7.0,7.0,7.0
+ready,1,abstract,4.0,4.0,4.0
+reaction,1,chemistry,8.0,8.0,8.0
+re sale,1,banking,6.0,6.0,6.0
+re pledge,1,banking,6.0,6.0,6.0
+re issue,1,banking,8.0,8.0,8.0
+re examine,1,banking,7.0,7.0,7.0
+re endorsed,1,banking,7.0,7.0,7.0
+re employment,1,banking,7.0,7.0,7.0
+re acceptable,1,banking,7.0,7.0,7.0
+rationale,1,abstract,4.0,4.0,4.0
+ratification,1,legal,7.0,7.0,7.0
+rate differential,1,banking,7.0,7.0,7.0
+recognise,1,action,7.0,7.0,7.0
+recharge,1,banking,6.0,6.0,6.0
+recently,1,time,5.0,5.0,5.0
+recent,1,time,5.0,5.0,5.0
+receiver,1,human,6.0,6.0,6.0
+rebate,1,banking,6.0,6.0,6.0
+reasonable notice,1,legal,7.0,7.0,7.0
+reaper bainder,1,instrument,15.0,15.0,15.0
+real image,1,physics,8.0,8.0,8.0
+real estate agent,1,profession,6.0,6.0,6.0
+carpet,1,utility item,6.0,6.0,6.0
+carnivorus fishes,1,flora and fauna,12.0,12.0,12.0
+cargo  pocket,1,wearable,11.0,11.0,11.0
+card,1,utility item,5.0,5.0,5.0
+carcinoid tumor,1,medical,8.0,8.0,8.0
+carburetor,1,machine,7.0,7.0,7.0
+rectification,1,chemistry,8.0,8.0,8.0
+recruitment,1,action,6.0,6.0,6.0
+recover,1,action,6.0,6.0,6.0
+reconsider,1,abstract,7.0,7.0,7.0
+reconciliation,1,relation,6.0,6.0,6.0
+recommendation,1,action,6.0,6.0,6.0
+capable,1,attribute,6.0,6.0,6.0
+canteen,1,organisation,4.0,4.0,4.0
+canara bank,1,banking,5.0,5.0,5.0
+canada,1,geography,4.0,4.0,4.0
+camouflage,1,attribute,9.0,9.0,9.0
+camera,1,electronic and electrical,7.0,7.0,7.0
+cambodia,1,geography,3.0,3.0,3.0
+calorimeter,1,instrument,10.0,10.0,10.0
+recognize,1,action,5.0,5.0,5.0
+recognised,1,action,7.0,7.0,7.0
+region,1,spatial position,6.0,6.0,6.0
+refusal,1,abstract,6.0,6.0,6.0
+refund,1,banking,6.0,6.0,6.0
+refrigerater,1,utility item,7.0,7.0,7.0
+refresher course,1,education,7.0,7.0,7.0
+refractive index,1,physics,10.0,10.0,10.0
+refraction,1,physics,9.0,9.0,9.0
+reform,1,action,12.0,12.0,12.0
+reflection,1,physics,8.0,8.0,8.0
+refinance,1,banking,7.0,7.0,7.0
+refer to drawer,1,banking,7.0,7.0,7.0
+red rot of sugarcane,1,flora and fauna,10.0,10.0,10.0
+red flowered plants,1,flora and fauna,11.0,11.0,11.0
+recurring deposit,1,banking,4.0,4.0,4.0
+recurring,1,abstract,6.0,6.0,6.0
+rectifier,1,instrument,10.0,10.0,10.0
+cage,1,construction,6.0,6.0,6.0
+caftan,1,wearable,8.0,8.0,8.0
+buyer,1,human,6.0,6.0,6.0
+relief,1,action,6.0,6.0,6.0
+reliance mobile,1,electronic and electrical,6.0,6.0,6.0
+rejoinder,1,action,8.0,8.0,8.0
+reject,1,action,5.0,5.0,5.0
+reinforced cement concrete,1,construction,14.0,14.0,14.0
+regulator,1,electronic and electrical,5.0,5.0,5.0
+regulation,1,authority,7.0,7.0,7.0
+regularisation,1,math,7.0,7.0,7.0
+regular vibration,1,sound,9.0,9.0,9.0
+registrar,1,profession,7.0,7.0,7.0
+registered letter,1,miscellaneous object,9.0,9.0,9.0
+registered,1,legal,7.0,7.0,7.0
+register,1,miscellaneous object,7.0,7.0,7.0
+report,1,metric,3.0,3.0,3.0
+repeat,1,action,4.0,4.0,4.0
+repay,1,banking,7.0,7.0,7.0
+repairer,1,human,7.0,7.0,7.0
+renovation,1,action,13.0,13.0,13.0
+renewal,1,action,7.0,7.0,7.0
+remittance,1,banking,8.0,8.0,8.0
+reminder,1,time,8.0,8.0,8.0
+remind,1,action,8.0,8.0,8.0
+calorie,1,foods and drinks,10.0,10.0,10.0
+call money,1,banking,10.0,10.0,10.0
+call deposit,1,banking,9.0,9.0,9.0
+calendar year,1,time,12.0,12.0,12.0
+calcutta,1,geography,6.0,6.0,6.0
+cake,1,foods and drinks,6.0,6.0,6.0
+cajanus inducus,1,foods and drinks,11.0,11.0,11.0
+burundi,1,geography,3.0,3.0,3.0
+burn,1,sensation,5.0,5.0,5.0
+resignation,1,action,7.0,7.0,7.0
+residential building,1,construction,6.0,6.0,6.0
+residence,1,construction,9.0,9.0,9.0
+reserve fund,1,banking,8.0,8.0,8.0
+researcher,1,human,6.0,6.0,6.0
+research farm,1,education,12.0,12.0,12.0
+research,1,education,3.0,3.0,3.0
+res,1,biology,13.0,13.0,13.0
+requisite,1,abstract,6.0,6.0,6.0
+request,1,action,4.0,4.0,4.0
+repurchase,1,action,6.0,6.0,6.0
+repulsive force,1,physics,11.0,11.0,11.0
+republic day,1,event,5.0,5.0,5.0
+reproduction,1,biology,14.0,14.0,14.0
+restrained,1,action,3.0,3.0,3.0
+restore,1,action,7.0,7.0,7.0
+restart,1,action,6.0,6.0,6.0
+responsible,1,behavior,7.0,7.0,7.0
+responsibility,1,abstract,7.0,7.0,7.0
+resources,1,abstract,10.0,10.0,10.0
+resonance,1,sound,11.0,11.0,11.0
+resolve,1,behavior,4.0,4.0,4.0
+resolution,1,action,9.0,9.0,9.0
+buy,1,action,7.0,7.0,7.0
+button placket,1,wearable,5.0,5.0,5.0
+button loop,1,wearable,10.0,10.0,10.0
+button hole,1,wearable,8.0,8.0,8.0
+button down,1,action,5.0,5.0,5.0
+bushes,1,flora and fauna,8.0,8.0,8.0
+bus stand,1,construction,6.0,6.0,6.0
+revolving chair,1,utility item,5.0,5.0,5.0
+revolve,1,action,7.0,7.0,7.0
+revolution,1,event,12.0,12.0,12.0
+revised,1,abstract,7.0,7.0,7.0
+revise,1,action,13.0,13.0,13.0
+review,1,quality,11.0,11.0,11.0
+reversible,1,attribute,7.0,7.0,7.0
+revenue,1,banking,9.0,9.0,9.0
+revalidation,1,action,12.0,12.0,12.0
+retum outward,1,action,10.0,10.0,10.0
+retum inward,1,action,10.0,10.0,10.0
+retention of moisture,1,biology,15.0,15.0,15.0
+retain,1,action,8.0,8.0,8.0
+retail,1,quantity,10.0,10.0,10.0
+resume,1,action,8.0,8.0,8.0
+restricted,1,action,7.0,7.0,7.0
+bull,1,flora and fauna,5.0,5.0,5.0
+building structure,1,construction,6.0,6.0,6.0
+builder,1,profession,6.0,6.0,6.0
+bugle,1,sound,5.0,5.0,5.0
+buffet,1,foods and drinks,7.0,7.0,7.0
+rigid,1,attribute,6.0,6.0,6.0
+right now,1,time,4.0,4.0,4.0
+right indent,1,attribute,13.0,13.0,13.0
+ridicule,1,behavior,3.0,3.0,3.0
+ridge board,1,construction,15.0,15.0,15.0
+ride,1,attribute,8.0,8.0,8.0
+rhythmic,1,sound,11.0,11.0,11.0
+rhinocerous,1,flora and fauna,6.0,6.0,6.0
+rhinoceros,1,flora and fauna,5.0,5.0,5.0
+rhino,1,flora and fauna,6.0,6.0,6.0
+rf osciilator,1,instrument,11.0,11.0,11.0
+road separator,1,transport,7.0,7.0,7.0
+road,1,transport,4.0,4.0,4.0
+riverine,1,geography,15.0,15.0,15.0
+risk,1,abstract,6.0,6.0,6.0
+ripe,1,quality,5.0,5.0,5.0
+rip out,1,action,10.0,10.0,10.0
+riots,1,event,7.0,7.0,7.0
+ring spanner,1,instrument,11.0,11.0,11.0
+rinderpest,1,medical,13.0,13.0,13.0
+burglar,1,human,9.0,9.0,9.0
+burger,1,foods and drinks,6.0,6.0,6.0
+burden,1,emotion,15.0,15.0,15.0
+bump cutter,1,construction,10.0,10.0,10.0
+bully calf,1,flora and fauna,11.0,11.0,11.0
+bullock cart,1,transport,6.0,6.0,6.0
+bullet train,1,transport,6.0,6.0,6.0
+browse,1,action,10.0,10.0,10.0
+brown sport of rice,1,medical,13.0,13.0,13.0
+brothel,1,construction,7.0,7.0,7.0
+roofing tiles,1,utility item,6.0,6.0,6.0
+roof griders,1,construction,11.0,11.0,11.0
+roof garden,1,construction,8.0,8.0,8.0
+rolls royce,1,organisation,5.0,5.0,5.0
+rollerpaint,1,instrument,8.0,8.0,8.0
+rocking chair,1,utility item,5.0,5.0,5.0
+rocket,1,astronomical,5.0,5.0,5.0
+rockery plants,1,flora and fauna,14.0,14.0,14.0
+rock gardening,1,entertainment,14.0,14.0,14.0
+rock drill machine,1,machine,8.0,8.0,8.0
+rock climbing gujarat,1,sport,9.0,9.0,9.0
+roasters,1,flora and fauna,13.0,13.0,13.0
+roam,1,action,7.0,7.0,7.0
+roughages,1,foods and drinks,15.0,15.0,15.0
+rough cut,1,action,9.0,9.0,9.0
+rotten,1,attribute,7.0,7.0,7.0
+roti,1,foods and drinks,5.0,5.0,5.0
+rotational motion,1,physics,12.0,12.0,12.0
+rotational,1,physics,8.0,8.0,8.0
+rotating tool,1,instrument,12.0,12.0,12.0
+rotate,1,action,7.0,7.0,7.0
+budget,1,banking,5.0,5.0,5.0
+buddhist,1,religious,4.0,4.0,4.0
+buddhism,1,religious,4.0,4.0,4.0
+buddah,1,religious,6.0,6.0,6.0
+buckle,1,wearable,5.0,5.0,5.0
+bsp,1,politics,4.0,4.0,4.0
+bsnl,1,organisation,5.0,5.0,5.0
+brush,1,utility item,5.0,5.0,5.0
+safe guard,1,wearable,7.0,7.0,7.0
+sacrifice,1,action,4.0,4.0,4.0
+s.i unit,1,metric,10.0,10.0,10.0
+rwanda,1,geography,3.0,3.0,3.0
+rural development,1,organisation,10.0,10.0,10.0
+rupee,1,banking,5.0,5.0,5.0
+runs,1,sport,4.0,4.0,4.0
+running account,1,banking,10.0,10.0,10.0
+runner,1,instrument,9.0,9.0,9.0
+rum,1,foods and drinks,4.0,4.0,4.0
+rubber stamp,1,utility item,5.0,5.0,5.0
+rubber boots,1,wearable,13.0,13.0,13.0
+royal enfield,1,organisation,5.0,5.0,5.0
+rowdy,1,behavior,6.0,6.0,6.0
+row house,1,construction,14.0,14.0,14.0
+routine,1,action,8.0,8.0,8.0
+briefcase,1,utility item,4.0,4.0,4.0
+bridge,1,construction,6.0,6.0,6.0
+bridegroom,1,human,9.0,9.0,9.0
+bride,1,human,15.0,15.0,15.0
+brick masonry,1,construction,7.0,7.0,7.0
+breeds of poultry,1,flora and fauna,11.0,11.0,11.0
+salman khan,1,human,4.0,4.0,4.0
+salesman,1,profession,12.0,12.0,12.0
+sales retum,1,banking,8.0,8.0,8.0
+saina nehwal,1,human,4.0,4.0,4.0
+sailor pants,1,wearable,10.0,10.0,10.0
+sailor collar,1,wearable,8.0,8.0,8.0
+sailboat,1,transport,5.0,5.0,5.0
+sai baba,1,religious,5.0,5.0,5.0
+safety helmet,1,wearable,8.0,8.0,8.0
+safety goggle,1,wearable,9.0,9.0,9.0
+sand paper,1,utility item,14.0,14.0,14.0
+sanction,1,legal,5.0,5.0,5.0
+san serif,1,abstract,12.0,12.0,12.0
+samsung mobile,1,electronic and electrical,5.0,5.0,5.0
+samsung,1,organisation,5.0,5.0,5.0
+sample,1,abstract,5.0,5.0,5.0
+samosa,1,foods and drinks,5.0,5.0,5.0
+salyx tetra sperma,1,biology,13.0,13.0,13.0
+saloon,1,construction,7.0,7.0,7.0
+broom,1,utility item,5.0,5.0,5.0
+bronchial tumors,1,medical,10.0,10.0,10.0
+brokerage,1,banking,11.0,11.0,11.0
+brochure,1,readable,5.0,5.0,5.0
+brittle,1,attribute,7.0,7.0,7.0
+brinjal,1,foods and drinks,6.0,6.0,6.0
+bring,1,action,6.0,6.0,6.0
+brain injury,1,medical,4.0,4.0,4.0
+brahma,1,religious,5.0,5.0,5.0
+scales of pay,1,banking,8.0,8.0,8.0
+sc,1,group,9.0,9.0,9.0
+saw,1,instrument,6.0,6.0,6.0
+save,1,action,4.0,4.0,4.0
+saudi arabia,1,geography,4.0,4.0,4.0
+sauce,1,foods and drinks,4.0,4.0,4.0
+satisfactory,1,attribute,6.0,6.0,6.0
+satellites,1,astronomical,13.0,13.0,13.0
+sarvepalli radhakrishnan,1,human,5.0,5.0,5.0
+sarong skirt,1,wearable,8.0,8.0,8.0
+saraswati,1,religious,5.0,5.0,5.0
+saprophyte of plants,1,flora and fauna,13.0,13.0,13.0
+sanjay dutt,1,human,4.0,4.0,4.0
+sandwitch,1,foods and drinks,6.0,6.0,6.0
+school bus,1,transport,6.0,6.0,6.0
+schematic,1,attribute,11.0,11.0,11.0
+schedule,1,time,7.0,7.0,7.0
+scared,1,emotion,4.0,4.0,4.0
+scan,1,action,5.0,5.0,5.0
+scalpel,1,instrument,15.0,15.0,15.0
+breathalyzer test,1,medical,12.0,12.0,12.0
+breast cancer,1,medical,6.0,6.0,6.0
+breakfast,1,foods and drinks,6.0,6.0,6.0
+break,1,action,5.0,5.0,5.0
+bread board,1,electronic and electrical,10.0,10.0,10.0
+brazil,1,geography,3.0,3.0,3.0
+brave,1,emotion,6.0,6.0,6.0
+brandishing of a weapon,1,legal,11.0,11.0,11.0
+brain tumor  inside,1,medical,6.0,6.0,6.0
+brain stem glioma,1,medical,12.0,12.0,12.0
+seal,1,flora and fauna,9.0,9.0,9.0
+sculpture,1,miscellaneous object,6.0,6.0,6.0
+script,1,readable,9.0,9.0,9.0
+scribe,1,human,9.0,9.0,9.0
+screw guage,1,instrument,10.0,10.0,10.0
+screw driver,1,instrument,6.0,6.0,6.0
+screen,1,action,12.0,12.0,12.0
+scream,1,action,5.0,5.0,5.0
+scraping,1,action,6.0,6.0,6.0
+scotland,1,geography,3.0,3.0,3.0
+scorpion,1,flora and fauna,4.0,4.0,4.0
+score,1,metric,7.0,7.0,7.0
+scope,1,abstract,9.0,9.0,9.0
+scooter,1,transport,4.0,4.0,4.0
+scientist,1,profession,7.0,7.0,7.0
+school uniform,1,wearable,4.0,4.0,4.0
+borrow,1,action,6.0,6.0,6.0
+born,1,stage,5.0,5.0,5.0
+boring machine,1,machine,6.0,6.0,6.0
+security continuing,1,legal,10.0,10.0,10.0
+security,1,legal,9.0,9.0,9.0
+sector,1,math,10.0,10.0,10.0
+section  admin,1,authority,11.0,11.0,11.0
+section,1,group,7.0,7.0,7.0
+secretary,1,profession,4.0,4.0,4.0
+seconds,1,time,6.0,6.0,6.0
+secondary tillage,1,biology,14.0,14.0,14.0
+secondary,1,attribute,8.0,8.0,8.0
+seat,1,utility item,6.0,6.0,6.0
+seamline pocket,1,wearable,10.0,10.0,10.0
+seam ripper,1,instrument,11.0,11.0,11.0
+seam allowance,1,quantity,11.0,11.0,11.0
+selective,1,behavior,11.0,11.0,11.0
+selection grade,1,banking,9.0,9.0,9.0
+seizure,1,medical,10.0,10.0,10.0
+see you tomorrow,1,greeting,4.0,4.0,4.0
+security guard,1,profession,4.0,4.0,4.0
+security deposit,1,legal,9.0,9.0,9.0
+security convertible,1,legal,10.0,10.0,10.0
+boyfriend,1,relation,5.0,5.0,5.0
+box pleats,1,wearable,6.0,6.0,6.0
+box,1,utility item,5.0,5.0,5.0
+bowler,1,sport,4.0,4.0,4.0
+bowled out,1,sport,4.0,4.0,4.0
+bow tie,1,wearable,5.0,5.0,5.0
+boss,1,profession,4.0,4.0,4.0
+bosnia-herzegovina,1,geography,4.0,4.0,4.0
+borrower,1,banking,8.0,8.0,8.0
+semi urban,1,attribute,10.0,10.0,10.0
+semi solid,1,math,8.0,8.0,8.0
+semi aniline skin,1,miscellaneous object,10.0,10.0,10.0
+boring,1,attribute,7.0,7.0,7.0
+bored,1,attribute,5.0,5.0,5.0
+boolean,1,math,12.0,12.0,12.0
+bookshelf,1,utility item,6.0,6.0,6.0
+bone cancer osteosarcoma and malignant fibrous histiocytoma,1,medical,5.0,5.0,5.0
+bond,1,banking,8.0,8.0,8.0
+bonafide,1,legal,11.0,11.0,11.0
+bolling point,1,chemistry,10.0,10.0,10.0
+bolero jacket,1,wearable,7.0,7.0,7.0
+bogie,1,transport,9.0,9.0,9.0
+self-reflect,1,attribute,5.0,5.0,5.0
+self explanatory,1,attribute,9.0,9.0,9.0
+self employed,1,profession,8.0,8.0,8.0
+sex,1,biology,5.0,5.0,5.0
+sewing machine,1,instrument,7.0,7.0,7.0
+sever,1,action,5.0,5.0,5.0
+seventy,1,math,4.0,4.0,4.0
+seventh,1,math,6.0,6.0,6.0
+seventeen,1,math,4.0,4.0,4.0
+seven,1,math,4.0,4.0,4.0
+settle,1,action,7.0,7.0,7.0
+setting of cement,1,construction,8.0,8.0,8.0
+set,1,math,3.0,3.0,3.0
+sesbenia aegyptiaca,1,biology,12.0,12.0,12.0
+serve,1,action,6.0,6.0,6.0
+serial killer,1,human,10.0,10.0,10.0
+seniority,1,authority,9.0,9.0,9.0
+seminar,1,event,5.0,5.0,5.0
+semicircle,1,math,4.0,4.0,4.0
+blue flowered plants,1,flora and fauna,11.0,11.0,11.0
+blow,1,action,6.0,6.0,6.0
+sharp,1,attribute,6.0,6.0,6.0
+shark,1,flora and fauna,6.0,6.0,6.0
+shares redeemable,1,banking,9.0,9.0,9.0
+share preference,1,banking,9.0,9.0,9.0
+share holder,1,banking,9.0,9.0,9.0
+share equity,1,banking,14.0,14.0,14.0
+share capital,1,banking,10.0,10.0,10.0
+sharbat,1,foods and drinks,5.0,5.0,5.0
+shank button,1,wearable,13.0,13.0,13.0
+shake,1,action,6.0,6.0,6.0
+shaft,1,instrument,11.0,11.0,11.0
+shade,1,utility item,7.0,7.0,7.0
+seychelles,1,geography,3.0,3.0,3.0
+sexual reproduction,1,biology,13.0,13.0,13.0
+shears,1,instrument,7.0,7.0,7.0
+shearling,1,action,8.0,8.0,8.0
+shaving trimmer,1,utility item,6.0,6.0,6.0
+shaving brush,1,utility item,4.0,4.0,4.0
+shaving blade,1,utility item,4.0,4.0,4.0
+shave,1,action,7.0,7.0,7.0
+shatabdi express,1,transport,4.0,4.0,4.0
+sharpening stone,1,instrument,11.0,11.0,11.0
+body piercing,1,biology,7.0,7.0,7.0
+body parts,1,biology,8.0,8.0,8.0
+body pain,1,medical,8.0,8.0,8.0
+bodice,1,wearable,7.0,7.0,7.0
+bobbinet,1,wearable,8.0,8.0,8.0
+boat,1,transport,5.0,5.0,5.0
+bmw,1,organisation,5.0,5.0,5.0
+blurring,1,action,14.0,14.0,14.0
+black market,1,legal,9.0,9.0,9.0
+black board,1,education,6.0,6.0,6.0
+bjp,1,politics,3.0,3.0,3.0
+bitter gourd,1,foods and drinks,4.0,4.0,4.0
+shoes,1,wearable,3.0,3.0,3.0
+shocked,1,behavior,3.0,3.0,3.0
+shiva,1,religious,6.0,6.0,6.0
+shiv sena,1,politics,3.0,3.0,3.0
+shipping order,1,process,9.0,9.0,9.0
+shipping freight,1,transport,10.0,10.0,10.0
+shipment,1,process,7.0,7.0,7.0
+ship,1,transport,5.0,5.0,5.0
+shillong,1,geography,4.0,4.0,4.0
+shield,1,miscellaneous object,5.0,5.0,5.0
+shell top,1,attribute,10.0,10.0,10.0
+sheet charge,1,legal,9.0,9.0,9.0
+shrubs,1,flora and fauna,14.0,14.0,14.0
+shower,1,utility item,5.0,5.0,5.0
+show cause,1,banking,8.0,8.0,8.0
+shoulder pads,1,utility item,13.0,13.0,13.0
+shortage,1,banking,9.0,9.0,9.0
+short term,1,banking,9.0,9.0,9.0
+blocks,1,miscellaneous object,6.0,6.0,6.0
+blindness and low vision,1,medical,6.0,6.0,6.0
+blind stitch,1,wearable,14.0,14.0,14.0
+blind,1,medical,6.0,6.0,6.0
+blight,1,medical,14.0,14.0,14.0
+bless,1,action,5.0,5.0,5.0
+bleeding disorders,1,medical,6.0,6.0,6.0
+blame,1,action,4.0,4.0,4.0
+bladder cancer,1,medical,13.0,13.0,13.0
+blackberry,1,organisation,5.0,5.0,5.0
+binary,1,math,10.0,10.0,10.0
+bimetallic,1,metal and minerals,8.0,8.0,8.0
+bills purchased,1,banking,9.0,9.0,9.0
+sikkim,1,religious,4.0,4.0,4.0
+signature,1,readable,7.0,7.0,7.0
+signatory,1,banking,8.0,8.0,8.0
+signal,1,gesture,5.0,5.0,5.0
+sign language,1,language,4.0,4.0,4.0
+sightseeing,1,entertainment,6.0,6.0,6.0
+sight bill,1,legal,7.0,7.0,7.0
+side mirror,1,utility item,6.0,6.0,6.0
+side,1,spatial position,4.0,4.0,4.0
+sick unit,1,banking,13.0,13.0,13.0
+sibling,1,relation,4.0,4.0,4.0
+si,1,metric,9.0,9.0,9.0
+shutdown,1,process,5.0,5.0,5.0
+site,1,construction,9.0,9.0,9.0
+sitar,1,instrument,7.0,7.0,7.0
+single owner,1,attribute,7.0,7.0,7.0
+single entry,1,quantity,9.0,9.0,9.0
+singer,1,profession,5.0,5.0,5.0
+since,1,time,4.0,4.0,4.0
+simple  microscope,1,instrument,8.0,8.0,8.0
+sim card,1,utility item,4.0,4.0,4.0
+bitter,1,sensation,5.0,5.0,5.0
+bishop sleeve,1,wearable,7.0,7.0,7.0
+birth defect,1,medical,10.0,10.0,10.0
+bird,1,flora and fauna,7.0,7.0,7.0
+bipedal robot,1,machine,9.0,9.0,9.0
+biomass,1,biology,8.0,8.0,8.0
+bio energy,1,biology,8.0,8.0,8.0
+bindi,1,wearable,4.0,4.0,4.0
+size of seed,1,attribute,14.0,14.0,14.0
+sixty,1,quantity,5.0,5.0,5.0
+sixteen,1,quantity,4.0,4.0,4.0
+six monthly,1,time,8.0,8.0,8.0
+bill of exchange,1,banking,11.0,11.0,11.0
+bilingual,1,language,4.0,4.0,4.0
+bile duct cancer,1,medical,15.0,15.0,15.0
+bike silencer pipe,1,instrument,8.0,8.0,8.0
+bike oil filter,1,instrument,15.0,15.0,15.0
+bigamy,1,relation,12.0,12.0,12.0
+bicycle shorts,1,wearable,13.0,13.0,13.0
+biconvex lens,1,physics,11.0,11.0,11.0
+biconcave lens,1,physics,11.0,11.0,11.0
+bible,1,readable,6.0,6.0,6.0
+bib,1,wearable,5.0,5.0,5.0
+situation,1,time,4.0,4.0,4.0
+small coin depot,1,construction,11.0,11.0,11.0
+slower,1,comparator,7.0,7.0,7.0
+slow passenger train,1,transport,5.0,5.0,5.0
+slovakia,1,geography,4.0,4.0,4.0
+sloped roof,1,construction,5.0,5.0,5.0
+slope,1,abstract,5.0,5.0,5.0
+slippers,1,wearable,4.0,4.0,4.0
+sling bag,1,wearable,5.0,5.0,5.0
+slim,1,attribute,7.0,7.0,7.0
+sleeve board,1,utility item,8.0,8.0,8.0
+sleeve band,1,utility item,10.0,10.0,10.0
+sleepwalker,1,human,14.0,14.0,14.0
+skip,1,action,6.0,6.0,6.0
+skilled labour,1,attribute,9.0,9.0,9.0
+skiing,1,sport,3.0,3.0,3.0
+skating,1,sport,5.0,5.0,5.0
+besom pocket,1,wearable,7.0,7.0,7.0
+bertha,1,wearable,9.0,9.0,9.0
+berth,1,transport,8.0,8.0,8.0
+benign,1,medical,13.0,13.0,13.0
+benefit,1,banking,7.0,7.0,7.0
+snip,1,utility item,5.0,5.0,5.0
+snakes,1,flora and fauna,6.0,6.0,6.0
+sms notification,1,internet,10.0,10.0,10.0
+smooth,1,quality,8.0,8.0,8.0
+smoke,1,chemistry,4.0,4.0,4.0
+smog,1,chemistry,15.0,15.0,15.0
+smart,1,attribute,5.0,5.0,5.0
+smallpox,1,medical,5.0,5.0,5.0
+small savings scheme,1,banking,9.0,9.0,9.0
+small farmer,1,profession,10.0,10.0,10.0
+small enterprise,1,commerce,10.0,10.0,10.0
+soil,1,geography,6.0,6.0,6.0
+software developer,1,profession,11.0,11.0,11.0
+socket,1,electronic and electrical,5.0,5.0,5.0
+society marketing,1,commerce,10.0,10.0,10.0
+society co,1,group,11.0,11.0,11.0
+society,1,group,5.0,5.0,5.0
+social society,1,group,9.0,9.0,9.0
+sob,1,emotion,4.0,4.0,4.0
+bias cowl dress,1,wearable,9.0,9.0,9.0
+bhubaneswar,1,geography,4.0,4.0,4.0
+bhopal,1,geography,6.0,6.0,6.0
+bhangada,1,entertainment,6.0,6.0,6.0
+beverages,1,foods and drinks,5.0,5.0,5.0
+between,1,spatial position,7.0,7.0,7.0
+better,1,metric,4.0,4.0,4.0
+bestiality,1,sensation,9.0,9.0,9.0
+begin,1,time,5.0,5.0,5.0
+beetroot,1,foods and drinks,6.0,6.0,6.0
+something,1,abstract,4.0,4.0,4.0
+solo,1,abstract,4.0,4.0,4.0
+solld fueis,1,substance,9.0,9.0,9.0
+solicitor,1,profession,9.0,9.0,9.0
+soldering lead,1,process,9.0,9.0,9.0
+soldering iron,1,process,7.0,7.0,7.0
+soldering flux,1,physics,9.0,9.0,9.0
+solar system,1,astronomical,9.0,9.0,9.0
+solar energy,1,physics,10.0,10.0,10.0
+solar eclipse,1,astronomical,9.0,9.0,9.0
+soiled note,1,banking,9.0,9.0,9.0
+soil survey,1,geography,12.0,12.0,12.0
+soil physics,1,physics,15.0,15.0,15.0
+soil borne disease,1,medical,15.0,15.0,15.0
+south korea,1,geography,4.0,4.0,4.0
+south indian bank,1,organisation,5.0,5.0,5.0
+south africa,1,geography,4.0,4.0,4.0
+source,1,stage,7.0,7.0,7.0
+soul,1,abstract,6.0,6.0,6.0
+sotar,1,astronomical,8.0,8.0,8.0
+soon,1,time,4.0,4.0,4.0
+sony mobile,1,organisation,5.0,5.0,5.0
+bend,1,action,5.0,5.0,5.0
+bench mark,1,metric,14.0,14.0,14.0
+bench,1,utility item,6.0,6.0,6.0
+belt loops,1,wearable,7.0,7.0,7.0
+bellboy jacket,1,wearable,5.0,5.0,5.0
+bell sleeve,1,wearable,8.0,8.0,8.0
+believe,1,action,4.0,4.0,4.0
+belgium,1,geography,3.0,3.0,3.0
+bauhinia accuminata,1,flora and fauna,11.0,11.0,11.0
+spectacles,1,wearable,4.0,4.0,4.0
+speclfic heat,1,physics,8.0,8.0,8.0
+specimen signature,1,attribute,11.0,11.0,11.0
+specimen,1,biology,10.0,10.0,10.0
+specific,1,quality,8.0,8.0,8.0
+specialist,1,profession,5.0,5.0,5.0
+speak,1,action,3.0,3.0,3.0
+spastic,1,medical,7.0,7.0,7.0
+spain,1,geography,3.0,3.0,3.0
+space,1,astronomical,14.0,14.0,14.0
+sp,1,politics,4.0,4.0,4.0
+sow,1,action,7.0,7.0,7.0
+southern hemisphere,1,geography,15.0,15.0,15.0
+south pole,1,geography,12.0,12.0,12.0
+south poie,1,geography,11.0,11.0,11.0
+spherical structure,1,utility item,14.0,14.0,14.0
+spherical mirror,1,physics,9.0,9.0,9.0
+sperm,1,biology,4.0,4.0,4.0
+spendthrift,1,action,7.0,7.0,7.0
+spend,1,action,6.0,6.0,6.0
+speed,1,physics,7.0,7.0,7.0
+speech,1,sound,4.0,4.0,4.0
+spectrum,1,physics,9.0,9.0,9.0
+spectrometer,1,instrument,12.0,12.0,12.0
+become,1,action,6.0,6.0,6.0
+beat,1,action,6.0,6.0,6.0
+bearer,1,banking,10.0,10.0,10.0
+beans,1,foods and drinks,6.0,6.0,6.0
+beam,1,construction,7.0,7.0,7.0
+beaker,1,chemistry,8.0,8.0,8.0
+beading needles,1,utility item,14.0,14.0,14.0
+squeeze,1,action,7.0,7.0,7.0
+spur,1,action,5.0,5.0,5.0
+spring washer,1,utility item,15.0,15.0,15.0
+spring,1,utility item,11.0,11.0,11.0
+spot price,1,commerce,8.0,8.0,8.0
+spot exchange,1,banking,8.0,8.0,8.0
+spot and forward,1,action,10.0,10.0,10.0
+spot,1,geography,6.0,6.0,6.0
+sports,1,sport,6.0,6.0,6.0
+spoken,1,sound,5.0,5.0,5.0
+split pulley,1,machine,14.0,14.0,14.0
+split,1,action,4.0,4.0,4.0
+spiral,1,abstract,12.0,12.0,12.0
+spilt,1,action,7.0,7.0,7.0
+spill,1,action,5.0,5.0,5.0
+spice jet,1,organisation,6.0,6.0,6.0
+baseball jacket,1,sport,12.0,12.0,12.0
+baseball,1,sport,5.0,5.0,5.0
+barricade,1,miscellaneous object,5.0,5.0,5.0
+stapoo,1,sport,6.0,6.0,6.0
+stapler,1,utility item,4.0,4.0,4.0
+standardization,1,process,5.0,5.0,5.0
+stamp,1,utility item,6.0,6.0,6.0
+stairs,1,construction,4.0,4.0,4.0
+stair tread,1,construction,8.0,8.0,8.0
+stags,1,flora and fauna,13.0,13.0,13.0
+stage,1,stage,7.0,7.0,7.0
+staff,1,group,12.0,12.0,12.0
+stabilisation,1,process,10.0,10.0,10.0
+st,1,group,10.0,10.0,10.0
+sri lanka,1,geography,6.0,6.0,6.0
+squrriel,1,flora and fauna,7.0,7.0,7.0
+statement,1,legal,9.0,9.0,9.0
+state bank of india,1,organisation,6.0,6.0,6.0
+starve,1,action,7.0,7.0,7.0
+startle,1,behavior,6.0,6.0,6.0
+starfish,1,flora and fauna,7.0,7.0,7.0
+stare,1,action,6.0,6.0,6.0
+baton,1,instrument,11.0,11.0,11.0
+batman,1,entertainment,5.0,5.0,5.0
+bath tub,1,utility item,5.0,5.0,5.0
+bat,1,sport,6.0,6.0,6.0
+basketball,1,sport,6.0,6.0,6.0
+basket of currencies,1,banking,13.0,13.0,13.0
+basil,1,flora and fauna,6.0,6.0,6.0
+basics,1,quality,7.0,7.0,7.0
+basic pay,1,banking,9.0,9.0,9.0
+basic,1,quality,5.0,5.0,5.0
+still,1,time,4.0,4.0,4.0
+stick,1,action,6.0,6.0,6.0
+stepup transformer,1,physics,12.0,12.0,12.0
+stepdown transformer,1,physics,15.0,15.0,15.0
+steering wheel,1,utility item,6.0,6.0,6.0
+steel rack,1,utility item,10.0,10.0,10.0
+stearn engine,1,transport,9.0,9.0,9.0
+steam tractor,1,transport,15.0,15.0,15.0
+steady current,1,physics,8.0,8.0,8.0
+std,1,medical,9.0,9.0,9.0
+statlonary wave,1,physics,10.0,10.0,10.0
+stationary work,1,physics,14.0,14.0,14.0
+static electricity,1,physics,13.0,13.0,13.0
+states,1,geography,5.0,5.0,5.0
+statement of liquidation,1,banking,11.0,11.0,11.0
+statement of account,1,banking,9.0,9.0,9.0
+bank,1,banking,5.0,5.0,5.0
+storage,1,quantity,8.0,8.0,8.0
+stop gap,1,quantity,6.0,6.0,6.0
+stone masonry,1,construction,7.0,7.0,7.0
+stomach,1,biology,4.0,4.0,4.0
+stock opening,1,banking,9.0,9.0,9.0
+stock in hand,1,banking,8.0,8.0,8.0
+stock closing,1,banking,9.0,9.0,9.0
+stock chart,1,banking,14.0,14.0,14.0
+stock book,1,banking,10.0,10.0,10.0
+stock,1,banking,6.0,6.0,6.0
+stitch,1,process,7.0,7.0,7.0
+stir up,1,action,5.0,5.0,5.0
+stir,1,action,7.0,7.0,7.0
+stink,1,attribute,4.0,4.0,4.0
+stingy,1,attribute,7.0,7.0,7.0
+streaming,1,action,15.0,15.0,15.0
+strange,1,behavior,5.0,5.0,5.0
+strain,1,physics,4.0,4.0,4.0
+straight forward,1,attribute,8.0,8.0,8.0
+storm,1,weather,6.0,6.0,6.0
+barleria cristata,1,flora and fauna,15.0,15.0,15.0
+bar megnet,1,physics,9.0,9.0,9.0
+bar,1,construction,12.0,12.0,12.0
+banker,1,banking,7.0,7.0,7.0
+bank of maharashtra,1,banking,4.0,4.0,4.0
+bank of baroda,1,banking,5.0,5.0,5.0
+bank nationalised,1,banking,13.0,13.0,13.0
+bank branch name,1,banking,6.0,6.0,6.0
+bank branch code,1,banking,7.0,7.0,7.0
+bank branch address,1,banking,5.0,5.0,5.0
+bank account number,1,banking,4.0,4.0,4.0
+subject matter,1,education,10.0,10.0,10.0
+subhas chandra bose,1,human,4.0,4.0,4.0
+subdivision,1,authority,5.0,5.0,5.0
+sub lease,1,banking,8.0,8.0,8.0
+sub head,1,authority,9.0,9.0,9.0
+sub division,1,authority,9.0,9.0,9.0
+sub directory,1,computer,10.0,10.0,10.0
+style,1,attribute,3.0,3.0,3.0
+stumps,1,sport,5.0,5.0,5.0
+stuck,1,stage,5.0,5.0,5.0
+stubborn,1,quality,6.0,6.0,6.0
+strong room,1,quality,8.0,8.0,8.0
+strike,1,process,7.0,7.0,7.0
+stretch,1,action,9.0,9.0,9.0
+stressed,1,behavior,4.0,4.0,4.0
+stress,1,physics,5.0,5.0,5.0
+suggest,1,action,3.0,3.0,3.0
+sugarcane,1,foods and drinks,7.0,7.0,7.0
+sufficient,1,quantity,10.0,10.0,10.0
+suffer,1,action,5.0,5.0,5.0
+sue,1,action,10.0,10.0,10.0
+sudden,1,behavior,3.0,3.0,3.0
+sudan,1,geography,3.0,3.0,3.0
+succession,1,relation,11.0,11.0,11.0
+success,1,stage,4.0,4.0,4.0
+subway,1,construction,6.0,6.0,6.0
+subsidy,1,legal,8.0,8.0,8.0
+subscription,1,entertainment,9.0,9.0,9.0
+subordinate,1,authority,8.0,8.0,8.0
+submission,1,education,6.0,6.0,6.0
+submersible pump,1,electronic and electrical,14.0,14.0,14.0
+submerged weeds,1,flora and fauna,15.0,15.0,15.0
+band collar,1,wearable,6.0,6.0,6.0
+banaras,1,geography,6.0,6.0,6.0
+banana tree,1,flora and fauna,6.0,6.0,6.0
+bamboo,1,flora and fauna,6.0,6.0,6.0
+baluster,1,construction,7.0,7.0,7.0
+balmacaan,1,wearable,9.0,9.0,9.0
+super,1,quality,10.0,10.0,10.0
+sunny,1,weather,4.0,4.0,4.0
+sunlight,1,physics,10.0,10.0,10.0
+sundry debtors,1,group,9.0,9.0,9.0
+sundry creditors,1,group,9.0,9.0,9.0
+sundry,1,quality,7.0,7.0,7.0
+summons,1,legal,9.0,9.0,9.0
+summon,1,legal,11.0,11.0,11.0
+summer,1,weather,5.0,5.0,5.0
+sum,1,math,8.0,8.0,8.0
+supervisor,1,action,6.0,6.0,6.0
+supervision,1,action,9.0,9.0,9.0
+supervise,1,action,4.0,4.0,4.0
+superstition,1,abstract,6.0,6.0,6.0
+supersession,1,action,9.0,9.0,9.0
+superposltion,1,physics,9.0,9.0,9.0
+superman,1,entertainment,4.0,4.0,4.0
+superfast express,1,transport,6.0,6.0,6.0
+super computer,1,computer,11.0,11.0,11.0
+bangladesh,1,geography,9.0,9.0,9.0
+bangalore,1,geography,5.0,5.0,5.0
+bandra to worli sea link,1,geography,5.0,5.0,5.0
+bandit munger,1,profession,4.0,4.0,4.0
+bandh,1,event,7.0,7.0,7.0
+bandage,1,medical,4.0,4.0,4.0
+band-aid,1,medical,5.0,5.0,5.0
+suzuki car,1,transport,5.0,5.0,5.0
+suspend payment,1,banking,12.0,12.0,12.0
+suspend,1,legal,11.0,11.0,11.0
+survivorship,1,stage,10.0,10.0,10.0
+survey,1,process,10.0,10.0,10.0
+surrounding,1,miscellaneous object,8.0,8.0,8.0
+surrender,1,action,8.0,8.0,8.0
+surprised,1,behavior,4.0,4.0,4.0
+surface water,1,geography,14.0,14.0,14.0
+surface runoff,1,geography,13.0,13.0,13.0
+surface erosion,1,geography,10.0,10.0,10.0
+surcharge,1,banking,9.0,9.0,9.0
+supreme court,1,construction,12.0,12.0,12.0
+suppress,1,action,4.0,4.0,4.0
+supply,1,commerce,6.0,6.0,6.0
+supplementary,1,quantity,9.0,9.0,9.0
+ball bearing,1,machine,13.0,13.0,13.0
+baldness,1,attribute,8.0,8.0,8.0
+balcony garden,1,construction,7.0,7.0,7.0
+balance sheet,1,banking,11.0,11.0,11.0
+balance outstanding,1,banking,11.0,11.0,11.0
+balance opening,1,banking,10.0,10.0,10.0
+balance closing,1,banking,10.0,10.0,10.0
+swine farming,1,process,11.0,11.0,11.0
+swimming,1,process,5.0,5.0,5.0
+swift,1,quality,4.0,4.0,4.0
+sweets,1,foods and drinks,5.0,5.0,5.0
+sweetlime,1,foods and drinks,6.0,6.0,6.0
+sweden,1,geography,3.0,3.0,3.0
+swear,1,action,14.0,14.0,14.0
+swaziland,1,geography,3.0,3.0,3.0
+swap,1,action,3.0,3.0,3.0
+tabala,1,sound,6.0,6.0,6.0
+systemic disease,1,medical,14.0,14.0,14.0
+system of feeding poultry,1,organisation,13.0,13.0,13.0
+syria,1,geography,3.0,3.0,3.0
+syndication,1,commerce,10.0,10.0,10.0
+symptoms of nematode diseases of plants,1,biology,15.0,15.0,15.0
+sympathy,1,emotion,6.0,6.0,6.0
+symbol,1,language,10.0,10.0,10.0
+switzerland,1,geography,3.0,3.0,3.0
+switch box,1,electronic and electrical,11.0,11.0,11.0
+ballon pump,1,machine,6.0,6.0,6.0
+ballast device,1,miscellaneous object,9.0,9.0,9.0
+ball room,1,construction,11.0,11.0,11.0
+ball point needle,1,utility item,9.0,9.0,9.0
+ball pein hammer,1,utility item,15.0,15.0,15.0
+ball cricket,1,sport,5.0,5.0,5.0
+backyard system of poultry,1,process,15.0,15.0,15.0
+backup,1,abstract,4.0,4.0,4.0
+background,1,spatial position,4.0,4.0,4.0
+backdoor,1,miscellaneous object,4.0,4.0,4.0
+take over,1,action,9.0,9.0,9.0
+take hours at something,1,action,5.0,5.0,5.0
+take home pay,1,action,11.0,11.0,11.0
+take a photo,1,action,6.0,6.0,6.0
+take a bath,1,action,5.0,5.0,5.0
+taj mahal,1,construction,4.0,4.0,4.0
+taj hotel,1,construction,7.0,7.0,7.0
+taiwan,1,geography,3.0,3.0,3.0
+tailer,1,profession,7.0,7.0,7.0
+tagetus,1,flora and fauna,11.0,11.0,11.0
+tablet,1,electronic and electrical,6.0,6.0,6.0
+tabernaemontana coronaria,1,medical,11.0,11.0,11.0
+task force,1,legal,9.0,9.0,9.0
+tariff,1,legal,7.0,7.0,7.0
+tape,1,utility item,4.0,4.0,4.0
+tanzania,1,geography,4.0,4.0,4.0
+tamarix gallica,1,flora and fauna,13.0,13.0,13.0
+taluk,1,legal,7.0,7.0,7.0
+tall shrubs,1,flora and fauna,6.0,6.0,6.0
+tall protective hedges,1,flora and fauna,13.0,13.0,13.0
+tall ornamental hedges,1,flora and fauna,13.0,13.0,13.0
+bajaj bike,1,transport,5.0,5.0,5.0
+bail,1,banking,7.0,7.0,7.0
+badminton,1,sport,6.0,6.0,6.0
+bad debts,1,banking,8.0,8.0,8.0
+bad conductor,1,physics,11.0,11.0,11.0
+bacterial diseases animals,1,biology,15.0,15.0,15.0
+bacteria,1,biology,5.0,5.0,5.0
+tax property,1,legal,11.0,11.0,11.0
+tax profession,1,legal,10.0,10.0,10.0
+tax exemption,1,legal,11.0,11.0,11.0
+tattoo,1,attribute,5.0,5.0,5.0
+tata mobile,1,electronic and electrical,5.0,5.0,5.0
+tata car,1,transport,5.0,5.0,5.0
+backache,1,medical,8.0,8.0,8.0
+back date,1,time,15.0,15.0,15.0
+away,1,spatial position,4.0,4.0,4.0
+avoid,1,action,5.0,5.0,5.0
+avalanche,1,event,7.0,7.0,7.0
+available,1,attribute,4.0,4.0,4.0
+autumn,1,time,10.0,10.0,10.0
+automobiles,1,transport,8.0,8.0,8.0
+automation,1,electronic and electrical,9.0,9.0,9.0
+task wage,1,legal,11.0,11.0,11.0
+audio frequency,1,sound,10.0,10.0,10.0
+audience,1,group,6.0,6.0,6.0
+audi,1,organisation,6.0,6.0,6.0
+attractive force,1,physics,9.0,9.0,9.0
+attraction,1,physics,8.0,8.0,8.0
+attorney general,1,profession,9.0,9.0,9.0
+temperate fruits,1,foods and drinks,12.0,12.0,12.0
+teller,1,human,10.0,10.0,10.0
+telescope,1,instrument,10.0,10.0,10.0
+telegram,1,electronic and electrical,7.0,7.0,7.0
+tecoma stans,1,flora and fauna,11.0,11.0,11.0
+technology,1,abstract,4.0,4.0,4.0
+technoiogy,1,abstract,9.0,9.0,9.0
+teaser bull,1,medical,14.0,14.0,14.0
+tear sheet,1,action,9.0,9.0,9.0
+taxable,1,legal,9.0,9.0,9.0
+terminate,1,action,8.0,8.0,8.0
+term technical,1,banking,10.0,10.0,10.0
+term of office,1,legal,11.0,11.0,11.0
+tension,1,behavior,4.0,4.0,4.0
+tender,1,legal,12.0,12.0,12.0
+tenancy,1,legal,8.0,8.0,8.0
+ten thousand,1,math,6.0,6.0,6.0
+ten,1,math,4.0,4.0,4.0
+authorised signature,1,authority,10.0,10.0,10.0
+authorisation,1,authority,11.0,11.0,11.0
+austria,1,geography,3.0,3.0,3.0
+aunt,1,relation,6.0,6.0,6.0
+auger,1,instrument,7.0,7.0,7.0
+auditorium,1,construction,7.0,7.0,7.0
+audit,1,banking,10.0,10.0,10.0
+audiologist,1,profession,7.0,7.0,7.0
+these,1,relation,5.0,5.0,5.0
+thermostat,1,electronic and electrical,10.0,10.0,10.0
+thermal energy,1,physics,8.0,8.0,8.0
+thermal,1,wearable,8.0,8.0,8.0
+therapist,1,profession,11.0,11.0,11.0
+them,1,relation,5.0,5.0,5.0
+theirs,1,relation,4.0,4.0,4.0
+their,1,relation,6.0,6.0,6.0
+theatre,1,construction,4.0,4.0,4.0
+thatched roof,1,construction,9.0,9.0,9.0
+thailand,1,geography,3.0,3.0,3.0
+testament,1,attribute,12.0,12.0,12.0
+test,1,education,5.0,5.0,5.0
+terrorist,1,profession,14.0,14.0,14.0
+territorial,1,banking,11.0,11.0,11.0
+terms of service,1,legal,11.0,11.0,11.0
+at,1,spatial position,6.0,6.0,6.0
+asystole,1,medical,5.0,5.0,5.0
+asymmetrical design,1,attribute,8.0,8.0,8.0
+astronomy,1,physics,14.0,14.0,14.0
+astronaut,1,profession,7.0,7.0,7.0
+astigmatism,1,medical,15.0,15.0,15.0
+asthma,1,medical,5.0,5.0,5.0
+thiruvananthapuram,1,geography,4.0,4.0,4.0
+thirty,1,math,5.0,5.0,5.0
+thirteen,1,math,4.0,4.0,4.0
+thirsty,1,sensation,7.0,7.0,7.0
+third party,1,comparator,9.0,9.0,9.0
+third,1,comparator,5.0,5.0,5.0
+thigh,1,biology,8.0,8.0,8.0
+thick,1,quality,7.0,7.0,7.0
+thevetia neriefolia,1,flora and fauna,13.0,13.0,13.0
+three days before,1,time,3.0,3.0,3.0
+three days after,1,time,4.0,4.0,4.0
+three,1,math,4.0,4.0,4.0
+threading,1,process,5.0,5.0,5.0
+thread gauge,1,instrument,14.0,14.0,14.0
+thread,1,utility item,8.0,8.0,8.0
+thousand,1,math,5.0,5.0,5.0
+those,1,relation,5.0,5.0,5.0
+attorney,1,profession,11.0,11.0,11.0
+attendant,1,profession,14.0,14.0,14.0
+attendance record,1,readable,12.0,12.0,12.0
+attachment of property,1,banking,13.0,13.0,13.0
+atom,1,chemistry,9.0,9.0,9.0
+atmosphere,1,chemistry,9.0,9.0,9.0
+atm,1,banking,4.0,4.0,4.0
+athlete's foot,1,medical,10.0,10.0,10.0
+time bound,1,time,10.0,10.0,10.0
+tilts,1,attribute,12.0,12.0,12.0
+tiller,1,banking,9.0,9.0,9.0
+tiles cutter,1,instrument,15.0,15.0,15.0
+tight tracking,1,action,13.0,13.0,13.0
+tight money  market,1,commerce,12.0,12.0,12.0
+tiffin box,1,foods and drinks,6.0,6.0,6.0
+tiffin,1,foods and drinks,4.0,4.0,4.0
+ticket checker,1,profession,8.0,8.0,8.0
+ticket,1,miscellaneous object,5.0,5.0,5.0
+thunder,1,weather,7.0,7.0,7.0
+thumb lunula,1,medical,8.0,8.0,8.0
+thumb impression,1,language,11.0,11.0,11.0
+through,1,stage,5.0,5.0,5.0
+throat plate,1,instrument,13.0,13.0,13.0
+thriff,1,banking,8.0,8.0,8.0
+assam tea gardens,1,geography,6.0,6.0,6.0
+assailant,1,abstract,12.0,12.0,12.0
+aspiration,1,abstract,4.0,4.0,4.0
+asphyxia,1,medical,13.0,13.0,13.0
+asphalt concrete,1,construction,7.0,7.0,7.0
+toaster,1,electronic and electrical,5.0,5.0,5.0
+toast,1,action,5.0,5.0,5.0
+to retailers,1,process,12.0,12.0,12.0
+to consumers,1,process,7.0,7.0,7.0
+to,1,process,6.0,6.0,6.0
+tldal energy,1,physics,9.0,9.0,9.0
+title bar,1,attribute,15.0,15.0,15.0
+title,1,attribute,12.0,12.0,12.0
+tipped tool,1,instrument,15.0,15.0,15.0
+timid,1,behavior,5.0,5.0,5.0
+time limit,1,time,12.0,12.0,12.0
+arms and amunitions,1,miscellaneous object,12.0,12.0,12.0
+armenia,1,geography,4.0,4.0,4.0
+arm hole,1,wearable,12.0,12.0,12.0
+tonight,1,time,4.0,4.0,4.0
+tomato,1,foods and drinks,7.0,7.0,7.0
+tom and jerry,1,entertainment,7.0,7.0,7.0
+toggle button,1,computer,11.0,11.0,11.0
+toffee,1,foods and drinks,6.0,6.0,6.0
+toenail,1,biology,6.0,6.0,6.0
+assume,1,action,6.0,6.0,6.0
+association of sign language interpreters,1,organisation,4.0,4.0,4.0
+associate professor,1,profession,5.0,5.0,5.0
+assistant professor,1,profession,5.0,5.0,5.0
+assistant,1,profession,3.0,3.0,3.0
+assets,1,banking,10.0,10.0,10.0
+assault,1,behavior,12.0,12.0,12.0
+tour,1,event,9.0,9.0,9.0
+touchscreen,1,electronic and electrical,4.0,4.0,4.0
+total energy,1,physics,8.0,8.0,8.0
+tornado,1,weather,5.0,5.0,5.0
+topic,1,attribute,4.0,4.0,4.0
+top management,1,comparator,11.0,11.0,11.0
+toothpick,1,utility item,4.0,4.0,4.0
+tooth,1,biology,4.0,4.0,4.0
+tool box,1,instrument,9.0,9.0,9.0
+tool belt,1,wearable,13.0,13.0,13.0
+asbestos,1,substance,7.0,7.0,7.0
+artificial,1,abstract,8.0,8.0,8.0
+artesian well,1,geography,9.0,9.0,9.0
+arrogate,1,action,15.0,15.0,15.0
+arrears,1,commerce,10.0,10.0,10.0
+army,1,organisation,4.0,4.0,4.0
+aquatic plants of various colour,1,flora and fauna,13.0,13.0,13.0
+approval,1,action,9.0,9.0,9.0
+approach,1,spatial position,5.0,5.0,5.0
+appreciation,1,emotion,8.0,8.0,8.0
+applique,1,wearable,10.0,10.0,10.0
+traffic lights,1,electronic and electrical,6.0,6.0,6.0
+traffic,1,abstract,5.0,5.0,5.0
+traditional,1,abstract,5.0,5.0,5.0
+trader,1,commerce,7.0,7.0,7.0
+trade discount,1,commerce,9.0,9.0,9.0
+tractive work,1,quality,14.0,14.0,14.0
+track ball,1,action,13.0,13.0,13.0
+track,1,construction,8.0,8.0,8.0
+toyota,1,organisation,5.0,5.0,5.0
+toy,1,entertainment,7.0,7.0,7.0
+towards,1,relation,6.0,6.0,6.0
+translator,1,electronic and electrical,4.0,4.0,4.0
+translation of motion,1,physics,10.0,10.0,10.0
+transistor,1,electronic and electrical,9.0,9.0,9.0
+transgender,1,group,5.0,5.0,5.0
+transformer,1,electronic and electrical,12.0,12.0,12.0
+transformation of energy,1,physics,9.0,9.0,9.0
+transfer fee,1,commerce,8.0,8.0,8.0
+transcription,1,banking,7.0,7.0,7.0
+transaction,1,commerce,9.0,9.0,9.0
+training,1,action,11.0,11.0,11.0
+argue,1,behavior,6.0,6.0,6.0
+argentina,1,geography,3.0,3.0,3.0
+architect,1,profession,14.0,14.0,14.0
+archery,1,sport,4.0,4.0,4.0
+archaeologist,1,profession,11.0,11.0,11.0
+arc welding,1,process,15.0,15.0,15.0
+apiculturist,1,profession,13.0,13.0,13.0
+apiculture bee keeping,1,profession,15.0,15.0,15.0
+apex court,1,legal,10.0,10.0,10.0
+apartment,1,construction,4.0,4.0,4.0
+anxious,1,emotion,4.0,4.0,4.0
+troughs,1,physics,14.0,14.0,14.0
+trophy,1,miscellaneous object,6.0,6.0,6.0
+trivendrum,1,geography,6.0,6.0,6.0
+trip,1,event,5.0,5.0,5.0
+triode,1,electronic and electrical,11.0,11.0,11.0
+tribunal,1,legal,6.0,6.0,6.0
+tribal,1,group,8.0,8.0,8.0
+tri square,1,instrument,15.0,15.0,15.0
+treasury,1,miscellaneous object,8.0,8.0,8.0
+transverse wave,1,physics,10.0,10.0,10.0
+transport,1,transport,7.0,7.0,7.0
+anniversary,1,event,9.0,9.0,9.0
+tunic,1,wearable,10.0,10.0,10.0
+tum over,1,banking,8.0,8.0,8.0
+tulip sleeve,1,wearable,9.0,9.0,9.0
+tug of war haryana,1,sport,7.0,7.0,7.0
+tube well,1,construction,11.0,11.0,11.0
+trustworthiness,1,attribute,7.0,7.0,7.0
+trustee,1,human,8.0,8.0,8.0
+trust deed,1,banking,8.0,8.0,8.0
+true copy,1,quality,8.0,8.0,8.0
+appliances control,1,electronic and electrical,13.0,13.0,13.0
+applause,1,action,4.0,4.0,4.0
+appearance,1,attribute,12.0,12.0,12.0
+appear,1,action,6.0,6.0,6.0
+apparatus,1,instrument,10.0,10.0,10.0
+app,1,internet,4.0,4.0,4.0
+two,1,quantity,3.0,3.0,3.0
+twenty one,1,quantity,5.0,5.0,5.0
+twenty,1,quantity,4.0,4.0,4.0
+twelve,1,quantity,4.0,4.0,4.0
+tvs bike,1,transport,5.0,5.0,5.0
+turnout,1,banking,8.0,8.0,8.0
+tunisia,1,geography,4.0,4.0,4.0
+tuning fork,1,physics,9.0,9.0,9.0
+answer,1,action,3.0,3.0,3.0
+another,1,group,6.0,6.0,6.0
+anorak,1,wearable,8.0,8.0,8.0
+anonymous complaint,1,readable,11.0,11.0,11.0
+annual report,1,banking,14.0,14.0,14.0
+annual plants,1,flora and fauna,14.0,14.0,14.0
+annual for foliage beauty,1,flora and fauna,14.0,14.0,14.0
+announce,1,action,6.0,6.0,6.0
+ultraviolet ray glass,1,miscellaneous object,14.0,14.0,14.0
+ukraine,1,geography,3.0,3.0,3.0
+uitraviolet ray,1,physics,10.0,10.0,10.0
+uitrasonic,1,physics,10.0,10.0,10.0
+ugly,1,quality,7.0,7.0,7.0
+uganda,1,geography,4.0,4.0,4.0
+uco bank,1,organisation,6.0,6.0,6.0
+u neck,1,wearable,9.0,9.0,9.0
+tyre,1,transport,5.0,5.0,5.0
+typographical error,1,action,15.0,15.0,15.0
+types of water garden,1,flora and fauna,11.0,11.0,11.0
+types of vegetable gardening,1,flora and fauna,11.0,11.0,11.0
+types of farm planning,1,flora and fauna,13.0,13.0,13.0
+two thousand,1,quantity,5.0,5.0,5.0
+two days before,1,time,3.0,3.0,3.0
+two days after,1,time,3.0,3.0,3.0
+amazed,1,emotion,4.0,4.0,4.0
+under developed,1,quality,7.0,7.0,7.0
+under consideration,1,legal,7.0,7.0,7.0
+uncovered,1,banking,7.0,7.0,7.0
+unconditional,1,quality,8.0,8.0,8.0
+uncomfortable,1,behavior,5.0,5.0,5.0
+uncle,1,relation,3.0,3.0,3.0
+unclaimed,1,banking,9.0,9.0,9.0
+uncertainity,1,time,8.0,8.0,8.0
+uncalled,1,banking,8.0,8.0,8.0
+unbalance,1,banking,9.0,9.0,9.0
+unavoidable,1,abstract,8.0,8.0,8.0
+unauthorised,1,legal,8.0,8.0,8.0
+unanimous,1,legal,8.0,8.0,8.0
+umpire,1,human,5.0,5.0,5.0
+umaid bhawan palace,1,geography,7.0,7.0,7.0
+underwriter,1,banking,9.0,9.0,9.0
+undertaking,1,legal,10.0,10.0,10.0
+underhand,1,action,10.0,10.0,10.0
+underground symptoms,1,medical,12.0,12.0,12.0
+under valuation,1,quality,13.0,13.0,13.0
+under the weather,1,medical,12.0,12.0,12.0
+under subscribed,1,banking,7.0,7.0,7.0
+under stitch,1,quality,13.0,13.0,13.0
+under review,1,process,6.0,6.0,6.0
+under mentioned,1,spatial position,7.0,7.0,7.0
+angular velocity,1,physics,8.0,8.0,8.0
+angel,1,religious,6.0,6.0,6.0
+amplitude,1,physics,15.0,15.0,15.0
+among,1,group,6.0,6.0,6.0
+amendments,1,legal,9.0,9.0,9.0
+ambulance,1,medical,7.0,7.0,7.0
+alloy wheel,1,miscellaneous object,12.0,12.0,12.0
+allowance,1,banking,10.0,10.0,10.0
+allotment,1,banking,11.0,11.0,11.0
+allen key,1,instrument,12.0,12.0,12.0
+unix,1,computer,7.0,7.0,7.0
+universe,1,astronomical,12.0,12.0,12.0
+united nations,1,organisation,5.0,5.0,5.0
+united kingdom,1,geography,3.0,3.0,3.0
+united arab emirates,1,geography,4.0,4.0,4.0
+union bank of india,1,organisation,5.0,5.0,5.0
+union,1,group,7.0,7.0,7.0
+uniform motion,1,physics,9.0,9.0,9.0
+unfit,1,quality,9.0,9.0,9.0
+unencumbered,1,banking,8.0,8.0,8.0
+unemployment,1,stage,8.0,8.0,8.0
+unearned,1,banking,8.0,8.0,8.0
+urgent,1,time,7.0,7.0,7.0
+uranus,1,astronomical,10.0,10.0,10.0
+upward,1,spatial position,7.0,7.0,7.0
+upper division clerk,1,profession,4.0,4.0,4.0
+upper age limit,1,time,9.0,9.0,9.0
+unregistered,1,legal,7.0,7.0,7.0
+unpaid,1,banking,7.0,7.0,7.0
+unofficial,1,legal,3.0,3.0,3.0
+unlucky,1,attribute,7.0,7.0,7.0
+amalgamation,1,commerce,8.0,8.0,8.0
+always,1,time,6.0,6.0,6.0
+altitude,1,geography,8.0,8.0,8.0
+alternative,1,abstract,5.0,5.0,5.0
+alphabet,1,language,4.0,4.0,4.0
+alone,1,emotion,6.0,6.0,6.0
+ally,1,group,14.0,14.0,14.0
+vapour,1,substance,7.0,7.0,7.0
+van,1,transport,6.0,6.0,6.0
+value scale,1,metric,10.0,10.0,10.0
+value,1,attribute,3.0,3.0,3.0
+valuable consideration,1,abstract,8.0,8.0,8.0
+valid,1,legal,7.0,7.0,7.0
+vaishno devi,1,religious,6.0,6.0,6.0
+vada,1,foods and drinks,6.0,6.0,6.0
+vaccum,1,physics,11.0,11.0,11.0
+vacancy,1,abstract,8.0,8.0,8.0
+v neck,1,wearable,9.0,9.0,9.0
+uzbekistan,1,geography,4.0,4.0,4.0
+uttarakhand,1,geography,4.0,4.0,4.0
+utility of mushroom,1,flora and fauna,7.0,7.0,7.0
+us,1,group,5.0,5.0,5.0
+uruguay,1,geography,4.0,4.0,4.0
+venus,1,astronomical,10.0,10.0,10.0
+vent,1,wearable,11.0,11.0,11.0
+venezuela,1,geography,4.0,4.0,4.0
+vendor,1,profession,6.0,6.0,6.0
+vendee,1,human,7.0,7.0,7.0
+velocity,1,physics,7.0,7.0,7.0
+velcro,1,wearable,8.0,8.0,8.0
+vehicle,1,transport,5.0,5.0,5.0
+vegetarian,1,foods and drinks,6.0,6.0,6.0
+vegetables,1,foods and drinks,4.0,4.0,4.0
+vegetable preservation,1,process,15.0,15.0,15.0
+vector graphics,1,computer,8.0,8.0,8.0
+vault safe deposit,1,banking,8.0,8.0,8.0
+vault,1,banking,10.0,10.0,10.0
+variety,1,quantity,7.0,7.0,7.0
+varieties of mushroom,1,foods and drinks,10.0,10.0,10.0
+alkali soil,1,metal and minerals,12.0,12.0,12.0
+algeria,1,geography,4.0,4.0,4.0
+alcohol,1,foods and drinks,4.0,4.0,4.0
+albania,1,geography,4.0,4.0,4.0
+alarm system,1,electronic and electrical,11.0,11.0,11.0
+akshay kumar,1,human,4.0,4.0,4.0
+ajmer sharif dargah,1,religious,6.0,6.0,6.0
+airtel,1,internet,5.0,5.0,5.0
+very wealthy person,1,human,5.0,5.0,5.0
+very,1,quantity,4.0,4.0,4.0
+vertical scroll bar,1,computer,13.0,13.0,13.0
+vertical,1,spatial position,9.0,9.0,9.0
+versus,1,comparator,8.0,8.0,8.0
+vernier caliper,1,instrument,10.0,10.0,10.0
+verdict,1,legal,7.0,7.0,7.0
+verb,1,language,4.0,4.0,4.0
+video relay service,1,electronic and electrical,4.0,4.0,4.0
+video cassette recorder,1,electronic and electrical,9.0,9.0,9.0
+video card,1,electronic and electrical,13.0,13.0,13.0
+video call,1,internet,5.0,5.0,5.0
+vide,1,action,5.0,5.0,5.0
+vice president,1,authority,4.0,4.0,4.0
+vibration,1,physics,6.0,6.0,6.0
+vibrant image,1,quality,14.0,14.0,14.0
+veterinarian,1,profession,8.0,8.0,8.0
+veteran,1,human,13.0,13.0,13.0
+allahabad bank,1,banking,5.0,5.0,5.0
+allah,1,religious,6.0,6.0,6.0
+all india trinamool congress,1,politics,4.0,4.0,4.0
+all india foundation of deaf women,1,organisation,4.0,4.0,4.0
+all india federation of the deaf,1,organisation,4.0,4.0,4.0
+all,1,quantity,7.0,7.0,7.0
+agriculture,1,profession,10.0,10.0,10.0
+agricultural robot,1,electronic and electrical,15.0,15.0,15.0
+agreement,1,commerce,10.0,10.0,10.0
+visual,1,abstract,4.0,4.0,4.0
+visitor,1,human,5.0,5.0,5.0
+visit,1,action,6.0,6.0,6.0
+visible ray,1,physics,8.0,8.0,8.0
+vishnu,1,religious,5.0,5.0,5.0
+virtual image,1,physics,9.0,9.0,9.0
+virat kohli,1,human,4.0,4.0,4.0
+viral diseases animals,1,medical,13.0,13.0,13.0
+violin,1,instrument,5.0,5.0,5.0
+violet,1,abstract,10.0,10.0,10.0
+vijaya bank,1,organisation,6.0,6.0,6.0
+vigilance,1,behavior,7.0,7.0,7.0
+videographer,1,profession,7.0,7.0,7.0
+voice,1,sound,4.0,4.0,4.0
+vodafone,1,organisation,5.0,5.0,5.0
+vocation,1,profession,5.0,5.0,5.0
+vocabulary,1,language,3.0,3.0,3.0
+vivekananda rock memorial,1,construction,7.0,7.0,7.0
+vital,1,attribute,6.0,6.0,6.0
+visual aid,1,banking,6.0,6.0,6.0
+airmail,1,transport,7.0,7.0,7.0
+airjet,1,transport,6.0,6.0,6.0
+aircel,1,internet,5.0,5.0,5.0
+air vistara,1,transport,6.0,6.0,6.0
+air india,1,transport,6.0,6.0,6.0
+air deccan,1,transport,5.0,5.0,5.0
+air conditioner,1,machine,5.0,5.0,5.0
+ahmedabad,1,geography,5.0,5.0,5.0
+ahemedabad,1,geography,6.0,6.0,6.0
+wallet,1,banking,5.0,5.0,5.0
+wall garden,1,construction,15.0,15.0,15.0
+wall,1,construction,5.0,5.0,5.0
+wales,1,geography,3.0,3.0,3.0
+wake,1,action,4.0,4.0,4.0
+waive,1,action,5.0,5.0,5.0
+waiting room,1,construction,9.0,9.0,9.0
+waiting list,1,utility item,10.0,10.0,10.0
+waist,1,biology,7.0,7.0,7.0
+wage,1,banking,8.0,8.0,8.0
+voucher,1,utility item,7.0,7.0,7.0
+vomit,1,medical,7.0,7.0,7.0
+voluntarily,1,behavior,6.0,6.0,6.0
+volleyball,1,sport,5.0,5.0,5.0
+volley ball,1,sport,5.0,5.0,5.0
+voit,1,metric,8.0,8.0,8.0
+water erosion,1,process,12.0,12.0,12.0
+water bottle,1,utility item,6.0,6.0,6.0
+wastage,1,abstract,6.0,6.0,6.0
+washroom,1,construction,5.0,5.0,5.0
+washing machine,1,electronic and electrical,5.0,5.0,5.0
+washerman,1,profession,7.0,7.0,7.0
+washbasin,1,utility item,9.0,9.0,9.0
+warning,1,legal,6.0,6.0,6.0
+warehouse,1,construction,10.0,10.0,10.0
+agave fillifera,1,flora and fauna,14.0,14.0,14.0
+afghanistan,1,geography,4.0,4.0,4.0
+affirm,1,action,4.0,4.0,4.0
+affidavit,1,banking,11.0,11.0,11.0
+aeroplane sprayer,1,machine,11.0,11.0,11.0
+advocate general,1,profession,7.0,7.0,7.0
+advocate,1,legal,4.0,4.0,4.0
+adjustable screw,1,instrument,9.0,9.0,9.0
+adjudge,1,legal,10.0,10.0,10.0
+adhesive,1,substance,7.0,7.0,7.0
+wavemotion,1,physics,11.0,11.0,11.0
+wavegraph,1,physics,14.0,14.0,14.0
+waveform,1,physics,4.0,4.0,4.0
+wave length,1,physics,12.0,12.0,12.0
+wattmeter,1,instrument,10.0,10.0,10.0
+watt,1,metric,11.0,11.0,11.0
+water pump,1,electronic and electrical,5.0,5.0,5.0
+water pollution,1,geography,8.0,8.0,8.0
+water pipe,1,utility item,5.0,5.0,5.0
+water motor,1,electronic and electrical,5.0,5.0,5.0
+water logged hedges,1,flora and fauna,12.0,12.0,12.0
+water lifting equipments,1,electronic and electrical,13.0,13.0,13.0
+water filter,1,electronic and electrical,5.0,5.0,5.0
+weather,1,weather,7.0,7.0,7.0
+weapon,1,utility item,8.0,8.0,8.0
+wealthy,1,attribute,3.0,3.0,3.0
+wealth,1,abstract,9.0,9.0,9.0
+ways,1,process,3.0,3.0,3.0
+waxing,1,action,6.0,6.0,6.0
+wax,1,utility item,10.0,10.0,10.0
+wavy hair,1,attribute,5.0,5.0,5.0
+advise,1,action,5.0,5.0,5.0
+advantages of drainage,1,construction,12.0,12.0,12.0
+adoptive parent,1,relation,12.0,12.0,12.0
+adoptive child,1,relation,7.0,7.0,7.0
+adopt,1,relation,4.0,4.0,4.0
+adobe acrobat reader,1,computer,9.0,9.0,9.0
+admissible,1,quality,10.0,10.0,10.0
+adjustment,1,metric,11.0,11.0,11.0
+actor,1,profession,8.0,8.0,8.0
+active,1,behavior,7.0,7.0,7.0
+acting,1,action,11.0,11.0,11.0
+across,1,spatial position,6.0,6.0,6.0
+acknowledgement,1,action,13.0,13.0,13.0
+accuse,1,action,6.0,6.0,6.0
+accured,1,banking,12.0,12.0,12.0
+accurate,1,metric,6.0,6.0,6.0
+welding hand screen,1,miscellaneous object,6.0,6.0,6.0
+weightlifting,1,sport,3.0,3.0,3.0
+weigh,1,abstract,6.0,6.0,6.0
+weekly return,1,banking,6.0,6.0,6.0
+weeds near to pond margin,1,flora and fauna,14.0,14.0,14.0
+wedge,1,machine,12.0,12.0,12.0
+web camera,1,internet,8.0,8.0,8.0
+weave,1,process,4.0,4.0,4.0
+white collar job,1,profession,9.0,9.0,9.0
+while,1,abstract,4.0,4.0,4.0
+when,1,abstract,3.0,3.0,3.0
+wheeled robots,1,electronic and electrical,11.0,11.0,11.0
+wheat rust,1,foods and drinks,15.0,15.0,15.0
+whatsapp,1,internet,4.0,4.0,4.0
+whatever,1,abstract,3.0,3.0,3.0
+what is your name,1,abstract,4.0,4.0,4.0
+what happened,1,abstract,4.0,4.0,4.0
+well,1,construction,5.0,5.0,5.0
+additional,1,quantity,8.0,8.0,8.0
+addendum,1,readable,7.0,7.0,7.0
+ad infinitum,1,quantity,7.0,7.0,7.0
+actuary,1,profession,4.0,4.0,4.0
+actual,1,abstract,9.0,9.0,9.0
+actress,1,profession,14.0,14.0,14.0
+account minor,1,banking,13.0,13.0,13.0
+account margin,1,banking,14.0,14.0,14.0
+account joint,1,banking,14.0,14.0,14.0
+account inoperative,1,banking,15.0,15.0,15.0
+account holder,1,banking,13.0,13.0,13.0
+account head,1,banking,12.0,12.0,12.0
+account govemment,1,banking,13.0,13.0,13.0
+account discount,1,banking,12.0,12.0,12.0
+account day,1,banking,8.0,8.0,8.0
+wide,1,attribute,6.0,6.0,6.0
+wicketkeeper,1,human,4.0,4.0,4.0
+wicket,1,sport,4.0,4.0,4.0
+whose,1,abstract,6.0,6.0,6.0
+wholesale merchants,1,profession,10.0,10.0,10.0
+wholesale,1,group,9.0,9.0,9.0
+whiteboard,1,utility item,5.0,5.0,5.0
+window garden,1,construction,10.0,10.0,10.0
+window dressing,1,banking,8.0,8.0,8.0
+winding up,1,action,7.0,7.0,7.0
+wind erosion,1,geography,14.0,14.0,14.0
+wind energy,1,physics,9.0,9.0,9.0
+wind borne disease,1,medical,15.0,15.0,15.0
+will,1,abstract,7.0,7.0,7.0
+wild swine,1,medical,13.0,13.0,13.0
+wikipedia,1,internet,5.0,5.0,5.0
+accumulated,1,quantity,13.0,13.0,13.0
+accounts,1,banking,4.0,4.0,4.0
+account suspence,1,banking,13.0,13.0,13.0
+account suit filed,1,banking,12.0,12.0,12.0
+account rupee,1,banking,14.0,14.0,14.0
+account profit and loss,1,banking,15.0,15.0,15.0
+account payee only,1,banking,9.0,9.0,9.0
+accordion,1,sound,6.0,6.0,6.0
+accommodation,1,construction,11.0,11.0,11.0
+accessories,1,instrument,11.0,11.0,11.0
+access,1,action,9.0,9.0,9.0
+women jail,1,construction,15.0,15.0,15.0
+witness,1,human,7.0,7.0,7.0
+without prejudice,1,legal,8.0,8.0,8.0
+withhold,1,banking,7.0,7.0,7.0
+withdrawal slip,1,banking,7.0,7.0,7.0
+withdraw money from bank,1,banking,6.0,6.0,6.0
+with,1,abstract,6.0,6.0,6.0
+wish,1,abstract,7.0,7.0,7.0
+wire stripper,1,instrument,10.0,10.0,10.0
+wire man,1,profession,8.0,8.0,8.0
+wipe,1,action,7.0,7.0,7.0
+winter,1,time,4.0,4.0,4.0
+working hours,1,time,7.0,7.0,7.0
+working capital,1,banking,8.0,8.0,8.0
+words and figures,1,language,8.0,8.0,8.0
+word pad,1,utility item,9.0,9.0,9.0
+woodpecker,1,flora and fauna,6.0,6.0,6.0
+wood plane,1,miscellaneous object,10.0,10.0,10.0
+account current,1,banking,8.0,8.0,8.0
+account currency,1,banking,13.0,13.0,13.0
+account commission,1,banking,9.0,9.0,9.0
+account closing,1,banking,14.0,14.0,14.0
+account closed,1,banking,12.0,12.0,12.0
+account charges,1,banking,13.0,13.0,13.0
+account book,1,banking,13.0,13.0,13.0
+account blocked,1,banking,13.0,13.0,13.0
+account,1,banking,10.0,10.0,10.0
+accordion pleats,1,wearable,9.0,9.0,9.0
+yolk,1,foods and drinks,8.0,8.0,8.0
+yahoo,1,internet,3.0,3.0,3.0
+xylophone,1,sound,5.0,5.0,5.0
+xbox,1,entertainment,10.0,10.0,10.0
+x-ray,1,medical,6.0,6.0,6.0
+x ray,1,medical,10.0,10.0,10.0
+written down value,1,math,12.0,12.0,12.0
+writer,1,human,3.0,3.0,3.0
+writ,1,legal,7.0,7.0,7.0
+wrench,1,instrument,15.0,15.0,15.0
+woven,1,attribute,6.0,6.0,6.0
+worth,1,abstract,7.0,7.0,7.0
+world federation of the deaf youth section,1,organisation,4.0,4.0,4.0
+world federation of the deaf,1,organisation,4.0,4.0,4.0
+world association of sign language interpreters,1,organisation,4.0,4.0,4.0
+workshop,1,event,5.0,5.0,5.0
+acacia modesta,1,flora and fauna,14.0,14.0,14.0
+acacia fernesiana,1,flora and fauna,15.0,15.0,15.0
+abuttal,1,legal,8.0,8.0,8.0
+5g,1,internet,3.0,3.0,3.0
+abstract of account,1,banking,11.0,11.0,11.0
+abstract,1,abstract,13.0,13.0,13.0
+abstention,1,action,11.0,11.0,11.0
+absorption of water,1,chemistry,12.0,12.0,12.0
+absorption,1,attribute,6.0,6.0,6.0
+absorb,1,action,6.0,6.0,6.0
+absolve,1,legal,12.0,12.0,12.0
+zero correction,1,quantity,9.0,9.0,9.0
+zero,1,quantity,4.0,4.0,4.0
+zambia,1,geography,4.0,4.0,4.0
+yearly,1,time,8.0,8.0,8.0
+year under report,1,banking,9.0,9.0,9.0
+abscond,1,action,4.0,4.0,4.0
+abrogate,1,legal,11.0,11.0,11.0
+abrasive,1,substance,14.0,14.0,14.0
+above,1,spatial position,7.0,7.0,7.0
+zoom,1,action,5.0,5.0,5.0
+zone,1,geography,8.0,8.0,8.0
+zonal,1,geography,9.0,9.0,9.0
+zipper foot,1,utility item,8.0,8.0,8.0
+zipper,1,utility item,6.0,6.0,6.0
+zinc sheet,1,metal and minerals,6.0,6.0,6.0
+zimbabwe,1,geography,5.0,5.0,5.0
+zigzag,1,attribute,8.0,8.0,8.0
+zero error,1,quality,8.0,8.0,8.0
+yoke,1,wearable,9.0,9.0,9.0
+yoga,1,sport,4.0,4.0,4.0
+3g,1,internet,3.0,3.0,3.0

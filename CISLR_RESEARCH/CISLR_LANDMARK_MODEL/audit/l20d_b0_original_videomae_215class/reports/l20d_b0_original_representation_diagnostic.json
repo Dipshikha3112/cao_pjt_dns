@@ -1,0 +1,11 @@
+{
+  "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "initialization": "original_pretrained",
+  "samples": 64,
+  "mean_pairwise_cosine": 0.9169098138809204,
+  "std_pairwise_cosine": 0.03220472112298012,
+  "mean_feature_dimension_std": 1.169551968574524,
+  "mean_feature_norm": 114.55250549316406,
+  "status": "NO_EXTREME_SIMILARITY",
+  "previous_l20c_mean_cosine": 0.999967
+}

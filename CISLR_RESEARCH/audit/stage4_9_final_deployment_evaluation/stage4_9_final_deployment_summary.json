@@ -1,0 +1,64 @@
+{
+  "project": "CISLR",
+  "stage": "4.9",
+  "stage_name": "Final OpenVINO Deployment Evaluation",
+  "status": "COMPLETE",
+  "selected_model": "MobileNetV3-Large",
+  "selection_basis": {
+    "official_retrieval": "Best Top-1, Top-5, Recall@10 and MRR",
+    "computational_efficiency": "Lowest GFLOPs and highest CPU FPS among candidates",
+    "openvino_conversion": "Validated with matching Top-1/Top-5 and cosine similarity",
+    "deployment_benchmark": "OpenVINO CPU and GPU benchmarks completed"
+  },
+  "official_cislr_retrieval": {
+    "top1_percent": 0.1579868708971553,
+    "top5_percent": 0.237199124726477,
+    "recall_at_10_percent": 0.2665207877461706,
+    "mrr": 0.1952844813962953,
+    "mean_rank": 1572.5203501094093,
+    "median_rank": 1229.0
+  },
+  "model_complexity": {
+    "parameters": 10304716.0,
+    "model_size_mb": 39.500624656677246,
+    "gflops": 0.44281536
+  },
+  "openvino_conversion": {
+    "precision": "FP32",
+    "input_shape": "[1,3,224,224]",
+    "output_shape": "[1,4764]",
+    "xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.xml",
+    "bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.bin",
+    "cosine_similarity": 1.0,
+    "max_absolute_error": 1.33514404296875e-05,
+    "top1_agreement": "True",
+    "top5_overlap": "5"
+  },
+  "openvino_cpu": {
+    "mean_latency_ms": 3.702304495200224,
+    "fps": 270.1020408495383,
+    "pytorch_reference_latency_ms": 18.989,
+    "pytorch_reference_fps": 52.66,
+    "latency_speedup_x": 5.128967653691882,
+    "latency_reduction_percent": 80.50289907209319
+  },
+  "openvino_gpu": {
+    "available": true,
+    "mean_latency_ms": 3.3361190347204683,
+    "fps": 299.7494962237729,
+    "pytorch_reference_latency_ms": 5.362,
+    "pytorch_reference_fps": 186.51,
+    "latency_speedup_x": 1.6072567987518704,
+    "latency_reduction_percent": 37.78218883400842
+  },
+  "deployment_readiness": {
+    "OpenVINO XML exists": true,
+    "OpenVINO BIN exists": true,
+    "Conversion cosine >= 0.9999": true,
+    "Conversion max error <= 1e-3": true,
+    "OpenVINO CPU benchmark available": true,
+    "OpenVINO CPU FPS > 0": true,
+    "Official retrieval result available": true
+  },
+  "overall_deployment_ready": true
+}

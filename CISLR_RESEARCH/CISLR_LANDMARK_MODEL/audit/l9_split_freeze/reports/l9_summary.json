@@ -1,0 +1,48 @@
+{
+    "stage": "L9_CONTROLLED_SPLIT_FREEZE",
+    "seed": 42,
+    "source": {
+        "l8_controlled_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l8_population_freeze/controlled_population/l8_controlled_manifest.csv",
+        "l8_class_mapping": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l8_population_freeze/class_mappings/l8_controlled_class_mapping.json"
+    },
+    "representation": {
+        "sequence_length": 32,
+        "feature_dim": 254
+    },
+    "population": {
+        "videos": 1007,
+        "classes": 211
+    },
+    "split_rule": {
+        "validation_per_class": 1,
+        "test_per_class": 1,
+        "train_per_class": "all_remaining",
+        "minimum_train_per_class": 2
+    },
+    "splits": {
+        "train": {
+            "videos": 585,
+            "classes": 211,
+            "mean_original_detection_rate": 0.5372481820929763,
+            "median_original_detection_rate": 0.5333333611488342,
+            "sha256": "4d5f9f4dd70e6f7a3a292374842e4dcf6b68e946f8ed0ff945035bce717c66cd"
+        },
+        "validation": {
+            "videos": 211,
+            "classes": 211,
+            "mean_original_detection_rate": 0.5397934203888003,
+            "median_original_detection_rate": 0.5376344323158264,
+            "sha256": "d04bb4812f834bb322c80c41b32a8bc0875a3c1e4464b98dfce13af91e8f4638"
+        },
+        "test": {
+            "videos": 211,
+            "classes": 211,
+            "mean_original_detection_rate": 0.5260460705130021,
+            "median_original_detection_rate": 0.5249999761581421,
+            "sha256": "f95ef95463c1f7b18d8faa5cfbdd74b5dfd6af4b33357243107a3f718713bf67"
+        }
+    },
+    "master_split_sha256": "c7264911e08ad319580ceea257f99d4380530dfad23483d2485bfe5aa0a98cba",
+    "class_mapping_sha256": "07cb67105df7bef86666a0a9bebaa1e165175abf2ee630f3d9835535f9f099fa",
+    "global_max_abs_feature": 29.521766662597656
+}

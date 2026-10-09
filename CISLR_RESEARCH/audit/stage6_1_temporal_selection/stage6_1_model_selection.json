@@ -1,0 +1,11 @@
+{
+  "selected_architecture": "mean_pool",
+  "selection_metric": "validation_temporal_order_accuracy_then_f1",
+  "best_val_accuracy": 0.5,
+  "best_val_f1": 0.6666666622175587,
+  "best_val_loss": 0.6932217254843817,
+  "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage6_1_temporal_selection/mean_pool_best.pt",
+  "official_test_used_for_selection": false,
+  "official_test_labels_used": false,
+  "note": "Stage 6.1 selects the temporal architecture by held-out temporal-order validation accuracy on non-test videos only. This is an architecture-selection criterion, not a CISLR recognition metric. Official prototype\u2192test retrieval is performed separately in Stage 7."
+}

@@ -1,0 +1,44 @@
+{
+  "experiment": "CISLR EfficientNet-B0 + SSL Temporal Retrieval",
+  "selected_architecture": "mean_pool",
+  "development_comparison": [
+    {
+      "model": "EfficientNet + mean_pool",
+      "top1": 0.0,
+      "top5": 0.0,
+      "top10": 0.0,
+      "mrr": 0.0
+    },
+    {
+      "model": "EfficientNet + bilstm",
+      "top1": 0.0,
+      "top5": 0.0,
+      "top10": 0.0,
+      "mrr": 0.0
+    },
+    {
+      "model": "EfficientNet + bilstm_attention",
+      "top1": 0.0,
+      "top5": 0.0,
+      "top10": 0.0,
+      "mrr": 0.0
+    },
+    {
+      "model": "EfficientNet + temporal_transformer",
+      "top1": 0.0,
+      "top5": 0.0,
+      "top10": 0.0,
+      "mrr": 0.0
+    }
+  ],
+  "official_prototype_videos": 4763,
+  "official_test_videos_total": 2285,
+  "official_test_videos_usable": 2285,
+  "official_test_videos_unusable": 0,
+  "official_top1": 0.12735229759299782,
+  "official_top5": 0.2236323851203501,
+  "official_top10": 0.25995623632385123,
+  "official_mrr": 0.17015215529428876,
+  "official_test_used_for_training": false,
+  "official_test_used_for_selection": false
+}

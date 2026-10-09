@@ -1,0 +1,26 @@
+[
+  {
+    "event_index": 1,
+    "time_seconds": 5.128343247000885,
+    "frame": 85,
+    "token": "pencil",
+    "raw_prediction": "pencil",
+    "confidence": 0.49981003999710083,
+    "margin": 0.21869423985481262,
+    "entropy": 0.5221150109438933,
+    "hand_ratio": 0.90625,
+    "sentence": "pencil"
+  },
+  {
+    "event_index": 2,
+    "time_seconds": 19.08928900000319,
+    "frame": 363,
+    "token": "tuesday",
+    "raw_prediction": "tuesday",
+    "confidence": 0.5473940372467041,
+    "margin": 0.3227717727422714,
+    "entropy": 0.5120869939037919,
+    "hand_ratio": 0.875,
+    "sentence": "pencil tuesday"
+  }
+]

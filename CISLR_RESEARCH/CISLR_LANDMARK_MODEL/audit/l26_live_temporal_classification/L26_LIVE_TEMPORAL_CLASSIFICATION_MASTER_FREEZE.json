@@ -1,0 +1,76 @@
+{
+  "stage": "L26",
+  "status": "COMPLETE",
+  "experiment": "Live raw temporal sign classification",
+  "pipeline": [
+    "webcam",
+    "OpenVINO palm detection",
+    "OpenVINO 21-point landmark detection",
+    "32-frame RGB rolling buffer",
+    "deterministic 16-frame temporal sampling",
+    "L19/L22 RGB preprocessing",
+    "frozen L22 OpenVINO VideoMAE",
+    "raw 10-class prediction"
+  ],
+  "models": {
+    "palm": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/models/pretrained/palm/palm_detection_full.tflite",
+    "palm_sha256": "1b14e9422c6ad006cde6581a46c8b90dd573c07ab7f3934b5589e7cea3f89a54",
+    "landmark": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/models/pretrained/hand_landmark/hand_landmark_full.tflite",
+    "landmark_sha256": "11c272b891e1a99ab034208e23937a8008388cf11ed2a9d776ed3d01d0ba00e3",
+    "videomae_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "videomae_xml_sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "videomae_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "videomae_bin_sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc"
+  },
+  "results": {
+    "frames_processed": 579,
+    "capture_duration_sec": 78.75589174599918,
+    "overall_pipeline_fps": 7.351830919105978,
+    "frames_with_hand": 380,
+    "hand_detection_rate": 0.6563039723661486,
+    "total_hand_instances": 610,
+    "raw_classifications": 51,
+    "mean_raw_confidence": 0.2384301824312584,
+    "prediction_distribution": {
+      "thursday": 31,
+      "pencil": 8,
+      "rubber": 5,
+      "wash": 4,
+      "tuesday": 1,
+      "interest": 1,
+      "friday": 1
+    },
+    "mean_complete_frame_ms": 132.43287001553094,
+    "mean_palm_ms": 5.585037074271836,
+    "mean_landmark_ms": 4.755762081178282,
+    "mean_videomae_ms": 1213.2749023724803,
+    "median_videomae_ms": 1211.5371370000503,
+    "min_videomae_ms": 1083.3542559994385,
+    "max_videomae_ms": 1288.799136000307,
+    "no_sign_rejection": false,
+    "temporal_stabilization": false,
+    "locked_test_used": false
+  },
+  "artifacts": {
+    "frame_metrics": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_live_temporal_classification/reports/l26_frame_metrics.csv",
+    "frame_metrics_sha256": "e229beef71e0435c06eb26f6eeb22fd74d2ff79d6db7020a3445b1f4843e9f91",
+    "raw_classifications": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_live_temporal_classification/reports/l26_raw_classifications.csv",
+    "raw_classifications_sha256": "63447565ceb532e4f0534bac5b7c2a643b63276bea049389d4382f6f28881248",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_live_temporal_classification/config/l26_config.json",
+    "config_sha256": "83190706256064a4d89e99329c1902063d679a8316a9d4879f9c02d21bfdaaa3",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_live_temporal_classification/reports/l26_summary.json",
+    "summary_sha256": "8a06316d68bf5c35b7b5cbbcc33a49b0e1f893f5563c907732c4748dbb8f706c"
+  },
+  "scientific_integrity": {
+    "training_performed": false,
+    "retraining_performed": false,
+    "threshold_tuning": false,
+    "no_sign_rejection": false,
+    "temporal_stabilization": false,
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "formal_accuracy_claim": false,
+    "formal_performance_benchmark": false
+  },
+  "note": "L26 validates raw live temporal classification using the frozen L22 OpenVINO VideoMAE deployment model. Predictions are intentionally unstabilized and are not subject to NO_SIGN/confidence rejection. Those mechanisms are introduced in L27 and L28. Runtime measurements are diagnostic; formal benchmarking remains L32."
+}

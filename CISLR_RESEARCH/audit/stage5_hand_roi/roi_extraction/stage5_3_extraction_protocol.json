@@ -1,0 +1,55 @@
+{
+  "stage": "5.3",
+  "name": "Hand ROI Extraction",
+  "dataset": "CISLR v1.5-a",
+  "source_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/manifests/stage5_1_master_video_manifest.csv",
+  "videos": 7049,
+  "frames_per_video": 8,
+  "total_expected_frames": 56392,
+  "input_resolution": "original video resolution",
+  "output_resolution": "224x224",
+  "detector": "OpenCV_Skin_Contour",
+  "detector_parameters": {
+    "HSV_lower": [
+      0,
+      20,
+      40
+    ],
+    "HSV_upper": [
+      35,
+      255,
+      255
+    ],
+    "YCrCb_lower": [
+      0,
+      133,
+      77
+    ],
+    "YCrCb_upper": [
+      255,
+      173,
+      127
+    ],
+    "morphology_kernel": 5,
+    "minimum_contour_area": 150,
+    "minimum_roi_area_fraction": 0.005,
+    "maximum_roi_area_fraction": 0.9,
+    "crop_padding_factor": 0.35
+  },
+  "decoding_policy": {
+    "primary": "OpenCV sequential decoding",
+    "fallback": "FFmpeg sequential decoding",
+    "random_frame_seeking": false,
+    "neighbor_frame_substitution": false,
+    "exact_frame_index_required": true
+  },
+  "roi_policy": {
+    "detected": "Current frame valid detector ROI",
+    "temporal_fallback": "Previous valid ROI within same video",
+    "full_frame_fallback": "Full frame only when no previous valid ROI exists"
+  },
+  "jpeg_quality": 95,
+  "training_performed": false,
+  "retrieval_performed": false,
+  "raw_videos_modified": false
+}

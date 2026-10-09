@@ -1,0 +1,206 @@
+{
+  "seed": 42,
+  "deterministic_recompute": {
+    "n": 2285,
+    "top1": 0.1212253829321663,
+    "top5": 0.2262582056892779,
+    "top10": 0.26958424507658646,
+    "mrr": 0.16714522130566448
+  },
+  "artifacts_found": {
+    "earlier_preds_a": true,
+    "earlier_preds_b": true,
+    "earlier_final_v5": true,
+    "earlier_official_final": true,
+    "earlier_experiment_cfg": true,
+    "s7_1_results": true,
+    "s7_1_config": true,
+    "s7_2_results": true,
+    "s7_2_config": true
+  },
+  "earlier_official_final": {
+    "experiment": "CISLR EfficientNet-B0 + SSL Temporal Retrieval",
+    "selected_architecture": "mean_pool",
+    "development_comparison": [
+      {
+        "model": "EfficientNet + mean_pool",
+        "top1": 0.0,
+        "top5": 0.0,
+        "top10": 0.0,
+        "mrr": 0.0
+      },
+      {
+        "model": "EfficientNet + bilstm",
+        "top1": 0.0,
+        "top5": 0.0,
+        "top10": 0.0,
+        "mrr": 0.0
+      },
+      {
+        "model": "EfficientNet + bilstm_attention",
+        "top1": 0.0,
+        "top5": 0.0,
+        "top10": 0.0,
+        "mrr": 0.0
+      },
+      {
+        "model": "EfficientNet + temporal_transformer",
+        "top1": 0.0,
+        "top5": 0.0,
+        "top10": 0.0,
+        "mrr": 0.0
+      }
+    ],
+    "official_prototype_videos": 4763,
+    "official_test_videos_total": 2285,
+    "official_test_videos_usable": 2285,
+    "official_test_videos_unusable": 0,
+    "official_top1": 0.12735229759299782,
+    "official_top5": 0.2236323851203501,
+    "official_top10": 0.25995623632385123,
+    "official_mrr": 0.17015215529428876,
+    "official_test_used_for_training": false,
+    "official_test_used_for_selection": false
+  },
+  "earlier_experiment_cfg": {
+    "seed": 42,
+    "device": "cuda",
+    "image_size": 224,
+    "num_frames": 8,
+    "feature_dim": 1280,
+    "embed_dim": 256,
+    "lstm_hidden": 256,
+    "lstm_layers": 2,
+    "transformer_dim": 256,
+    "transformer_heads": 8,
+    "ssl_epochs": 30,
+    "ssl_batch": 128,
+    "ssl_lr": 0.0003,
+    "ssl_frame_drop_p": 0.1,
+    "ssl_noise_std": 0.02,
+    "ft_epochs": 20,
+    "ft_batch": 64,
+    "ft_lr": 0.001,
+    "n_held_out_prototypes": 400,
+    "efficientnet_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_b0_baseline_best.pt",
+    "feature_config_hash": "75f7fb9f",
+    "official_test_protocol": "prototype_support_to_test_query_retrieval",
+    "official_test_used_for_training": false,
+    "official_test_used_for_selection": false
+  },
+  "stage7_1_config": {
+    "stage": "7.1",
+    "seed": 42,
+    "n_tta_crops": 3,
+    "pca_dim": 512,
+    "csls_k": 10,
+    "whiten_eps": 0.001,
+    "note": "Unsupervised post-processing only. Whitening statistics fit on joint prototype+test feature cloud without labels. CSLS uses rank statistics only. TTA uses deterministic temporal crops. No test label used for any choice.",
+    "best_variant": "mean_pool + TTA + whiten + CSLS",
+    "best_top1": 0.17199124726477025
+  },
+  "stage7_2_config": {
+    "stage": "7.2",
+    "seed": 42,
+    "n_tta_crops": 3,
+    "pca_dim": 512,
+    "csls_k": 10,
+    "whiten_eps": 0.001,
+    "option_a": "temporal encoders on uniform 8-frame cached features",
+    "option_b": "temporal encoders on real per-crop TTA (n_crops x 8 x 1280)",
+    "best_variant": "mean_pool + TTA + whiten + CSLS",
+    "best_top1": 0.17199124726477025,
+    "note": "No training. Whitening fit on joint prototype+test feature cloud without labels. CSLS rank-based. TTA deterministic. No test label used for any choice."
+  },
+  "reconciliation_table": [
+    {
+      "source": "deterministic_recompute_uniform_mean_pool",
+      "top1": 0.1212253829321663,
+      "top5": 0.2262582056892779,
+      "top10": 0.26958424507658646,
+      "mrr": 0.16714522130566448,
+      "n": 2285,
+      "note": "Stage 8 recompute from raw feature cache, no TTA/whiten/CSLS",
+      "uses_tta": false,
+      "uses_whiten": false,
+      "uses_csls": false
+    },
+    {
+      "source": "earlier_official_cislr_final_results.json",
+      "top1": 0.12735229759299782,
+      "top5": 0.2236323851203501,
+      "top10": 0.25995623632385123,
+      "mrr": 0.17015215529428876,
+      "n": null,
+      "note": "selected_model=None",
+      "uses_tta": false,
+      "uses_whiten": false,
+      "uses_csls": false
+    },
+    {
+      "source": "recomputed_from_official_cislr_prototype_test_predictions.csv",
+      "top1": 0.12735229759299782,
+      "top5": 0.2236323851203501,
+      "top10": 0.25995623632385123,
+      "mrr": 0.17015215529428876,
+      "n": 2285,
+      "note": "Mean Pool, no post-processing",
+      "uses_tta": false,
+      "uses_whiten": false,
+      "uses_csls": false
+    },
+    {
+      "source": "recomputed_from_official_predictions_v5.csv",
+      "top1": 0.17024070021881837,
+      "top5": 0.263019693654267,
+      "top10": 0.29452954048140045,
+      "mrr": 0.21064973118725225,
+      "n": 2285,
+      "note": "Mean Pool + TTA + whiten + z-score fusion (v5)",
+      "uses_tta": true,
+      "uses_whiten": true,
+      "uses_csls": false
+    },
+    {
+      "source": "stage7_2_results.csv_best_row",
+      "top1": 0.1719912472647702,
+      "top5": 0.2564551422319475,
+      "top10": 0.2735229759299781,
+      "mrr": 0.2091005462054773,
+      "n": null,
+      "note": "mean_pool + TTA + whiten + CSLS",
+      "uses_tta": true,
+      "uses_whiten": true,
+      "uses_csls": true
+    },
+    {
+      "source": "stage7_1_results.csv_best_row",
+      "top1": 0.1719912472647702,
+      "top5": 0.2564551422319475,
+      "top10": 0.2735229759299781,
+      "mrr": 0.2091005462054773,
+      "n": null,
+      "note": "mean_pool + TTA + whiten + CSLS",
+      "uses_tta": true,
+      "uses_whiten": true,
+      "uses_csls": true
+    }
+  ],
+  "analysis_lines": [
+    "  deterministic_recompute_uniform_mean_pool               Top-1 12.123%   post-processing: none",
+    "  earlier_official_cislr_final_results.json               Top-1 12.735%   post-processing: none",
+    "  recomputed_from_official_cislr_prototype_test_predictions.csv Top-1 12.735%   post-processing: none",
+    "  recomputed_from_official_predictions_v5.csv             Top-1 17.024%   post-processing: TTA,whiten",
+    "  stage7_2_results.csv_best_row                           Top-1 17.199%   post-processing: TTA,whiten,CSLS",
+    "  stage7_1_results.csv_best_row                           Top-1 17.199%   post-processing: TTA,whiten,CSLS",
+    "",
+    "Deterministic recompute Top-1 = 12.1225%",
+    "  vs earlier 12.74% (CSV recompute) : -0.6175 pp",
+    "  vs Stage 7 12.12% (same pipeline) : +0.0025 pp",
+    "  Both references are plain Mean Pool without post-processing. The",
+    "  small gap between them is pipeline drift across two generations of",
+    "  the codebase (different cache versions / orderings), not a",
+    "  methodology difference. Neither earlier run used TTA."
+  ],
+  "note": "12.74% and 12.12% are plain Mean Pool from two generations of the pipeline. 17.02% is Mean Pool + TTA + whiten + z-score fusion (v5). 17.20% is Mean Pool + TTA + whiten + CSLS (Stage 7.1 / 7.2 best). None of these numbers is a theoretical ceiling; each is an empirical result of a specific evaluated configuration."
+}

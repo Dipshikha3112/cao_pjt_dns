@@ -1,0 +1,19 @@
+{
+  "stage": "L15",
+  "decision": "L14C selected as final 211-class research system.",
+  "reason": "Highest frozen validation Top-1 accuracy among evaluated systems.",
+  "selected_validation_top1": 41.232227,
+  "selected_validation_top5": 51.658768,
+  "selected_correct_top1": 87,
+  "selected_correct_top5": 109,
+  "previous_best_top1_model": "L13B",
+  "previous_best_top1": 38.862559,
+  "improvement_over_l13b_pp": 2.3696680000000043,
+  "selected_components": {
+    "L12B": 0.4,
+    "L13B": 0.3,
+    "L14A": 0.3
+  },
+  "test_evaluated": false,
+  "next_stage": "L16 \u2014 one-time final 211-class test evaluation"
+}

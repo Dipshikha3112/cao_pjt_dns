@@ -1,0 +1,201 @@
+uid,gloss,split,input_condition,frames_per_video,input_width,input_height,channels,model,embedding_dimension,evaluation_protocol,similarity_metric,video_path
+T4VLu2P-X9s_1,staff,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/T4VLu2P-X9s_1.mp4
+gR1Kd5i82-0,something,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/gR1Kd5i82-0.mp4
+CtWGmhj6scQ_1,vehicles,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CtWGmhj6scQ_1.mp4
+F7wUQReGNEw,earth,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/F7wUQReGNEw.mp4
+Tw2qPxlzf6Q,power duster,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Tw2qPxlzf6Q.mp4
+SIR3vIJJECY,disease,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SIR3vIJJECY.mp4
+tPNg2Waa57k,believe,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/tPNg2Waa57k.mp4
+u1yq_lnEwGI_2,capacitor,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/u1yq_lnEwGI_2.mp4
+SvabwOUNAEE,august,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SvabwOUNAEE.mp4
+afB8ioKoVh8_1,shortage,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/afB8ioKoVh8_1.mp4
+8I__oqg4_eE,total,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8I__oqg4_eE.mp4
+xgtcWuX0mdU_2,funding,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xgtcWuX0mdU_2.mp4
+UGX6actjbuM,dairy farm record,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UGX6actjbuM.mp4
+91WkA3SEDpM,noise pollution,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/91WkA3SEDpM.mp4
+j256ZJRmdrk_1,nest,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/j256ZJRmdrk_1.mp4
+ko_3tCyv_Dg,europe,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ko_3tCyv_Dg.mp4
+cXKAkxMNEYI,grenade,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cXKAkxMNEYI.mp4
+NjT3zasZLP0,harmonium,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NjT3zasZLP0.mp4
+m8c-LCkr39Y,resolve,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m8c-LCkr39Y.mp4
+PRDX6PAOvF0_1,rhinocerous,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PRDX6PAOvF0_1.mp4
+iuYObHCPlVA_1,zoo,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/iuYObHCPlVA_1.mp4
+5AqV_omHThc_1,rate,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5AqV_omHThc_1.mp4
+z_736hEJX_M,diabetic,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z_736hEJX_M.mp4
+b8ZOlo8oXbQ_2,joule,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/b8ZOlo8oXbQ_2.mp4
+q4UZa51yFUA_1,sister,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/q4UZa51yFUA_1.mp4
+y707Jq7ORR4,voltmeter,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/y707Jq7ORR4.mp4
+0fdRLmUIlZE_2,indigo,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0fdRLmUIlZE_2.mp4
+hYAtE5G_a9c_1,notary public,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hYAtE5G_a9c_1.mp4
+EL4UAMc2Kmc_2,circuit,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EL4UAMc2Kmc_2.mp4
+VhB51KKUi10,air pollution,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VhB51KKUi10.mp4
+kadMX531Q2A,prefer,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kadMX531Q2A.mp4
+933fIHNLS9s,nurse,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/933fIHNLS9s.mp4
+HqEam06JRKo,aeroplane,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HqEam06JRKo.mp4
+pxjiTt5uiQo,twin,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pxjiTt5uiQo.mp4
+i51r2vobqyY,promotion,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/i51r2vobqyY.mp4
+oYwBPKBX2kE,mouth,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oYwBPKBX2kE.mp4
+P9GAmYhGhJ0,janmashtami,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/P9GAmYhGhJ0.mp4
+3wKsYea6rfs_1,wood,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3wKsYea6rfs_1.mp4
+0xrgLBuhXG0,milter hat,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0xrgLBuhXG0.mp4
+Ap36VoRZatU,neck band,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ap36VoRZatU.mp4
+o-H6UeceSts,circuit breaker,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o-H6UeceSts.mp4
+BI1IkyUrBT0,possible,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BI1IkyUrBT0.mp4
+VbiFEC7SKhg_2,instrument,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VbiFEC7SKhg_2.mp4
+51zM9pARAnY_1,blood,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/51zM9pARAnY_1.mp4
+P5CapJo7Oe8_1,overseas,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/P5CapJo7Oe8_1.mp4
+kO5NaIjjtn0,restrained,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kO5NaIjjtn0.mp4
+m6Uby73Tg3s,six,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m6Uby73Tg3s.mp4
+fxaFxNiUcSA,handcuffs,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fxaFxNiUcSA.mp4
+DD9K1ojKj_k,taj hotel,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DD9K1ojKj_k.mp4
+6Xyl6CNQ_f4,one crore,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6Xyl6CNQ_f4.mp4
+1VHhWnMU21Y,ninth,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1VHhWnMU21Y.mp4
+sPzCUfCMJH4,april,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/sPzCUfCMJH4.mp4
+-s7h4Re7Atk_1,residence,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-s7h4Re7Atk_1.mp4
+JKKejwob7W8_1,eye,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JKKejwob7W8_1.mp4
+c7P3OaUt-LA,owner,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/c7P3OaUt-LA.mp4
+AfgaiVsTy_k,reporter,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/AfgaiVsTy_k.mp4
+5Jr5AHU6DQI_1,throat,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5Jr5AHU6DQI_1.mp4
+zdGKXf_2HFA,jama masjid,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zdGKXf_2HFA.mp4
+2LLe-kRAu0o,inauguration,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2LLe-kRAu0o.mp4
+Q4WiRFOlOu0_1,easy,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Q4WiRFOlOu0_1.mp4
+eH7rPf10P-w,strict,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eH7rPf10P-w.mp4
+muFgzetIJP4,sea,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/muFgzetIJP4.mp4
+UK3lCFwSt7A,chilli,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UK3lCFwSt7A.mp4
+2Hp-Yy2Qwn0_1,suspend,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2Hp-Yy2Qwn0_1.mp4
+zskDexexPRo_2_Trim,hydrautic brake,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zskDexexPRo_2_Trim.mp4
+xMvpodrz6dM,idea,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xMvpodrz6dM.mp4
+kYSK3akxd7s,balmacaan,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kYSK3akxd7s.mp4
+ALdikJXEJtc,club,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ALdikJXEJtc.mp4
+OjYou9zLuDM_1,daughter,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OjYou9zLuDM_1.mp4
+g-ErxwuqzTk_1,emergency,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/g-ErxwuqzTk_1.mp4
+nbGClOPWFAs,label,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nbGClOPWFAs.mp4
+V3bwmMHBHzE,engineering compass,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/V3bwmMHBHzE.mp4
+kusWSSN4xjI,boss,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kusWSSN4xjI.mp4
+C0znUIY2osY,east,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/C0znUIY2osY.mp4
+E4_sAfIiflQ,demand draft,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/E4_sAfIiflQ.mp4
+VGa4oRGUQ-w,exchange positions,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VGa4oRGUQ-w.mp4
+816BojVf1nk,tata mobile,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/816BojVf1nk.mp4
+_k5G74jDhCE_1,present,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_k5G74jDhCE_1.mp4
+aW8jBRmN24M_1,tour,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aW8jBRmN24M_1.mp4
+b9W1y77hDSc,way,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/b9W1y77hDSc.mp4
+x5dEKDXkXQY_1,welder,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/x5dEKDXkXQY_1.mp4
+70wTMPGmS-U,secret,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/70wTMPGmS-U.mp4
+GIoPLi8lba4,name,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/GIoPLi8lba4.mp4
+wtaxFUrko34,parking,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wtaxFUrko34.mp4
+IRpEcHFlSk0_1,stay,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IRpEcHFlSk0_1.mp4
+tMKMjQtqO2U_2,important,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/tMKMjQtqO2U_2.mp4
+Xjnz65u4rsc_1,cash credit key,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Xjnz65u4rsc_1.mp4
+42CmhRt0ANs_2,electric charge,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/42CmhRt0ANs_2.mp4
+rwhRNPCPp34,nut,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rwhRNPCPp34.mp4
+IOUl-SHyP4Y_1,testify,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IOUl-SHyP4Y_1.mp4
+vB72KncjZis,evening,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vB72KncjZis.mp4
+vwpHHohq8II,cng stone carving machine,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vwpHHohq8II.mp4
+9TzR_2DZEKk,muffler,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9TzR_2DZEKk.mp4
+XDSaCZLa0o0,express train,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/XDSaCZLa0o0.mp4
+P2OKqOpct8s,grey,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/P2OKqOpct8s.mp4
+50A9vnIaQNE,biscuit,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/50A9vnIaQNE.mp4
+KBfrB3Kx5Kw_1,always,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KBfrB3Kx5Kw_1.mp4
+nt6YlBv1Qv0,scotland,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nt6YlBv1Qv0.mp4
+4yJrFqyUKuA,asystole,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4yJrFqyUKuA.mp4
+Oi__gIjhBk0_1,engineer,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Oi__gIjhBk0_1.mp4
+ODNZ6nd7uls,actress,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ODNZ6nd7uls.mp4
+4RTN56hfFTM_2,nuclear reactor,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4RTN56hfFTM_2.mp4
+PMYXK-B1Few,hypoxia,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PMYXK-B1Few.mp4
+BT9rDLe3e_8,shears,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BT9rDLe3e_8.mp4
+jD6niHPDzhQ_1,wood,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jD6niHPDzhQ_1.mp4
+L77Jvnk92gI,reception,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/L77Jvnk92gI.mp4
+KTNP8wR6a_I,sharpening stone,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KTNP8wR6a_I.mp4
+o6HO3Gv3-HI_1,year,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o6HO3Gv3-HI_1.mp4
+Iji2l3tYxHc,today,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Iji2l3tYxHc.mp4
+oqq2I0ePK3Y,initiative,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oqq2I0ePK3Y.mp4
+AJ0UWA48X-g,abdicate,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/AJ0UWA48X-g.mp4
+2U643_QFXA8_2,engine,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2U643_QFXA8_2.mp4
+E_bwQ8SGo8w,foundation organization,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/E_bwQ8SGo8w.mp4
+hpY4EHeLGz0,result,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hpY4EHeLGz0.mp4
+rvZ_e5KC2Mw_1,meter,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rvZ_e5KC2Mw_1.mp4
+M_F0YMifj5g_1,zebra crossing,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/M_F0YMifj5g_1.mp4
+YVKW4zFBxRs_1,wednesday,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YVKW4zFBxRs_1.mp4
+djeFrqW7rPE_1,jump,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/djeFrqW7rPE_1.mp4
+5smQtXAYAKM,thrice,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5smQtXAYAKM.mp4
+HSVMcyMhWvI_2,heat engine,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HSVMcyMhWvI_2.mp4
+EPIpofZRHBY_1,purchase,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EPIpofZRHBY_1.mp4
+-rahbCV2Pp4,understand,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-rahbCV2Pp4.mp4
+6NiPfrusu8E_1,unregistered,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6NiPfrusu8E_1.mp4
+r777eDg0fX0_1,ram,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/r777eDg0fX0_1.mp4
+xD3S5OUhSRs,boat,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xD3S5OUhSRs.mp4
+M5ML0oF4VzU,can,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/M5ML0oF4VzU.mp4
+5abyQsJRQIY,kidney beans,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5abyQsJRQIY.mp4
+KkLXMOjfW1M_1,bihar,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KkLXMOjfW1M_1.mp4
+BSezNX5k4dA_2,law,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BSezNX5k4dA_2.mp4
+-03Dju3yPHE,air conditioner,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-03Dju3yPHE.mp4
+1vIbJ1xeH6c_1,berth,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1vIbJ1xeH6c_1.mp4
+weWGeNNGQSM_1,industry,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/weWGeNNGQSM_1.mp4
+uKWcQt8U4lA,research,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/uKWcQt8U4lA.mp4
+1iCtgbRsFnE,popcorn,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1iCtgbRsFnE.mp4
+Pj0MkbEahC8,toothpaste,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Pj0MkbEahC8.mp4
+2XXjH0ZsdTg_1,heavy,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2XXjH0ZsdTg_1.mp4
+P7aSfqQTkTk_1,yourself,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/P7aSfqQTkTk_1.mp4
+T7RIPkBR3ik_1,woman,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/T7RIPkBR3ik_1.mp4
+rJjNfXvVaaY_2,accurate,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rJjNfXvVaaY_2.mp4
+Va_b6_X-wOs,fishing for games,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Va_b6_X-wOs.mp4
+bhMRCTyJyNI_1,without prejudice,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bhMRCTyJyNI_1.mp4
+L4q4_7OOznw,goa,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/L4q4_7OOznw.mp4
+C7tQarNFXJo_1,voluntarily,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/C7tQarNFXJo_1.mp4
+5PLTkywHZ50,red flowered plants,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5PLTkywHZ50.mp4
+EHWONrQWsVE,baldness,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EHWONrQWsVE.mp4
+o_Dvm4U4sLo,make,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o_Dvm4U4sLo.mp4
+_mRzTYgtxCU_1,quantity,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_mRzTYgtxCU_1.mp4
+uK8G7-89HCI_1,summons,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/uK8G7-89HCI_1.mp4
+ZcxtRrRVHFE,request,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZcxtRrRVHFE.mp4
+CGWUtV3bpgc_1,kanpur,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CGWUtV3bpgc_1.mp4
+1O9PueJaMDw_1,dhothi,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1O9PueJaMDw_1.mp4
+CujxTrMxQEw_1,declaration,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CujxTrMxQEw_1.mp4
+i6snKEGzUUo,funnel  neck,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/i6snKEGzUUo.mp4
+Cgs1MibMXJ0,eat,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Cgs1MibMXJ0.mp4
+dBQHt6OHvi8_1,squirrel,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dBQHt6OHvi8_1.mp4
+6xUFRFEzi4Y_2,compass,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6xUFRFEzi4Y_2.mp4
+Mxlci8amm_0_1,necklace,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Mxlci8amm_0_1.mp4
+yQ7kMY9kDlM,rent,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yQ7kMY9kDlM.mp4
+DyoiyeHahko_1,small farmer,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DyoiyeHahko_1.mp4
+f2RCrBoqFVw,five hundred,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/f2RCrBoqFVw.mp4
+nejz8c9gkFE_2,south poie,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nejz8c9gkFE_2.mp4
+S9wg2vb8-Aw,bandage,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/S9wg2vb8-Aw.mp4
+WQpetmGGa2Y,classification of poultry feeds,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WQpetmGGa2Y.mp4
+MsWnmwlUBik_2,angular velocity,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MsWnmwlUBik_2.mp4
+s0HIntkDTew_1,lake,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/s0HIntkDTew_1.mp4
+ws_qjks_TFo,zoo,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ws_qjks_TFo.mp4
+y0Qqh0iQ4HU_2,jupiter,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/y0Qqh0iQ4HU_2.mp4
+kionVevx1ns,repair,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kionVevx1ns.mp4
+eI4NQgjp5l0,company,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eI4NQgjp5l0.mp4
+S1eFafNFNOE,switzerland,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/S1eFafNFNOE.mp4
+dhy4BOXYtEs_2,newton,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dhy4BOXYtEs_2.mp4
+0CUyYc1R3OA,colombia,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0CUyYc1R3OA.mp4
+I77KHj-yyWQ,debit card,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/I77KHj-yyWQ.mp4
+USyI1R3TCr4,runner,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/USyI1R3TCr4.mp4
+aJeKWqpMr7Y_2,glass stab,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aJeKWqpMr7Y_2.mp4
+nBXHnSz4pYc_1,compass,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nBXHnSz4pYc_1.mp4
+ikrmT6T1GbE_2,satellites,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ikrmT6T1GbE_2.mp4
+bI019MZru3U,tight,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bI019MZru3U.mp4
+lhRSYduQK60,bike oil filter,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lhRSYduQK60.mp4
+CXOPG4pJxDI_1,hear,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CXOPG4pJxDI_1.mp4
+N6DxyKcaZVs,lighthouse,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/N6DxyKcaZVs.mp4
+lQyrTnOO4XE,instagram,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lQyrTnOO4XE.mp4
+E6-Q2xXxUmc,varieties of mushroom,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/E6-Q2xXxUmc.mp4
+6aqON2kGdHA_1,swim,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6aqON2kGdHA_1.mp4
+--7-rCNOiK0_1,branch,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/--7-rCNOiK0_1.mp4
+-Em79Yvwac4_1,think,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-Em79Yvwac4_1.mp4
+B6XbxlOZXm4_1,discharge,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/B6XbxlOZXm4_1.mp4
+KHbIUov_fKY,noun,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KHbIUov_fKY.mp4
+5YO6JToom0U,public,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5YO6JToom0U.mp4
+0oWHR36xnT8_1,this,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0oWHR36xnT8_1.mp4
+CNfxuVjZuh4_1,inch,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CNfxuVjZuh4_1.mp4
+pvCPTa5YUSQ,united states of america,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pvCPTa5YUSQ.mp4
+-R02rqkyxHc_1,can,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-R02rqkyxHc_1.mp4
+NiE43suq2F4_1,patience,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NiE43suq2F4_1.mp4
+4imVoSmU5vc,mauritius,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4imVoSmU5vc.mp4
+eJ5kLxC1ViY,air,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eJ5kLxC1ViY.mp4
+ifC99YlyRZE_1,poision,test,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ifC99YlyRZE_1.mp4
+ZTyOfVeFBgA_2,sotar,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZTyOfVeFBgA_2.mp4
+8Tsv4klWWuY,mechanic,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8Tsv4klWWuY.mp4
+YCnpEJTrtb4,older sister,prototype,BOTH,8,224,224,3,MobileNetV3-Large,960,official_prototype_to_test_retrieval,cosine,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YCnpEJTrtb4.mp4

@@ -1,0 +1,11 @@
+{
+  "summary": "34a696af5442b653367cb4940dc65069f5d3150d34ad33400d472f08699dddc8",
+  "overall_metrics": "e26e756b42f4f38ee0fb3b73058f8143087a70226b889d448b73afd5660d5a7f",
+  "confusion_matrix": "5e5c4edf690fd813ec9df75e279de13468cbbf714d92edb8014c60653ac86a32",
+  "normalized_cm": "26ddfd633d1ab4193d931519b80e0f85a8bb8a53dc972b82ddfe2455da435299",
+  "per_class_accuracy": "d2d2751c6a841f59f2c292ae7a0604b3dba95bde0304d15f6804a36b6de2d92d",
+  "support_analysis": "59ef5e5370a67fbc03da167e2d5e5e6fd085beb8130eba9d606feaa9f0d54707",
+  "common_confusions": "b5bdf533d0ecf98e01d877913e3a2769db558e7cbcad894bb7b9f818f0eb10cb",
+  "predictions": "21f379588fc2c6b3f4159fa8ec8db5f691c30ae7d80427d61823d1d8810a8e1e",
+  "master_freeze": "f43a39073f35dff3518119d559592a556debc53c91abf794bedb7a6953e8df66"
+}

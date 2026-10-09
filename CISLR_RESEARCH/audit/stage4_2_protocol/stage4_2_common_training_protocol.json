@@ -1,0 +1,138 @@
+{
+  "stage": "4.2",
+  "title": "Common Training Protocol + Training Pool Reconciliation",
+  "created_at": "2026-09-13T11:57:00.881545",
+  "training_pool": {
+    "historical_videos": 4417,
+    "historical_frames": 35336,
+    "current_videos": 4764,
+    "current_frames": 38112,
+    "canonical_videos": 4764,
+    "canonical_frames": 38112,
+    "decision": "USE_CURRENT_POOL_NO_HISTORICAL_UID_MANIFEST",
+    "reason": "The historical 4,417-video UID manifest could not be unambiguously recovered. The current Stage 3 metadata is internally consistent at 4,764 videos \u00d7 8 frames and contains no official-test UIDs. Therefore no videos are excluded based solely on historical provenance.",
+    "canonical_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_2_protocol/stage4_2_canonical_training_manifest.csv"
+  },
+  "dataset_protection": {
+    "official_test_used": false,
+    "official_test_used_for_selection": false,
+    "raw_videos_modified": false,
+    "raw_dataset_modified": false,
+    "new_validation_split": false
+  },
+  "candidate_models": {
+    "ResNet18": {
+      "torchvision_name": "resnet18",
+      "family": "ResNet",
+      "variant": "18",
+      "pretrained": true
+    },
+    "MobileNetV3-Large": {
+      "torchvision_name": "mobilenet_v3_large",
+      "family": "MobileNetV3",
+      "variant": "Large",
+      "pretrained": true
+    },
+    "EfficientNet-B0": {
+      "torchvision_name": "efficientnet_b0",
+      "family": "EfficientNet",
+      "variant": "B0",
+      "pretrained": true
+    }
+  },
+  "input_protocol": {
+    "image_size": [
+      224,
+      224
+    ],
+    "channels": 3,
+    "color_space": "RGB",
+    "frames_per_video": 8,
+    "sampling": "uniform",
+    "normalization": {
+      "type": "ImageNet",
+      "mean": [
+        0.485,
+        0.456,
+        0.406
+      ],
+      "std": [
+        0.229,
+        0.224,
+        0.225
+      ]
+    }
+  },
+  "training_protocol": {
+    "epochs": 10,
+    "batch_size": 16,
+    "optimizer": {
+      "name": "AdamW",
+      "learning_rate": 0.0001,
+      "weight_decay": 0.0001
+    },
+    "loss": "CrossEntropyLoss",
+    "mixed_precision": {
+      "enabled": true
+    },
+    "seed": 42,
+    "num_workers": 4,
+    "pin_memory": true,
+    "persistent_workers": true
+  },
+  "augmentation_protocol": {
+    "training": [
+      "RandomResizedCrop(224, scale=(0.8, 1.0))",
+      "RandomHorizontalFlip(p=0.5)"
+    ],
+    "evaluation": [
+      "Resize(256)",
+      "CenterCrop(224)"
+    ]
+  },
+  "benchmark_protocol": {
+    "batch_size": 1,
+    "warmup_iterations": 50,
+    "measurement_iterations": 200,
+    "metrics": [
+      "parameter_count",
+      "trainable_parameter_count",
+      "checkpoint_size_mb",
+      "theoretical_flops",
+      "gpu_latency_ms",
+      "gpu_fps",
+      "gpu_peak_memory_mb",
+      "cpu_latency_ms",
+      "cpu_fps"
+    ]
+  },
+  "hardware": {
+    "platform": "Linux-7.0.0-30-generic-x86_64-with-glibc2.39",
+    "python": "3.11.15 (main, Jun 11 2026, 15:20:16) [GCC 14.3.0]",
+    "pytorch": "2.14.0+cu130",
+    "torchvision": "0.29.0+cu130",
+    "cuda_available": true,
+    "cuda_version": "13.0",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "gpu_total_memory_gb": 5.638
+  },
+  "validation_constraint": {
+    "independent_closed_set_validation": false,
+    "reason": "The non-test prototype pool contains exactly one video per class."
+  },
+  "fairness_constraints": {
+    "same_canonical_video_pool": true,
+    "same_frames_per_video": true,
+    "same_input_resolution": true,
+    "same_normalization": true,
+    "same_augmentation": true,
+    "same_batch_size": true,
+    "same_optimizer": true,
+    "same_learning_rate": true,
+    "same_weight_decay": true,
+    "same_epoch_budget": true,
+    "same_seed": true,
+    "same_precision": true,
+    "architecture_specific_tuning": false
+  }
+}

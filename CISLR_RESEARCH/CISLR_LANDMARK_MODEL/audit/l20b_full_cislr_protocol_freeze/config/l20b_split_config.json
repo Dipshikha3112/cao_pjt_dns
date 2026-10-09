@@ -1,0 +1,22 @@
+{
+  "stage": "L20B",
+  "status": "FROZEN",
+  "seed": 42,
+  "support_threshold": 4,
+  "num_classes": 215,
+  "total_supervised_videos": 1024,
+  "target_train_fraction": 0.7,
+  "target_validation_fraction": 0.3,
+  "actual_train_videos": 717,
+  "actual_validation_videos": 307,
+  "actual_train_fraction": 0.7001953125,
+  "actual_validation_fraction": 0.2998046875,
+  "split_method": "deterministic class-stratified integer allocation with global 70/30 target",
+  "constraints": {
+    "minimum_train_per_class": 1,
+    "minimum_validation_per_class": 1,
+    "uid_overlap_allowed": false,
+    "seed_search_allowed": false,
+    "accuracy_based_split_selection": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "complete_dataset": true,
+    "all_structural": true,
+    "all_reconstruct": true,
+    "all_raw_present": true,
+    "l7_pass": true
+}

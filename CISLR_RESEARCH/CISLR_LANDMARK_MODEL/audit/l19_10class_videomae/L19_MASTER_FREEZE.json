@@ -1,0 +1,28 @@
+{
+  "stage": "L19",
+  "status": "COMPLETE_AND_FROZEN",
+  "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "num_classes": 10,
+  "source_l18b_freeze_sha256": "ff50078900fcd8565391177327018aa413154c9bd4ad9bbd1c2c691bc3a4914d",
+  "best_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/models/l19_best_videomae_10class.pt",
+    "sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "training_stage": "FINETUNE4",
+    "global_epoch": 38
+  },
+  "validation": {
+    "accuracy_percent": 100.0,
+    "correct": 10,
+    "total": 10,
+    "loss": 0.41520004272460936
+  },
+  "test": {
+    "locked": true,
+    "loaded": false,
+    "decoded": false,
+    "evaluated": false,
+    "used_for_model_selection": false
+  },
+  "next_stage": "L20_ONE_TIME_DEPLOYMENT_TEST",
+  "created_at": "2026-10-04T01:16:57.568159"
+}

@@ -1,0 +1,17 @@
+{
+  "stage": "9.4.1",
+  "name": "Robust Decode Correction",
+  "reason": "Stage 9.4 exposed a mismatch between container-reported frame count and actually decodable frames.",
+  "model_changed": false,
+  "prototype_gallery_changed": false,
+  "retrieval_method_changed": false,
+  "input_pipeline_changed": true,
+  "input_pipeline_change": "Sequentially decode readable frames before automatic temporal sampling.",
+  "videos_requested": 10,
+  "videos_successfully_tested": 10,
+  "sample_top1_accuracy": 0.3,
+  "sample_top5_accuracy": 0.3,
+  "mean_openvino_frame_inference_ms": 3.178609874930771,
+  "mean_retrieval_latency_ms": 4.964624299645948,
+  "mean_end_to_end_latency_ms": 117.5407394001013
+}

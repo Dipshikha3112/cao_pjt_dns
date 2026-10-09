@@ -1,0 +1,8 @@
+{
+  "samples": 64,
+  "mean_pairwise_cosine": 0.9999669194221497,
+  "std_pairwise_cosine": 1.913579944812227e-05,
+  "feature_std_mean": 0.2927277386188507,
+  "feature_norm_mean": 1441.4366455078125,
+  "collapse_warning": false
+}

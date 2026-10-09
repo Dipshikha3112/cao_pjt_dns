@@ -1,0 +1,36 @@
+{
+  "experiment": "L20D-B2B",
+  "model": "BiGRU + Temporal Attention + Cosine Classifier",
+  "protocol": {
+    "train": 710,
+    "validation": 304,
+    "classes": 215,
+    "locked_test": 10
+  },
+  "input": {
+    "sequence_length": 32,
+    "feature_dimension": 254
+  },
+  "normalization": {
+    "source": "TRAIN ONLY",
+    "file": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/reports/l20d_b2b_train_normalization.npz"
+  },
+  "best_result": {
+    "epoch": 68,
+    "validation_top1": 21.710526315789473,
+    "validation_top5": 37.5,
+    "validation_loss": 4.664784456554212
+  },
+  "integrity": {
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "train_validation_overlap": 0
+  },
+  "artifacts": {
+    "best_model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/models/l20d_b2b_best_landmark_model.pt",
+    "final_model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/models/l20d_b2b_final_landmark_model.pt",
+    "validation_logits": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/reports/l20d_b2b_best_validation_logits.npz",
+    "validation_predictions": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/reports/l20d_b2b_best_validation_predictions.csv",
+    "history": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2b_landmark_temporal_model/reports/l20d_b2b_history.csv"
+  }
+}

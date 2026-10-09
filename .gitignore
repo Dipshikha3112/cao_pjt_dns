@@ -1,0 +1,64 @@
+# Python environments
+.venv/
+venv/
+env/
+openvino_face/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Trained models
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+
+# OpenVINO weights
+*.bin
+
+# Large embeddings and numerical arrays
+*.npy
+*.npz
+
+# Raw datasets
+datasets/
+raw_data/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+# Third-party OpenHands repository
+CISLR_RESEARCH/OpenHands/
+
+# Large generated CSV reports and manifests
+CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/stage5_6_resolved_roi_manifest.csv
+CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/stage5_6_roi_variant_manifest.csv
+CISLR_RESEARCH/audit/stage5_hand_roi/roi_extraction/stage5_3_frame_level_extraction.csv
+CISLR_RESEARCH/audit/stage5_hand_roi/roi_extraction/targeted_repair/stage5_3_repaired_frame_manifest.csv
+CISLR_RESEARCH/audit/stage5_hand_roi/roi_quality_validation/stage5_4_frame_level_quality_audit.csv

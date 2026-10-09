@@ -1,0 +1,22 @@
+{
+  "stage": "L20B_CORRECTED",
+  "status": "COMPLETE_AND_FROZEN",
+  "scientific_role": "Dataset/protocol freeze only",
+  "supersedes": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_full_cislr_protocol_freeze",
+  "reason_for_correction": "Original L20B/L20C protocol did not permanently reserve all 10 L19 locked-test UIDs. Subsequent audit found that 6 locked-test UIDs were exposed to the original L20C domain-adaptation run. This corrected protocol reserves all 10 before constructing L20 train, validation, and domain-adaptation populations.",
+  "class_selection_rule": "Original clean support >= 4",
+  "selected_classes": 215,
+  "locked_test_reserved": 10,
+  "corrected_supervised_population": 1014,
+  "corrected_train_population": 710,
+  "corrected_validation_population": 304,
+  "corrected_domain_population": 6734,
+  "training_performed": false,
+  "inference_performed": false,
+  "validation_accuracy_observed": false,
+  "locked_test_accuracy_observed": false,
+  "locked_test_used_for_training": false,
+  "locked_test_used_for_model_selection": false,
+  "hash_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_corrected_strict_protocol_freeze/hashes/l20b_corrected_sha256_manifest.json",
+  "created_utc": "2026-10-04T17:29:23.836413+00:00"
+}

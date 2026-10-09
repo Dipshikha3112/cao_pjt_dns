@@ -1,0 +1,37 @@
+{
+  "source_l21_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+    "sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "size_bytes": 345021451
+  },
+  "openvino_xml": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "size_bytes": 355184
+  },
+  "openvino_bin": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc",
+    "size_bytes": 349756624
+  },
+  "deployment_vocabulary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/config/deployment_vocabulary.json",
+    "sha256": "4c0131d2040509e838addd84582d6633667fa3ad63f578adb2ebb90bd518024d",
+    "size_bytes": 178
+  },
+  "deployment_class_mapping": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/config/deployment_class_mapping.csv",
+    "sha256": "d47956deb48a5e9b24c03f13b10a83dc2911bc25750a5552495e2f8f424d69b4",
+    "size_bytes": 122
+  },
+  "export_config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/config/l22_openvino_export_config.json",
+    "sha256": "a85749b687f3cbda2acfcefd43e2365be13d7cc55102d6c721f9cb7ef4883450",
+    "size_bytes": 2797
+  },
+  "export_report": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/reports/l22_openvino_export_report.json",
+    "sha256": "64f1166cd2963672272b74f170d7eed81f65fa5429aeb28b27c92a9bd57af6b8",
+    "size_bytes": 2039
+  }
+}

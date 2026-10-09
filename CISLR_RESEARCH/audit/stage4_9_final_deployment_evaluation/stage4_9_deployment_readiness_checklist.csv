@@ -1,0 +1,8 @@
+check,status
+OpenVINO XML exists,PASS
+OpenVINO BIN exists,PASS
+Conversion cosine >= 0.9999,PASS
+Conversion max error <= 1e-3,PASS
+OpenVINO CPU benchmark available,PASS
+OpenVINO CPU FPS > 0,PASS
+Official retrieval result available,PASS

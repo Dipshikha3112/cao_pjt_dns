@@ -1,0 +1,10 @@
+{
+    "l9_split_preserved": true,
+    "l10_baseline_preserved": true,
+    "representation_valid": true,
+    "stats_fit_on_train_only": true,
+    "val_used_for_selection": true,
+    "test_features_loaded": false,
+    "test_evaluated": false,
+    "l10_4_pass": true
+}

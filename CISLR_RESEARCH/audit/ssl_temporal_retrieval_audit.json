@@ -1,0 +1,15 @@
+{
+  "dataset_rows": 7050,
+  "prototype_rows": 4765,
+  "test_rows": 2285,
+  "prototype_missing_gloss_rows": 2,
+  "prototype_unique_valid": 4763,
+  "test_unique_valid": 2285,
+  "prototype_test_uid_overlap": 0,
+  "usable_videos": 7048,
+  "unusable_videos": 0,
+  "ssl_train_videos": 6696,
+  "ssl_val_videos": 352,
+  "held_out_prototypes": 400,
+  "gallery_prototypes": 4363
+}

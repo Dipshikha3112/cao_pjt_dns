@@ -1,0 +1,28 @@
+{
+  "frames_processed": 110,
+  "duration_sec": 78.3055271639987,
+  "overall_display_pipeline_fps": 1.404753968000524,
+  "frames_with_hand": 108,
+  "hand_detection_rate": 0.9818181818181818,
+  "total_hand_instances": 157,
+  "classifier_jobs_submitted": 13,
+  "classifier_jobs_completed": 12,
+  "classifier_checks_skipped_busy": 0,
+  "classifier_checks_skipped_no_hand": 0,
+  "mean_raw_confidence": 0.32929202169179916,
+  "mean_frame_ms": 692.705646127301,
+  "mean_palm_ms": 312.5043594362234,
+  "mean_landmark_ms": 366.56726560901336,
+  "mean_videomae_preprocess_ms": 33.612733083524894,
+  "mean_videomae_inference_ms": 5882.533159749831,
+  "median_videomae_inference_ms": 5841.771539999172,
+  "mean_worker_total_ms": 5917.139256000155,
+  "prediction_distribution": {
+    "thursday": 9,
+    "wash": 3
+  },
+  "videomae_device": "CPU",
+  "no_sign_rejection": false,
+  "temporal_stabilization": false,
+  "locked_test_used": false
+}

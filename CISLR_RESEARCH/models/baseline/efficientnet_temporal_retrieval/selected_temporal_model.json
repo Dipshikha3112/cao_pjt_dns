@@ -1,0 +1,10 @@
+{
+  "selected_architecture": "mean_pool",
+  "selected_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/efficientnet_mean_pool_retrieval_best.pt",
+  "selection_metric": "held_out_prototype_top1_then_mrr",
+  "held_out_prototypes": 400,
+  "gallery_prototypes": 4363,
+  "official_test_used_for_training": false,
+  "official_test_used_for_selection": false,
+  "note": "SSL pretraining used all 7,050 videos as UNLABELED data. No test label or test retrieval metric was used for any choice. Section-27 assertions for dev-support/query vs test were replaced by their satisfiable equivalents (held-out-prototype vs test)."
+}

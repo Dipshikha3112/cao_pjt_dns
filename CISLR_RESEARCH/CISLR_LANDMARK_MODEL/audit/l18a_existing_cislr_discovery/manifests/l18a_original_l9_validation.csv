@@ -1,0 +1,11 @@
+deployment_class_id,gloss,uid,l9_origin,l18a_usage_status,video_path,video_exists,video_readable,basic_usable,frame_count,fps,duration_seconds,width,height,file_size_mb,duration,category,first_frame_readable
+0,monday,0YIk1iTjDVY_1,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0YIk1iTjDVY_1.mp4,True,True,True,90,30.0,3.0,300,300,0.1114187240600586,6.0,time,True
+1,interest,jMWvOjMUjYk_1,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jMWvOjMUjYk_1.mp4,True,True,True,90,30.0,3.0,300,300,0.13666248321533203,7.0,behavior,True
+2,thursday,w3iXbhc5vsM_1,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/w3iXbhc5vsM_1.mp4,True,True,True,90,30.0,3.0,300,300,0.10872268676757812,7.0,time,True
+3,christmas,9LDQGtFRVhI,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9LDQGtFRVhI.mp4,True,True,True,91,25.0,3.64,300,300,0.1386699676513672,4.0,event,True
+4,pencil,z1VPeFV_ew4,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z1VPeFV_ew4.mp4,True,True,True,74,25.0,2.96,300,300,0.12035083770751953,3.0,utility item,True
+5,mother,YwR00ZeFcQY_1,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YwR00ZeFcQY_1.mp4,True,True,True,105,30.0,3.5,300,300,0.19075489044189453,8.0,relation,True
+6,tuesday,UlQ5cTjCqT8_1,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UlQ5cTjCqT8_1.mp4,True,True,True,75,30.0,2.5,300,300,0.09261131286621094,6.0,time,True
+7,friday,7ChtWi4wz8E_1,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7ChtWi4wz8E_1.mp4,True,True,True,75,30.0,2.5,300,300,0.09766864776611328,6.0,time,True
+8,rubber,5mRd9gulCKs,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5mRd9gulCKs.mp4,True,True,True,109,25.0,4.36,300,300,0.17566967010498047,5.0,utility item,True
+9,wash,eZ1NWsWssI0,ORIGINAL_L9_VALIDATION,RESERVED_ORIGINAL_VALIDATION,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eZ1NWsWssI0.mp4,True,True,True,278,25.0,11.12,300,300,0.379241943359375,12.0,action,True

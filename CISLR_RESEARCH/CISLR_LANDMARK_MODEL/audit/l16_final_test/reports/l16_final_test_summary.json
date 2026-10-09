@@ -1,0 +1,41 @@
+{
+  "stage": "L16",
+  "status": "FINAL_TEST_COMPLETE",
+  "evaluation_type": "One-time final 211-class test evaluation",
+  "selected_system": "L14C",
+  "fusion_method": "Frozen sparse Top-5 raw-probability late fusion",
+  "weights": {
+    "L12B": 0.4,
+    "L13B": 0.3,
+    "L14A": 0.3
+  },
+  "num_classes": 211,
+  "test_samples": 211,
+  "l12b": {
+    "top1": 26.540284360189574,
+    "top5": 36.96682464454976
+  },
+  "l13b": {
+    "top1": 37.44075829383886,
+    "top5": 46.91943127962085
+  },
+  "l14a": {
+    "top1": 38.388625592417064,
+    "top5": 52.60663507109005
+  },
+  "final_fusion": {
+    "top1": 41.23222748815166,
+    "top5": 52.13270142180095,
+    "correct_top1": 87,
+    "correct_top5": 110
+  },
+  "validation_reference": {
+    "top1": 41.232227,
+    "top5": 51.658768
+  },
+  "model_selection_changed_after_test": false,
+  "weights_changed_after_test": false,
+  "threshold_tuned_on_test": false,
+  "test_sample_removed": false,
+  "timestamp": "2026-10-04T00:08:00.176656"
+}

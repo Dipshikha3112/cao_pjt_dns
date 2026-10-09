@@ -1,0 +1,11 @@
+deployment_class_id,gloss,train,validation,locked_test,total
+0,monday,11,1,1,13
+1,interest,8,1,1,10
+2,thursday,9,1,1,11
+3,christmas,6,1,1,8
+4,pencil,7,1,1,9
+5,mother,6,1,1,8
+6,tuesday,6,1,1,8
+7,friday,7,1,1,9
+8,rubber,5,1,1,7
+9,wash,5,1,1,7

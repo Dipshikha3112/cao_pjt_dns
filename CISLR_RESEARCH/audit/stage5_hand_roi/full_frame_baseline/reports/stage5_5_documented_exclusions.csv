@@ -1,0 +1,2 @@
+uid,excluded_from_stage,prescribed_frame_index,reason,neighbor_frame_substitution,raw_video_modified
+Xt6ujzVtikU_2,5.5,96,Prescribed Stage 5.3 frame 96 is not decodable by the tested OpenCV and FFmpeg extraction methods despite valid container-level video metadata.,False,False

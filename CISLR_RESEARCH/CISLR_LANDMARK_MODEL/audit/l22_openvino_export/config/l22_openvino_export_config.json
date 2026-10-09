@@ -1,0 +1,99 @@
+{
+  "stage": "L22",
+  "status": "OPENVINO_EXPORTED",
+  "source_stage": "L21",
+  "model_family": "VideoMAEForVideoClassification",
+  "pretrained_backbone": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "num_classes": 10,
+  "num_frames": 16,
+  "input_resolution": [
+    224,
+    224
+  ],
+  "input_layout": "B,T,C,H,W",
+  "static_input_shape": [
+    1,
+    16,
+    3,
+    224,
+    224
+  ],
+  "static_output_shape": [
+    1,
+    10
+  ],
+  "input_dtype": "float32",
+  "output": "classification_logits",
+  "openvino_version": "2026.3.1-22476-759c5a6ab8c-releases/2026/3",
+  "pytorch_version": "2.14.0+cu130",
+  "transformers_version": "4.57.6",
+  "conversion_method": "direct_pytorch",
+  "dynamic_input_before_reshape": "[?,?,3,?,?]",
+  "input_after_reshape": "[1,16,3,224,224]",
+  "export_precision": "FP32",
+  "compress_to_fp16": false,
+  "quantized": false,
+  "source_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+  "openvino_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+  "openvino_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+  "preprocessing": {
+    "source_cache_frames": 32,
+    "source_cache_resolution": [
+      256,
+      256
+    ],
+    "model_frames": 16,
+    "model_resolution": [
+      224,
+      224
+    ],
+    "inference_temporal_sampling": "deterministic 16-frame sampling from 32-frame cache",
+    "spatial_processing": "deterministic center crop 256x256 -> 224x224",
+    "pixel_scaling": "uint8 / 255.0",
+    "normalization_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "normalization_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "horizontal_flip": false,
+    "temporal_reversal": false
+  },
+  "vocabulary": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "protocol": {
+    "training": false,
+    "retraining": false,
+    "weight_modification": false,
+    "validation_tuning": false,
+    "locked_test_manifest_loaded": false,
+    "locked_test_video_loaded": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false,
+    "quantization": false
+  },
+  "l22_sanity": {
+    "synthetic_input_only": true,
+    "pytorch_top1": 9,
+    "openvino_top1": 9,
+    "top1_match": true,
+    "max_absolute_logit_difference": 3.259629011154175e-07,
+    "mean_absolute_logit_difference": 1.5925616025924683e-07,
+    "rmse": 1.8491948594601126e-07
+  },
+  "next_stage": "L23_PYTORCH_OPENVINO_VERIFICATION"
+}

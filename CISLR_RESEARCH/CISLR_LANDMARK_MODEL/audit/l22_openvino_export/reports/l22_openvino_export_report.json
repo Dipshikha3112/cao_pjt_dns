@@ -1,0 +1,67 @@
+{
+  "stage": "L22",
+  "name": "Export selected deployment model to OpenVINO",
+  "status": "COMPLETE",
+  "source": {
+    "stage": "L21",
+    "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+    "checkpoint_sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c"
+  },
+  "model": {
+    "architecture": "VideoMAEForVideoClassification",
+    "backbone": "MCG-NJU/videomae-base-finetuned-kinetics",
+    "parameters": 86234890,
+    "classes": 10,
+    "input_shape": [
+      1,
+      16,
+      3,
+      224,
+      224
+    ],
+    "output_shape": [
+      1,
+      10
+    ]
+  },
+  "conversion": {
+    "method": "direct_pytorch",
+    "raw_input_partial_shape": "[?,?,3,?,?]",
+    "final_static_input_shape": [
+      1,
+      16,
+      3,
+      224,
+      224
+    ],
+    "forced_static_shape": true
+  },
+  "openvino": {
+    "version": "2026.3.1-22476-759c5a6ab8c-releases/2026/3",
+    "xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "precision": "FP32",
+    "compiled_device": "CPU",
+    "compile_success": true,
+    "sanity_inference_success": true
+  },
+  "sanity_comparison": {
+    "input_type": "deterministic_synthetic",
+    "top1_match": true,
+    "max_absolute_logit_difference": 3.259629011154175e-07,
+    "mean_absolute_logit_difference": 1.5925616025924683e-07,
+    "rmse": 1.8491948594601126e-07
+  },
+  "scientific_integrity": {
+    "training": false,
+    "retraining": false,
+    "weight_modification": false,
+    "locked_test_manifest_loaded": false,
+    "locked_test_video_loaded": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false,
+    "test_used_for_export": false,
+    "validation_used_for_export_tuning": false
+  },
+  "next_stage": "L23"
+}

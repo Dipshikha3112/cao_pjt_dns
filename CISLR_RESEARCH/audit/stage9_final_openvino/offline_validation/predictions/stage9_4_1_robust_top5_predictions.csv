@@ -1,0 +1,51 @@
+query_uid,expected_gloss,rank,prototype_uid,predicted_gloss,similarity,is_expected
+-NIz596Y27Q_1,severally,1,1d6PKNBVh04,sample,0.9347259998321533,False
+-NIz596Y27Q_1,severally,2,2bxNtdmwWmo_1,salary,0.9234294891357422,False
+-NIz596Y27Q_1,severally,3,7gjYUfW4BEs_1,semi urban,0.9209063053131104,False
+-NIz596Y27Q_1,severally,4,5dKLdjBujo4_1,scope,0.918660581111908,False
+-NIz596Y27Q_1,severally,5,sjzz-U6f2E0_1,review,0.9150934219360352,False
+06tYXs9inPk_1,branch,1,--7-rCNOiK0_1,branch,0.9246824979782104,True
+06tYXs9inPk_1,branch,2,sOfglCTtdsY_1,creeper,0.9170749187469482,False
+06tYXs9inPk_1,branch,3,-oy6L89CeWU_1,cry,0.9090478420257568,False
+06tYXs9inPk_1,branch,4,WBM9qyakPIo_1,trunk,0.9052022695541382,False
+06tYXs9inPk_1,branch,5,XCYJTR2fzss_1,assembly,0.9018241167068481,False
+08E4Dr0zyKk_2,difference,1,zG_P--gEuOU_2,negligible,0.9541780948638916,False
+08E4Dr0zyKk_2,difference,2,HSL4JTtYSXk_2,size,0.9447962045669556,False
+08E4Dr0zyKk_2,difference,3,039-5dIML0I_2,depth,0.9427571296691895,False
+08E4Dr0zyKk_2,difference,4,EXSLF0azSNs_2,number system,0.9416523575782776,False
+08E4Dr0zyKk_2,difference,5,K6ef6wLNV6A_2,negative error,0.938377857208252,False
+0i1qCUd3BdM_1,increase,1,P18HvmCotMU_1,information,0.916092574596405,False
+0i1qCUd3BdM_1,increase,2,LJDiOMjjmgQ_1,inefficient,0.9108633399009705,False
+0i1qCUd3BdM_1,increase,3,J3BJa0TWc8U_1,incompetence,0.9065712690353394,False
+0i1qCUd3BdM_1,increase,4,HWsnuUvNGuM_1,immediate,0.9018111228942871,False
+0i1qCUd3BdM_1,increase,5,OhHLtn0U6K0_1,initials,0.8981116414070129,False
+0p_iET-2TRw,pencil,1,-C18cQCkCcw,pencil,0.9481477737426758,True
+0p_iET-2TRw,pencil,2,60gcpXhOpxg,pen,0.9031865000724792,False
+0p_iET-2TRw,pencil,3,iCZL3lk119A,book,0.9019031524658203,False
+0p_iET-2TRw,pencil,4,933fIHNLS9s,nurse,0.8943052291870117,False
+0p_iET-2TRw,pencil,5,AQ_ba6r2-YM,carpenter,0.8938997983932495,False
+0q7mwfrGneM_1,monday,1,7usxzuFAysI_1,year,0.9605855345726013,False
+0q7mwfrGneM_1,monday,2,0VvmrIYSsR0_1,marth,0.9409077167510986,False
+0q7mwfrGneM_1,monday,3,5SkNxNsxu_E_1,date,0.923673152923584,False
+0q7mwfrGneM_1,monday,4,_yuawBKn9O0_1,february,0.9132072925567627,False
+0q7mwfrGneM_1,monday,5,18hKLmAVIMg_1,june,0.9087038636207581,False
+10KuxOH6cYM_1,interest,1,SPVkNI9K4wA_1,calm,0.8423064351081848,False
+10KuxOH6cYM_1,interest,2,6GToY6IT_Pg_1,confident,0.8116831183433533,False
+10KuxOH6cYM_1,interest,3,Rj6pX9wzxqA_1,sister,0.8103225231170654,False
+10KuxOH6cYM_1,interest,4,HbZjNSy4OHE_1,waterfall,0.808921217918396,False
+10KuxOH6cYM_1,interest,5,6JEcTQfX4yI_1,belief,0.8087171316146851,False
+1DMSk1W0LSY_1,amritsar,1,ghyz0Xiumg0_1,trivendrum,0.9190124273300171,False
+1DMSk1W0LSY_1,amritsar,2,AectM0u3HLI_1,ahemedabad,0.9188883900642395,False
+1DMSk1W0LSY_1,amritsar,3,qgH8zxbIQr4_1,banaras,0.9176555871963501,False
+1DMSk1W0LSY_1,amritsar,4,HZJbA05pxEg_1,ooty,0.9169753193855286,False
+1DMSk1W0LSY_1,amritsar,5,CGWUtV3bpgc_1,kanpur,0.9084844589233398,False
+1KCDw7XLgU0,mahavir jayanti,1,0TGJCFJv2iU,mahavir jayanti,0.9681739807128906,True
+1KCDw7XLgU0,mahavir jayanti,2,3v5Id7dDttk,buddha purnima,0.9376652240753174,False
+1KCDw7XLgU0,mahavir jayanti,3,CbscRBBGtT8,tractor,0.9022058248519897,False
+1KCDw7XLgU0,mahavir jayanti,4,OQ1e6lpNybo,maha shivaratri,0.8971155881881714,False
+1KCDw7XLgU0,mahavir jayanti,5,J79s05Z0NZ8,whatever,0.8912040591239929,False
+1NqEYBhtmZE,sign,1,kGa7Bq3pYqQ,racism,0.9391628503799438,False
+1NqEYBhtmZE,sign,2,hZGHZ9sLtlg,railway track,0.9368082880973816,False
+1NqEYBhtmZE,sign,3,PFALmbyUi5A,microphone,0.9309439659118652,False
+1NqEYBhtmZE,sign,4,raF-yOcZpkk,shaving blade,0.9127457141876221,False
+1NqEYBhtmZE,sign,5,2bDOqi4YXtI,paragraph,0.9040812253952026,False

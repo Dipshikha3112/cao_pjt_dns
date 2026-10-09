@@ -1,0 +1,19 @@
+{
+  "stage": "L30",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "pipeline": "webcam -> OpenVINO palm -> OpenVINO landmarks -> L26C OpenVINO BiGRU -> L27 NO_SIGN gate -> model-direct token sequence -> asynchronous TTS",
+  "critical_rule": "L26C model is authoritative for sign identity. L27 may only reject the prediction as NO_SIGN and cannot substitute another sign class.",
+  "artifacts": {
+    "token_events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l30_text_to_speech/reports/l30_token_events.json",
+    "speech_events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l30_text_to_speech/reports/l30_speech_events.json",
+    "final_text": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l30_text_to_speech/reports/l30_final_text.txt",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l30_text_to_speech/config/l30_config.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l30_text_to_speech/reports/l30_summary.json"
+  },
+  "integrity": {
+    "locked_test_used": false,
+    "training": false,
+    "retraining": false,
+    "videomae": false
+  }
+}

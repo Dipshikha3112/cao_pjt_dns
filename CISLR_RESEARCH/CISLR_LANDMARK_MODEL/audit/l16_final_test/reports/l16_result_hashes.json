@@ -1,0 +1,26 @@
+{
+  "predictions": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l16_final_test/reports/l16_final_test_predictions.csv",
+    "sha256": "180d56b4266b3ed4a4dd982a705b1ac3ebfa0731b45b6b9cb383c12fff5c3fff"
+  },
+  "scores": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l16_final_test/models/l16_final_test_scores.npz",
+    "sha256": "617bcb3e9f20bc92fa9182e39cc3323c390beada875314fb538334c83db77a90"
+  },
+  "comparison": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l16_final_test/reports/l16_test_model_comparison.csv",
+    "sha256": "0cf2193124ad26788cd5fc07bf4f8f17ff2feb1884a4742d3d308d16121c2fdf"
+  },
+  "confusion": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l16_final_test/reports/l16_confusion_matrix.csv",
+    "sha256": "64d0f4275babf136856aeec82a66a17e4d4297c0c4ccdca850b70f23027ef1ac"
+  },
+  "timing": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l16_final_test/reports/l16_timing.json",
+    "sha256": "d2a508b217158fd418c4b7d0b704b210ce569f0e3441a7e1320aa31c776c4c28"
+  },
+  "summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l16_final_test/reports/l16_final_test_summary.json",
+    "sha256": "12d2afaca503242da02510fc6242c53e691eab78b1c4d35eb2e411a84a41acbb"
+  }
+}

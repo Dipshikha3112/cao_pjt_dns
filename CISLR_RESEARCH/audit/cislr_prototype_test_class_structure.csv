@@ -1,0 +1,4765 @@
+gloss,dataset_video_count,prototype_video_count,test_video_count,class_type
+3g,1,1,0,prototype_only
+4g,1,1,0,prototype_only
+5g,1,1,0,prototype_only
+a line skirt,1,1,0,prototype_only
+a lot,1,1,0,prototype_only
+aam aadmi party,2,1,1,prototype_and_test
+abacus,1,1,0,prototype_only
+abbreviation,1,1,0,prototype_only
+abdicate,2,1,1,prototype_and_test
+abeyance,1,1,0,prototype_only
+able,1,1,0,prototype_only
+about,1,1,0,prototype_only
+above,1,1,0,prototype_only
+abrasive,1,1,0,prototype_only
+abrogate,1,1,0,prototype_only
+abscond,1,1,0,prototype_only
+absent,3,1,2,prototype_and_test
+absolve,1,1,0,prototype_only
+absorb,1,1,0,prototype_only
+absorption,1,1,0,prototype_only
+absorption of water,1,1,0,prototype_only
+abstention,1,1,0,prototype_only
+abstract,1,1,0,prototype_only
+abstract of account,1,1,0,prototype_only
+abusive language,2,1,1,prototype_and_test
+abuttal,1,1,0,prototype_only
+acacia fernesiana,1,1,0,prototype_only
+acacia modesta,1,1,0,prototype_only
+acceleration,1,1,0,prototype_only
+accept,2,1,1,prototype_and_test
+acceptance,1,1,0,prototype_only
+acceptance clean,1,1,0,prototype_only
+acceptance letter,1,1,0,prototype_only
+access,1,1,0,prototype_only
+accessories,1,1,0,prototype_only
+accident,2,1,1,prototype_and_test
+accommodation,1,1,0,prototype_only
+accompany,2,1,1,prototype_and_test
+accordion,1,1,0,prototype_only
+accordion pleats,1,1,0,prototype_only
+account,1,1,0,prototype_only
+account blocked,1,1,0,prototype_only
+account book,1,1,0,prototype_only
+account charges,1,1,0,prototype_only
+account closed,1,1,0,prototype_only
+account closing,1,1,0,prototype_only
+account commission,1,1,0,prototype_only
+account currency,1,1,0,prototype_only
+account current,1,1,0,prototype_only
+account day,1,1,0,prototype_only
+account discount,1,1,0,prototype_only
+account govemment,1,1,0,prototype_only
+account head,1,1,0,prototype_only
+account holder,1,1,0,prototype_only
+account inoperative,1,1,0,prototype_only
+account joint,1,1,0,prototype_only
+account margin,1,1,0,prototype_only
+account minor,1,1,0,prototype_only
+account payee only,1,1,0,prototype_only
+account profit and loss,1,1,0,prototype_only
+account rupee,1,1,0,prototype_only
+account suit filed,1,1,0,prototype_only
+account suspence,1,1,0,prototype_only
+accounts,1,1,0,prototype_only
+accumulated,1,1,0,prototype_only
+accurate,1,1,0,prototype_only
+accured,1,1,0,prototype_only
+accuse,1,1,0,prototype_only
+acknowledgement,1,1,0,prototype_only
+across,1,1,0,prototype_only
+acting,1,1,0,prototype_only
+action,3,1,2,prototype_and_test
+active,1,1,0,prototype_only
+actor,1,1,0,prototype_only
+actress,1,1,0,prototype_only
+actual,1,1,0,prototype_only
+actuary,1,1,0,prototype_only
+ad infinitum,1,1,0,prototype_only
+add,2,1,1,prototype_and_test
+addendum,1,1,0,prototype_only
+additional,1,1,0,prototype_only
+address,5,1,4,prototype_and_test
+adhesive,1,1,0,prototype_only
+adjudge,1,1,0,prototype_only
+adjustable screw,1,1,0,prototype_only
+adjustment,1,1,0,prototype_only
+admissible,1,1,0,prototype_only
+adobe acrobat reader,1,1,0,prototype_only
+adopt,1,1,0,prototype_only
+adoptive child,1,1,0,prototype_only
+adoptive parent,1,1,0,prototype_only
+adult,5,1,4,prototype_and_test
+advance,3,1,2,prototype_and_test
+advantage,2,1,1,prototype_and_test
+advantages of drainage,1,1,0,prototype_only
+advertisement,3,1,2,prototype_and_test
+advise,1,1,0,prototype_only
+advocate,1,1,0,prototype_only
+advocate general,1,1,0,prototype_only
+aeroplane,4,1,3,prototype_and_test
+aeroplane sprayer,1,1,0,prototype_only
+affidavit,1,1,0,prototype_only
+affirm,1,1,0,prototype_only
+afghanistan,1,1,0,prototype_only
+africa,3,1,2,prototype_and_test
+after,2,1,1,prototype_and_test
+afternoon,3,1,2,prototype_and_test
+again,2,1,1,prototype_and_test
+agave fillifera,1,1,0,prototype_only
+age,3,1,2,prototype_and_test
+agenda,2,1,1,prototype_and_test
+agra,3,1,2,prototype_and_test
+agree,2,1,1,prototype_and_test
+agreement,1,1,0,prototype_only
+agricultural robot,1,1,0,prototype_only
+agriculture,1,1,0,prototype_only
+ahemedabad,1,1,0,prototype_only
+ahmedabad,1,1,0,prototype_only
+air,5,1,4,prototype_and_test
+air conditioner,1,1,0,prototype_only
+air deccan,1,1,0,prototype_only
+air india,1,1,0,prototype_only
+air matress,3,1,2,prototype_and_test
+air pollution,2,1,1,prototype_and_test
+air vistara,1,1,0,prototype_only
+aircel,1,1,0,prototype_only
+airjet,1,1,0,prototype_only
+airmail,1,1,0,prototype_only
+airport,2,1,1,prototype_and_test
+airtel,1,1,0,prototype_only
+ajmer sharif dargah,1,1,0,prototype_only
+akshay kumar,1,1,0,prototype_only
+alarm,2,1,1,prototype_and_test
+alarm system,1,1,0,prototype_only
+albania,1,1,0,prototype_only
+alcohol,1,1,0,prototype_only
+algeria,1,1,0,prototype_only
+alive,3,1,2,prototype_and_test
+alkali soil,1,1,0,prototype_only
+all,1,1,0,prototype_only
+all india federation of the deaf,1,1,0,prototype_only
+all india foundation of deaf women,1,1,0,prototype_only
+all india trinamool congress,1,1,0,prototype_only
+allah,1,1,0,prototype_only
+allahabad bank,1,1,0,prototype_only
+allen key,1,1,0,prototype_only
+allergy,3,1,2,prototype_and_test
+allotment,1,1,0,prototype_only
+allow,4,1,3,prototype_and_test
+allowance,1,1,0,prototype_only
+alloy wheel,1,1,0,prototype_only
+ally,1,1,0,prototype_only
+alone,1,1,0,prototype_only
+alphabet,1,1,0,prototype_only
+already,2,1,1,prototype_and_test
+alternate current,2,1,1,prototype_and_test
+alternative,1,1,0,prototype_only
+altitude,1,1,0,prototype_only
+aluminium,2,1,1,prototype_and_test
+always,1,1,0,prototype_only
+amalgamation,1,1,0,prototype_only
+amazed,1,1,0,prototype_only
+amazon,4,1,3,prototype_and_test
+ambulance,1,1,0,prototype_only
+amendments,1,1,0,prototype_only
+ammeter,2,1,1,prototype_and_test
+among,1,1,0,prototype_only
+amount,3,1,2,prototype_and_test
+amplitude,1,1,0,prototype_only
+amritsar,3,1,2,prototype_and_test
+andhra pradesh,2,1,1,prototype_and_test
+angel,1,1,0,prototype_only
+angle,3,1,2,prototype_and_test
+angle of refraction,2,1,1,prototype_and_test
+angry,7,1,6,prototype_and_test
+angular velocity,1,1,0,prototype_only
+animals,4,1,3,prototype_and_test
+anklets,2,1,1,prototype_and_test
+anniversary,1,1,0,prototype_only
+announce,1,1,0,prototype_only
+annual,3,1,2,prototype_and_test
+annual for foliage beauty,1,1,0,prototype_only
+annual plants,1,1,0,prototype_only
+annual report,1,1,0,prototype_only
+anonymous,3,1,2,prototype_and_test
+anonymous complaint,1,1,0,prototype_only
+anorak,1,1,0,prototype_only
+another,1,1,0,prototype_only
+answer,1,1,0,prototype_only
+ant,6,1,5,prototype_and_test
+antartica,2,1,1,prototype_and_test
+anti corruption law,2,1,1,prototype_and_test
+anti virus,2,1,1,prototype_and_test
+anticlockwise,2,1,1,prototype_and_test
+anxious,1,1,0,prototype_only
+any,2,1,1,prototype_and_test
+apartment,1,1,0,prototype_only
+apex court,1,1,0,prototype_only
+apiculture bee keeping,1,1,0,prototype_only
+apiculturist,1,1,0,prototype_only
+app,1,1,0,prototype_only
+apparatus,1,1,0,prototype_only
+appear,1,1,0,prototype_only
+appearance,1,1,0,prototype_only
+applause,1,1,0,prototype_only
+apple,2,1,1,prototype_and_test
+appliances control,1,1,0,prototype_only
+applicant,2,1,1,prototype_and_test
+application,2,1,1,prototype_and_test
+applique,1,1,0,prototype_only
+appointment,3,1,2,prototype_and_test
+appreciation,1,1,0,prototype_only
+approach,1,1,0,prototype_only
+approval,1,1,0,prototype_only
+approve,2,1,1,prototype_and_test
+approximate,2,1,1,prototype_and_test
+april,3,1,2,prototype_and_test
+aquatic plants of various colour,1,1,0,prototype_only
+arc welding,1,1,0,prototype_only
+archaeologist,1,1,0,prototype_only
+archery,1,1,0,prototype_only
+architect,1,1,0,prototype_only
+area,5,1,4,prototype_and_test
+argentina,1,1,0,prototype_only
+argue,1,1,0,prototype_only
+arm,3,1,2,prototype_and_test
+arm hole,1,1,0,prototype_only
+armenia,1,1,0,prototype_only
+arms and amunitions,1,1,0,prototype_only
+army,1,1,0,prototype_only
+around,3,1,2,prototype_and_test
+arrears,1,1,0,prototype_only
+arrest,2,1,1,prototype_and_test
+arrogate,1,1,0,prototype_only
+art,2,1,1,prototype_and_test
+artesian well,1,1,0,prototype_only
+artificial,1,1,0,prototype_only
+arunachal pradesh,3,1,2,prototype_and_test
+asbestos,1,1,0,prototype_only
+asia,2,1,1,prototype_and_test
+ask,2,1,1,prototype_and_test
+asphalt concrete,1,1,0,prototype_only
+asphyxia,1,1,0,prototype_only
+aspiration,1,1,0,prototype_only
+assailant,1,1,0,prototype_only
+assam,3,1,2,prototype_and_test
+assam tea gardens,1,1,0,prototype_only
+assassination,2,1,1,prototype_and_test
+assault,1,1,0,prototype_only
+assembly,2,1,1,prototype_and_test
+assets,1,1,0,prototype_only
+assistant,1,1,0,prototype_only
+assistant professor,1,1,0,prototype_only
+associate professor,1,1,0,prototype_only
+association,2,1,1,prototype_and_test
+association of sign language interpreters,1,1,0,prototype_only
+assume,1,1,0,prototype_only
+asthma,1,1,0,prototype_only
+astigmatism,1,1,0,prototype_only
+astronaut,1,1,0,prototype_only
+astronomy,1,1,0,prototype_only
+asymmetrical design,1,1,0,prototype_only
+asystole,1,1,0,prototype_only
+at,1,1,0,prototype_only
+athlete's foot,1,1,0,prototype_only
+atm,1,1,0,prototype_only
+atmosphere,1,1,0,prototype_only
+atom,1,1,0,prototype_only
+attachment of property,1,1,0,prototype_only
+attendance record,1,1,0,prototype_only
+attendant,1,1,0,prototype_only
+attitude,2,1,1,prototype_and_test
+attorney,1,1,0,prototype_only
+attorney general,1,1,0,prototype_only
+attraction,1,1,0,prototype_only
+attractive force,1,1,0,prototype_only
+audi,1,1,0,prototype_only
+audience,1,1,0,prototype_only
+audio frequency,1,1,0,prototype_only
+audiologist,1,1,0,prototype_only
+audit,1,1,0,prototype_only
+auditorium,1,1,0,prototype_only
+auger,1,1,0,prototype_only
+august,7,1,6,prototype_and_test
+aunt,1,1,0,prototype_only
+australia,4,1,3,prototype_and_test
+austria,1,1,0,prototype_only
+authorisation,1,1,0,prototype_only
+authorised signature,1,1,0,prototype_only
+autocracy,2,1,1,prototype_and_test
+automatic,2,1,1,prototype_and_test
+automation,1,1,0,prototype_only
+automobiles,1,1,0,prototype_only
+autumn,1,1,0,prototype_only
+available,1,1,0,prototype_only
+avalanche,1,1,0,prototype_only
+average,2,1,1,prototype_and_test
+avoid,1,1,0,prototype_only
+away,1,1,0,prototype_only
+axe,2,1,1,prototype_and_test
+baby,2,1,1,prototype_and_test
+back,3,1,2,prototype_and_test
+back date,1,1,0,prototype_only
+backache,1,1,0,prototype_only
+backdate,2,1,1,prototype_and_test
+backdoor,1,1,0,prototype_only
+background,1,1,0,prototype_only
+backup,1,1,0,prototype_only
+backyard system of poultry,1,1,0,prototype_only
+bacteria,1,1,0,prototype_only
+bacterial diseases animals,1,1,0,prototype_only
+bad,6,1,5,prototype_and_test
+bad conductor,1,1,0,prototype_only
+bad debts,1,1,0,prototype_only
+bad language,2,1,1,prototype_and_test
+badminton,1,1,0,prototype_only
+bag,2,1,1,prototype_and_test
+bail,1,1,0,prototype_only
+bajaj bike,1,1,0,prototype_only
+bake,2,1,1,prototype_and_test
+balance,2,1,1,prototype_and_test
+balance closing,1,1,0,prototype_only
+balance opening,1,1,0,prototype_only
+balance outstanding,1,1,0,prototype_only
+balance sheet,1,1,0,prototype_only
+balcony,2,1,1,prototype_and_test
+balcony garden,1,1,0,prototype_only
+baldness,1,1,0,prototype_only
+ball,2,1,1,prototype_and_test
+ball bearing,1,1,0,prototype_only
+ball cricket,1,1,0,prototype_only
+ball pein hammer,1,1,0,prototype_only
+ball point needle,1,1,0,prototype_only
+ball room,1,1,0,prototype_only
+ballast device,1,1,0,prototype_only
+ballon pump,1,1,0,prototype_only
+balloon,3,1,2,prototype_and_test
+balmacaan,1,1,0,prototype_only
+baluster,1,1,0,prototype_only
+bamboo,1,1,0,prototype_only
+ban,2,1,1,prototype_and_test
+banana,2,1,1,prototype_and_test
+banana tree,1,1,0,prototype_only
+banaras,1,1,0,prototype_only
+band collar,1,1,0,prototype_only
+band-aid,1,1,0,prototype_only
+bandage,1,1,0,prototype_only
+bandh,1,1,0,prototype_only
+bandit munger,1,1,0,prototype_only
+bandra to worli sea link,1,1,0,prototype_only
+bangalore,1,1,0,prototype_only
+bangladesh,1,1,0,prototype_only
+bangles,2,1,1,prototype_and_test
+banian,2,1,1,prototype_and_test
+bank,1,1,0,prototype_only
+bank account number,1,1,0,prototype_only
+bank branch address,1,1,0,prototype_only
+bank branch code,1,1,0,prototype_only
+bank branch name,1,1,0,prototype_only
+bank nationalised,1,1,0,prototype_only
+bank of baroda,1,1,0,prototype_only
+bank of maharashtra,1,1,0,prototype_only
+banker,1,1,0,prototype_only
+banner,2,1,1,prototype_and_test
+bar,1,1,0,prototype_only
+bar megnet,1,1,0,prototype_only
+barber,2,1,1,prototype_and_test
+bark,2,1,1,prototype_and_test
+barleria cristata,1,1,0,prototype_only
+barricade,1,1,0,prototype_only
+baseball,1,1,0,prototype_only
+baseball jacket,1,1,0,prototype_only
+basic,1,1,0,prototype_only
+basic pay,1,1,0,prototype_only
+basics,1,1,0,prototype_only
+basil,1,1,0,prototype_only
+basket of currencies,1,1,0,prototype_only
+basketball,1,1,0,prototype_only
+bat,1,1,0,prototype_only
+bath,3,1,2,prototype_and_test
+bath tub,1,1,0,prototype_only
+bathroom,3,1,2,prototype_and_test
+batman,1,1,0,prototype_only
+baton,1,1,0,prototype_only
+battered child syndrome,2,1,1,prototype_and_test
+battery,2,1,1,prototype_and_test
+bauhinia accuminata,1,1,0,prototype_only
+beading needles,1,1,0,prototype_only
+beak,2,1,1,prototype_and_test
+beaker,1,1,0,prototype_only
+beam,1,1,0,prototype_only
+beans,1,1,0,prototype_only
+bear,2,1,1,prototype_and_test
+bearer,1,1,0,prototype_only
+beat,1,1,0,prototype_only
+beautiful,3,1,2,prototype_and_test
+become,1,1,0,prototype_only
+bed,2,1,1,prototype_and_test
+bedroom,3,1,2,prototype_and_test
+bedsheet,2,1,1,prototype_and_test
+beer,2,1,1,prototype_and_test
+beetroot,1,1,0,prototype_only
+before,3,1,2,prototype_and_test
+begin,1,1,0,prototype_only
+behind,4,1,3,prototype_and_test
+belgium,1,1,0,prototype_only
+belief,2,1,1,prototype_and_test
+believe,1,1,0,prototype_only
+bell,5,1,4,prototype_and_test
+bell sleeve,1,1,0,prototype_only
+bellboy jacket,1,1,0,prototype_only
+below,2,1,1,prototype_and_test
+belt,3,1,2,prototype_and_test
+belt loops,1,1,0,prototype_only
+bench,1,1,0,prototype_only
+bench mark,1,1,0,prototype_only
+bend,1,1,0,prototype_only
+benefit,1,1,0,prototype_only
+bengali,2,1,1,prototype_and_test
+benign,1,1,0,prototype_only
+berth,1,1,0,prototype_only
+bertha,1,1,0,prototype_only
+besom pocket,1,1,0,prototype_only
+best,3,1,2,prototype_and_test
+bestiality,1,1,0,prototype_only
+better,1,1,0,prototype_only
+between,1,1,0,prototype_only
+beverages,1,1,0,prototype_only
+bhangada,1,1,0,prototype_only
+bharatiya janata party,4,1,3,prototype_and_test
+bhopal,1,1,0,prototype_only
+bhubaneswar,1,1,0,prototype_only
+bias cowl dress,1,1,0,prototype_only
+biased,2,1,1,prototype_and_test
+bib,1,1,0,prototype_only
+bible,1,1,0,prototype_only
+biconcave lens,1,1,0,prototype_only
+biconvex lens,1,1,0,prototype_only
+bicycle shorts,1,1,0,prototype_only
+big,2,1,1,prototype_and_test
+bigamy,1,1,0,prototype_only
+bihar,2,1,1,prototype_and_test
+bike oil filter,1,1,0,prototype_only
+bike silencer pipe,1,1,0,prototype_only
+bike suspension,2,1,1,prototype_and_test
+bile duct cancer,1,1,0,prototype_only
+bilingual,1,1,0,prototype_only
+bill,7,1,6,prototype_and_test
+bill of exchange,1,1,0,prototype_only
+bills purchased,1,1,0,prototype_only
+bimetallic,1,1,0,prototype_only
+binary,1,1,0,prototype_only
+bindi,1,1,0,prototype_only
+bio energy,1,1,0,prototype_only
+biomass,1,1,0,prototype_only
+bipedal robot,1,1,0,prototype_only
+bird,1,1,0,prototype_only
+birds,2,1,1,prototype_and_test
+birth,2,1,1,prototype_and_test
+birth defect,1,1,0,prototype_only
+birthday,2,1,1,prototype_and_test
+biscuit,2,1,1,prototype_and_test
+bishop sleeve,1,1,0,prototype_only
+bite,3,1,2,prototype_and_test
+bitter,1,1,0,prototype_only
+bitter gourd,1,1,0,prototype_only
+bjp,1,1,0,prototype_only
+black,4,1,3,prototype_and_test
+black board,1,1,0,prototype_only
+black market,1,1,0,prototype_only
+blackberry,1,1,0,prototype_only
+blackboard duster,2,1,1,prototype_and_test
+bladder cancer,1,1,0,prototype_only
+blame,1,1,0,prototype_only
+bleeding disorders,1,1,0,prototype_only
+bless,1,1,0,prototype_only
+blight,1,1,0,prototype_only
+blind,1,1,0,prototype_only
+blind stitch,1,1,0,prototype_only
+blindness and low vision,1,1,0,prototype_only
+blocks,1,1,0,prototype_only
+blood,2,1,1,prototype_and_test
+blood pressure,4,1,3,prototype_and_test
+blouse,5,1,4,prototype_and_test
+blow,1,1,0,prototype_only
+blue,4,1,3,prototype_and_test
+blue flowered plants,1,1,0,prototype_only
+bluetooth,2,1,1,prototype_and_test
+blurring,1,1,0,prototype_only
+bmw,1,1,0,prototype_only
+boat,1,1,0,prototype_only
+bobbinet,1,1,0,prototype_only
+bodice,1,1,0,prototype_only
+body,3,1,2,prototype_and_test
+body pain,1,1,0,prototype_only
+body parts,1,1,0,prototype_only
+body piercing,1,1,0,prototype_only
+bogie,1,1,0,prototype_only
+boil,2,1,1,prototype_and_test
+bold,3,1,2,prototype_and_test
+bolero jacket,1,1,0,prototype_only
+bolling point,1,1,0,prototype_only
+bolt,2,1,1,prototype_and_test
+bonafide,1,1,0,prototype_only
+bond,1,1,0,prototype_only
+bone,3,1,2,prototype_and_test
+bone cancer osteosarcoma and malignant fibrous histiocytoma,1,1,0,prototype_only
+bonus,2,1,1,prototype_and_test
+book,2,1,1,prototype_and_test
+bookshelf,1,1,0,prototype_only
+boolean,1,1,0,prototype_only
+bored,1,1,0,prototype_only
+boring,1,1,0,prototype_only
+boring machine,1,1,0,prototype_only
+born,1,1,0,prototype_only
+borrow,1,1,0,prototype_only
+borrower,1,1,0,prototype_only
+bosnia-herzegovina,1,1,0,prototype_only
+boss,1,1,0,prototype_only
+bottle,2,1,1,prototype_and_test
+bow tie,1,1,0,prototype_only
+bowl,4,1,3,prototype_and_test
+bowled out,1,1,0,prototype_only
+bowler,1,1,0,prototype_only
+box,1,1,0,prototype_only
+box pleats,1,1,0,prototype_only
+boxing,2,1,1,prototype_and_test
+boy,2,1,1,prototype_and_test
+boyfriend,1,1,0,prototype_only
+brahma,1,1,0,prototype_only
+brain,6,1,5,prototype_and_test
+brain injury,1,1,0,prototype_only
+brain stem glioma,1,1,0,prototype_only
+brain tumor  inside,1,1,0,prototype_only
+branch,2,1,1,prototype_and_test
+brandishing of a weapon,1,1,0,prototype_only
+brass,2,1,1,prototype_and_test
+brave,1,1,0,prototype_only
+brazil,1,1,0,prototype_only
+bread,3,1,2,prototype_and_test
+bread board,1,1,0,prototype_only
+break,1,1,0,prototype_only
+breakfast,1,1,0,prototype_only
+breast cancer,1,1,0,prototype_only
+breathalyzer test,1,1,0,prototype_only
+breathe,2,1,1,prototype_and_test
+breeds of poultry,1,1,0,prototype_only
+brick,2,1,1,prototype_and_test
+brick masonry,1,1,0,prototype_only
+bride,1,1,0,prototype_only
+bridegroom,1,1,0,prototype_only
+bridge,1,1,0,prototype_only
+briefcase,1,1,0,prototype_only
+bright,2,1,1,prototype_and_test
+bring,1,1,0,prototype_only
+brinjal,1,1,0,prototype_only
+brittle,1,1,0,prototype_only
+brochure,1,1,0,prototype_only
+brokerage,1,1,0,prototype_only
+bronchial tumors,1,1,0,prototype_only
+broom,1,1,0,prototype_only
+brothel,1,1,0,prototype_only
+brother,4,1,3,prototype_and_test
+brown,4,1,3,prototype_and_test
+brown sport of rice,1,1,0,prototype_only
+browse,1,1,0,prototype_only
+brush,1,1,0,prototype_only
+bsnl,1,1,0,prototype_only
+bsp,1,1,0,prototype_only
+bucket,3,1,2,prototype_and_test
+buckle,1,1,0,prototype_only
+bud,2,1,1,prototype_and_test
+buddah,1,1,0,prototype_only
+buddha purnima,2,1,1,prototype_and_test
+buddhism,1,1,0,prototype_only
+buddhist,1,1,0,prototype_only
+budget,1,1,0,prototype_only
+buffalo,5,1,4,prototype_and_test
+buffet,1,1,0,prototype_only
+bug,2,1,1,prototype_and_test
+bugle,1,1,0,prototype_only
+build,2,1,1,prototype_and_test
+builder,1,1,0,prototype_only
+building structure,1,1,0,prototype_only
+bulb,3,1,2,prototype_and_test
+bull,1,1,0,prototype_only
+bullet train,1,1,0,prototype_only
+bullock cart,1,1,0,prototype_only
+bully calf,1,1,0,prototype_only
+bump cutter,1,1,0,prototype_only
+burden,1,1,0,prototype_only
+burger,1,1,0,prototype_only
+burglar,1,1,0,prototype_only
+burn,1,1,0,prototype_only
+burundi,1,1,0,prototype_only
+bury,3,1,2,prototype_and_test
+bus,3,1,2,prototype_and_test
+bus conductor,2,1,1,prototype_and_test
+bus stand,1,1,0,prototype_only
+bushes,1,1,0,prototype_only
+business,3,1,2,prototype_and_test
+busy,3,1,2,prototype_and_test
+butter,2,1,1,prototype_and_test
+butterfly,2,1,1,prototype_and_test
+button down,1,1,0,prototype_only
+button hole,1,1,0,prototype_only
+button loop,1,1,0,prototype_only
+button placket,1,1,0,prototype_only
+buy,1,1,0,prototype_only
+buyer,1,1,0,prototype_only
+cabbage,2,1,1,prototype_and_test
+caftan,1,1,0,prototype_only
+cage,1,1,0,prototype_only
+cajanus inducus,1,1,0,prototype_only
+cake,1,1,0,prototype_only
+calculation,2,1,1,prototype_and_test
+calculator,5,1,4,prototype_and_test
+calcutta,1,1,0,prototype_only
+calendar,3,1,2,prototype_and_test
+calendar year,1,1,0,prototype_only
+call,4,1,3,prototype_and_test
+call deposit,1,1,0,prototype_only
+call money,1,1,0,prototype_only
+calm,2,1,1,prototype_and_test
+calorie,1,1,0,prototype_only
+calorimeter,1,1,0,prototype_only
+cam,2,1,1,prototype_and_test
+cambodia,1,1,0,prototype_only
+camel,3,1,2,prototype_and_test
+camera,1,1,0,prototype_only
+camouflage,1,1,0,prototype_only
+can,4,1,3,prototype_and_test
+canada,1,1,0,prototype_only
+canara bank,1,1,0,prototype_only
+cancel,2,1,1,prototype_and_test
+cancer,2,1,1,prototype_and_test
+candle,3,1,2,prototype_and_test
+canteen,1,1,0,prototype_only
+cap,3,1,2,prototype_and_test
+capable,1,1,0,prototype_only
+capacitor,2,1,1,prototype_and_test
+capacity,1,1,0,prototype_only
+capillary tube,1,1,0,prototype_only
+capital,5,1,4,prototype_and_test
+capital punishment,1,1,0,prototype_only
+capsicum,2,1,1,prototype_and_test
+car,2,1,1,prototype_and_test
+carburetor,1,1,0,prototype_only
+carcinoid tumor,1,1,0,prototype_only
+card,1,1,0,prototype_only
+careful,3,1,2,prototype_and_test
+cargo  pocket,1,1,0,prototype_only
+carnivorus fishes,1,1,0,prototype_only
+carpenter,4,1,3,prototype_and_test
+carpet,1,1,0,prototype_only
+carrom,2,1,1,prototype_and_test
+carrot,2,1,1,prototype_and_test
+carry,1,1,0,prototype_only
+carry on,1,1,0,prototype_only
+cartidge,1,1,0,prototype_only
+cartoon,2,1,1,prototype_and_test
+cash,2,1,1,prototype_and_test
+cash book,1,1,0,prototype_only
+cash certificates,1,1,0,prototype_only
+cash credit,1,1,0,prototype_only
+cash credit key,1,1,0,prototype_only
+cash receipt,1,1,0,prototype_only
+cash remmitance,1,1,0,prototype_only
+cashier,1,1,0,prototype_only
+casio,1,1,0,prototype_only
+cassette,1,1,0,prototype_only
+cat,6,1,5,prototype_and_test
+catalogue,1,1,0,prototype_only
+cataract,1,1,0,prototype_only
+catch,3,1,2,prototype_and_test
+catch  stitch,1,1,0,prototype_only
+category,1,1,0,prototype_only
+cauliflower,1,1,0,prototype_only
+cause of action,1,1,0,prototype_only
+cave,3,1,2,prototype_and_test
+cd,1,1,0,prototype_only
+ceiling,1,1,0,prototype_only
+celebrate,1,1,0,prototype_only
+cell,2,1,1,prototype_and_test
+celsius,1,1,0,prototype_only
+cement,1,1,0,prototype_only
+cement mortar,1,1,0,prototype_only
+center,1,1,0,prototype_only
+center  back,1,1,0,prototype_only
+centigram,1,1,0,prototype_only
+centimeter,1,1,0,prototype_only
+centimetre,1,1,0,prototype_only
+central processing unit,1,1,0,prototype_only
+centre  front,1,1,0,prototype_only
+centre of curvature,1,1,0,prototype_only
+centrifugal,1,1,0,prototype_only
+centripetal,1,1,0,prototype_only
+century,1,1,0,prototype_only
+cereal disease,1,1,0,prototype_only
+cerebral palsy,1,1,0,prototype_only
+certificate,2,1,1,prototype_and_test
+cervical cancer,1,1,0,prototype_only
+chain drive,1,1,0,prototype_only
+chain reaction,1,1,0,prototype_only
+chain surveying,1,1,0,prototype_only
+chair,2,1,1,prototype_and_test
+chalk,3,1,2,prototype_and_test
+chamber,1,1,0,prototype_only
+chamfering,1,1,0,prototype_only
+chandigarh,2,1,1,prototype_and_test
+change,3,1,2,prototype_and_test
+change in state,1,1,0,prototype_only
+change in temperature,1,1,0,prototype_only
+change of venue,1,1,0,prototype_only
+chapathi,1,1,0,prototype_only
+chappels,4,1,3,prototype_and_test
+chapter,1,1,0,prototype_only
+charge,1,1,0,prototype_only
+charge sheet,1,1,0,prototype_only
+chart,2,1,1,prototype_and_test
+chat,2,1,1,prototype_and_test
+cheap,2,1,1,prototype_and_test
+cheat,2,1,1,prototype_and_test
+chef,1,1,0,prototype_only
+chemical energy,1,1,0,prototype_only
+chemistry,1,1,0,prototype_only
+chennai,4,1,3,prototype_and_test
+cheque,4,1,3,prototype_and_test
+cheque crossed,1,1,0,prototype_only
+cheque drop box,1,1,0,prototype_only
+cheque endorsement,1,1,0,prototype_only
+cheque gift,1,1,0,prototype_only
+cheque mutilated,1,1,0,prototype_only
+cheque postdated,1,1,0,prototype_only
+cheque stale,1,1,0,prototype_only
+cheque travellers,1,1,0,prototype_only
+cherry,1,1,0,prototype_only
+chess,1,1,0,prototype_only
+chest,2,1,1,prototype_and_test
+chesterfield  coat,1,1,0,prototype_only
+chew,2,1,1,prototype_and_test
+chhattisgarh,1,1,0,prototype_only
+chicken mesh,1,1,0,prototype_only
+chickenpox,1,1,0,prototype_only
+chickoo,1,1,0,prototype_only
+chickpea,1,1,0,prototype_only
+chicks,1,1,0,prototype_only
+chief,1,1,0,prototype_only
+chief justice,1,1,0,prototype_only
+chief minister,2,1,1,prototype_and_test
+chikoo,1,1,0,prototype_only
+child,1,1,0,prototype_only
+child abuse,1,1,0,prototype_only
+child prostitution,1,1,0,prototype_only
+children,1,1,0,prototype_only
+chile,1,1,0,prototype_only
+chilli,1,1,0,prototype_only
+chimney,1,1,0,prototype_only
+china,3,1,2,prototype_and_test
+chipping,1,1,0,prototype_only
+chocolate,1,1,0,prototype_only
+choking,1,1,0,prototype_only
+cholera,4,1,3,prototype_and_test
+christian,2,1,1,prototype_and_test
+christianity,1,1,0,prototype_only
+christmas,8,1,7,prototype_and_test
+chronic illness,1,1,0,prototype_only
+church,1,1,0,prototype_only
+cif number,1,1,0,prototype_only
+cinema,3,1,2,prototype_and_test
+circle,3,1,2,prototype_and_test
+circuit,1,1,0,prototype_only
+circuit breaker,1,1,0,prototype_only
+circular motion,1,1,0,prototype_only
+circus,1,1,0,prototype_only
+citrus vulgaris,1,1,0,prototype_only
+city,3,1,2,prototype_and_test
+civil engineering,1,1,0,prototype_only
+cl,1,1,0,prototype_only
+claim,1,1,0,prototype_only
+clap,1,1,0,prototype_only
+class room,1,1,0,prototype_only
+classification,1,1,0,prototype_only
+classification according to parts used for crop,1,1,0,prototype_only
+classification based on season,1,1,0,prototype_only
+classification based on the transplanting capacity,1,1,0,prototype_only
+classification of fungus,1,1,0,prototype_only
+classification of hedges,1,1,0,prototype_only
+classification of poultry diseases,1,1,0,prototype_only
+classification of poultry feeds,1,1,0,prototype_only
+classification of shrubs,1,1,0,prototype_only
+classification of vegetables,1,1,0,prototype_only
+clauses,1,1,0,prototype_only
+claw hammer,1,1,0,prototype_only
+clean,2,1,1,prototype_and_test
+clean bill,1,1,0,prototype_only
+clear,2,1,1,prototype_and_test
+clearing house,1,1,0,prototype_only
+clerk,2,1,1,prototype_and_test
+clever,5,1,4,prototype_and_test
+client,1,1,0,prototype_only
+climb,1,1,0,prototype_only
+climb down,1,1,0,prototype_only
+climb up,1,1,0,prototype_only
+clinical thermometer,1,1,0,prototype_only
+clock,3,1,2,prototype_and_test
+clockwise,1,1,0,prototype_only
+close,3,1,2,prototype_and_test
+close friend,1,1,0,prototype_only
+close relation,1,1,0,prototype_only
+close up,1,1,0,prototype_only
+cloth,2,1,1,prototype_and_test
+clouds,1,1,0,prototype_only
+cloudy,1,1,0,prototype_only
+clown,2,1,1,prototype_and_test
+club,2,1,1,prototype_and_test
+clumsy,1,1,0,prototype_only
+clutch lever,1,1,0,prototype_only
+cng stone carving machine,1,1,0,prototype_only
+co accused,1,1,0,prototype_only
+coach,1,1,0,prototype_only
+coal,2,1,1,prototype_and_test
+coarse aggregate,1,1,0,prototype_only
+coat,3,1,2,prototype_and_test
+coat  dress,1,1,0,prototype_only
+cobbler,3,1,2,prototype_and_test
+coccidiosis,1,1,0,prototype_only
+cochin,1,1,0,prototype_only
+cock,3,1,2,prototype_and_test
+cock erels,1,1,0,prototype_only
+cockroach,3,1,2,prototype_and_test
+coconut,4,1,3,prototype_and_test
+coffee,1,1,0,prototype_only
+coffee rust,1,1,0,prototype_only
+coherent,1,1,0,prototype_only
+cohesive,1,1,0,prototype_only
+coimbatore,2,1,1,prototype_and_test
+coin,2,1,1,prototype_and_test
+cold,5,1,4,prototype_and_test
+cold drink,1,1,0,prototype_only
+college,2,1,1,prototype_and_test
+colllsion,1,1,0,prototype_only
+colombia,1,1,0,prototype_only
+colour,2,1,1,prototype_and_test
+colour filter,1,1,0,prototype_only
+colour palette,2,1,1,prototype_and_test
+coloured follage shrubs,1,1,0,prototype_only
+column,1,1,0,prototype_only
+comb,3,1,2,prototype_and_test
+come,3,1,2,prototype_and_test
+comfortable,3,1,2,prototype_and_test
+commerce,1,1,0,prototype_only
+commercial building,1,1,0,prototype_only
+commercial vegetable gardening,1,1,0,prototype_only
+committee,1,1,0,prototype_only
+common,2,1,1,prototype_and_test
+common cold,1,1,0,prototype_only
+communicate,2,1,1,prototype_and_test
+communication,1,1,0,prototype_only
+community,1,1,0,prototype_only
+compact disc,1,1,0,prototype_only
+compaction,1,1,0,prototype_only
+company,2,1,1,prototype_and_test
+company joint stock,1,1,0,prototype_only
+company partnership,1,1,0,prototype_only
+company secretary,1,1,0,prototype_only
+compare,2,1,1,prototype_and_test
+compass,2,1,1,prototype_and_test
+compass surveying,1,1,0,prototype_only
+compate,1,1,0,prototype_only
+competition,2,1,1,prototype_and_test
+complain,2,1,1,prototype_and_test
+complainant and complaint,1,1,0,prototype_only
+complaint,1,1,0,prototype_only
+complete,1,1,0,prototype_only
+compositing,1,1,0,prototype_only
+composition of milk,1,1,0,prototype_only
+compound interest,1,1,0,prototype_only
+compound microscope,1,1,0,prototype_only
+compression,1,1,0,prototype_only
+compromise,1,1,0,prototype_only
+compulsory,1,1,0,prototype_only
+computer,2,1,1,prototype_and_test
+computerisation,1,1,0,prototype_only
+computing,1,1,0,prototype_only
+concave,1,1,0,prototype_only
+concave lens,1,1,0,prototype_only
+concave mirror,1,1,0,prototype_only
+concealment of identity,1,1,0,prototype_only
+concentrate,2,1,1,prototype_and_test
+concept,1,1,0,prototype_only
+concession,1,1,0,prototype_only
+conciliation,1,1,0,prototype_only
+conclude,1,1,0,prototype_only
+concrete,2,1,1,prototype_and_test
+concrete mixture,1,1,0,prototype_only
+concurrent,1,1,0,prototype_only
+condition,1,1,0,prototype_only
+condom,1,1,0,prototype_only
+conductor,1,1,0,prototype_only
+cone,3,1,2,prototype_and_test
+conference,3,1,2,prototype_and_test
+confess,1,1,0,prototype_only
+confession,1,1,0,prototype_only
+confidence,1,1,0,prototype_only
+confident,2,1,1,prototype_and_test
+confidential report,1,1,0,prototype_only
+confirm,2,1,1,prototype_and_test
+confirmed member,1,1,0,prototype_only
+confused,2,1,1,prototype_and_test
+congratulations,1,1,0,prototype_only
+connect,1,1,0,prototype_only
+consent,1,1,0,prototype_only
+conservation,1,1,0,prototype_only
+constitutional rights,1,1,0,prototype_only
+construction,1,1,0,prototype_only
+construction contract,1,1,0,prototype_only
+consultant,1,1,0,prototype_only
+contest,1,1,0,prototype_only
+continent,1,1,0,prototype_only
+continue,1,1,0,prototype_only
+contraction,1,1,0,prototype_only
+contractual,1,1,0,prototype_only
+control,2,1,1,prototype_and_test
+conversion,1,1,0,prototype_only
+convertible  collar,1,1,0,prototype_only
+convex,1,1,0,prototype_only
+convex lens,1,1,0,prototype_only
+convex mirror,1,1,0,prototype_only
+conveyance allowance,1,1,0,prototype_only
+cook,3,1,2,prototype_and_test
+cooker,1,1,0,prototype_only
+coolie,1,1,0,prototype_only
+cooling sheet,1,1,0,prototype_only
+cooperate,1,1,0,prototype_only
+coordinate,1,1,0,prototype_only
+cop,1,1,0,prototype_only
+copper,2,1,1,prototype_and_test
+copper wire,1,1,0,prototype_only
+copy,3,1,2,prototype_and_test
+copy and paste,1,1,0,prototype_only
+corel draw,1,1,0,prototype_only
+corn,3,1,2,prototype_and_test
+corporation bank,1,1,0,prototype_only
+corresponding branch,1,1,0,prototype_only
+corruption,2,1,1,prototype_and_test
+cosmetics,2,1,1,prototype_and_test
+costa rica,1,1,0,prototype_only
+cotter ring,1,1,0,prototype_only
+cough,3,1,2,prototype_and_test
+counsel,1,1,0,prototype_only
+count,1,1,0,prototype_only
+counter,1,1,0,prototype_only
+counter sinking,1,1,0,prototype_only
+country,2,1,1,prototype_and_test
+courier,2,1,1,prototype_and_test
+court,1,1,0,prototype_only
+court hall,1,1,0,prototype_only
+cover,2,1,1,prototype_and_test
+cow,2,1,1,prototype_and_test
+cowl  sleeve,1,1,0,prototype_only
+cpi,1,1,0,prototype_only
+crawler loader,1,1,0,prototype_only
+crayons,2,1,1,prototype_and_test
+cream,3,1,2,prototype_and_test
+crease,1,1,0,prototype_only
+created,1,1,0,prototype_only
+credit,1,1,0,prototype_only
+credit purchase,1,1,0,prototype_only
+credit sale,1,1,0,prototype_only
+credit voucher,1,1,0,prototype_only
+creeper,2,1,1,prototype_and_test
+cremate,2,1,1,prototype_and_test
+cricket,1,1,0,prototype_only
+crime,1,1,0,prototype_only
+crime scene,1,1,0,prototype_only
+criminal court,1,1,0,prototype_only
+criticize,1,1,0,prototype_only
+croatia,1,1,0,prototype_only
+crocodile,2,1,1,prototype_and_test
+cropping tool,1,1,0,prototype_only
+crops,1,1,0,prototype_only
+cross,1,1,0,prototype_only
+cross belt drive,1,1,0,prototype_only
+crossing,1,1,0,prototype_only
+crow,1,1,0,prototype_only
+crow bar,1,1,0,prototype_only
+crown,1,1,0,prototype_only
+cry,1,1,0,prototype_only
+cucumber,1,1,0,prototype_only
+cuffs,1,1,0,prototype_only
+culottes,1,1,0,prototype_only
+cultivators,1,1,0,prototype_only
+cummerband,1,1,0,prototype_only
+cunning,2,1,1,prototype_and_test
+cup,1,1,0,prototype_only
+cupboard,2,1,1,prototype_and_test
+curd,1,1,0,prototype_only
+curds,2,1,1,prototype_and_test
+cure,2,1,1,prototype_and_test
+curing,1,1,0,prototype_only
+currency chest,1,1,0,prototype_only
+current,1,1,0,prototype_only
+curry,1,1,0,prototype_only
+curtain,2,1,1,prototype_and_test
+curvature,1,1,0,prototype_only
+curved,1,1,0,prototype_only
+custard apple,1,1,0,prototype_only
+custody,1,1,0,prototype_only
+customer service,1,1,0,prototype_only
+cut,3,1,2,prototype_and_test
+cut  line,1,1,0,prototype_only
+cute,1,1,0,prototype_only
+cutlery,1,1,0,prototype_only
+cutout,1,1,0,prototype_only
+cycle,2,1,1,prototype_and_test
+cycling,1,1,0,prototype_only
+cylinder,3,1,2,prototype_and_test
+cyprus,1,1,0,prototype_only
+czech republic,1,1,0,prototype_only
+daily list,1,1,0,prototype_only
+dairy farm record,1,1,0,prototype_only
+dairy science,1,1,0,prototype_only
+daisychaining,1,1,0,prototype_only
+dam,1,1,0,prototype_only
+damp proofing material,1,1,0,prototype_only
+dangerous,1,1,0,prototype_only
+darts munger,1,1,0,prototype_only
+dasara,2,1,1,prototype_and_test
+dash,1,1,0,prototype_only
+date,7,1,6,prototype_and_test
+date of retirement,1,1,0,prototype_only
+daughter,2,1,1,prototype_and_test
+day,5,1,4,prototype_and_test
+day after,3,1,2,prototype_and_test
+day before,2,1,1,prototype_and_test
+day book,1,1,0,prototype_only
+days after tomorrow,1,1,0,prototype_only
+days before,1,1,0,prototype_only
+deadline,3,1,2,prototype_and_test
+deadly weapon,1,1,0,prototype_only
+deaf,2,1,1,prototype_and_test
+deafness,1,1,0,prototype_only
+deal,1,1,0,prototype_only
+death certificate,1,1,0,prototype_only
+death in service,1,1,0,prototype_only
+death row,1,1,0,prototype_only
+debate,1,1,0,prototype_only
+debit advice,1,1,0,prototype_only
+debit card,2,1,1,prototype_and_test
+debt,1,1,0,prototype_only
+debt doubtful,1,1,0,prototype_only
+debug,1,1,0,prototype_only
+decade,1,1,0,prototype_only
+deceased,1,1,0,prototype_only
+deceive,1,1,0,prototype_only
+december,3,1,2,prototype_and_test
+decide,3,1,2,prototype_and_test
+decimal,1,1,0,prototype_only
+declaration,1,1,0,prototype_only
+decline,1,1,0,prototype_only
+decrease,3,1,2,prototype_and_test
+deed of sale,1,1,0,prototype_only
+deep rooted,1,1,0,prototype_only
+deepika padukone,1,1,0,prototype_only
+deer,4,1,3,prototype_and_test
+default,1,1,0,prototype_only
+defend,1,1,0,prototype_only
+defraud,1,1,0,prototype_only
+degree,3,1,2,prototype_and_test
+dehradun,1,1,0,prototype_only
+delegate,2,1,1,prototype_and_test
+delegate west bengal,1,1,0,prototype_only
+delegation,1,1,0,prototype_only
+delete,1,1,0,prototype_only
+delhi,2,1,1,prototype_and_test
+delicious,1,1,0,prototype_only
+delivery,1,1,0,prototype_only
+demand,1,1,0,prototype_only
+demand draft,2,1,1,prototype_and_test
+demarcation west bengal,1,1,0,prototype_only
+demolishing,1,1,0,prototype_only
+dengue,1,1,0,prototype_only
+denmark,1,1,0,prototype_only
+denomination,1,1,0,prototype_only
+density,1,1,0,prototype_only
+department,1,1,0,prototype_only
+deploy,1,1,0,prototype_only
+deposit,1,1,0,prototype_only
+deposit safe custody,1,1,0,prototype_only
+deposit short,1,1,0,prototype_only
+deposit slip,1,1,0,prototype_only
+depreciation,1,1,0,prototype_only
+depth,1,1,0,prototype_only
+deputation,1,1,0,prototype_only
+deputy director,1,1,0,prototype_only
+dermatits,1,1,0,prototype_only
+descendant,1,1,0,prototype_only
+desert,2,1,1,prototype_and_test
+designer,1,1,0,prototype_only
+designing,1,1,0,prototype_only
+desktop cleanup wizard,1,1,0,prototype_only
+despatch,1,1,0,prototype_only
+destroy,2,1,1,prototype_and_test
+detective,1,1,0,prototype_only
+determined,1,1,0,prototype_only
+develop,1,1,0,prototype_only
+development,1,1,0,prototype_only
+developmental delay,1,1,0,prototype_only
+device setting,1,1,0,prototype_only
+devil,1,1,0,prototype_only
+dhobi,2,1,1,prototype_and_test
+dhothi,2,1,1,prototype_and_test
+diabeletes,1,1,0,prototype_only
+diabetes,3,1,2,prototype_and_test
+diabetic,1,1,0,prototype_only
+diaeases,1,1,0,prototype_only
+diagonal,1,1,0,prototype_only
+diarrhea,1,1,0,prototype_only
+dice,1,1,0,prototype_only
+dicoty ledoneae,1,1,0,prototype_only
+dictionary,1,1,0,prototype_only
+die,3,1,2,prototype_and_test
+diesel,2,1,1,prototype_and_test
+diet,2,1,1,prototype_and_test
+difference,2,1,1,prototype_and_test
+different,1,1,0,prototype_only
+differential rate of interest,1,1,0,prototype_only
+difficult,1,1,0,prototype_only
+diffraction,1,1,0,prototype_only
+dig,1,1,0,prototype_only
+digging bar,1,1,0,prototype_only
+digital electronics,1,1,0,prototype_only
+dim,1,1,0,prototype_only
+dinner,1,1,0,prototype_only
+diode,2,1,1,prototype_and_test
+direct,1,1,0,prototype_only
+direct appointment,1,1,0,prototype_only
+direct current,2,1,1,prototype_and_test
+direction,1,1,0,prototype_only
+director,2,1,1,prototype_and_test
+dirndl  skirt,1,1,0,prototype_only
+dirty,2,1,1,prototype_and_test
+disability,1,1,0,prototype_only
+disabled,1,1,0,prototype_only
+disappear,2,1,1,prototype_and_test
+disapproval,1,1,0,prototype_only
+disbursement,1,1,0,prototype_only
+disc brake master cylinder,1,1,0,prototype_only
+discharge,1,1,0,prototype_only
+discipline,1,1,0,prototype_only
+disconnect,1,1,0,prototype_only
+discount,2,1,1,prototype_and_test
+discover,1,1,0,prototype_only
+discretionary limit,1,1,0,prototype_only
+discuss,2,1,1,prototype_and_test
+disease,2,1,1,prototype_and_test
+disease control of plant,1,1,0,prototype_only
+diseases,1,1,0,prototype_only
+diseases and enemies of fish,1,1,0,prototype_only
+diseases of animals,1,1,0,prototype_only
+disguise,1,1,0,prototype_only
+dish,1,1,0,prototype_only
+dish antenna,1,1,0,prototype_only
+dishonoured bill,1,1,0,prototype_only
+dislike,1,1,0,prototype_only
+dismissal,1,1,0,prototype_only
+disobey,1,1,0,prototype_only
+disolution,1,1,0,prototype_only
+dispersion,1,1,0,prototype_only
+displacement,1,1,0,prototype_only
+disrespect,1,1,0,prototype_only
+dissent,3,1,2,prototype_and_test
+distance,3,1,2,prototype_and_test
+distance learning,1,1,0,prototype_only
+distribute,3,1,2,prototype_and_test
+distribution,1,1,0,prototype_only
+district,2,1,1,prototype_and_test
+district court,1,1,0,prototype_only
+district jail,1,1,0,prototype_only
+dithering,1,1,0,prototype_only
+divide,3,1,2,prototype_and_test
+dividend,1,1,0,prototype_only
+diving,1,1,0,prototype_only
+division,3,1,2,prototype_and_test
+divorce,1,1,0,prototype_only
+divorce petition,1,1,0,prototype_only
+divorcee,1,1,0,prototype_only
+diwali,4,1,3,prototype_and_test
+dizzy,1,1,0,prototype_only
+do,2,1,1,prototype_and_test
+doctor,1,1,0,prototype_only
+document,1,1,0,prototype_only
+documents,1,1,0,prototype_only
+documents of title,1,1,0,prototype_only
+doe,1,1,0,prototype_only
+dog,4,1,3,prototype_and_test
+doli in capax,1,1,0,prototype_only
+doll,1,1,0,prototype_only
+dollar,1,1,0,prototype_only
+dolly,1,1,0,prototype_only
+donald duck,1,1,0,prototype_only
+donkey,4,1,3,prototype_and_test
+door,3,1,2,prototype_and_test
+dosa,1,1,0,prototype_only
+double,1,1,0,prototype_only
+double click,1,1,0,prototype_only
+double entry,1,1,0,prototype_only
+doubt,2,1,1,prototype_and_test
+down,1,1,0,prototype_only
+download,1,1,0,prototype_only
+draft,1,1,0,prototype_only
+draftsmen,1,1,0,prototype_only
+drainage,1,1,0,prototype_only
+drama,1,1,0,prototype_only
+draughtsman,1,1,0,prototype_only
+draw,2,1,1,prototype_and_test
+drawer,4,1,3,prototype_and_test
+drawing,1,1,0,prototype_only
+dream,2,1,1,prototype_and_test
+dress,2,1,1,prototype_and_test
+drill bit,1,1,0,prototype_only
+drilling machine pedestal,1,1,0,prototype_only
+drink,1,1,0,prototype_only
+drip irrigation,1,1,0,prototype_only
+drive,3,1,2,prototype_and_test
+driver,2,1,1,prototype_and_test
+drizzle,1,1,0,prototype_only
+drop,2,1,1,prototype_and_test
+drop cap,1,1,0,prototype_only
+dropbox,1,1,0,prototype_only
+droplet,1,1,0,prototype_only
+dropped  armhole sleeve,1,1,0,prototype_only
+drown,1,1,0,prototype_only
+drug,5,1,4,prototype_and_test
+drug abuse and addiction,1,1,0,prototype_only
+drug addiction,1,1,0,prototype_only
+drug overdose,1,1,0,prototype_only
+drum,1,1,0,prototype_only
+drumstick,1,1,0,prototype_only
+drunk driving,1,1,0,prototype_only
+drunk driving law,1,1,0,prototype_only
+dry,2,1,1,prototype_and_test
+dry cell,1,1,0,prototype_only
+dubai,3,1,2,prototype_and_test
+duck,6,1,5,prototype_and_test
+duffle,1,1,0,prototype_only
+duplicate,1,1,0,prototype_only
+duranta spinosa,1,1,0,prototype_only
+duration,1,1,0,prototype_only
+durga,1,1,0,prototype_only
+during,2,1,1,prototype_and_test
+duronto express,1,1,0,prototype_only
+dussehra,1,1,0,prototype_only
+dust,1,1,0,prototype_only
+dustbin,2,1,1,prototype_and_test
+duster,1,1,0,prototype_only
+dvd,1,1,0,prototype_only
+dwarf,1,1,0,prototype_only
+dwarf ornamental hedges,1,1,0,prototype_only
+dysuria,1,1,0,prototype_only
+e office portal,1,1,0,prototype_only
+e-book,1,1,0,prototype_only
+e-mail,1,1,0,prototype_only
+each,2,1,1,prototype_and_test
+eagle,2,1,1,prototype_and_test
+ear,1,1,0,prototype_only
+earn,2,1,1,prototype_and_test
+earth,4,1,3,prototype_and_test
+earth rammer,1,1,0,prototype_only
+earthquake,3,1,2,prototype_and_test
+east,5,1,4,prototype_and_test
+easter,2,1,1,prototype_and_test
+easy,2,1,1,prototype_and_test
+eat,3,1,2,prototype_and_test
+echo,1,1,0,prototype_only
+eclipse,4,1,3,prototype_and_test
+economic,1,1,0,prototype_only
+economic importance of fish in india,1,1,0,prototype_only
+economics,2,1,1,prototype_and_test
+eczema,1,1,0,prototype_only
+edge,1,1,0,prototype_only
+edit,2,1,1,prototype_and_test
+education,2,1,1,prototype_and_test
+egg,2,1,1,prototype_and_test
+eggplant,1,1,0,prototype_only
+egypt,2,1,1,prototype_and_test
+eight,1,1,0,prototype_only
+eighteen,1,1,0,prototype_only
+el salvador,1,1,0,prototype_only
+elastic,1,1,0,prototype_only
+elbow,2,1,1,prototype_and_test
+elder brother,1,1,0,prototype_only
+election,2,1,1,prototype_and_test
+electric appliances,1,1,0,prototype_only
+electric bike,1,1,0,prototype_only
+electric bus,1,1,0,prototype_only
+electric car,1,1,0,prototype_only
+electric charge,1,1,0,prototype_only
+electric tester,1,1,0,prototype_only
+electrical burns,1,1,0,prototype_only
+electrical energy,1,1,0,prototype_only
+electrical engineering,1,1,0,prototype_only
+electrical leakage,1,1,0,prototype_only
+electrical service,1,1,0,prototype_only
+electrical tester,1,1,0,prototype_only
+electrician,3,1,2,prototype_and_test
+electricity,1,1,0,prototype_only
+electrode,2,1,1,prototype_and_test
+electrolyte,1,1,0,prototype_only
+electromagnet,1,1,0,prototype_only
+electromagnetic wave,1,1,0,prototype_only
+electron,1,1,0,prototype_only
+electronics,1,1,0,prototype_only
+elephant,4,1,3,prototype_and_test
+eletronegative force,1,1,0,prototype_only
+elevated plot,1,1,0,prototype_only
+elevation,1,1,0,prototype_only
+elevator,1,1,0,prototype_only
+eleven,1,1,0,prototype_only
+eliminate,1,1,0,prototype_only
+ellipse tool,1,1,0,prototype_only
+email,1,1,0,prototype_only
+embarrass,2,1,1,prototype_and_test
+embroidery,2,1,1,prototype_and_test
+embryonic development,1,1,0,prototype_only
+emergency,2,1,1,prototype_and_test
+emergency medical technician,1,1,0,prototype_only
+emoluments,1,1,0,prototype_only
+emphasize,1,1,0,prototype_only
+employment,1,1,0,prototype_only
+empowerment,1,1,0,prototype_only
+empty,1,1,0,prototype_only
+encashment,1,1,0,prototype_only
+enclosure,1,1,0,prototype_only
+encourage,2,1,1,prototype_and_test
+end use,1,1,0,prototype_only
+endorsement,1,1,0,prototype_only
+endure,2,1,1,prototype_and_test
+enemy,3,1,2,prototype_and_test
+energetic,2,1,1,prototype_and_test
+energy,1,1,0,prototype_only
+energy meter,1,1,0,prototype_only
+energymeter,1,1,0,prototype_only
+engagement,2,1,1,prototype_and_test
+engine,4,1,3,prototype_and_test
+engineer,2,1,1,prototype_and_test
+engineering compass,1,1,0,prototype_only
+engineering scale,1,1,0,prototype_only
+england,2,1,1,prototype_and_test
+english,2,1,1,prototype_and_test
+enjoy,3,1,2,prototype_and_test
+enough,2,1,1,prototype_and_test
+enquiry,1,1,0,prototype_only
+entertainment,1,1,0,prototype_only
+envelope,1,1,0,prototype_only
+environment,3,1,2,prototype_and_test
+environmental pollution,1,1,0,prototype_only
+epaulet,1,1,0,prototype_only
+epistaxis,1,1,0,prototype_only
+equal,2,1,1,prototype_and_test
+equation,1,1,0,prototype_only
+equator,2,1,1,prototype_and_test
+eraser,1,1,0,prototype_only
+erect,1,1,0,prototype_only
+ernission,1,1,0,prototype_only
+error of omission,1,1,0,prototype_only
+escape,4,1,3,prototype_and_test
+essay,1,1,0,prototype_only
+essel world,1,1,0,prototype_only
+establish,1,1,0,prototype_only
+establishment,1,1,0,prototype_only
+estimate,1,1,0,prototype_only
+ethics,2,1,1,prototype_and_test
+europe,2,1,1,prototype_and_test
+evening,5,1,4,prototype_and_test
+event,1,1,0,prototype_only
+every time,1,1,0,prototype_only
+everyday,1,1,0,prototype_only
+evil,1,1,0,prototype_only
+ewe,1,1,0,prototype_only
+exam,1,1,0,prototype_only
+examination,2,1,1,prototype_and_test
+examine,1,1,0,prototype_only
+example,1,1,0,prototype_only
+excavation,1,1,0,prototype_only
+exchange,1,1,0,prototype_only
+exchange foreign,1,1,0,prototype_only
+exchange positions,1,1,0,prototype_only
+excited,1,1,0,prototype_only
+exclude,1,1,0,prototype_only
+excuse,1,1,0,prototype_only
+excuse me,1,1,0,prototype_only
+exemption,1,1,0,prototype_only
+exercise,3,1,2,prototype_and_test
+exhaust pump,1,1,0,prototype_only
+exotic sheep,1,1,0,prototype_only
+expansion,2,1,1,prototype_and_test
+expenditure,1,1,0,prototype_only
+expensive,4,1,3,prototype_and_test
+experience,1,1,0,prototype_only
+experiment,4,1,3,prototype_and_test
+expert,1,1,0,prototype_only
+expertise,1,1,0,prototype_only
+expiry,2,1,1,prototype_and_test
+explain,4,1,3,prototype_and_test
+exporting graphics,1,1,0,prototype_only
+express,2,1,1,prototype_and_test
+express train,1,1,0,prototype_only
+extend,1,1,0,prototype_only
+extension counter,1,1,0,prototype_only
+extermal combustion engine,1,1,0,prototype_only
+external,1,1,0,prototype_only
+external parasite,1,1,0,prototype_only
+extinct,2,1,1,prototype_and_test
+extra,2,1,1,prototype_and_test
+extrahepatic,1,1,0,prototype_only
+eye,2,1,1,prototype_and_test
+eyebrow,1,1,0,prototype_only
+face,2,1,1,prototype_and_test
+face value,1,1,0,prototype_only
+facsimile signature,1,1,0,prototype_only
+factorisation,1,1,0,prototype_only
+factory,2,1,1,prototype_and_test
+fail,1,1,0,prototype_only
+faith,2,1,1,prototype_and_test
+fake,1,1,0,prototype_only
+fall,1,1,0,prototype_only
+false,4,1,3,prototype_and_test
+false flooring,1,1,0,prototype_only
+family,2,1,1,prototype_and_test
+family court,1,1,0,prototype_only
+family tree,1,1,0,prototype_only
+famous,2,1,1,prototype_and_test
+fan,2,1,1,prototype_and_test
+far,2,1,1,prototype_and_test
+fare,1,1,0,prototype_only
+farm,1,1,0,prototype_only
+farmer,1,1,0,prototype_only
+fast,1,1,0,prototype_only
+fast growing temporary hedges,1,1,0,prototype_only
+fast track court,1,1,0,prototype_only
+fat,1,1,0,prototype_only
+fat test of milk,1,1,0,prototype_only
+father,2,1,1,prototype_and_test
+father-in-law,2,1,1,prototype_and_test
+faucet aerator,1,1,0,prototype_only
+fax,1,1,0,prototype_only
+fear,2,1,1,prototype_and_test
+feather,2,1,1,prototype_and_test
+february,2,1,1,prototype_and_test
+feed,1,1,0,prototype_only
+feel,2,1,1,prototype_and_test
+festivals,1,1,0,prototype_only
+fever,1,1,0,prototype_only
+few,2,1,1,prototype_and_test
+field,2,1,1,prototype_and_test
+fight,1,1,0,prototype_only
+figure,1,1,0,prototype_only
+filament,2,1,1,prototype_and_test
+file,2,1,1,prototype_and_test
+fill,1,1,0,prototype_only
+film,2,1,1,prototype_and_test
+filter pump,1,1,0,prototype_only
+final,1,1,0,prototype_only
+final accounts,1,1,0,prototype_only
+finance,1,1,0,prototype_only
+financial year,1,1,0,prototype_only
+fine,3,1,2,prototype_and_test
+fingerprints,1,1,0,prototype_only
+fingers,2,1,1,prototype_and_test
+fingerspell,1,1,0,prototype_only
+finish,3,1,2,prototype_and_test
+fir,1,1,0,prototype_only
+fire,2,1,1,prototype_and_test
+first charge,1,1,0,prototype_only
+first coat,1,1,0,prototype_only
+first floor,2,1,1,prototype_and_test
+fish,2,1,1,prototype_and_test
+fish as a food of cattle,1,1,0,prototype_only
+fish as a human food,1,1,0,prototype_only
+fish food,1,1,0,prototype_only
+fisher man,1,1,0,prototype_only
+fishing for games,1,1,0,prototype_only
+fishing net,1,1,0,prototype_only
+fitted,1,1,0,prototype_only
+five,1,1,0,prototype_only
+five hundred,1,1,0,prototype_only
+fixed asset,1,1,0,prototype_only
+fixed deposit,1,1,0,prototype_only
+fixed rate,1,1,0,prototype_only
+flag,1,1,0,prototype_only
+flat,1,1,0,prototype_only
+flat belt,1,1,0,prototype_only
+flat gardens,1,1,0,prototype_only
+flatfoot,1,1,0,prototype_only
+flatulence,1,1,0,prototype_only
+flexible,1,1,0,prototype_only
+float,2,1,1,prototype_and_test
+floating plants,1,1,0,prototype_only
+flood,2,1,1,prototype_and_test
+floor,2,1,1,prototype_and_test
+flooring,1,1,0,prototype_only
+floppy,1,1,0,prototype_only
+floppy disk,1,1,0,prototype_only
+floppy drive,1,1,0,prototype_only
+floriculture,1,1,0,prototype_only
+flounce  hem,1,1,0,prototype_only
+flouresence,1,1,0,prototype_only
+flower,2,1,1,prototype_and_test
+flower for beautification,1,1,0,prototype_only
+flower for controlling soil erosion,1,1,0,prototype_only
+flower for exhibition,1,1,0,prototype_only
+flower for medical importance,1,1,0,prototype_only
+flower for recreation,1,1,0,prototype_only
+flowering hedges,1,1,0,prototype_only
+flowers for pot,1,1,0,prototype_only
+fluctuation,1,1,0,prototype_only
+fluid pressure,1,1,0,prototype_only
+flush door,1,1,0,prototype_only
+flute,2,1,1,prototype_and_test
+fluted  pleats,1,1,0,prototype_only
+fly,1,1,0,prototype_only
+focal length,1,1,0,prototype_only
+fog,1,1,0,prototype_only
+folder,1,1,0,prototype_only
+folio,1,1,0,prototype_only
+follow,3,1,2,prototype_and_test
+font weight,1,1,0,prototype_only
+food,2,1,1,prototype_and_test
+fool,1,1,0,prototype_only
+foolish,1,1,0,prototype_only
+foot,2,1,1,prototype_and_test
+foot body part,1,1,0,prototype_only
+footage,1,1,0,prototype_only
+football,1,1,0,prototype_only
+footpath,1,1,0,prototype_only
+force,3,1,2,prototype_and_test
+forehead,1,1,0,prototype_only
+foreign,1,1,0,prototype_only
+forest,1,1,0,prototype_only
+forever,1,1,0,prototype_only
+forged,1,1,0,prototype_only
+forget,2,1,1,prototype_and_test
+forgive,1,1,0,prototype_only
+fork,1,1,0,prototype_only
+form,5,1,4,prototype_and_test
+format,2,1,1,prototype_and_test
+former,1,1,0,prototype_only
+formula,1,1,0,prototype_only
+fornication,1,1,0,prototype_only
+fossll fueis,1,1,0,prototype_only
+foundation,1,1,0,prototype_only
+foundation organization,1,1,0,prototype_only
+four,1,1,0,prototype_only
+four cricket,1,1,0,prototype_only
+fourteen,1,1,0,prototype_only
+fox,2,1,1,prototype_and_test
+france,2,1,1,prototype_and_test
+frank,1,1,0,prototype_only
+fraud,1,1,0,prototype_only
+fray  edges,1,1,0,prototype_only
+free,2,1,1,prototype_and_test
+freexing,1,1,0,prototype_only
+freeze,2,1,1,prototype_and_test
+freezing,1,1,0,prototype_only
+frequency,1,1,0,prototype_only
+fresh,2,1,1,prototype_and_test
+frictional force,1,1,0,prototype_only
+friday,9,1,8,prototype_and_test
+friend,3,1,2,prototype_and_test
+frisbee,1,1,0,prototype_only
+froage crops,1,1,0,prototype_only
+frock,1,1,0,prototype_only
+frog,4,1,3,prototype_and_test
+from,2,1,1,prototype_and_test
+fruit disease,1,1,0,prototype_only
+fruits,2,1,1,prototype_and_test
+frustrate,1,1,0,prototype_only
+fry,1,1,0,prototype_only
+fryers,1,1,0,prototype_only
+full,3,1,2,prototype_and_test
+full frame,1,1,0,prototype_only
+full moon day,2,1,1,prototype_and_test
+full stomach,2,1,1,prototype_and_test
+fumiture,1,1,0,prototype_only
+fund,1,1,0,prototype_only
+funding,1,1,0,prototype_only
+funds,1,1,0,prototype_only
+funeral,2,1,1,prototype_and_test
+funeral cremation,1,1,0,prototype_only
+funeral pyre,1,1,0,prototype_only
+funnel  neck,1,1,0,prototype_only
+funny,3,1,2,prototype_and_test
+fuse,1,1,0,prototype_only
+future,1,1,0,prototype_only
+galaxy,1,1,0,prototype_only
+galvanometer,1,1,0,prototype_only
+games,1,1,0,prototype_only
+gamma ray,1,1,0,prototype_only
+ganapathi,1,1,0,prototype_only
+gandhinagar,1,1,0,prototype_only
+gang box,1,1,0,prototype_only
+gangtok,1,1,0,prototype_only
+garage,1,1,0,prototype_only
+garage door opener,1,1,0,prototype_only
+garden,2,1,1,prototype_and_test
+gardener,2,1,1,prototype_and_test
+garib rath express,1,1,0,prototype_only
+garlic,2,1,1,prototype_and_test
+gas,1,1,0,prototype_only
+gas equation,1,1,0,prototype_only
+gas lighter,1,1,0,prototype_only
+gas pipe,1,1,0,prototype_only
+gas stove,4,1,3,prototype_and_test
+gas tractor,1,1,0,prototype_only
+gate,3,1,2,prototype_and_test
+gazette,1,1,0,prototype_only
+general,1,1,0,prototype_only
+general ladger,1,1,0,prototype_only
+general secretary,1,1,0,prototype_only
+generator,2,1,1,prototype_and_test
+genius,1,1,0,prototype_only
+genuine,2,1,1,prototype_and_test
+geodetic survey,1,1,0,prototype_only
+geodetic surveying,1,1,0,prototype_only
+geography,2,1,1,prototype_and_test
+geometry,1,1,0,prototype_only
+georgia,1,1,0,prototype_only
+geothermal energy,1,1,0,prototype_only
+german measles rubella,1,1,0,prototype_only
+germany,2,1,1,prototype_and_test
+germination,1,1,0,prototype_only
+get,1,1,0,prototype_only
+get up,1,1,0,prototype_only
+geyser,1,1,0,prototype_only
+ghana,1,1,0,prototype_only
+ghee,1,1,0,prototype_only
+ghost,1,1,0,prototype_only
+gift,1,1,0,prototype_only
+giga byte,1,1,0,prototype_only
+ginger,3,1,2,prototype_and_test
+gionee,1,1,0,prototype_only
+giraffe,2,1,1,prototype_and_test
+girl,3,1,2,prototype_and_test
+girlfriend,1,1,0,prototype_only
+give,1,1,0,prototype_only
+glass,4,1,3,prototype_and_test
+glass block,1,1,0,prototype_only
+glass bod,1,1,0,prototype_only
+glass cutter,1,1,0,prototype_only
+glass stab,1,1,0,prototype_only
+globe,1,1,0,prototype_only
+gloves,4,1,3,prototype_and_test
+glue,1,1,0,prototype_only
+glue gun,1,1,0,prototype_only
+go,2,1,1,prototype_and_test
+go air,1,1,0,prototype_only
+goa,3,1,2,prototype_and_test
+goal,2,1,1,prototype_and_test
+goat,6,1,5,prototype_and_test
+god,1,1,0,prototype_only
+godet,1,1,0,prototype_only
+gold,4,1,3,prototype_and_test
+golden temple,1,1,0,prototype_only
+goldfish,1,1,0,prototype_only
+golf,1,1,0,prototype_only
+good,6,1,5,prototype_and_test
+good afternoon,1,1,0,prototype_only
+good morning,1,1,0,prototype_only
+good night,1,1,0,prototype_only
+goodbye,1,1,0,prototype_only
+goods,1,1,0,prototype_only
+goods retumed,1,1,0,prototype_only
+google chat,1,1,0,prototype_only
+google map,1,1,0,prototype_only
+google pay,1,1,0,prototype_only
+gossip,1,1,0,prototype_only
+government,2,1,1,prototype_and_test
+gprs,1,1,0,prototype_only
+graders,1,1,0,prototype_only
+graft,1,1,0,prototype_only
+grain,1,1,0,prototype_only
+gram,3,1,2,prototype_and_test
+grammar,1,1,0,prototype_only
+granddaughter,3,1,2,prototype_and_test
+grandfather,3,1,2,prototype_and_test
+grandmother,2,1,1,prototype_and_test
+grandson,1,1,0,prototype_only
+grapes,1,1,0,prototype_only
+graphics,1,1,0,prototype_only
+grass,3,1,2,prototype_and_test
+gravity,1,1,0,prototype_only
+greedy,1,1,0,prototype_only
+green,4,1,3,prototype_and_test
+green bean,1,1,0,prototype_only
+green hand,1,1,0,prototype_only
+grenade,1,1,0,prototype_only
+grey,3,1,2,prototype_and_test
+grill,1,1,0,prototype_only
+grind,1,1,0,prototype_only
+grommets,1,1,0,prototype_only
+ground water,1,1,0,prototype_only
+groundnut,1,1,0,prototype_only
+group,3,1,2,prototype_and_test
+grow,6,1,5,prototype_and_test
+growth,1,1,0,prototype_only
+grudge,1,1,0,prototype_only
+guard,1,1,0,prototype_only
+guava,1,1,0,prototype_only
+guess,1,1,0,prototype_only
+guide,1,1,0,prototype_only
+guilt,1,1,0,prototype_only
+guilty,4,1,3,prototype_and_test
+guinea,1,1,0,prototype_only
+guitar,1,1,0,prototype_only
+gujarat,5,1,4,prototype_and_test
+gujarati,2,1,1,prototype_and_test
+gulab jamun,1,1,0,prototype_only
+gun,3,1,2,prototype_and_test
+guru nanak,1,1,0,prototype_only
+gurudwara,2,1,1,prototype_and_test
+gurunanak jayanthi,1,1,0,prototype_only
+gutka,1,1,0,prototype_only
+guwahati,1,1,0,prototype_only
+habit,1,1,0,prototype_only
+hack saw blade,1,1,0,prototype_only
+hack saw frame,1,1,0,prototype_only
+hacksaw,1,1,0,prototype_only
+hail,1,1,0,prototype_only
+hair,3,1,2,prototype_and_test
+hair clip,1,1,0,prototype_only
+hair dryer,2,1,1,prototype_and_test
+hairdresser,1,1,0,prototype_only
+haji ali dargah,1,1,0,prototype_only
+half,2,1,1,prototype_and_test
+halter top,1,1,0,prototype_only
+halting allowance,1,1,0,prototype_only
+hammer,1,1,0,prototype_only
+hand,1,1,0,prototype_only
+hand rail,1,1,0,prototype_only
+hand sanitizer,1,1,0,prototype_only
+handcuffs,1,1,0,prototype_only
+handicapped,1,1,0,prototype_only
+handkerchief,3,1,2,prototype_and_test
+handle,1,1,0,prototype_only
+handpump water,1,1,0,prototype_only
+hands,1,1,0,prototype_only
+hang,2,1,1,prototype_and_test
+hanuman,4,1,3,prototype_and_test
+happen,1,1,0,prototype_only
+happy,3,1,2,prototype_and_test
+harass,1,1,0,prototype_only
+hard,5,1,4,prototype_and_test
+hard drive,2,1,1,prototype_and_test
+hard of hearing,1,1,0,prototype_only
+hardware,1,1,0,prototype_only
+hardworking,4,1,3,prototype_and_test
+hariyana,1,1,0,prototype_only
+harmonium,2,1,1,prototype_and_test
+harvest,1,1,0,prototype_only
+haryana,1,1,0,prototype_only
+hashtag,1,1,0,prototype_only
+hat,1,1,0,prototype_only
+hatchet,1,1,0,prototype_only
+hate,3,1,2,prototype_and_test
+have,1,1,0,prototype_only
+hawker,2,1,1,prototype_and_test
+hdfc  bank,1,1,0,prototype_only
+he,2,1,1,prototype_and_test
+head,2,1,1,prototype_and_test
+head of income,1,1,0,prototype_only
+head office,1,1,0,prototype_only
+head pan,1,1,0,prototype_only
+headache,1,1,0,prototype_only
+health,1,1,0,prototype_only
+hear,2,1,1,prototype_and_test
+hearing,2,1,1,prototype_and_test
+hearing aid,2,1,1,prototype_and_test
+hearsay,1,1,0,prototype_only
+heart,2,1,1,prototype_and_test
+heat,1,1,0,prototype_only
+heat engine,1,1,0,prototype_only
+heavier,1,1,0,prototype_only
+heavy,1,1,0,prototype_only
+heifer calf,1,1,0,prototype_only
+heir,1,1,0,prototype_only
+helicopter,1,1,0,prototype_only
+help,2,1,1,prototype_and_test
+hemophilia,1,1,0,prototype_only
+hen,2,1,1,prototype_and_test
+her,1,1,0,prototype_only
+here,1,1,0,prototype_only
+herniated intervertebral,1,1,0,prototype_only
+herpes,1,1,0,prototype_only
+herps virus,1,1,0,prototype_only
+hers,1,1,0,prototype_only
+herself,1,1,0,prototype_only
+hexadecimal,1,1,0,prototype_only
+hidden file,3,1,2,prototype_and_test
+hide,1,1,0,prototype_only
+high,1,1,0,prototype_only
+high court,1,1,0,prototype_only
+high resistance,1,1,0,prototype_only
+hill,2,1,1,prototype_and_test
+hill garden,1,1,0,prototype_only
+him,1,1,0,prototype_only
+himachal pradesh,1,1,0,prototype_only
+himself,1,1,0,prototype_only
+hindi,1,1,0,prototype_only
+hindu,2,1,1,prototype_and_test
+hindu undivided family,1,1,0,prototype_only
+hip,2,1,1,prototype_and_test
+hip hugger,1,1,0,prototype_only
+hippo,2,1,1,prototype_and_test
+hire charges,1,1,0,prototype_only
+hire purchase,1,1,0,prototype_only
+his,1,1,0,prototype_only
+history,1,1,0,prototype_only
+hoarding,1,1,0,prototype_only
+hockey,1,1,0,prototype_only
+hoe,1,1,0,prototype_only
+hold,1,1,0,prototype_only
+holder,1,1,0,prototype_only
+hole,2,1,1,prototype_and_test
+holi,1,1,0,prototype_only
+holiday,1,1,0,prototype_only
+hollow,1,1,0,prototype_only
+hollow blocks,1,1,0,prototype_only
+holy,1,1,0,prototype_only
+home,1,1,0,prototype_only
+home gardens,1,1,0,prototype_only
+homicide,1,1,0,prototype_only
+honey,1,1,0,prototype_only
+honorarium,1,1,0,prototype_only
+hook and eye,1,1,0,prototype_only
+hook worm disease,1,1,0,prototype_only
+hop,1,1,0,prototype_only
+hope,2,1,1,prototype_and_test
+horizontal,1,1,0,prototype_only
+horizontal line,1,1,0,prototype_only
+horizontal surface,1,1,0,prototype_only
+horns,2,1,1,prototype_and_test
+horse,2,1,1,prototype_and_test
+horse cart,1,1,0,prototype_only
+hospital,1,1,0,prototype_only
+hosticide,1,1,0,prototype_only
+hot,6,1,5,prototype_and_test
+hot air balloon,2,1,1,prototype_and_test
+hot to feel,1,1,0,prototype_only
+hotel,3,1,2,prototype_and_test
+hour,2,1,1,prototype_and_test
+hours,2,1,1,prototype_and_test
+house,2,1,1,prototype_and_test
+housefly,3,1,2,prototype_and_test
+housing,1,1,0,prototype_only
+housing loan,1,1,0,prototype_only
+how,1,1,0,prototype_only
+how big,1,1,0,prototype_only
+how many,2,1,1,prototype_and_test
+how much,1,1,0,prototype_only
+hsbc bank,1,1,0,prototype_only
+htc mobile,1,1,0,prototype_only
+html,1,1,0,prototype_only
+html tag,1,1,0,prototype_only
+huawei mobile,1,1,0,prototype_only
+hug,2,1,1,prototype_and_test
+huge,1,1,0,prototype_only
+humble,1,1,0,prototype_only
+humid,2,1,1,prototype_and_test
+humidity,1,1,0,prototype_only
+humped,1,1,0,prototype_only
+hundred,1,1,0,prototype_only
+hungary,1,1,0,prototype_only
+hungry,2,1,1,prototype_and_test
+hurdle race,1,1,0,prototype_only
+hurt,1,1,0,prototype_only
+husband,4,1,3,prototype_and_test
+hut,1,1,0,prototype_only
+hydathodes,1,1,0,prototype_only
+hyderabad,2,1,1,prototype_and_test
+hydraulic sprayer,1,1,0,prototype_only
+hydrautic brake,1,1,0,prototype_only
+hydrautic lift,1,1,0,prototype_only
+hydrautic press,1,1,0,prototype_only
+hydro electricity,1,1,0,prototype_only
+hydro energy,1,1,0,prototype_only
+hydrology,1,1,0,prototype_only
+hydropneumatic sprayer,1,1,0,prototype_only
+hygiene,3,1,2,prototype_and_test
+hypotension,1,1,0,prototype_only
+hypothecated,1,1,0,prototype_only
+hypoxia,1,1,0,prototype_only
+i,1,1,0,prototype_only
+i don't know,1,1,0,prototype_only
+i understand,1,1,0,prototype_only
+iball mobile,1,1,0,prototype_only
+ice cream,2,1,1,prototype_and_test
+ice hockey,1,1,0,prototype_only
+iceland,1,1,0,prototype_only
+icici bank,1,1,0,prototype_only
+idbi bank,1,1,0,prototype_only
+idd,1,1,0,prototype_only
+idea,1,1,0,prototype_only
+identical,1,1,0,prototype_only
+identification,1,1,0,prototype_only
+identity,1,1,0,prototype_only
+identity card,1,1,0,prototype_only
+idfc bank,1,1,0,prototype_only
+idle talk,2,1,1,prototype_and_test
+ifsc,1,1,0,prototype_only
+illegal,2,1,1,prototype_and_test
+illiterate,1,1,0,prototype_only
+immediate,1,1,0,prototype_only
+immiscibility,1,1,0,prototype_only
+immovable property,1,1,0,prototype_only
+implementation,1,1,0,prototype_only
+import,1,1,0,prototype_only
+important,1,1,0,prototype_only
+improve,1,1,0,prototype_only
+improvement,1,1,0,prototype_only
+impure,1,1,0,prototype_only
+in,2,1,1,prototype_and_test
+in advance,1,1,0,prototype_only
+in front of,1,1,0,prototype_only
+in lieu of,1,1,0,prototype_only
+in multiples of,1,1,0,prototype_only
+in the middle,1,1,0,prototype_only
+inactive,1,1,0,prototype_only
+inauguaration,1,1,0,prototype_only
+inauguration,1,1,0,prototype_only
+incentive,1,1,0,prototype_only
+inch,1,1,0,prototype_only
+incharge,1,1,0,prototype_only
+include,1,1,0,prototype_only
+income,1,1,0,prototype_only
+income tax,1,1,0,prototype_only
+incompetence,1,1,0,prototype_only
+increase,7,1,6,prototype_and_test
+indent,1,1,0,prototype_only
+independence day,1,1,0,prototype_only
+independent,2,1,1,prototype_and_test
+index,1,1,0,prototype_only
+india,7,1,6,prototype_and_test
+india gate,1,1,0,prototype_only
+indian national congress,1,1,0,prototype_only
+indian sign language interpreters association,1,1,0,prototype_only
+indian sign language research and training centre,1,1,0,prototype_only
+indian sign language teachers  association,1,1,0,prototype_only
+indicator,1,1,0,prototype_only
+indigo,2,1,1,prototype_and_test
+indira gandhi,1,1,0,prototype_only
+individual,3,1,2,prototype_and_test
+indonesia,1,1,0,prototype_only
+indoor gardening,1,1,0,prototype_only
+inductor,1,1,0,prototype_only
+industrial building,1,1,0,prototype_only
+industry,2,1,1,prototype_and_test
+inefficient,1,1,0,prototype_only
+inelastic,1,1,0,prototype_only
+infanticide,1,1,0,prototype_only
+infection,1,1,0,prototype_only
+infinity,1,1,0,prototype_only
+inflammatory bowel disease,1,1,0,prototype_only
+influence,2,1,1,prototype_and_test
+influenza flu,1,1,0,prototype_only
+informal,1,1,0,prototype_only
+information,2,1,1,prototype_and_test
+infrared ray,1,1,0,prototype_only
+infrasonic,1,1,0,prototype_only
+ingadulicis,1,1,0,prototype_only
+inheritance,1,1,0,prototype_only
+initial,2,1,1,prototype_and_test
+initials,1,1,0,prototype_only
+initiative,2,1,1,prototype_and_test
+injection,1,1,0,prototype_only
+injury,1,1,0,prototype_only
+inner shell membrane,1,1,0,prototype_only
+innovate,1,1,0,prototype_only
+input,2,1,1,prototype_and_test
+insect,3,1,2,prototype_and_test
+insects,1,1,0,prototype_only
+inspection,1,1,0,prototype_only
+inspire,1,1,0,prototype_only
+instagram,2,1,1,prototype_and_test
+installation,1,1,0,prototype_only
+instalment,1,1,0,prototype_only
+instigate,2,1,1,prototype_and_test
+institute,1,1,0,prototype_only
+institution,1,1,0,prototype_only
+instruction,1,1,0,prototype_only
+instrument,2,1,1,prototype_and_test
+instument,1,1,0,prototype_only
+insult,4,1,3,prototype_and_test
+insurance,2,1,1,prototype_and_test
+integrated chip,1,1,0,prototype_only
+intensity,1,1,0,prototype_only
+intensive,1,1,0,prototype_only
+inter branch transaction,1,1,0,prototype_only
+interest,10,1,9,prototype_and_test
+interest on savings account,1,1,0,prototype_only
+interfere,1,1,0,prototype_only
+interference,1,1,0,prototype_only
+interim,1,1,0,prototype_only
+intermal combustion engine,1,1,0,prototype_only
+intermediate,1,1,0,prototype_only
+internal,1,1,0,prototype_only
+international,2,1,1,prototype_and_test
+internet,1,1,0,prototype_only
+internet disconnection,1,1,0,prototype_only
+interpret,1,1,0,prototype_only
+interpreter,1,1,0,prototype_only
+interrogation,1,1,0,prototype_only
+interruption,1,1,0,prototype_only
+interval,1,1,0,prototype_only
+interview,2,1,1,prototype_and_test
+intestate,1,1,0,prototype_only
+introduce,2,1,1,prototype_and_test
+introduction,1,1,0,prototype_only
+invalid,1,1,0,prototype_only
+invent,2,1,1,prototype_and_test
+inverse,1,1,0,prototype_only
+inverter,1,1,0,prototype_only
+invite,1,1,0,prototype_only
+iphone,1,1,0,prototype_only
+iran,1,1,0,prototype_only
+iraq,1,1,0,prototype_only
+ireland,1,1,0,prototype_only
+iron,7,1,6,prototype_and_test
+irregular,1,1,0,prototype_only
+irregular vibration,1,1,0,prototype_only
+irreversible,1,1,0,prototype_only
+irrevocable,1,1,0,prototype_only
+isl,2,1,1,prototype_and_test
+island,3,1,2,prototype_and_test
+israel,1,1,0,prototype_only
+isreal,1,1,0,prototype_only
+it,2,1,1,prototype_and_test
+it's raining cats and dogs,1,1,0,prototype_only
+italy,1,1,0,prototype_only
+item,1,1,0,prototype_only
+its,1,1,0,prototype_only
+itself,1,1,0,prototype_only
+j k bank,1,1,0,prototype_only
+jabot,1,1,0,prototype_only
+jack plane,1,1,0,prototype_only
+jacket,1,1,0,prototype_only
+jackfrui,1,1,0,prototype_only
+jackfruit,2,1,1,prototype_and_test
+jagannath ratha yatra,1,1,0,prototype_only
+jail,2,1,1,prototype_and_test
+jailor,1,1,0,prototype_only
+jain,1,1,0,prototype_only
+jainism,1,1,0,prototype_only
+jaipur,2,1,1,prototype_and_test
+jal mahal,1,1,0,prototype_only
+jalebi,1,1,0,prototype_only
+jalpur,1,1,0,prototype_only
+jam,2,1,1,prototype_and_test
+jama masjid,1,1,0,prototype_only
+jamaica,1,1,0,prototype_only
+jammu & kashmir,1,1,0,prototype_only
+jams,1,1,0,prototype_only
+jamun,1,1,0,prototype_only
+janitor,1,1,0,prototype_only
+janmashtami,2,1,1,prototype_and_test
+jantar mantar,1,1,0,prototype_only
+january,5,1,4,prototype_and_test
+jasmine,1,1,0,prototype_only
+jasminum sambac,1,1,0,prototype_only
+jaundice,3,1,2,prototype_and_test
+javelin throw,1,1,0,prototype_only
+jawaharlal nehru,2,1,1,prototype_and_test
+jd u,1,1,0,prototype_only
+jealous,1,1,0,prototype_only
+jeep,1,1,0,prototype_only
+jellyfish,1,1,0,prototype_only
+jesus,1,1,0,prototype_only
+jet airways,1,1,0,prototype_only
+jew,2,1,1,prototype_and_test
+jewel neckline`,1,1,0,prototype_only
+jewelery,1,1,0,prototype_only
+jeweller,1,1,0,prototype_only
+jharkhand,1,1,0,prototype_only
+job,3,1,2,prototype_and_test
+job consciousness,1,1,0,prototype_only
+jodhpur pants,1,1,0,prototype_only
+join,1,1,0,prototype_only
+jointing,1,1,0,prototype_only
+joke,1,1,0,prototype_only
+jordan,1,1,0,prototype_only
+joule,1,1,0,prototype_only
+joumal,1,1,0,prototype_only
+joumal entry,1,1,0,prototype_only
+judaism,1,1,0,prototype_only
+judge,2,1,1,prototype_and_test
+judgement,2,1,1,prototype_and_test
+judicial,1,1,0,prototype_only
+juhu beach,1,1,0,prototype_only
+juice,2,1,1,prototype_and_test
+juliet sleeve,1,1,0,prototype_only
+july,3,1,2,prototype_and_test
+jump,2,1,1,prototype_and_test
+june,3,1,2,prototype_and_test
+junior,1,1,0,prototype_only
+jupiter,1,1,0,prototype_only
+justice,1,1,0,prototype_only
+kajal,1,1,0,prototype_only
+kaleidoscope,1,1,0,prototype_only
+kali mata,2,1,1,prototype_and_test
+kamataka,1,1,0,prototype_only
+kangaroo,2,1,1,prototype_and_test
+kangaroo pocket,1,1,0,prototype_only
+kannada,3,1,2,prototype_and_test
+kanpur,1,1,0,prototype_only
+kaposi sarcoma,1,1,0,prototype_only
+karate,1,1,0,prototype_only
+karnataka,1,1,0,prototype_only
+karnataka bank,1,1,0,prototype_only
+kathakali,1,1,0,prototype_only
+kazakhstan,1,1,0,prototype_only
+keep,1,1,0,prototype_only
+keeper,1,1,0,prototype_only
+kelvin,1,1,0,prototype_only
+kenya,1,1,0,prototype_only
+kerala,3,1,2,prototype_and_test
+kerning,1,1,0,prototype_only
+key,4,1,3,prototype_and_test
+keyboard,1,1,0,prototype_only
+keyhole,1,1,0,prototype_only
+keying,1,1,0,prototype_only
+kick,2,1,1,prototype_and_test
+kick out,1,1,0,prototype_only
+kidnap,1,1,0,prototype_only
+kidnapping & abducting,1,1,0,prototype_only
+kidney beans,2,1,1,prototype_and_test
+kidney cancer renal cell,1,1,0,prototype_only
+kidney disease,1,1,0,prototype_only
+kill,2,1,1,prototype_and_test
+kilogram,3,1,2,prototype_and_test
+kilometer,1,1,0,prototype_only
+kilometre,1,1,0,prototype_only
+kind,2,1,1,prototype_and_test
+kindhearted,1,1,0,prototype_only
+kinds of germination,1,1,0,prototype_only
+kinds of honey bee found in india,1,1,0,prototype_only
+kinetic energy,1,1,0,prototype_only
+king,3,1,2,prototype_and_test
+kiss,2,1,1,prototype_and_test
+kitchen,5,1,4,prototype_and_test
+kite,2,1,1,prototype_and_test
+knee,1,1,0,prototype_only
+knife,5,1,4,prototype_and_test
+knit,1,1,0,prototype_only
+knock,1,1,0,prototype_only
+know,2,1,1,prototype_and_test
+know your customer kyc form,1,1,0,prototype_only
+knowledge,2,1,1,prototype_and_test
+knowledge working,1,1,0,prototype_only
+knowledgeable,1,1,0,prototype_only
+known loss,1,1,0,prototype_only
+knurling,1,1,0,prototype_only
+kochi,1,1,0,prototype_only
+kohima,1,1,0,prototype_only
+kolkata calcutta,1,1,0,prototype_only
+konark sun temple,1,1,0,prototype_only
+korea,1,1,0,prototype_only
+kotak mahindra bank,1,1,0,prototype_only
+krishna,2,1,1,prototype_and_test
+kumbh mela,2,1,1,prototype_and_test
+kurta,4,1,3,prototype_and_test
+kuwait,1,1,0,prototype_only
+l square,1,1,0,prototype_only
+l.e.d,1,1,0,prototype_only
+label,2,1,1,prototype_and_test
+laboratary,1,1,0,prototype_only
+labour,1,1,0,prototype_only
+labourer,1,1,0,prototype_only
+lace edge binding,1,1,0,prototype_only
+lacing,1,1,0,prototype_only
+ladder,4,1,3,prototype_and_test
+laddu,1,1,0,prototype_only
+lady,1,1,0,prototype_only
+ladyfinger,1,1,0,prototype_only
+lake,3,1,2,prototype_and_test
+lame,1,1,0,prototype_only
+lamp,1,1,0,prototype_only
+land,6,1,5,prototype_and_test
+land acquisition,1,1,0,prototype_only
+land cess,1,1,0,prototype_only
+land holding,1,1,0,prototype_only
+land improvement reform,1,1,0,prototype_only
+land revenue,1,1,0,prototype_only
+landlord,1,1,0,prototype_only
+language,1,1,0,prototype_only
+lantana camera,1,1,0,prototype_only
+laos,1,1,0,prototype_only
+lapel,1,1,0,prototype_only
+lapse,1,1,0,prototype_only
+laptop,2,1,1,prototype_and_test
+large,1,1,0,prototype_only
+lassi,3,1,2,prototype_and_test
+last,1,1,0,prototype_only
+last month,1,1,0,prototype_only
+last pay certificate,1,1,0,prototype_only
+last week,1,1,0,prototype_only
+last year,1,1,0,prototype_only
+late,3,1,2,prototype_and_test
+lathe,1,1,0,prototype_only
+latitude,1,1,0,prototype_only
+laugh,1,1,0,prototype_only
+lauki,1,1,0,prototype_only
+law,3,1,2,prototype_and_test
+lawn,1,1,0,prototype_only
+lawyer,3,1,2,prototype_and_test
+lay off,1,1,0,prototype_only
+lay out,1,1,0,prototype_only
+layered skirt,1,1,0,prototype_only
+laying,1,1,0,prototype_only
+lazy,2,1,1,prototype_and_test
+lc,1,1,0,prototype_only
+ldli,1,1,0,prototype_only
+lead,2,1,1,prototype_and_test
+leader,1,1,0,prototype_only
+leaders,1,1,0,prototype_only
+leaf,6,1,5,prototype_and_test
+leaf spring,1,1,0,prototype_only
+leafy vegetables,1,1,0,prototype_only
+leak,1,1,0,prototype_only
+learn,4,1,3,prototype_and_test
+least count,1,1,0,prototype_only
+leather,2,1,1,prototype_and_test
+leave,3,1,2,prototype_and_test
+leave compensatory,1,1,0,prototype_only
+leave duty,1,1,0,prototype_only
+leave earned,1,1,0,prototype_only
+leave extraordinary,1,1,0,prototype_only
+leave medical,1,1,0,prototype_only
+leave preparatory to retirement,1,1,0,prototype_only
+leave study,1,1,0,prototype_only
+lebanon,1,1,0,prototype_only
+lecture,1,1,0,prototype_only
+lecturer,2,1,1,prototype_and_test
+ledger,1,1,0,prototype_only
+ledger balance,1,1,0,prototype_only
+left,1,1,0,prototype_only
+left demrocatic front,1,1,0,prototype_only
+left indent,1,1,0,prototype_only
+leg,1,1,0,prototype_only
+leg mutton sleeve,1,1,0,prototype_only
+legal,2,1,1,prototype_and_test
+legal advisor,1,1,0,prototype_only
+legal claim,1,1,0,prototype_only
+legalese,1,1,0,prototype_only
+legally protected,1,1,0,prototype_only
+legged robots,1,1,0,prototype_only
+lemon,2,1,1,prototype_and_test
+lend,1,1,0,prototype_only
+lenovo,1,1,0,prototype_only
+lens,1,1,0,prototype_only
+leprosy,2,1,1,prototype_and_test
+less,1,1,0,prototype_only
+letter,2,1,1,prototype_and_test
+letter of authority,1,1,0,prototype_only
+level,3,1,2,prototype_and_test
+level rate,1,1,0,prototype_only
+lfc,1,1,0,prototype_only
+lg mobile,1,1,0,prototype_only
+lgnore,1,1,0,prototype_only
+liberia,1,1,0,prototype_only
+librarian,1,1,0,prototype_only
+library,2,1,1,prototype_and_test
+libya,1,1,0,prototype_only
+lic,1,1,0,prototype_only
+licence,2,1,1,prototype_and_test
+license,3,1,2,prototype_and_test
+lick,1,1,0,prototype_only
+lie,5,1,4,prototype_and_test
+life,1,1,0,prototype_only
+life jacket,1,1,0,prototype_only
+lift,2,1,1,prototype_and_test
+light,7,1,6,prototype_and_test
+light fixture,1,1,0,prototype_only
+light year,1,1,0,prototype_only
+lighthouse,2,1,1,prototype_and_test
+lightning,2,1,1,prototype_and_test
+like,2,1,1,prototype_and_test
+like social media,2,1,1,prototype_and_test
+lime paste,1,1,0,prototype_only
+limit,1,1,0,prototype_only
+limitless,1,1,0,prototype_only
+line,1,1,0,prototype_only
+lines and pins,1,1,0,prototype_only
+link,1,1,0,prototype_only
+lion,3,1,2,prototype_and_test
+lips,2,1,1,prototype_and_test
+lipstick,2,1,1,prototype_and_test
+liquid,2,1,1,prototype_and_test
+liquid fuels,1,1,0,prototype_only
+liquidation,1,1,0,prototype_only
+liquor,1,1,0,prototype_only
+list,3,1,2,prototype_and_test
+listen,3,1,2,prototype_and_test
+litre,3,1,2,prototype_and_test
+little,1,1,0,prototype_only
+live,1,1,0,prototype_only
+livelihood,3,1,2,prototype_and_test
+lizard,2,1,1,prototype_and_test
+lnaugurate,1,1,0,prototype_only
+loan,2,1,1,prototype_and_test
+loan terminable,1,1,0,prototype_only
+local,2,1,1,prototype_and_test
+local train,1,1,0,prototype_only
+lock,3,1,2,prototype_and_test
+locker,1,1,0,prototype_only
+log off,1,1,0,prototype_only
+login,1,1,0,prototype_only
+lok janshakti party,1,1,0,prototype_only
+lollipop,1,1,0,prototype_only
+lonely,1,1,0,prototype_only
+long day plant,1,1,0,prototype_only
+long jump,1,1,0,prototype_only
+long term,1,1,0,prototype_only
+longitude,1,1,0,prototype_only
+longitudinal wave,1,1,0,prototype_only
+loose,1,1,0,prototype_only
+loose leaf binder,1,1,0,prototype_only
+lorry,3,1,2,prototype_and_test
+lose,2,1,1,prototype_and_test
+losses due to exessive water,1,1,0,prototype_only
+lotus,2,1,1,prototype_and_test
+loud speaker,1,1,0,prototype_only
+love,2,1,1,prototype_and_test
+love marriage,1,1,0,prototype_only
+low,1,1,0,prototype_only
+low lying area,1,1,0,prototype_only
+lower court,1,1,0,prototype_only
+lower division clerk,1,1,0,prototype_only
+lubrication oil,1,1,0,prototype_only
+luck,1,1,0,prototype_only
+lucknow,1,1,0,prototype_only
+lucky,1,1,0,prototype_only
+lumberjack,1,1,0,prototype_only
+lumpsum,1,1,0,prototype_only
+lunacy,1,1,0,prototype_only
+lunar eclipse,1,1,0,prototype_only
+lunch,2,1,1,prototype_and_test
+luster,1,1,0,prototype_only
+macau,1,1,0,prototype_only
+machine,1,1,0,prototype_only
+machine water pump,1,1,0,prototype_only
+machines,1,1,0,prototype_only
+madagascar,1,1,0,prototype_only
+madhya pradesh,2,1,1,prototype_and_test
+magic,4,1,3,prototype_and_test
+magician,1,1,0,prototype_only
+magnet,4,1,3,prototype_and_test
+magnetic ink character recognition,1,1,0,prototype_only
+magnetism,1,1,0,prototype_only
+magnification,1,1,0,prototype_only
+maha shivaratri,3,1,2,prototype_and_test
+maharashtra,1,1,0,prototype_only
+maharastra,1,1,0,prototype_only
+mahatma gandhi,1,1,0,prototype_only
+mahavir,1,1,0,prototype_only
+mahavir jayanthi,1,1,0,prototype_only
+mahavir jayanti,2,1,1,prototype_and_test
+mail,1,1,0,prototype_only
+mail transfer,1,1,0,prototype_only
+main,1,1,0,prototype_only
+main scale,1,1,0,prototype_only
+mainsworn,1,1,0,prototype_only
+maintenance allowance,1,1,0,prototype_only
+major,1,1,0,prototype_only
+majority,1,1,0,prototype_only
+make,2,1,1,prototype_and_test
+make a long story short,3,1,2,prototype_and_test
+malawi,1,1,0,prototype_only
+malayalam,2,1,1,prototype_and_test
+malaysia,1,1,0,prototype_only
+mali,1,1,0,prototype_only
+mall,1,1,0,prototype_only
+mallet,1,1,0,prototype_only
+man,3,1,2,prototype_and_test
+manage,2,1,1,prototype_and_test
+management,1,1,0,prototype_only
+manager,1,1,0,prototype_only
+mandatory,1,1,0,prototype_only
+mango,2,1,1,prototype_and_test
+manipur,3,1,2,prototype_and_test
+manjira,1,1,0,prototype_only
+manner,2,1,1,prototype_and_test
+manual of instruction,1,1,0,prototype_only
+manufacture,1,1,0,prototype_only
+manure,1,1,0,prototype_only
+map,1,1,0,prototype_only
+marathi,1,1,0,prototype_only
+march,1,1,0,prototype_only
+margin,1,1,0,prototype_only
+marigold,1,1,0,prototype_only
+mark,1,1,0,prototype_only
+market,1,1,0,prototype_only
+marketing of vegetables,1,1,0,prototype_only
+marking table,1,1,0,prototype_only
+marry,1,1,0,prototype_only
+marth,1,1,0,prototype_only
+maruti car,1,1,0,prototype_only
+mary,1,1,0,prototype_only
+masculine,1,1,0,prototype_only
+mason,2,1,1,prototype_and_test
+mason square,1,1,0,prototype_only
+masonry bit,1,1,0,prototype_only
+masquito,1,1,0,prototype_only
+mass,1,1,0,prototype_only
+mat,2,1,1,prototype_and_test
+match,1,1,0,prototype_only
+matchbox,2,1,1,prototype_and_test
+material,2,1,1,prototype_and_test
+maternal aunt,1,1,0,prototype_only
+mathematical,1,1,0,prototype_only
+mathematics,1,1,0,prototype_only
+maths,1,1,0,prototype_only
+mating method of poultry,1,1,0,prototype_only
+matrimonial home,1,1,0,prototype_only
+mature,1,1,0,prototype_only
+maturity,1,1,0,prototype_only
+mauritius,1,1,0,prototype_only
+maximum,3,1,2,prototype_and_test
+may,2,1,1,prototype_and_test
+maybe,1,1,0,prototype_only
+mazdoor,1,1,0,prototype_only
+me,2,1,1,prototype_and_test
+meager,1,1,0,prototype_only
+mean,2,1,1,prototype_and_test
+measles,2,1,1,prototype_and_test
+measure,3,1,2,prototype_and_test
+measurement,2,1,1,prototype_and_test
+measuring tape,1,1,0,prototype_only
+meat,3,1,2,prototype_and_test
+mechanic,4,1,3,prototype_and_test
+mechanics,1,1,0,prototype_only
+medal,1,1,0,prototype_only
+medicine,1,1,0,prototype_only
+mediocre,1,1,0,prototype_only
+meditate,1,1,0,prototype_only
+medium shrubs,1,1,0,prototype_only
+meet,2,1,1,prototype_and_test
+meeting,2,1,1,prototype_and_test
+meghalaya,2,1,1,prototype_and_test
+melt,4,1,3,prototype_and_test
+melting point,1,1,0,prototype_only
+memo,1,1,0,prototype_only
+memorize,1,1,0,prototype_only
+memory card,1,1,0,prototype_only
+memory unit,1,1,0,prototype_only
+menu,1,1,0,prototype_only
+merchant,1,1,0,prototype_only
+mercury,1,1,0,prototype_only
+merge,1,1,0,prototype_only
+merger,1,1,0,prototype_only
+merit and demerits,1,1,0,prototype_only
+message,3,1,2,prototype_and_test
+message video,1,1,0,prototype_only
+messages videos,1,1,0,prototype_only
+messenger,1,1,0,prototype_only
+metal,2,1,1,prototype_and_test
+meter,1,1,0,prototype_only
+method,1,1,0,prototype_only
+method of accounting,1,1,0,prototype_only
+methods of drainage,1,1,0,prototype_only
+metre,2,1,1,prototype_and_test
+metro,1,1,0,prototype_only
+mexico,1,1,0,prototype_only
+mho,1,1,0,prototype_only
+mi xiaomi,1,1,0,prototype_only
+micromax mobile,1,1,0,prototype_only
+microphone,1,1,0,prototype_only
+microwave,1,1,0,prototype_only
+middle,2,1,1,prototype_and_test
+might,1,1,0,prototype_only
+milad un nabi,1,1,0,prototype_only
+mild steel rod,1,1,0,prototype_only
+mile,3,1,2,prototype_and_test
+milk,2,1,1,prototype_and_test
+milk adultration,1,1,0,prototype_only
+milk bottle,1,1,0,prototype_only
+milk powder,1,1,0,prototype_only
+milkman,2,1,1,prototype_and_test
+milli litre,1,1,0,prototype_only
+milligram,1,1,0,prototype_only
+millilitre,2,1,1,prototype_and_test
+millimetre,1,1,0,prototype_only
+milling cutter angle,1,1,0,prototype_only
+milling cutter concave,1,1,0,prototype_only
+milling cutter convex,1,1,0,prototype_only
+millionaire,1,1,0,prototype_only
+milter hat,1,1,0,prototype_only
+milter stripes,1,1,0,prototype_only
+mime,1,1,0,prototype_only
+mineral matter,1,1,0,prototype_only
+minimize,1,1,0,prototype_only
+minimum,3,1,2,prototype_and_test
+minister,2,1,1,prototype_and_test
+ministry of social justice and empowerment,2,1,1,prototype_and_test
+minor,2,1,1,prototype_and_test
+minority,2,1,1,prototype_and_test
+minute,2,1,1,prototype_and_test
+minutes,2,1,1,prototype_and_test
+mirror,3,1,2,prototype_and_test
+misappropriation,1,1,0,prototype_only
+misbehaviour,1,1,0,prototype_only
+miss,2,1,1,prototype_and_test
+missing,1,1,0,prototype_only
+mistake,4,1,3,prototype_and_test
+misunderstand,1,1,0,prototype_only
+mitsubishi motors,1,1,0,prototype_only
+mix,2,1,1,prototype_and_test
+mixer,4,1,3,prototype_and_test
+mizoram,3,1,2,prototype_and_test
+mobile,3,1,2,prototype_and_test
+mobilisation deposit,1,1,0,prototype_only
+model,2,1,1,prototype_and_test
+modern,2,1,1,prototype_and_test
+modern roof,1,1,0,prototype_only
+modification,1,1,0,prototype_only
+mogra,2,1,1,prototype_and_test
+molecuiar motion,1,1,0,prototype_only
+molecule,1,1,0,prototype_only
+monday,13,1,12,prototype_and_test
+monetary,1,1,0,prototype_only
+money,1,1,0,prototype_only
+money order,1,1,0,prototype_only
+moneylender,1,1,0,prototype_only
+mongolia,1,1,0,prototype_only
+monitoring,1,1,0,prototype_only
+monkey,4,1,3,prototype_and_test
+monocotyledonae,1,1,0,prototype_only
+monsoon,1,1,0,prototype_only
+monster truck,1,1,0,prototype_only
+month,6,1,5,prototype_and_test
+monthly return,1,1,0,prototype_only
+monthly statement,1,1,0,prototype_only
+moon,2,1,1,prototype_and_test
+moral,1,1,0,prototype_only
+more,2,1,1,prototype_and_test
+morning,4,1,3,prototype_and_test
+mortgage,1,1,0,prototype_only
+mosque,1,1,0,prototype_only
+mosquito,1,1,0,prototype_only
+mother,8,1,7,prototype_and_test
+mother in law,1,1,0,prototype_only
+mother tongue,1,1,0,prototype_only
+motherboard,1,1,0,prototype_only
+motion,1,1,0,prototype_only
+motivate,1,1,0,prototype_only
+motor,2,1,1,prototype_and_test
+motorcycle,3,1,2,prototype_and_test
+motorcycle air filter,1,1,0,prototype_only
+motorola,1,1,0,prototype_only
+mountain,3,1,2,prototype_and_test
+mouse,1,1,0,prototype_only
+mouse click,1,1,0,prototype_only
+mouse pad,1,1,0,prototype_only
+mouth,3,1,2,prototype_and_test
+mouth organ,1,1,0,prototype_only
+mouth parts,1,1,0,prototype_only
+mouth spray,1,1,0,prototype_only
+mouthwash,1,1,0,prototype_only
+movable property,1,1,0,prototype_only
+move,2,1,1,prototype_and_test
+movement,1,1,0,prototype_only
+movie,1,1,0,prototype_only
+ms excel,1,1,0,prototype_only
+ms powerpoint,1,1,0,prototype_only
+ms windows,1,1,0,prototype_only
+ms word,1,1,0,prototype_only
+mtl,1,1,0,prototype_only
+mtnl,1,1,0,prototype_only
+mucosal disease,1,1,0,prototype_only
+mud,2,1,1,prototype_and_test
+muffler,1,1,0,prototype_only
+mug,2,1,1,prototype_and_test
+mugshot,1,1,0,prototype_only
+muharram,2,1,1,prototype_and_test
+muitimeter,1,1,0,prototype_only
+multi storey building,1,1,0,prototype_only
+multiple,1,1,0,prototype_only
+multiply,1,1,0,prototype_only
+mumbai,2,1,1,prototype_and_test
+mumps,2,1,1,prototype_and_test
+murder,3,1,2,prototype_and_test
+murraya exotica,1,1,0,prototype_only
+museum,1,1,0,prototype_only
+mushroom,2,1,1,prototype_and_test
+mushroom harvesting,1,1,0,prototype_only
+mushroom pleating,1,1,0,prototype_only
+mushroom production,1,1,0,prototype_only
+mushroom storage,1,1,0,prototype_only
+music,2,1,1,prototype_and_test
+musician,2,1,1,prototype_and_test
+muslim,3,1,2,prototype_and_test
+mute,1,1,0,prototype_only
+mutual agreement,1,1,0,prototype_only
+my,2,1,1,prototype_and_test
+my name is,1,1,0,prototype_only
+myanmar,1,1,0,prototype_only
+myself,2,1,1,prototype_and_test
+mysore,1,1,0,prototype_only
+mysuru,1,1,0,prototype_only
+nagaland,1,1,0,prototype_only
+nagpur,1,1,0,prototype_only
+nail,2,1,1,prototype_and_test
+nail cutter,1,1,0,prototype_only
+nail polish,2,1,1,prototype_and_test
+namaste,1,1,0,prototype_only
+name,7,1,6,prototype_and_test
+namibia,1,1,0,prototype_only
+nap fabrick,1,1,0,prototype_only
+nappy,1,1,0,prototype_only
+narrow,2,1,1,prototype_and_test
+national,2,1,1,prototype_and_test
+national anthem,3,1,2,prototype_and_test
+national association of the deaf,1,1,0,prototype_only
+national capital region,1,1,0,prototype_only
+nationalisation,1,1,0,prototype_only
+nationalist congress party,1,1,0,prototype_only
+natural,2,1,1,prototype_and_test
+natural gas,1,1,0,prototype_only
+natural gaurdian,1,1,0,prototype_only
+natural numbers,1,1,0,prototype_only
+nature,1,1,0,prototype_only
+ncp,1,1,0,prototype_only
+near,1,1,0,prototype_only
+nearby,1,1,0,prototype_only
+nearly,1,1,0,prototype_only
+neat,1,1,0,prototype_only
+necessary,1,1,0,prototype_only
+neck,3,1,2,prototype_and_test
+neck band,1,1,0,prototype_only
+necklace,3,1,2,prototype_and_test
+nect tie,2,1,1,prototype_and_test
+need,1,1,0,prototype_only
+needle,2,1,1,prototype_and_test
+negative,2,1,1,prototype_and_test
+negative error,1,1,0,prototype_only
+negligence,1,1,0,prototype_only
+negligent,1,1,0,prototype_only
+negligible,1,1,0,prototype_only
+negogiable instrumemts,1,1,0,prototype_only
+nehru collar,1,1,0,prototype_only
+neighbour,3,1,2,prototype_and_test
+nematode control,1,1,0,prototype_only
+nematology,1,1,0,prototype_only
+nepal,3,1,2,prototype_and_test
+nephew,1,1,0,prototype_only
+neptune,1,1,0,prototype_only
+nervous,4,1,3,prototype_and_test
+nest,2,1,1,prototype_and_test
+net profit,1,1,0,prototype_only
+netaji subhas chandra bose,1,1,0,prototype_only
+netflix,1,1,0,prototype_only
+netherlands,1,1,0,prototype_only
+network,3,1,2,prototype_and_test
+neutral,1,1,0,prototype_only
+neutron,1,1,0,prototype_only
+never,3,1,2,prototype_and_test
+new,2,1,1,prototype_and_test
+new delhi,1,1,0,prototype_only
+new moon day,1,1,0,prototype_only
+new zealand,1,1,0,prototype_only
+newly married,1,1,0,prototype_only
+newly weds,1,1,0,prototype_only
+news,1,1,0,prototype_only
+newspaper,2,1,1,prototype_and_test
+newsreader,1,1,0,prototype_only
+newton,1,1,0,prototype_only
+next,5,1,4,prototype_and_test
+next month,1,1,0,prototype_only
+next week,1,1,0,prototype_only
+next year,1,1,0,prototype_only
+nice,2,1,1,prototype_and_test
+nice to meet you,1,1,0,prototype_only
+niece,1,1,0,prototype_only
+niger,1,1,0,prototype_only
+nigeria,1,1,0,prototype_only
+night,4,1,3,prototype_and_test
+nine,1,1,0,prototype_only
+nineteen,1,1,0,prototype_only
+ninth,1,1,0,prototype_only
+no,2,1,1,prototype_and_test
+no due certificate,1,1,0,prototype_only
+noc,1,1,0,prototype_only
+noise,2,1,1,prototype_and_test
+noise pollution,2,1,1,prototype_and_test
+nokia mobile,1,1,0,prototype_only
+nominal value,1,1,0,prototype_only
+nominate,1,1,0,prototype_only
+nominee,1,1,0,prototype_only
+nomographer,1,1,0,prototype_only
+non,2,1,1,prototype_and_test
+non access,1,1,0,prototype_only
+non infectious disease,1,1,0,prototype_only
+non legal,1,1,0,prototype_only
+non payment,1,1,0,prototype_only
+non vegetarian,1,1,0,prototype_only
+none,1,1,0,prototype_only
+noon,3,1,2,prototype_and_test
+norfolk jacket,1,1,0,prototype_only
+north,3,1,2,prototype_and_test
+north america,1,1,0,prototype_only
+north korea,1,1,0,prototype_only
+north pole,3,1,2,prototype_and_test
+north-east,1,1,0,prototype_only
+norway,1,1,0,prototype_only
+nose,3,1,2,prototype_and_test
+nose stud,2,1,1,prototype_and_test
+not,1,1,0,prototype_only
+not negotiable,1,1,0,prototype_only
+notary public,1,1,0,prototype_only
+notch collar,1,1,0,prototype_only
+note,1,1,0,prototype_only
+note book,1,1,0,prototype_only
+notesheet,1,1,0,prototype_only
+nothing,3,1,2,prototype_and_test
+notice,1,1,0,prototype_only
+notice board,1,1,0,prototype_only
+notification,2,1,1,prototype_and_test
+notify,3,1,2,prototype_and_test
+noun,2,1,1,prototype_and_test
+november,3,1,2,prototype_and_test
+now,2,1,1,prototype_and_test
+nri,1,1,0,prototype_only
+nuclear energy,1,1,0,prototype_only
+nuclear reactor,1,1,0,prototype_only
+nucleus,1,1,0,prototype_only
+number system,1,1,0,prototype_only
+numerical control,1,1,0,prototype_only
+numerous,1,1,0,prototype_only
+numpad,1,1,0,prototype_only
+nuncupative will,1,1,0,prototype_only
+nurse,2,1,1,prototype_and_test
+nut,2,1,1,prototype_and_test
+nutrition,1,1,0,prototype_only
+oath,3,1,2,prototype_and_test
+obedience,1,1,0,prototype_only
+obey,2,1,1,prototype_and_test
+object,1,1,0,prototype_only
+objection,1,1,0,prototype_only
+obligate saprophyte,1,1,0,prototype_only
+observation,1,1,0,prototype_only
+occupation,1,1,0,prototype_only
+octal,1,1,0,prototype_only
+october,4,1,3,prototype_and_test
+octopus,1,1,0,prototype_only
+of,1,1,0,prototype_only
+off season,1,1,0,prototype_only
+off shore banking,1,1,0,prototype_only
+offence,1,1,0,prototype_only
+office,3,1,2,prototype_and_test
+office bearer,1,1,0,prototype_only
+office branch,1,1,0,prototype_only
+office hours,1,1,0,prototype_only
+officer,1,1,0,prototype_only
+officer in charge of jail,1,1,0,prototype_only
+official,4,1,3,prototype_and_test
+officiating,1,1,0,prototype_only
+offline editing,1,1,0,prototype_only
+often,2,1,1,prototype_and_test
+ogle from head to toe,1,1,0,prototype_only
+ohm,1,1,0,prototype_only
+oil,2,1,1,prototype_and_test
+okay,2,1,1,prototype_and_test
+old,4,1,3,prototype_and_test
+older sister,1,1,0,prototype_only
+olericulture,1,1,0,prototype_only
+olympics,1,1,0,prototype_only
+omission,1,1,0,prototype_only
+omit,1,1,0,prototype_only
+on,2,1,1,prototype_and_test
+on cloud nine,1,1,0,prototype_only
+on demand,1,1,0,prototype_only
+on probation,1,1,0,prototype_only
+on the basis of life cycle,1,1,0,prototype_only
+on the basis of major causal agents,1,1,0,prototype_only
+on the basis of propagation,1,1,0,prototype_only
+on the basis of use of pond,1,1,0,prototype_only
+once,1,1,0,prototype_only
+one,1,1,0,prototype_only
+one and a half hours,1,1,0,prototype_only
+one crore,1,1,0,prototype_only
+one lakh,1,1,0,prototype_only
+oneplus mobile,1,1,0,prototype_only
+onion,3,1,2,prototype_and_test
+online,4,1,3,prototype_and_test
+online banking,1,1,0,prototype_only
+online editing,1,1,0,prototype_only
+online shopping,1,1,0,prototype_only
+only,1,1,0,prototype_only
+ooty,2,1,1,prototype_and_test
+opaque,1,1,0,prototype_only
+open,3,1,2,prototype_and_test
+open belt drive,1,1,0,prototype_only
+open circuit,1,1,0,prototype_only
+open dated,1,1,0,prototype_only
+opening balance,1,1,0,prototype_only
+operate an account,1,1,0,prototype_only
+operation,2,1,1,prototype_and_test
+opinion,2,1,1,prototype_and_test
+oppo mobile,1,1,0,prototype_only
+opportunity,1,1,0,prototype_only
+opposite,1,1,0,prototype_only
+opposition,2,1,1,prototype_and_test
+optical character recognition,1,1,0,prototype_only
+optical fiber cable,1,1,0,prototype_only
+option,1,1,0,prototype_only
+opuntia,1,1,0,prototype_only
+orange,5,1,4,prototype_and_test
+orbit,1,1,0,prototype_only
+order,5,1,4,prototype_and_test
+order standing,1,1,0,prototype_only
+organization,1,1,0,prototype_only
+oriental bank of commerce,1,1,0,prototype_only
+original,3,1,2,prototype_and_test
+orissa,1,1,0,prototype_only
+oriya,3,1,2,prototype_and_test
+ornaments,1,1,0,prototype_only
+ornithology,1,1,0,prototype_only
+oscillation,1,1,0,prototype_only
+oscillator,1,1,0,prototype_only
+osclllatory motion,1,1,0,prototype_only
+osmosis,1,1,0,prototype_only
+ostrich,1,1,0,prototype_only
+our,2,1,1,prototype_and_test
+ourselves,1,1,0,prototype_only
+out,1,1,0,prototype_only
+out of print,1,1,0,prototype_only
+out of work,1,1,0,prototype_only
+outdated,1,1,0,prototype_only
+outdo,1,1,0,prototype_only
+outer shell,1,1,0,prototype_only
+output,2,1,1,prototype_and_test
+outside,1,1,0,prototype_only
+outstanding,1,1,0,prototype_only
+outstanding cheque,1,1,0,prototype_only
+outstanding report,1,1,0,prototype_only
+over,3,1,2,prototype_and_test
+over and over again,1,1,0,prototype_only
+over head projector,1,1,0,prototype_only
+over valuation,1,1,0,prototype_only
+over writing,1,1,0,prototype_only
+overall,1,1,0,prototype_only
+overcharge,1,1,0,prototype_only
+overdraft,1,1,0,prototype_only
+overdue,1,1,0,prototype_only
+overleaf,1,1,0,prototype_only
+overseas,1,1,0,prototype_only
+overtime allowance,1,1,0,prototype_only
+ovi viviparous,1,1,0,prototype_only
+oviparous,1,1,0,prototype_only
+owe,1,1,0,prototype_only
+owl,3,1,2,prototype_and_test
+own,1,1,0,prototype_only
+owner,3,1,2,prototype_and_test
+owner cultivated,1,1,0,prototype_only
+ox,1,1,0,prototype_only
+paan,1,1,0,prototype_only
+pacing,1,1,0,prototype_only
+packing credit,1,1,0,prototype_only
+page,1,1,0,prototype_only
+page layout,1,1,0,prototype_only
+paid up capital,1,1,0,prototype_only
+pain,5,1,4,prototype_and_test
+paint,4,1,3,prototype_and_test
+pair,2,1,1,prototype_and_test
+paise,1,1,0,prototype_only
+pakistan,4,1,3,prototype_and_test
+palazo pants,1,1,0,prototype_only
+palm tree,1,1,0,prototype_only
+pamphlet,2,1,1,prototype_and_test
+pan,2,1,1,prototype_and_test
+panaji,2,1,1,prototype_and_test
+panama,1,1,0,prototype_only
+panasonic mobile,1,1,0,prototype_only
+paneer,1,1,0,prototype_only
+panel door,1,1,0,prototype_only
+pani puri,1,1,0,prototype_only
+panic,1,1,0,prototype_only
+pant,2,1,1,prototype_and_test
+papaya,3,1,2,prototype_and_test
+paper,2,1,1,prototype_and_test
+paper clip,2,1,1,prototype_and_test
+pappad,1,1,0,prototype_only
+par - above,1,1,0,prototype_only
+par - at,1,1,0,prototype_only
+par - below,1,1,0,prototype_only
+parachute,1,1,0,prototype_only
+parade,1,1,0,prototype_only
+paragraph,3,1,2,prototype_and_test
+paraguay,1,1,0,prototype_only
+parallel,1,1,0,prototype_only
+parallel circuit,1,1,0,prototype_only
+paramedic,1,1,0,prototype_only
+parameter,1,1,0,prototype_only
+parapet,1,1,0,prototype_only
+paratha,1,1,0,prototype_only
+parcel,1,1,0,prototype_only
+parent,1,1,0,prototype_only
+parent branch,1,1,0,prototype_only
+parental,1,1,0,prototype_only
+parents,2,1,1,prototype_and_test
+parking,2,1,1,prototype_and_test
+parkinsonia aculeata,1,1,0,prototype_only
+parliament,3,1,2,prototype_and_test
+parricide,1,1,0,prototype_only
+parrot,3,1,2,prototype_and_test
+parsi,1,1,0,prototype_only
+part,1,1,0,prototype_only
+part time,1,1,0,prototype_only
+participation,1,1,0,prototype_only
+particular,1,1,0,prototype_only
+particulars,1,1,0,prototype_only
+partly paid,1,1,0,prototype_only
+partnership,1,1,0,prototype_only
+partnership deed,1,1,0,prototype_only
+parts,1,1,0,prototype_only
+party,1,1,0,prototype_only
+pass,4,1,3,prototype_and_test
+pass book,1,1,0,prototype_only
+pass to,1,1,0,prototype_only
+passbook bank,1,1,0,prototype_only
+passbook printing machine,1,1,0,prototype_only
+passing official,1,1,0,prototype_only
+passion,1,1,0,prototype_only
+passive debt,1,1,0,prototype_only
+password,1,1,0,prototype_only
+past,1,1,0,prototype_only
+paste,1,1,0,prototype_only
+pastry,1,1,0,prototype_only
+patience,3,1,2,prototype_and_test
+patna,2,1,1,prototype_and_test
+patriotic,1,1,0,prototype_only
+pause,3,1,2,prototype_and_test
+paw,1,1,0,prototype_only
+paws,1,1,0,prototype_only
+pay,2,1,1,prototype_and_test
+pay in installment,2,1,1,prototype_and_test
+payee,1,1,0,prototype_only
+paying slip,1,1,0,prototype_only
+paytm,2,1,1,prototype_and_test
+paytm payments bank,1,1,0,prototype_only
+pdp,1,1,0,prototype_only
+peacock,4,1,3,prototype_and_test
+peak,2,1,1,prototype_and_test
+peanut,1,1,0,prototype_only
+pear,1,1,0,prototype_only
+peas,3,1,2,prototype_and_test
+peep,1,1,0,prototype_only
+pen,5,1,4,prototype_and_test
+pen drive,2,1,1,prototype_and_test
+penal interest,1,1,0,prototype_only
+penality,1,1,0,prototype_only
+pencil,9,1,8,prototype_and_test
+pencil box,1,1,0,prototype_only
+pencil leg,1,1,0,prototype_only
+pendulum,1,1,0,prototype_only
+penguin,1,1,0,prototype_only
+pentode,1,1,0,prototype_only
+peon,4,1,3,prototype_and_test
+people,1,1,0,prototype_only
+pepper,1,1,0,prototype_only
+per pro,1,1,0,prototype_only
+percentage,3,1,2,prototype_and_test
+perfect,3,1,2,prototype_and_test
+perform,1,1,0,prototype_only
+peril,1,1,0,prototype_only
+period,1,1,0,prototype_only
+period time,1,1,0,prototype_only
+periods,1,1,0,prototype_only
+periscope,1,1,0,prototype_only
+permanent,4,1,3,prototype_and_test
+permission,1,1,0,prototype_only
+permit,1,1,0,prototype_only
+perpendicular,1,1,0,prototype_only
+person,3,1,2,prototype_and_test
+personal,2,1,1,prototype_and_test
+personality,1,1,0,prototype_only
+peru,1,1,0,prototype_only
+peter pan collar,1,1,0,prototype_only
+peteti,1,1,0,prototype_only
+petrol,1,1,0,prototype_only
+pf,1,1,0,prototype_only
+pharmacist,1,1,0,prototype_only
+phone,1,1,0,prototype_only
+photo,1,1,0,prototype_only
+photocopy,1,1,0,prototype_only
+photograph,3,1,2,prototype_and_test
+photographer,1,1,0,prototype_only
+photographic camera,1,1,0,prototype_only
+photographic plate,1,1,0,prototype_only
+photoperiodism,1,1,0,prototype_only
+photosynthesis,1,1,0,prototype_only
+photosynthesis process,1,1,0,prototype_only
+physical balance,1,1,0,prototype_only
+physical training,1,1,0,prototype_only
+physics,2,1,1,prototype_and_test
+piano,1,1,0,prototype_only
+pick,3,1,2,prototype_and_test
+pick axe,1,1,0,prototype_only
+pick stitch,1,1,0,prototype_only
+pickle,2,1,1,prototype_and_test
+pickpocket,1,1,0,prototype_only
+picture,2,1,1,prototype_and_test
+piece,2,1,1,prototype_and_test
+pig,4,1,3,prototype_and_test
+pigments,1,1,0,prototype_only
+pillow,4,1,3,prototype_and_test
+pilot,2,1,1,prototype_and_test
+pin,1,1,0,prototype_only
+pineapple,1,1,0,prototype_only
+pink,3,1,2,prototype_and_test
+pinking shears,1,1,0,prototype_only
+piping,1,1,0,prototype_only
+pisciculture,1,1,0,prototype_only
+pista,1,1,0,prototype_only
+piston,1,1,0,prototype_only
+pizza,2,1,1,prototype_and_test
+place,1,1,0,prototype_only
+plain cement concrete,1,1,0,prototype_only
+plan,2,1,1,prototype_and_test
+plane,1,1,0,prototype_only
+plane concave lens,1,1,0,prototype_only
+plane convex lens,1,1,0,prototype_only
+plane mirror,1,1,0,prototype_only
+planet,3,1,2,prototype_and_test
+plant,1,1,0,prototype_only
+plant physiology,1,1,0,prototype_only
+plant water relation,1,1,0,prototype_only
+plastering,1,1,0,prototype_only
+plastic,2,1,1,prototype_and_test
+plate,4,1,3,prototype_and_test
+play,2,1,1,prototype_and_test
+please,3,1,2,prototype_and_test
+pledge,1,1,0,prototype_only
+plenty,2,1,1,prototype_and_test
+plough,1,1,0,prototype_only
+plug,1,1,0,prototype_only
+plug point,1,1,0,prototype_only
+plum,1,1,0,prototype_only
+plumb bob and line,1,1,0,prototype_only
+plumber,2,1,1,prototype_and_test
+plumbing,1,1,0,prototype_only
+plunger,1,1,0,prototype_only
+pluto,1,1,0,prototype_only
+podium,2,1,1,prototype_and_test
+point,2,1,1,prototype_and_test
+points,1,1,0,prototype_only
+poision,4,1,3,prototype_and_test
+poison,2,1,1,prototype_and_test
+poland,1,1,0,prototype_only
+pole,2,1,1,prototype_and_test
+pole vault,1,1,0,prototype_only
+police,3,1,2,prototype_and_test
+police car,1,1,0,prototype_only
+police station,1,1,0,prototype_only
+policeman,2,1,1,prototype_and_test
+policy,3,1,2,prototype_and_test
+polish,1,1,0,prototype_only
+polisher,1,1,0,prototype_only
+polite,1,1,0,prototype_only
+politician,1,1,0,prototype_only
+politics,1,1,0,prototype_only
+pollution,2,1,1,prototype_and_test
+polo shrit,1,1,0,prototype_only
+polygon tool,1,1,0,prototype_only
+polygraph,1,1,0,prototype_only
+pomegranate,1,1,0,prototype_only
+pond,2,1,1,prototype_and_test
+pond on the basis of situation,1,1,0,prototype_only
+pongal,1,1,0,prototype_only
+poor,2,1,1,prototype_and_test
+popcorn,1,1,0,prototype_only
+ports tab,1,1,0,prototype_only
+portugal,1,1,0,prototype_only
+positive,2,1,1,prototype_and_test
+positive error,1,1,0,prototype_only
+possess,1,1,0,prototype_only
+possible,2,1,1,prototype_and_test
+post,2,1,1,prototype_and_test
+post card,1,1,0,prototype_only
+post dated,1,1,0,prototype_only
+post office,2,1,1,prototype_and_test
+posting,1,1,0,prototype_only
+postman,2,1,1,prototype_and_test
+postpone,1,1,0,prototype_only
+potato,3,1,2,prototype_and_test
+potential,1,1,0,prototype_only
+potential energy,1,1,0,prototype_only
+potentiality,1,1,0,prototype_only
+potentiometer,1,1,0,prototype_only
+potty,1,1,0,prototype_only
+poultry feeds,1,1,0,prototype_only
+poultry mash,1,1,0,prototype_only
+poultry production,1,1,0,prototype_only
+poultry science,1,1,0,prototype_only
+pour,1,1,0,prototype_only
+powder,1,1,0,prototype_only
+power,3,1,2,prototype_and_test
+power duster,1,1,0,prototype_only
+power hacksaw,1,1,0,prototype_only
+power sockets,1,1,0,prototype_only
+powerlines,1,1,0,prototype_only
+practice,2,1,1,prototype_and_test
+practise,2,1,1,prototype_and_test
+praise,5,1,4,prototype_and_test
+pram,1,1,0,prototype_only
+pray,3,1,2,prototype_and_test
+pre paid,1,1,0,prototype_only
+precaution,1,1,0,prototype_only
+predecessor,1,1,0,prototype_only
+predict,1,1,0,prototype_only
+prefer,2,1,1,prototype_and_test
+prejudice,1,1,0,prototype_only
+preliminary,1,1,0,prototype_only
+premature,1,1,0,prototype_only
+premises,1,1,0,prototype_only
+premium,1,1,0,prototype_only
+preposition,1,1,0,prototype_only
+prescribe,1,1,0,prototype_only
+prescription,3,1,2,prototype_and_test
+present,2,1,1,prototype_and_test
+president,1,1,0,prototype_only
+press,1,1,0,prototype_only
+pressure,1,1,0,prototype_only
+pressure cooker,1,1,0,prototype_only
+pressure foot,1,1,0,prototype_only
+pretend,2,1,1,prototype_and_test
+prevent,1,1,0,prototype_only
+preventive measures,1,1,0,prototype_only
+previous,1,1,0,prototype_only
+price,2,1,1,prototype_and_test
+priest,2,1,1,prototype_and_test
+primary,1,1,0,prototype_only
+prime location,1,1,0,prototype_only
+prime minister,2,1,1,prototype_and_test
+principal,3,1,2,prototype_and_test
+print,1,1,0,prototype_only
+printed circuit board,1,1,0,prototype_only
+printer,2,1,1,prototype_and_test
+priority,1,1,0,prototype_only
+prism,1,1,0,prototype_only
+private,1,1,0,prototype_only
+private gardens,1,1,0,prototype_only
+private secretaryps,1,1,0,prototype_only
+prize,2,1,1,prototype_and_test
+pro circle,1,1,0,prototype_only
+probing,1,1,0,prototype_only
+problem,1,1,0,prototype_only
+procedure,1,1,0,prototype_only
+proceeding,1,1,0,prototype_only
+process,4,1,3,prototype_and_test
+produce,1,1,0,prototype_only
+product,1,1,0,prototype_only
+profession,3,1,2,prototype_and_test
+professional,1,1,0,prototype_only
+professor,1,1,0,prototype_only
+profile levelling,1,1,0,prototype_only
+profit,4,1,3,prototype_and_test
+proforma,1,1,0,prototype_only
+program,1,1,0,prototype_only
+programme,3,1,2,prototype_and_test
+progress,1,1,0,prototype_only
+prohibit,1,1,0,prototype_only
+project,1,1,0,prototype_only
+projectile motion,1,1,0,prototype_only
+projector,5,1,4,prototype_and_test
+promise,4,1,3,prototype_and_test
+promisory note,1,1,0,prototype_only
+promote,2,1,1,prototype_and_test
+promotion,5,1,4,prototype_and_test
+prompt action,1,1,0,prototype_only
+pronoun,1,1,0,prototype_only
+proof,3,1,2,prototype_and_test
+propeller pump,1,1,0,prototype_only
+property,2,1,1,prototype_and_test
+property landed,1,1,0,prototype_only
+property public,1,1,0,prototype_only
+property tax,1,1,0,prototype_only
+proprietory,1,1,0,prototype_only
+prosecution,1,1,0,prototype_only
+prospectus,1,1,0,prototype_only
+protect,2,1,1,prototype_and_test
+protest,1,1,0,prototype_only
+proton,1,1,0,prototype_only
+proud,3,1,2,prototype_and_test
+prove,2,1,1,prototype_and_test
+provision,1,1,0,prototype_only
+psychology,1,1,0,prototype_only
+public,2,1,1,prototype_and_test
+public gardens,1,1,0,prototype_only
+publication,1,1,0,prototype_only
+publicity material,1,1,0,prototype_only
+publish,1,1,0,prototype_only
+puducherry,1,1,0,prototype_only
+puja,1,1,0,prototype_only
+pull,1,1,0,prototype_only
+pull someone's leg,1,1,0,prototype_only
+pullet,1,1,0,prototype_only
+pulley,1,1,0,prototype_only
+pump,1,1,0,prototype_only
+pumpkin,2,1,1,prototype_and_test
+punctual,3,1,2,prototype_and_test
+pune,2,1,1,prototype_and_test
+punish,2,1,1,prototype_and_test
+punishment,1,1,0,prototype_only
+punjab,3,1,2,prototype_and_test
+punjab national bank,1,1,0,prototype_only
+punjabi,3,1,2,prototype_and_test
+puppet,1,1,0,prototype_only
+puppet show,1,1,0,prototype_only
+purchase,2,1,1,prototype_and_test
+purchase retum,1,1,0,prototype_only
+pure,2,1,1,prototype_and_test
+puri,1,1,0,prototype_only
+purple flowered plants,1,1,0,prototype_only
+purpose,1,1,0,prototype_only
+push,1,1,0,prototype_only
+put,4,1,3,prototype_and_test
+put up,1,1,0,prototype_only
+puzzle,1,1,0,prototype_only
+pyjama,3,1,2,prototype_and_test
+pyramid,1,1,0,prototype_only
+python,1,1,0,prototype_only
+quadrupedal robot,1,1,0,prototype_only
+qualification,3,1,2,prototype_and_test
+qualification essential,1,1,0,prototype_only
+qualified,1,1,0,prototype_only
+quality,1,1,0,prototype_only
+quantity,4,1,3,prototype_and_test
+quarrel,1,1,0,prototype_only
+quarter,1,1,0,prototype_only
+queen,3,1,2,prototype_and_test
+query,2,1,1,prototype_and_test
+question,2,1,1,prototype_and_test
+questionnaire,1,1,0,prototype_only
+questions,1,1,0,prototype_only
+queue,1,1,0,prototype_only
+quick,1,1,0,prototype_only
+quickly,2,1,1,prototype_and_test
+quiet,1,1,0,prototype_only
+quit,1,1,0,prototype_only
+quota,1,1,0,prototype_only
+quotation,1,1,0,prototype_only
+quote,1,1,0,prototype_only
+quran,1,1,0,prototype_only
+rabbit,2,1,1,prototype_and_test
+rabindranath tagore,1,1,0,prototype_only
+race,1,1,0,prototype_only
+racism,1,1,0,prototype_only
+raddish,1,1,0,prototype_only
+radiation,1,1,0,prototype_only
+radio,4,1,3,prototype_and_test
+radio wave,1,1,0,prototype_only
+radish,1,1,0,prototype_only
+rafter,1,1,0,prototype_only
+raid,1,1,0,prototype_only
+rail road switch,1,1,0,prototype_only
+rail section,1,1,0,prototype_only
+railway hedges,1,1,0,prototype_only
+railway station,2,1,1,prototype_and_test
+railway track,1,1,0,prototype_only
+rain,1,1,0,prototype_only
+rainbow,3,1,2,prototype_and_test
+rainy season vegetables,1,1,0,prototype_only
+raipur,1,1,0,prototype_only
+raise,2,1,1,prototype_and_test
+rajasthan,3,1,2,prototype_and_test
+rajdhani train,2,1,1,prototype_and_test
+rally,1,1,0,prototype_only
+ram,1,1,0,prototype_only
+ram navami,1,1,0,prototype_only
+rama,1,1,0,prototype_only
+ramzan,1,1,0,prototype_only
+ranchi,1,1,0,prototype_only
+random,1,1,0,prototype_only
+random motion,1,1,0,prototype_only
+range,2,1,1,prototype_and_test
+rani of jhansi,1,1,0,prototype_only
+rank,2,1,1,prototype_and_test
+ranveer singh,1,1,0,prototype_only
+rapidly,1,1,0,prototype_only
+rare,1,1,0,prototype_only
+rarely,1,1,0,prototype_only
+rasgulla,1,1,0,prototype_only
+raster graphics,1,1,0,prototype_only
+rat,3,1,2,prototype_and_test
+rate,2,1,1,prototype_and_test
+rate concessional,1,1,0,prototype_only
+rate differential,1,1,0,prototype_only
+ratification,1,1,0,prototype_only
+ratio,2,1,1,prototype_and_test
+rationale,1,1,0,prototype_only
+re acceptable,1,1,0,prototype_only
+re employment,1,1,0,prototype_only
+re endorsed,1,1,0,prototype_only
+re examine,1,1,0,prototype_only
+re issue,1,1,0,prototype_only
+re pledge,1,1,0,prototype_only
+re sale,1,1,0,prototype_only
+reach,2,1,1,prototype_and_test
+reaction,1,1,0,prototype_only
+read,2,1,1,prototype_and_test
+ready,1,1,0,prototype_only
+real,1,1,0,prototype_only
+real estate agent,1,1,0,prototype_only
+real image,1,1,0,prototype_only
+reaper bainder,1,1,0,prototype_only
+reason,2,1,1,prototype_and_test
+reasonable notice,1,1,0,prototype_only
+rebate,1,1,0,prototype_only
+receipt,2,1,1,prototype_and_test
+receive,2,1,1,prototype_and_test
+receiver,1,1,0,prototype_only
+recent,1,1,0,prototype_only
+recently,1,1,0,prototype_only
+reception,4,1,3,prototype_and_test
+recharge,1,1,0,prototype_only
+recognise,1,1,0,prototype_only
+recognised,1,1,0,prototype_only
+recognize,1,1,0,prototype_only
+recommendation,1,1,0,prototype_only
+reconciliation,1,1,0,prototype_only
+reconsider,1,1,0,prototype_only
+record,4,1,3,prototype_and_test
+record video,2,1,1,prototype_and_test
+recover,1,1,0,prototype_only
+recruitment,1,1,0,prototype_only
+rectangle,3,1,2,prototype_and_test
+rectification,1,1,0,prototype_only
+rectifier,1,1,0,prototype_only
+recurring,1,1,0,prototype_only
+recurring deposit,1,1,0,prototype_only
+red,4,1,3,prototype_and_test
+red flowered plants,1,1,0,prototype_only
+red rot of sugarcane,1,1,0,prototype_only
+reduce,4,1,3,prototype_and_test
+refer to drawer,1,1,0,prototype_only
+refinance,1,1,0,prototype_only
+reflection,1,1,0,prototype_only
+reform,1,1,0,prototype_only
+refraction,1,1,0,prototype_only
+refractive index,1,1,0,prototype_only
+refresher course,1,1,0,prototype_only
+refrigerater,1,1,0,prototype_only
+refrigerator,2,1,1,prototype_and_test
+refund,1,1,0,prototype_only
+refusal,1,1,0,prototype_only
+region,1,1,0,prototype_only
+register,1,1,0,prototype_only
+registered,1,1,0,prototype_only
+registered letter,1,1,0,prototype_only
+registrar,1,1,0,prototype_only
+regret,2,1,1,prototype_and_test
+regular,2,1,1,prototype_and_test
+regular vibration,1,1,0,prototype_only
+regularisation,1,1,0,prototype_only
+regulation,1,1,0,prototype_only
+regulator,1,1,0,prototype_only
+rehabilitation,2,1,1,prototype_and_test
+reinforced cement concrete,1,1,0,prototype_only
+reject,1,1,0,prototype_only
+rejoinder,1,1,0,prototype_only
+relative,3,1,2,prototype_and_test
+relay race,2,1,1,prototype_and_test
+release,2,1,1,prototype_and_test
+reliance mobile,1,1,0,prototype_only
+relief,1,1,0,prototype_only
+religion,2,1,1,prototype_and_test
+remember,3,1,2,prototype_and_test
+remind,1,1,0,prototype_only
+reminder,1,1,0,prototype_only
+remittance,1,1,0,prototype_only
+remove,4,1,3,prototype_and_test
+renewal,1,1,0,prototype_only
+renovation,1,1,0,prototype_only
+rent,2,1,1,prototype_and_test
+repair,4,1,3,prototype_and_test
+repairer,1,1,0,prototype_only
+repay,1,1,0,prototype_only
+repeat,1,1,0,prototype_only
+reply,2,1,1,prototype_and_test
+report,1,1,0,prototype_only
+reporter,3,1,2,prototype_and_test
+reproduction,1,1,0,prototype_only
+republic day,1,1,0,prototype_only
+repulsive force,1,1,0,prototype_only
+repurchase,1,1,0,prototype_only
+request,1,1,0,prototype_only
+requirement,2,1,1,prototype_and_test
+requisite,1,1,0,prototype_only
+res,1,1,0,prototype_only
+research,1,1,0,prototype_only
+research farm,1,1,0,prototype_only
+researcher,1,1,0,prototype_only
+reservation,6,1,5,prototype_and_test
+reserve fund,1,1,0,prototype_only
+residence,1,1,0,prototype_only
+residential building,1,1,0,prototype_only
+resign,2,1,1,prototype_and_test
+resignation,1,1,0,prototype_only
+resistor,2,1,1,prototype_and_test
+resolution,1,1,0,prototype_only
+resolve,1,1,0,prototype_only
+resonance,1,1,0,prototype_only
+resources,1,1,0,prototype_only
+respect,2,1,1,prototype_and_test
+responsibility,1,1,0,prototype_only
+responsible,1,1,0,prototype_only
+rest,3,1,2,prototype_and_test
+restart,1,1,0,prototype_only
+restaurant,2,1,1,prototype_and_test
+restore,1,1,0,prototype_only
+restrained,1,1,0,prototype_only
+restricted,1,1,0,prototype_only
+result,4,1,3,prototype_and_test
+resume,1,1,0,prototype_only
+retail,1,1,0,prototype_only
+retain,1,1,0,prototype_only
+retention of moisture,1,1,0,prototype_only
+retire,2,1,1,prototype_and_test
+retum inward,1,1,0,prototype_only
+retum outward,1,1,0,prototype_only
+return,3,1,2,prototype_and_test
+revalidation,1,1,0,prototype_only
+revenue,1,1,0,prototype_only
+reverse,2,1,1,prototype_and_test
+reversible,1,1,0,prototype_only
+review,1,1,0,prototype_only
+revise,1,1,0,prototype_only
+revised,1,1,0,prototype_only
+revolution,1,1,0,prototype_only
+revolve,1,1,0,prototype_only
+revolving chair,1,1,0,prototype_only
+reward,3,1,2,prototype_and_test
+rf osciilator,1,1,0,prototype_only
+rhino,1,1,0,prototype_only
+rhinoceros,1,1,0,prototype_only
+rhinocerous,1,1,0,prototype_only
+rhythmic,1,1,0,prototype_only
+rice,3,1,2,prototype_and_test
+rich,2,1,1,prototype_and_test
+ride,1,1,0,prototype_only
+ridge board,1,1,0,prototype_only
+ridicule,1,1,0,prototype_only
+right,5,1,4,prototype_and_test
+right indent,1,1,0,prototype_only
+right now,1,1,0,prototype_only
+rigid,1,1,0,prototype_only
+rinderpest,1,1,0,prototype_only
+ring,2,1,1,prototype_and_test
+ring spanner,1,1,0,prototype_only
+riots,1,1,0,prototype_only
+rip out,1,1,0,prototype_only
+ripe,1,1,0,prototype_only
+risk,1,1,0,prototype_only
+river,2,1,1,prototype_and_test
+riverine,1,1,0,prototype_only
+rjd,3,1,2,prototype_and_test
+road,1,1,0,prototype_only
+road separator,1,1,0,prototype_only
+roam,1,1,0,prototype_only
+roar,2,1,1,prototype_and_test
+roasters,1,1,0,prototype_only
+rock,3,1,2,prototype_and_test
+rock climbing gujarat,1,1,0,prototype_only
+rock drill machine,1,1,0,prototype_only
+rock gardening,1,1,0,prototype_only
+rockery plants,1,1,0,prototype_only
+rocket,1,1,0,prototype_only
+rocking chair,1,1,0,prototype_only
+role,2,1,1,prototype_and_test
+roll,2,1,1,prototype_and_test
+rollerpaint,1,1,0,prototype_only
+rolls royce,1,1,0,prototype_only
+roof,2,1,1,prototype_and_test
+roof garden,1,1,0,prototype_only
+roof griders,1,1,0,prototype_only
+roofing tiles,1,1,0,prototype_only
+room,3,1,2,prototype_and_test
+rose,2,1,1,prototype_and_test
+rotate,1,1,0,prototype_only
+rotating tool,1,1,0,prototype_only
+rotational,1,1,0,prototype_only
+rotational motion,1,1,0,prototype_only
+roti,1,1,0,prototype_only
+rotten,1,1,0,prototype_only
+rough,2,1,1,prototype_and_test
+rough cut,1,1,0,prototype_only
+roughages,1,1,0,prototype_only
+round,4,1,3,prototype_and_test
+route,2,1,1,prototype_and_test
+routine,1,1,0,prototype_only
+row house,1,1,0,prototype_only
+rowdy,1,1,0,prototype_only
+royal enfield,1,1,0,prototype_only
+rubber,7,1,6,prototype_and_test
+rubber boots,1,1,0,prototype_only
+rubber stamp,1,1,0,prototype_only
+rude,2,1,1,prototype_and_test
+rule,2,1,1,prototype_and_test
+ruler,2,1,1,prototype_and_test
+rum,1,1,0,prototype_only
+run,4,1,3,prototype_and_test
+runner,1,1,0,prototype_only
+running account,1,1,0,prototype_only
+runs,1,1,0,prototype_only
+rupee,1,1,0,prototype_only
+rural development,1,1,0,prototype_only
+russia,3,1,2,prototype_and_test
+ruthless,2,1,1,prototype_and_test
+rwanda,1,1,0,prototype_only
+s.i unit,1,1,0,prototype_only
+sacrifice,1,1,0,prototype_only
+sad,3,1,2,prototype_and_test
+safe,2,1,1,prototype_and_test
+safe guard,1,1,0,prototype_only
+safety goggle,1,1,0,prototype_only
+safety helmet,1,1,0,prototype_only
+sai baba,1,1,0,prototype_only
+sailboat,1,1,0,prototype_only
+sailor,2,1,1,prototype_and_test
+sailor collar,1,1,0,prototype_only
+sailor pants,1,1,0,prototype_only
+saina nehwal,1,1,0,prototype_only
+salary,2,1,1,prototype_and_test
+sales retum,1,1,0,prototype_only
+salesman,1,1,0,prototype_only
+salman khan,1,1,0,prototype_only
+saloon,1,1,0,prototype_only
+salt,2,1,1,prototype_and_test
+salwar kameez,2,1,1,prototype_and_test
+salyx tetra sperma,1,1,0,prototype_only
+same,5,1,4,prototype_and_test
+samosa,1,1,0,prototype_only
+sample,1,1,0,prototype_only
+samsung,1,1,0,prototype_only
+samsung mobile,1,1,0,prototype_only
+san serif,1,1,0,prototype_only
+sanction,1,1,0,prototype_only
+sand,3,1,2,prototype_and_test
+sand paper,1,1,0,prototype_only
+sandwich,4,1,3,prototype_and_test
+sandwitch,1,1,0,prototype_only
+sanitary pad,2,1,1,prototype_and_test
+sanjay dutt,1,1,0,prototype_only
+saprophyte of plants,1,1,0,prototype_only
+saraswati,1,1,0,prototype_only
+sari,4,1,3,prototype_and_test
+sarong skirt,1,1,0,prototype_only
+sarvepalli radhakrishnan,1,1,0,prototype_only
+satellites,1,1,0,prototype_only
+satisfactory,1,1,0,prototype_only
+satisfied,2,1,1,prototype_and_test
+saturday,6,1,5,prototype_and_test
+sauce,1,1,0,prototype_only
+saudi arabia,1,1,0,prototype_only
+save,1,1,0,prototype_only
+saw,1,1,0,prototype_only
+sc,1,1,0,prototype_only
+scales of pay,1,1,0,prototype_only
+scalpel,1,1,0,prototype_only
+scan,1,1,0,prototype_only
+scared,1,1,0,prototype_only
+scent,3,1,2,prototype_and_test
+schedule,1,1,0,prototype_only
+schematic,1,1,0,prototype_only
+school,2,1,1,prototype_and_test
+school bag,2,1,1,prototype_and_test
+school bus,1,1,0,prototype_only
+school uniform,1,1,0,prototype_only
+science,2,1,1,prototype_and_test
+scientist,1,1,0,prototype_only
+scissors,2,1,1,prototype_and_test
+scold,2,1,1,prototype_and_test
+scooter,1,1,0,prototype_only
+scope,1,1,0,prototype_only
+score,1,1,0,prototype_only
+scorpion,1,1,0,prototype_only
+scotland,1,1,0,prototype_only
+scraping,1,1,0,prototype_only
+scratch,4,1,3,prototype_and_test
+scream,1,1,0,prototype_only
+screen,1,1,0,prototype_only
+screw driver,1,1,0,prototype_only
+screw guage,1,1,0,prototype_only
+scribe,1,1,0,prototype_only
+script,1,1,0,prototype_only
+sculptor,2,1,1,prototype_and_test
+sculpture,1,1,0,prototype_only
+sea,3,1,2,prototype_and_test
+seal,1,1,0,prototype_only
+seam allowance,1,1,0,prototype_only
+seam ripper,1,1,0,prototype_only
+seamline pocket,1,1,0,prototype_only
+search,2,1,1,prototype_and_test
+season,2,1,1,prototype_and_test
+seat,1,1,0,prototype_only
+second,2,1,1,prototype_and_test
+secondary,1,1,0,prototype_only
+secondary tillage,1,1,0,prototype_only
+seconds,1,1,0,prototype_only
+secret,3,1,2,prototype_and_test
+secretary,1,1,0,prototype_only
+section,1,1,0,prototype_only
+section  admin,1,1,0,prototype_only
+sector,1,1,0,prototype_only
+security,1,1,0,prototype_only
+security continuing,1,1,0,prototype_only
+security convertible,1,1,0,prototype_only
+security deposit,1,1,0,prototype_only
+security guard,1,1,0,prototype_only
+see,4,1,3,prototype_and_test
+see you tomorrow,1,1,0,prototype_only
+seed,4,1,3,prototype_and_test
+seizure,1,1,0,prototype_only
+select,2,1,1,prototype_and_test
+selection grade,1,1,0,prototype_only
+selective,1,1,0,prototype_only
+self,2,1,1,prototype_and_test
+self balancing,2,1,1,prototype_and_test
+self employed,1,1,0,prototype_only
+self explanatory,1,1,0,prototype_only
+self-reflect,1,1,0,prototype_only
+selfish,2,1,1,prototype_and_test
+sell,2,1,1,prototype_and_test
+semi aniline skin,1,1,0,prototype_only
+semi solid,1,1,0,prototype_only
+semi urban,1,1,0,prototype_only
+semicircle,1,1,0,prototype_only
+seminar,1,1,0,prototype_only
+send,2,1,1,prototype_and_test
+seniority,1,1,0,prototype_only
+sentence,2,1,1,prototype_and_test
+separate,4,1,3,prototype_and_test
+september,5,1,4,prototype_and_test
+sequential,2,1,1,prototype_and_test
+serial killer,1,1,0,prototype_only
+serial tv,2,1,1,prototype_and_test
+servant,2,1,1,prototype_and_test
+serve,1,1,0,prototype_only
+service,2,1,1,prototype_and_test
+sesbenia aegyptiaca,1,1,0,prototype_only
+set,1,1,0,prototype_only
+setting of cement,1,1,0,prototype_only
+settle,1,1,0,prototype_only
+seven,1,1,0,prototype_only
+seventeen,1,1,0,prototype_only
+seventh,1,1,0,prototype_only
+seventy,1,1,0,prototype_only
+sever,1,1,0,prototype_only
+severally,2,1,1,prototype_and_test
+sewing machine,1,1,0,prototype_only
+sex,1,1,0,prototype_only
+sexual reproduction,1,1,0,prototype_only
+seychelles,1,1,0,prototype_only
+shade,1,1,0,prototype_only
+shaft,1,1,0,prototype_only
+shake,1,1,0,prototype_only
+shallow,2,1,1,prototype_and_test
+shank button,1,1,0,prototype_only
+shape,2,1,1,prototype_and_test
+sharbat,1,1,0,prototype_only
+share,4,1,3,prototype_and_test
+share capital,1,1,0,prototype_only
+share equity,1,1,0,prototype_only
+share holder,1,1,0,prototype_only
+share market,2,1,1,prototype_and_test
+share preference,1,1,0,prototype_only
+shares redeemable,1,1,0,prototype_only
+shark,1,1,0,prototype_only
+sharp,1,1,0,prototype_only
+sharpener,2,1,1,prototype_and_test
+sharpening stone,1,1,0,prototype_only
+shatabdi express,1,1,0,prototype_only
+shave,1,1,0,prototype_only
+shaving blade,1,1,0,prototype_only
+shaving brush,1,1,0,prototype_only
+shaving razor,2,1,1,prototype_and_test
+shaving trimmer,1,1,0,prototype_only
+shawl,4,1,3,prototype_and_test
+she,2,1,1,prototype_and_test
+shearling,1,1,0,prototype_only
+shears,1,1,0,prototype_only
+sheep,4,1,3,prototype_and_test
+sheet charge,1,1,0,prototype_only
+shell top,1,1,0,prototype_only
+shield,1,1,0,prototype_only
+shift,2,1,1,prototype_and_test
+shillong,1,1,0,prototype_only
+shimla,2,1,1,prototype_and_test
+shine,4,1,3,prototype_and_test
+ship,1,1,0,prototype_only
+shipment,1,1,0,prototype_only
+shipping freight,1,1,0,prototype_only
+shipping order,1,1,0,prototype_only
+shirt,2,1,1,prototype_and_test
+shiv sena,1,1,0,prototype_only
+shiva,1,1,0,prototype_only
+shock,2,1,1,prototype_and_test
+shocked,1,1,0,prototype_only
+shoe,2,1,1,prototype_and_test
+shoes,1,1,0,prototype_only
+shoot,3,1,2,prototype_and_test
+shooting,2,1,1,prototype_and_test
+shop,3,1,2,prototype_and_test
+shopkeeper,2,1,1,prototype_and_test
+short,2,1,1,prototype_and_test
+short term,1,1,0,prototype_only
+shortage,1,1,0,prototype_only
+should,2,1,1,prototype_and_test
+shoulder,3,1,2,prototype_and_test
+shoulder pads,1,1,0,prototype_only
+show,2,1,1,prototype_and_test
+show cause,1,1,0,prototype_only
+shower,1,1,0,prototype_only
+shrubs,1,1,0,prototype_only
+shutdown,1,1,0,prototype_only
+shy,3,1,2,prototype_and_test
+si,1,1,0,prototype_only
+sibling,1,1,0,prototype_only
+sick,6,1,5,prototype_and_test
+sick unit,1,1,0,prototype_only
+side,1,1,0,prototype_only
+side mirror,1,1,0,prototype_only
+sight bill,1,1,0,prototype_only
+sightseeing,1,1,0,prototype_only
+sign,2,1,1,prototype_and_test
+sign language,1,1,0,prototype_only
+signal,1,1,0,prototype_only
+signatory,1,1,0,prototype_only
+signature,1,1,0,prototype_only
+sikh,2,1,1,prototype_and_test
+sikhism,2,1,1,prototype_and_test
+sikkim,1,1,0,prototype_only
+silk,4,1,3,prototype_and_test
+silver,4,1,3,prototype_and_test
+sim card,1,1,0,prototype_only
+similar,4,1,3,prototype_and_test
+simple  microscope,1,1,0,prototype_only
+simultaneous,2,1,1,prototype_and_test
+since,1,1,0,prototype_only
+sing,2,1,1,prototype_and_test
+singapore,3,1,2,prototype_and_test
+singer,1,1,0,prototype_only
+single entry,1,1,0,prototype_only
+single owner,1,1,0,prototype_only
+sink,2,1,1,prototype_and_test
+sister,3,1,2,prototype_and_test
+sit,4,1,3,prototype_and_test
+sitar,1,1,0,prototype_only
+site,1,1,0,prototype_only
+situation,1,1,0,prototype_only
+six,2,1,1,prototype_and_test
+six monthly,1,1,0,prototype_only
+sixteen,1,1,0,prototype_only
+sixty,1,1,0,prototype_only
+size,4,1,3,prototype_and_test
+size of seed,1,1,0,prototype_only
+skating,1,1,0,prototype_only
+skiing,1,1,0,prototype_only
+skilled labour,1,1,0,prototype_only
+skin,3,1,2,prototype_and_test
+skip,1,1,0,prototype_only
+skirt,3,1,2,prototype_and_test
+sky,2,1,1,prototype_and_test
+slap,2,1,1,prototype_and_test
+sleep,3,1,2,prototype_and_test
+sleepwalker,1,1,0,prototype_only
+sleeve band,1,1,0,prototype_only
+sleeve board,1,1,0,prototype_only
+slim,1,1,0,prototype_only
+sling bag,1,1,0,prototype_only
+slip,2,1,1,prototype_and_test
+slippers,1,1,0,prototype_only
+slope,1,1,0,prototype_only
+sloped roof,1,1,0,prototype_only
+slovakia,1,1,0,prototype_only
+slow,2,1,1,prototype_and_test
+slow passenger train,1,1,0,prototype_only
+slower,1,1,0,prototype_only
+sly,2,1,1,prototype_and_test
+small,2,1,1,prototype_and_test
+small coin depot,1,1,0,prototype_only
+small enterprise,1,1,0,prototype_only
+small farmer,1,1,0,prototype_only
+small pox,2,1,1,prototype_and_test
+small savings scheme,1,1,0,prototype_only
+smallpox,1,1,0,prototype_only
+smart,1,1,0,prototype_only
+smell,4,1,3,prototype_and_test
+smile,2,1,1,prototype_and_test
+smog,1,1,0,prototype_only
+smoke,1,1,0,prototype_only
+smooth,1,1,0,prototype_only
+sms notification,1,1,0,prototype_only
+snail,2,1,1,prototype_and_test
+snake,2,1,1,prototype_and_test
+snakes,1,1,0,prototype_only
+snip,1,1,0,prototype_only
+snow,3,1,2,prototype_and_test
+soap,2,1,1,prototype_and_test
+sob,1,1,0,prototype_only
+social,2,1,1,prototype_and_test
+social society,1,1,0,prototype_only
+society,1,1,0,prototype_only
+society co,1,1,0,prototype_only
+society marketing,1,1,0,prototype_only
+socket,1,1,0,prototype_only
+socks,5,1,4,prototype_and_test
+sofa,3,1,2,prototype_and_test
+soft,2,1,1,prototype_and_test
+software developer,1,1,0,prototype_only
+soil,1,1,0,prototype_only
+soil borne disease,1,1,0,prototype_only
+soil physics,1,1,0,prototype_only
+soil survey,1,1,0,prototype_only
+soiled note,1,1,0,prototype_only
+solar eclipse,1,1,0,prototype_only
+solar energy,1,1,0,prototype_only
+solar system,1,1,0,prototype_only
+soldering flux,1,1,0,prototype_only
+soldering iron,1,1,0,prototype_only
+soldering lead,1,1,0,prototype_only
+soldier,2,1,1,prototype_and_test
+solicitor,1,1,0,prototype_only
+solid,2,1,1,prototype_and_test
+solld fueis,1,1,0,prototype_only
+solo,1,1,0,prototype_only
+solve,2,1,1,prototype_and_test
+some,2,1,1,prototype_and_test
+something,1,1,0,prototype_only
+sometimes,3,1,2,prototype_and_test
+son,3,1,2,prototype_and_test
+sony mobile,1,1,0,prototype_only
+soon,1,1,0,prototype_only
+sorry,4,1,3,prototype_and_test
+sotar,1,1,0,prototype_only
+soul,1,1,0,prototype_only
+sound,2,1,1,prototype_and_test
+soup,2,1,1,prototype_and_test
+source,1,1,0,prototype_only
+south,2,1,1,prototype_and_test
+south africa,1,1,0,prototype_only
+south america,2,1,1,prototype_and_test
+south indian bank,1,1,0,prototype_only
+south korea,1,1,0,prototype_only
+south poie,1,1,0,prototype_only
+south pole,1,1,0,prototype_only
+southern hemisphere,1,1,0,prototype_only
+sow,1,1,0,prototype_only
+sp,1,1,0,prototype_only
+space,1,1,0,prototype_only
+spain,1,1,0,prototype_only
+spanner,2,1,1,prototype_and_test
+sparrow,2,1,1,prototype_and_test
+spastic,1,1,0,prototype_only
+speak,1,1,0,prototype_only
+special,3,1,2,prototype_and_test
+specialist,1,1,0,prototype_only
+specific,1,1,0,prototype_only
+specimen,1,1,0,prototype_only
+specimen signature,1,1,0,prototype_only
+speclfic heat,1,1,0,prototype_only
+spectacles,1,1,0,prototype_only
+spectrometer,1,1,0,prototype_only
+spectrum,1,1,0,prototype_only
+speech,1,1,0,prototype_only
+speech therapist,2,1,1,prototype_and_test
+speed,1,1,0,prototype_only
+spend,1,1,0,prototype_only
+spendthrift,1,1,0,prototype_only
+sperm,1,1,0,prototype_only
+sphere,4,1,3,prototype_and_test
+spherical mirror,1,1,0,prototype_only
+spherical structure,1,1,0,prototype_only
+spice jet,1,1,0,prototype_only
+spider,2,1,1,prototype_and_test
+spill,1,1,0,prototype_only
+spilt,1,1,0,prototype_only
+spiral,1,1,0,prototype_only
+split,1,1,0,prototype_only
+split pulley,1,1,0,prototype_only
+spoil,2,1,1,prototype_and_test
+spoken,1,1,0,prototype_only
+spoon,2,1,1,prototype_and_test
+sports,1,1,0,prototype_only
+spot,1,1,0,prototype_only
+spot and forward,1,1,0,prototype_only
+spot exchange,1,1,0,prototype_only
+spot price,1,1,0,prototype_only
+spring,1,1,0,prototype_only
+spring washer,1,1,0,prototype_only
+spur,1,1,0,prototype_only
+square,3,1,2,prototype_and_test
+squeeze,1,1,0,prototype_only
+squirrel,2,1,1,prototype_and_test
+squrriel,1,1,0,prototype_only
+sri lanka,1,1,0,prototype_only
+st,1,1,0,prototype_only
+stabilisation,1,1,0,prototype_only
+staff,1,1,0,prototype_only
+stage,1,1,0,prototype_only
+stags,1,1,0,prototype_only
+stair tread,1,1,0,prototype_only
+stairs,1,1,0,prototype_only
+stamp,1,1,0,prototype_only
+stand,2,1,1,prototype_and_test
+standard,2,1,1,prototype_and_test
+standardization,1,1,0,prototype_only
+stapler,1,1,0,prototype_only
+stapoo,1,1,0,prototype_only
+star,3,1,2,prototype_and_test
+stare,1,1,0,prototype_only
+starfish,1,1,0,prototype_only
+stars,2,1,1,prototype_and_test
+start,4,1,3,prototype_and_test
+startle,1,1,0,prototype_only
+starve,1,1,0,prototype_only
+state,2,1,1,prototype_and_test
+state bank of india,1,1,0,prototype_only
+statement,1,1,0,prototype_only
+statement of account,1,1,0,prototype_only
+statement of liquidation,1,1,0,prototype_only
+states,1,1,0,prototype_only
+static electricity,1,1,0,prototype_only
+stationary work,1,1,0,prototype_only
+stationery,2,1,1,prototype_and_test
+statistics,2,1,1,prototype_and_test
+statlonary wave,1,1,0,prototype_only
+stay,2,1,1,prototype_and_test
+std,1,1,0,prototype_only
+steady current,1,1,0,prototype_only
+steam tractor,1,1,0,prototype_only
+stearn engine,1,1,0,prototype_only
+steel,3,1,2,prototype_and_test
+steel rack,1,1,0,prototype_only
+steering wheel,1,1,0,prototype_only
+stepdown transformer,1,1,0,prototype_only
+stepup transformer,1,1,0,prototype_only
+stick,1,1,0,prototype_only
+still,1,1,0,prototype_only
+stingy,1,1,0,prototype_only
+stink,1,1,0,prototype_only
+stir,1,1,0,prototype_only
+stir up,1,1,0,prototype_only
+stitch,1,1,0,prototype_only
+stock,1,1,0,prototype_only
+stock book,1,1,0,prototype_only
+stock chart,1,1,0,prototype_only
+stock closing,1,1,0,prototype_only
+stock in hand,1,1,0,prototype_only
+stock opening,1,1,0,prototype_only
+stomach,1,1,0,prototype_only
+stone,3,1,2,prototype_and_test
+stone masonry,1,1,0,prototype_only
+stop,3,1,2,prototype_and_test
+stop gap,1,1,0,prototype_only
+storage,1,1,0,prototype_only
+store,2,1,1,prototype_and_test
+storey skyscraper,2,1,1,prototype_and_test
+storm,1,1,0,prototype_only
+story,2,1,1,prototype_and_test
+stove,2,1,1,prototype_and_test
+straight,3,1,2,prototype_and_test
+straight forward,1,1,0,prototype_only
+strain,1,1,0,prototype_only
+strange,1,1,0,prototype_only
+streaming,1,1,0,prototype_only
+strength,2,1,1,prototype_and_test
+stress,1,1,0,prototype_only
+stressed,1,1,0,prototype_only
+stretch,1,1,0,prototype_only
+strict,2,1,1,prototype_and_test
+strike,1,1,0,prototype_only
+strong,3,1,2,prototype_and_test
+strong room,1,1,0,prototype_only
+stubborn,1,1,0,prototype_only
+stuck,1,1,0,prototype_only
+student,2,1,1,prototype_and_test
+study,2,1,1,prototype_and_test
+stumps,1,1,0,prototype_only
+stupid,2,1,1,prototype_and_test
+style,1,1,0,prototype_only
+sub directory,1,1,0,prototype_only
+sub division,1,1,0,prototype_only
+sub head,1,1,0,prototype_only
+sub lease,1,1,0,prototype_only
+subdivision,1,1,0,prototype_only
+subhas chandra bose,1,1,0,prototype_only
+subject matter,1,1,0,prototype_only
+submerged weeds,1,1,0,prototype_only
+submersible pump,1,1,0,prototype_only
+submission,1,1,0,prototype_only
+subordinate,1,1,0,prototype_only
+subscription,1,1,0,prototype_only
+subsidy,1,1,0,prototype_only
+subtract,2,1,1,prototype_and_test
+subway,1,1,0,prototype_only
+success,1,1,0,prototype_only
+succession,1,1,0,prototype_only
+sudan,1,1,0,prototype_only
+sudden,1,1,0,prototype_only
+sue,1,1,0,prototype_only
+suffer,1,1,0,prototype_only
+sufficient,1,1,0,prototype_only
+sugar,3,1,2,prototype_and_test
+sugarcane,1,1,0,prototype_only
+suggest,1,1,0,prototype_only
+sum,1,1,0,prototype_only
+summary,2,1,1,prototype_and_test
+summer,1,1,0,prototype_only
+summon,1,1,0,prototype_only
+summons,1,1,0,prototype_only
+sun,3,1,2,prototype_and_test
+sunday,7,1,6,prototype_and_test
+sundry,1,1,0,prototype_only
+sundry creditors,1,1,0,prototype_only
+sundry debtors,1,1,0,prototype_only
+sunflower,3,1,2,prototype_and_test
+sunlight,1,1,0,prototype_only
+sunny,1,1,0,prototype_only
+sunrise,3,1,2,prototype_and_test
+sunset,3,1,2,prototype_and_test
+super,1,1,0,prototype_only
+super computer,1,1,0,prototype_only
+superfast express,1,1,0,prototype_only
+superficial,2,1,1,prototype_and_test
+superman,1,1,0,prototype_only
+superposltion,1,1,0,prototype_only
+supersession,1,1,0,prototype_only
+superstition,1,1,0,prototype_only
+supervise,1,1,0,prototype_only
+supervision,1,1,0,prototype_only
+supervisor,1,1,0,prototype_only
+supplementary,1,1,0,prototype_only
+supply,1,1,0,prototype_only
+support,2,1,1,prototype_and_test
+suppress,1,1,0,prototype_only
+supreme court,1,1,0,prototype_only
+surat,2,1,1,prototype_and_test
+surcharge,1,1,0,prototype_only
+surface erosion,1,1,0,prototype_only
+surface runoff,1,1,0,prototype_only
+surface water,1,1,0,prototype_only
+surgeon,2,1,1,prototype_and_test
+surname,2,1,1,prototype_and_test
+surprise,2,1,1,prototype_and_test
+surprised,1,1,0,prototype_only
+surrender,1,1,0,prototype_only
+surrounding,1,1,0,prototype_only
+survey,1,1,0,prototype_only
+survivorship,1,1,0,prototype_only
+suspect,4,1,3,prototype_and_test
+suspend,1,1,0,prototype_only
+suspend payment,1,1,0,prototype_only
+suzuki car,1,1,0,prototype_only
+swallow,4,1,3,prototype_and_test
+swap,1,1,0,prototype_only
+swaziland,1,1,0,prototype_only
+swear,1,1,0,prototype_only
+sweat,3,1,2,prototype_and_test
+sweater,4,1,3,prototype_and_test
+sweden,1,1,0,prototype_only
+sweep,2,1,1,prototype_and_test
+sweet,3,1,2,prototype_and_test
+sweet lime,2,1,1,prototype_and_test
+sweetlime,1,1,0,prototype_only
+sweets,1,1,0,prototype_only
+swift,1,1,0,prototype_only
+swim,2,1,1,prototype_and_test
+swimming,1,1,0,prototype_only
+swine farming,1,1,0,prototype_only
+swing,3,1,2,prototype_and_test
+switch,3,1,2,prototype_and_test
+switch box,1,1,0,prototype_only
+switzerland,1,1,0,prototype_only
+symbol,1,1,0,prototype_only
+sympathy,1,1,0,prototype_only
+symptoms of nematode diseases of plants,1,1,0,prototype_only
+syndication,1,1,0,prototype_only
+syria,1,1,0,prototype_only
+system,2,1,1,prototype_and_test
+system of feeding poultry,1,1,0,prototype_only
+systemic disease,1,1,0,prototype_only
+tabala,1,1,0,prototype_only
+tabernaemontana coronaria,1,1,0,prototype_only
+table,3,1,2,prototype_and_test
+table tennis,2,1,1,prototype_and_test
+tablet,1,1,0,prototype_only
+tagetus,1,1,0,prototype_only
+tail,2,1,1,prototype_and_test
+tailer,1,1,0,prototype_only
+tailor,2,1,1,prototype_and_test
+taiwan,1,1,0,prototype_only
+taj hotel,1,1,0,prototype_only
+taj mahal,1,1,0,prototype_only
+take,2,1,1,prototype_and_test
+take a bath,1,1,0,prototype_only
+take a photo,1,1,0,prototype_only
+take home pay,1,1,0,prototype_only
+take hours at something,1,1,0,prototype_only
+take over,1,1,0,prototype_only
+talk,3,1,2,prototype_and_test
+tall,5,1,4,prototype_and_test
+tall ornamental hedges,1,1,0,prototype_only
+tall protective hedges,1,1,0,prototype_only
+tall shrubs,1,1,0,prototype_only
+tally,2,1,1,prototype_and_test
+taluk,1,1,0,prototype_only
+tamarix gallica,1,1,0,prototype_only
+tamil,3,1,2,prototype_and_test
+tamil nadu,2,1,1,prototype_and_test
+tanzania,1,1,0,prototype_only
+tap,2,1,1,prototype_and_test
+tape,1,1,0,prototype_only
+target,2,1,1,prototype_and_test
+tariff,1,1,0,prototype_only
+task force,1,1,0,prototype_only
+task wage,1,1,0,prototype_only
+taste,4,1,3,prototype_and_test
+tata car,1,1,0,prototype_only
+tata mobile,1,1,0,prototype_only
+tattoo,1,1,0,prototype_only
+tax,2,1,1,prototype_and_test
+tax exemption,1,1,0,prototype_only
+tax profession,1,1,0,prototype_only
+tax property,1,1,0,prototype_only
+taxable,1,1,0,prototype_only
+taxi,2,1,1,prototype_and_test
+tea,2,1,1,prototype_and_test
+teach,3,1,2,prototype_and_test
+teacher,2,1,1,prototype_and_test
+team,2,1,1,prototype_and_test
+tear sheet,1,1,0,prototype_only
+tease,2,1,1,prototype_and_test
+teaser bull,1,1,0,prototype_only
+technician,2,1,1,prototype_and_test
+technoiogy,1,1,0,prototype_only
+technology,1,1,0,prototype_only
+tecoma stans,1,1,0,prototype_only
+teeth,2,1,1,prototype_and_test
+telangana,2,1,1,prototype_and_test
+telegram,1,1,0,prototype_only
+telephone,2,1,1,prototype_and_test
+telescope,1,1,0,prototype_only
+television,3,1,2,prototype_and_test
+tell,2,1,1,prototype_and_test
+teller,1,1,0,prototype_only
+telugu,2,1,1,prototype_and_test
+temperate fruits,1,1,0,prototype_only
+temperature,4,1,3,prototype_and_test
+temple,2,1,1,prototype_and_test
+temporary,3,1,2,prototype_and_test
+ten,1,1,0,prototype_only
+ten thousand,1,1,0,prototype_only
+tenancy,1,1,0,prototype_only
+tender,1,1,0,prototype_only
+tennis,2,1,1,prototype_and_test
+tension,1,1,0,prototype_only
+term of office,1,1,0,prototype_only
+term technical,1,1,0,prototype_only
+terminate,1,1,0,prototype_only
+terms of service,1,1,0,prototype_only
+terrace,2,1,1,prototype_and_test
+territorial,1,1,0,prototype_only
+terrorist,1,1,0,prototype_only
+test,1,1,0,prototype_only
+testament,1,1,0,prototype_only
+testify,2,1,1,prototype_and_test
+thailand,1,1,0,prototype_only
+thank you,6,1,5,prototype_and_test
+that,2,1,1,prototype_and_test
+thatched roof,1,1,0,prototype_only
+theatre,1,1,0,prototype_only
+their,1,1,0,prototype_only
+theirs,1,1,0,prototype_only
+them,1,1,0,prototype_only
+themselves,2,1,1,prototype_and_test
+then,2,1,1,prototype_and_test
+therapist,1,1,0,prototype_only
+there,2,1,1,prototype_and_test
+thermal,1,1,0,prototype_only
+thermal energy,1,1,0,prototype_only
+thermometer,4,1,3,prototype_and_test
+thermostat,1,1,0,prototype_only
+these,1,1,0,prototype_only
+thevetia neriefolia,1,1,0,prototype_only
+they,2,1,1,prototype_and_test
+thick,1,1,0,prototype_only
+thief,2,1,1,prototype_and_test
+thigh,1,1,0,prototype_only
+thin,2,1,1,prototype_and_test
+things,3,1,2,prototype_and_test
+think,3,1,2,prototype_and_test
+third,1,1,0,prototype_only
+third party,1,1,0,prototype_only
+thirsty,1,1,0,prototype_only
+thirteen,1,1,0,prototype_only
+thirty,1,1,0,prototype_only
+thiruvananthapuram,1,1,0,prototype_only
+this,3,1,2,prototype_and_test
+thorn,2,1,1,prototype_and_test
+those,1,1,0,prototype_only
+thousand,1,1,0,prototype_only
+thread,1,1,0,prototype_only
+thread gauge,1,1,0,prototype_only
+threading,1,1,0,prototype_only
+three,1,1,0,prototype_only
+three days after,1,1,0,prototype_only
+three days before,1,1,0,prototype_only
+thrice,2,1,1,prototype_and_test
+thriff,1,1,0,prototype_only
+throat,3,1,2,prototype_and_test
+throat plate,1,1,0,prototype_only
+through,1,1,0,prototype_only
+throw,2,1,1,prototype_and_test
+thumb impression,1,1,0,prototype_only
+thumb lunula,1,1,0,prototype_only
+thunder,1,1,0,prototype_only
+thursday,11,1,10,prototype_and_test
+ticket,1,1,0,prototype_only
+ticket checker,1,1,0,prototype_only
+tie,2,1,1,prototype_and_test
+tiffin,1,1,0,prototype_only
+tiffin box,1,1,0,prototype_only
+tiger,2,1,1,prototype_and_test
+tight,3,1,2,prototype_and_test
+tight money  market,1,1,0,prototype_only
+tight tracking,1,1,0,prototype_only
+tiles cutter,1,1,0,prototype_only
+tiller,1,1,0,prototype_only
+tilts,1,1,0,prototype_only
+time,3,1,2,prototype_and_test
+time bound,1,1,0,prototype_only
+time limit,1,1,0,prototype_only
+time table,2,1,1,prototype_and_test
+timid,1,1,0,prototype_only
+tinda,2,1,1,prototype_and_test
+tipped tool,1,1,0,prototype_only
+tired,2,1,1,prototype_and_test
+title,1,1,0,prototype_only
+title bar,1,1,0,prototype_only
+tldal energy,1,1,0,prototype_only
+to,1,1,0,prototype_only
+to consumers,1,1,0,prototype_only
+to retailers,1,1,0,prototype_only
+toast,1,1,0,prototype_only
+toaster,1,1,0,prototype_only
+today,3,1,2,prototype_and_test
+toenail,1,1,0,prototype_only
+toes,2,1,1,prototype_and_test
+toffee,1,1,0,prototype_only
+together,2,1,1,prototype_and_test
+toggle button,1,1,0,prototype_only
+toilet,3,1,2,prototype_and_test
+tolerate,2,1,1,prototype_and_test
+tom and jerry,1,1,0,prototype_only
+tomato,1,1,0,prototype_only
+tomorrow,3,1,2,prototype_and_test
+tongs,3,1,2,prototype_and_test
+tongue,3,1,2,prototype_and_test
+tonic,3,1,2,prototype_and_test
+tonight,1,1,0,prototype_only
+tool,2,1,1,prototype_and_test
+tool belt,1,1,0,prototype_only
+tool box,1,1,0,prototype_only
+tooth,1,1,0,prototype_only
+toothbrush,3,1,2,prototype_and_test
+toothpaste,2,1,1,prototype_and_test
+toothpick,1,1,0,prototype_only
+top,2,1,1,prototype_and_test
+top management,1,1,0,prototype_only
+topic,1,1,0,prototype_only
+torch,3,1,2,prototype_and_test
+tornado,1,1,0,prototype_only
+tortoise,5,1,4,prototype_and_test
+total,2,1,1,prototype_and_test
+total energy,1,1,0,prototype_only
+touch,2,1,1,prototype_and_test
+touchscreen,1,1,0,prototype_only
+tour,1,1,0,prototype_only
+towards,1,1,0,prototype_only
+towel,2,1,1,prototype_and_test
+town,3,1,2,prototype_and_test
+toy,1,1,0,prototype_only
+toyota,1,1,0,prototype_only
+track,1,1,0,prototype_only
+track ball,1,1,0,prototype_only
+tractive work,1,1,0,prototype_only
+tractor,3,1,2,prototype_and_test
+trade,2,1,1,prototype_and_test
+trade discount,1,1,0,prototype_only
+trader,1,1,0,prototype_only
+traditional,1,1,0,prototype_only
+traffic,1,1,0,prototype_only
+traffic lights,1,1,0,prototype_only
+train,4,1,3,prototype_and_test
+training,1,1,0,prototype_only
+transaction,1,1,0,prototype_only
+transcription,1,1,0,prototype_only
+transfer,2,1,1,prototype_and_test
+transfer fee,1,1,0,prototype_only
+transformation of energy,1,1,0,prototype_only
+transformer,1,1,0,prototype_only
+transgender,1,1,0,prototype_only
+transistor,1,1,0,prototype_only
+translate,2,1,1,prototype_and_test
+translation of motion,1,1,0,prototype_only
+translator,1,1,0,prototype_only
+transparent,3,1,2,prototype_and_test
+transport,1,1,0,prototype_only
+transverse wave,1,1,0,prototype_only
+travel,3,1,2,prototype_and_test
+treasury,1,1,0,prototype_only
+tree,4,1,3,prototype_and_test
+tri square,1,1,0,prototype_only
+triangle,5,1,4,prototype_and_test
+tribal,1,1,0,prototype_only
+tribunal,1,1,0,prototype_only
+triode,1,1,0,prototype_only
+trip,1,1,0,prototype_only
+triple,2,1,1,prototype_and_test
+tripura,4,1,3,prototype_and_test
+trivendrum,1,1,0,prototype_only
+trophy,1,1,0,prototype_only
+trouble,4,1,3,prototype_and_test
+troughs,1,1,0,prototype_only
+truck,2,1,1,prototype_and_test
+true,4,1,3,prototype_and_test
+true copy,1,1,0,prototype_only
+trunk,4,1,3,prototype_and_test
+trust,4,1,3,prototype_and_test
+trust deed,1,1,0,prototype_only
+trustee,1,1,0,prototype_only
+trustworthiness,1,1,0,prototype_only
+try,4,1,3,prototype_and_test
+tube well,1,1,0,prototype_only
+tubelight,3,1,2,prototype_and_test
+tuberculosis,3,1,2,prototype_and_test
+tuesday,8,1,7,prototype_and_test
+tug of war haryana,1,1,0,prototype_only
+tulip sleeve,1,1,0,prototype_only
+tum over,1,1,0,prototype_only
+tunic,1,1,0,prototype_only
+tuning fork,1,1,0,prototype_only
+tunisia,1,1,0,prototype_only
+turkey,2,1,1,prototype_and_test
+turn,2,1,1,prototype_and_test
+turnout,1,1,0,prototype_only
+tusks,2,1,1,prototype_and_test
+tvs bike,1,1,0,prototype_only
+twelve,1,1,0,prototype_only
+twenty,1,1,0,prototype_only
+twenty one,1,1,0,prototype_only
+twin,2,1,1,prototype_and_test
+twins,2,1,1,prototype_and_test
+twitter,2,1,1,prototype_and_test
+two,1,1,0,prototype_only
+two days after,1,1,0,prototype_only
+two days before,1,1,0,prototype_only
+two thousand,1,1,0,prototype_only
+types of farm planning,1,1,0,prototype_only
+types of vegetable gardening,1,1,0,prototype_only
+types of water garden,1,1,0,prototype_only
+typist,2,1,1,prototype_and_test
+typographical error,1,1,0,prototype_only
+tyre,1,1,0,prototype_only
+u neck,1,1,0,prototype_only
+uco bank,1,1,0,prototype_only
+uganda,1,1,0,prototype_only
+ugly,1,1,0,prototype_only
+uitrasonic,1,1,0,prototype_only
+uitraviolet ray,1,1,0,prototype_only
+ukraine,1,1,0,prototype_only
+ultraviolet ray glass,1,1,0,prototype_only
+umaid bhawan palace,1,1,0,prototype_only
+umbrella,4,1,3,prototype_and_test
+umpire,1,1,0,prototype_only
+unanimous,1,1,0,prototype_only
+unauthorised,1,1,0,prototype_only
+unavoidable,1,1,0,prototype_only
+unbalance,1,1,0,prototype_only
+uncalled,1,1,0,prototype_only
+uncertainity,1,1,0,prototype_only
+unclaimed,1,1,0,prototype_only
+uncle,1,1,0,prototype_only
+uncomfortable,1,1,0,prototype_only
+unconditional,1,1,0,prototype_only
+uncovered,1,1,0,prototype_only
+under,2,1,1,prototype_and_test
+under consideration,1,1,0,prototype_only
+under developed,1,1,0,prototype_only
+under mentioned,1,1,0,prototype_only
+under review,1,1,0,prototype_only
+under stitch,1,1,0,prototype_only
+under subscribed,1,1,0,prototype_only
+under the weather,1,1,0,prototype_only
+under valuation,1,1,0,prototype_only
+underground symptoms,1,1,0,prototype_only
+underhand,1,1,0,prototype_only
+understand,5,1,4,prototype_and_test
+undertaking,1,1,0,prototype_only
+underwriter,1,1,0,prototype_only
+unearned,1,1,0,prototype_only
+unemployed,2,1,1,prototype_and_test
+unemployment,1,1,0,prototype_only
+unencumbered,1,1,0,prototype_only
+unfair dismissal,3,1,2,prototype_and_test
+unfit,1,1,0,prototype_only
+uniform,2,1,1,prototype_and_test
+uniform motion,1,1,0,prototype_only
+union,1,1,0,prototype_only
+union bank of india,1,1,0,prototype_only
+unit,2,1,1,prototype_and_test
+unite,2,1,1,prototype_and_test
+united arab emirates,1,1,0,prototype_only
+united kingdom,1,1,0,prototype_only
+united nations,1,1,0,prototype_only
+united nations convention on the rights of persons with disabilities uncrpd,2,1,1,prototype_and_test
+united states of america,2,1,1,prototype_and_test
+universe,1,1,0,prototype_only
+university,2,1,1,prototype_and_test
+unix,1,1,0,prototype_only
+unlawful,2,1,1,prototype_and_test
+unlimited,2,1,1,prototype_and_test
+unlucky,1,1,0,prototype_only
+unofficial,1,1,0,prototype_only
+unpaid,1,1,0,prototype_only
+unregistered,1,1,0,prototype_only
+until,2,1,1,prototype_and_test
+up,2,1,1,prototype_and_test
+upper age limit,1,1,0,prototype_only
+upper division clerk,1,1,0,prototype_only
+upset,2,1,1,prototype_and_test
+upward,1,1,0,prototype_only
+uranus,1,1,0,prototype_only
+urdu,2,1,1,prototype_and_test
+urgent,1,1,0,prototype_only
+uruguay,1,1,0,prototype_only
+us,1,1,0,prototype_only
+utility of mushroom,1,1,0,prototype_only
+uttar pradesh,2,1,1,prototype_and_test
+uttarakhand,1,1,0,prototype_only
+uzbekistan,1,1,0,prototype_only
+v neck,1,1,0,prototype_only
+vacancy,1,1,0,prototype_only
+vacation,2,1,1,prototype_and_test
+vaccum,1,1,0,prototype_only
+vada,1,1,0,prototype_only
+vadodara,2,1,1,prototype_and_test
+vaishno devi,1,1,0,prototype_only
+valid,1,1,0,prototype_only
+valley,3,1,2,prototype_and_test
+valuable consideration,1,1,0,prototype_only
+value,1,1,0,prototype_only
+value scale,1,1,0,prototype_only
+van,1,1,0,prototype_only
+vapour,1,1,0,prototype_only
+varanasi,2,1,1,prototype_and_test
+variable,3,1,2,prototype_and_test
+varieties of mushroom,1,1,0,prototype_only
+variety,1,1,0,prototype_only
+vault,1,1,0,prototype_only
+vault safe deposit,1,1,0,prototype_only
+vector graphics,1,1,0,prototype_only
+vegetable preservation,1,1,0,prototype_only
+vegetables,1,1,0,prototype_only
+vegetarian,1,1,0,prototype_only
+vehicle,1,1,0,prototype_only
+vehicles,2,1,1,prototype_and_test
+velcro,1,1,0,prototype_only
+velocity,1,1,0,prototype_only
+vendee,1,1,0,prototype_only
+vendor,1,1,0,prototype_only
+venezuela,1,1,0,prototype_only
+vent,1,1,0,prototype_only
+venus,1,1,0,prototype_only
+verb,1,1,0,prototype_only
+verdict,1,1,0,prototype_only
+verification,2,1,1,prototype_and_test
+vernier caliper,1,1,0,prototype_only
+versus,1,1,0,prototype_only
+vertical,1,1,0,prototype_only
+vertical scroll bar,1,1,0,prototype_only
+very,1,1,0,prototype_only
+very hot,2,1,1,prototype_and_test
+very wealthy person,1,1,0,prototype_only
+vessel,3,1,2,prototype_and_test
+veteran,1,1,0,prototype_only
+veterinarian,1,1,0,prototype_only
+vibrant image,1,1,0,prototype_only
+vibration,1,1,0,prototype_only
+vice president,1,1,0,prototype_only
+victory,2,1,1,prototype_and_test
+vide,1,1,0,prototype_only
+video,2,1,1,prototype_and_test
+video call,1,1,0,prototype_only
+video camera,2,1,1,prototype_and_test
+video card,1,1,0,prototype_only
+video cassette recorder,1,1,0,prototype_only
+video relay service,1,1,0,prototype_only
+videographer,1,1,0,prototype_only
+vietnam,2,1,1,prototype_and_test
+view,3,1,2,prototype_and_test
+vigilance,1,1,0,prototype_only
+vijaya bank,1,1,0,prototype_only
+village,3,1,2,prototype_and_test
+violet,1,1,0,prototype_only
+violin,1,1,0,prototype_only
+viral diseases animals,1,1,0,prototype_only
+virat kohli,1,1,0,prototype_only
+virtual image,1,1,0,prototype_only
+virus,3,1,2,prototype_and_test
+visa,3,1,2,prototype_and_test
+vishnu,1,1,0,prototype_only
+visible ray,1,1,0,prototype_only
+vision,3,1,2,prototype_and_test
+visit,1,1,0,prototype_only
+visitor,1,1,0,prototype_only
+visual,1,1,0,prototype_only
+visual aid,1,1,0,prototype_only
+vital,1,1,0,prototype_only
+vivekananda rock memorial,1,1,0,prototype_only
+vocabulary,1,1,0,prototype_only
+vocation,1,1,0,prototype_only
+vodafone,1,1,0,prototype_only
+vodka,2,1,1,prototype_and_test
+voice,1,1,0,prototype_only
+voit,1,1,0,prototype_only
+volcano,5,1,4,prototype_and_test
+volkswagen,2,1,1,prototype_and_test
+volley ball,1,1,0,prototype_only
+volleyball,1,1,0,prototype_only
+voltmeter,2,1,1,prototype_and_test
+volume,2,1,1,prototype_and_test
+voluntarily,1,1,0,prototype_only
+vomit,1,1,0,prototype_only
+vote,2,1,1,prototype_and_test
+voucher,1,1,0,prototype_only
+wage,1,1,0,prototype_only
+waist,1,1,0,prototype_only
+wait,4,1,3,prototype_and_test
+waiting list,1,1,0,prototype_only
+waiting room,1,1,0,prototype_only
+waive,1,1,0,prototype_only
+wake,1,1,0,prototype_only
+wales,1,1,0,prototype_only
+walk,3,1,2,prototype_and_test
+wall,1,1,0,prototype_only
+wall garden,1,1,0,prototype_only
+wallet,1,1,0,prototype_only
+want,2,1,1,prototype_and_test
+war,2,1,1,prototype_and_test
+warehouse,1,1,0,prototype_only
+warm,3,1,2,prototype_and_test
+warn,2,1,1,prototype_and_test
+warning,1,1,0,prototype_only
+wash,7,1,6,prototype_and_test
+washbasin,1,1,0,prototype_only
+washerman,1,1,0,prototype_only
+washing machine,1,1,0,prototype_only
+washroom,1,1,0,prototype_only
+wastage,1,1,0,prototype_only
+waste,2,1,1,prototype_and_test
+watch,4,1,3,prototype_and_test
+water,4,1,3,prototype_and_test
+water bottle,1,1,0,prototype_only
+water erosion,1,1,0,prototype_only
+water filter,1,1,0,prototype_only
+water lifting equipments,1,1,0,prototype_only
+water logged hedges,1,1,0,prototype_only
+water motor,1,1,0,prototype_only
+water pipe,1,1,0,prototype_only
+water pollution,1,1,0,prototype_only
+water pump,1,1,0,prototype_only
+waterfall,4,1,3,prototype_and_test
+watermelon,2,1,1,prototype_and_test
+watt,1,1,0,prototype_only
+wattmeter,1,1,0,prototype_only
+wave,3,1,2,prototype_and_test
+wave length,1,1,0,prototype_only
+waveform,1,1,0,prototype_only
+wavegraph,1,1,0,prototype_only
+wavemotion,1,1,0,prototype_only
+waves,2,1,1,prototype_and_test
+wavy hair,1,1,0,prototype_only
+wax,1,1,0,prototype_only
+waxing,1,1,0,prototype_only
+way,3,1,2,prototype_and_test
+ways,1,1,0,prototype_only
+we,2,1,1,prototype_and_test
+weak,5,1,4,prototype_and_test
+wealth,1,1,0,prototype_only
+wealthy,1,1,0,prototype_only
+weapon,1,1,0,prototype_only
+wear,2,1,1,prototype_and_test
+weather,1,1,0,prototype_only
+weave,1,1,0,prototype_only
+weaver,2,1,1,prototype_and_test
+web camera,1,1,0,prototype_only
+website,3,1,2,prototype_and_test
+wedding,4,1,3,prototype_and_test
+wedding reception,3,1,2,prototype_and_test
+wedge,1,1,0,prototype_only
+wednesday,7,1,6,prototype_and_test
+weeds near to pond margin,1,1,0,prototype_only
+week,6,1,5,prototype_and_test
+weekly,2,1,1,prototype_and_test
+weekly return,1,1,0,prototype_only
+weigh,1,1,0,prototype_only
+weight,4,1,3,prototype_and_test
+weightlifting,1,1,0,prototype_only
+weird,2,1,1,prototype_and_test
+welcome,2,1,1,prototype_and_test
+welder,4,1,3,prototype_and_test
+welding hand screen,1,1,0,prototype_only
+well,1,1,0,prototype_only
+west,2,1,1,prototype_and_test
+west bengal,2,1,1,prototype_and_test
+west indies,3,1,2,prototype_and_test
+wet,2,1,1,prototype_and_test
+whale,2,1,1,prototype_and_test
+what,2,1,1,prototype_and_test
+what happened,1,1,0,prototype_only
+what is your name,1,1,0,prototype_only
+what time,2,1,1,prototype_and_test
+whatever,1,1,0,prototype_only
+whatsapp,1,1,0,prototype_only
+wheat,2,1,1,prototype_and_test
+wheat rust,1,1,0,prototype_only
+wheeled robots,1,1,0,prototype_only
+when,1,1,0,prototype_only
+where,2,1,1,prototype_and_test
+which,2,1,1,prototype_and_test
+while,1,1,0,prototype_only
+whistle,2,1,1,prototype_and_test
+white,3,1,2,prototype_and_test
+white collar job,1,1,0,prototype_only
+whiteboard,1,1,0,prototype_only
+who,2,1,1,prototype_and_test
+wholesale,1,1,0,prototype_only
+wholesale merchants,1,1,0,prototype_only
+whose,1,1,0,prototype_only
+why,4,1,3,prototype_and_test
+wicket,1,1,0,prototype_only
+wicketkeeper,1,1,0,prototype_only
+wide,1,1,0,prototype_only
+wife,4,1,3,prototype_and_test
+wifi,3,1,2,prototype_and_test
+wikipedia,1,1,0,prototype_only
+wild swine,1,1,0,prototype_only
+will,1,1,0,prototype_only
+win,2,1,1,prototype_and_test
+wind,3,1,2,prototype_and_test
+wind borne disease,1,1,0,prototype_only
+wind energy,1,1,0,prototype_only
+wind erosion,1,1,0,prototype_only
+winding up,1,1,0,prototype_only
+window,3,1,2,prototype_and_test
+window dressing,1,1,0,prototype_only
+window garden,1,1,0,prototype_only
+wine,2,1,1,prototype_and_test
+winner,2,1,1,prototype_and_test
+winter,1,1,0,prototype_only
+wipe,1,1,0,prototype_only
+wire man,1,1,0,prototype_only
+wire stripper,1,1,0,prototype_only
+wiring,2,1,1,prototype_and_test
+wise,2,1,1,prototype_and_test
+wish,1,1,0,prototype_only
+with,1,1,0,prototype_only
+withdraw money from bank,1,1,0,prototype_only
+withdrawal slip,1,1,0,prototype_only
+withhold,1,1,0,prototype_only
+without,3,1,2,prototype_and_test
+without prejudice,1,1,0,prototype_only
+witness,1,1,0,prototype_only
+wolf,3,1,2,prototype_and_test
+woman,3,1,2,prototype_and_test
+women jail,1,1,0,prototype_only
+wood,5,1,4,prototype_and_test
+wood plane,1,1,0,prototype_only
+woodpecker,1,1,0,prototype_only
+wool,3,1,2,prototype_and_test
+word,2,1,1,prototype_and_test
+word pad,1,1,0,prototype_only
+words and figures,1,1,0,prototype_only
+work,5,1,4,prototype_and_test
+working capital,1,1,0,prototype_only
+working hours,1,1,0,prototype_only
+workshop,1,1,0,prototype_only
+world,2,1,1,prototype_and_test
+world association of sign language interpreters,1,1,0,prototype_only
+world federation of the deaf,1,1,0,prototype_only
+world federation of the deaf youth section,1,1,0,prototype_only
+worry,2,1,1,prototype_and_test
+worth,1,1,0,prototype_only
+wound,3,1,2,prototype_and_test
+woven,1,1,0,prototype_only
+wrench,1,1,0,prototype_only
+wrestling,3,1,2,prototype_and_test
+writ,1,1,0,prototype_only
+write,2,1,1,prototype_and_test
+writer,1,1,0,prototype_only
+written down value,1,1,0,prototype_only
+wrong,3,1,2,prototype_and_test
+x ray,1,1,0,prototype_only
+x-ray,1,1,0,prototype_only
+xbox,1,1,0,prototype_only
+xylophone,1,1,0,prototype_only
+yahoo,1,1,0,prototype_only
+yak,2,1,1,prototype_and_test
+yamaha bike,1,1,0,prototype_only
+yardstick,1,1,0,prototype_only
+year,5,1,4,prototype_and_test
+year book,1,1,0,prototype_only
+year calender,1,1,0,prototype_only
+year financial,1,1,0,prototype_only
+year of harvest,1,1,0,prototype_only
+year to year,1,1,0,prototype_only
+year under report,1,1,0,prototype_only
+yearly,1,1,0,prototype_only
+yellow,8,1,7,prototype_and_test
+yellow flowered plants,1,1,0,prototype_only
+yes,2,1,1,prototype_and_test
+yesterday,3,1,2,prototype_and_test
+yoga,1,1,0,prototype_only
+yoke,1,1,0,prototype_only
+yolk,1,1,0,prototype_only
+you,3,1,2,prototype_and_test
+young,2,1,1,prototype_and_test
+younger,1,1,0,prototype_only
+younger brother,1,1,0,prototype_only
+younger sister,1,1,0,prototype_only
+your,3,1,2,prototype_and_test
+yourself,2,1,1,prototype_and_test
+youth,1,1,0,prototype_only
+youth association of the deaf india,2,1,1,prototype_and_test
+youtube,1,1,0,prototype_only
+zambia,1,1,0,prototype_only
+zebra,3,1,2,prototype_and_test
+zebra crossing,2,1,1,prototype_and_test
+zero,1,1,0,prototype_only
+zero correction,1,1,0,prototype_only
+zero error,1,1,0,prototype_only
+zigzag,1,1,0,prototype_only
+zimbabwe,1,1,0,prototype_only
+zinc sheet,1,1,0,prototype_only
+zip,2,1,1,prototype_and_test
+zipper,1,1,0,prototype_only
+zipper foot,1,1,0,prototype_only
+zonal,1,1,0,prototype_only
+zone,1,1,0,prototype_only
+zoo,4,1,3,prototype_and_test
+zoom,1,1,0,prototype_only

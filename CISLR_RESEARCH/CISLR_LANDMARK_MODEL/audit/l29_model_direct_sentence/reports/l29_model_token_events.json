@@ -1,0 +1,26 @@
+[
+  {
+    "event_index": 1,
+    "time_seconds": 3.7628388769990124,
+    "frame": 57,
+    "token": "wash",
+    "model_prediction": "wash",
+    "confidence": 0.5832872986793518,
+    "margin": 0.43654264509677887,
+    "entropy": 0.5501668582351303,
+    "hand_ratio": 0.875,
+    "sentence": "wash"
+  },
+  {
+    "event_index": 2,
+    "time_seconds": 102.44756478400086,
+    "frame": 2024,
+    "token": "pencil",
+    "model_prediction": "pencil",
+    "confidence": 0.9165631532669067,
+    "margin": 0.8773801438510418,
+    "entropy": 0.17279529709681515,
+    "hand_ratio": 0.875,
+    "sentence": "wash pencil"
+  }
+]

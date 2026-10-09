@@ -1,0 +1,8 @@
+{
+  "metric_learning_trainable": false,
+  "reason_metric_learning": "Training a projection head, triplet, or prototypical network requires labeled same-class pairs across different recordings. CISLR v1.5-a provides exactly one non-test recording per class. No such pairs exist outside the official test set.",
+  "class_aware_validation_retrieval_constructible": false,
+  "reason_split": "A class-aware support/query split requires at least two non-test videos per class. There are zero such classes in CISLR v1.5-a.",
+  "official_test_used_for_selection": false,
+  "official_test_labels_used": false
+}

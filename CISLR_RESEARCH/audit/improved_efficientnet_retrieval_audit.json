@@ -1,0 +1,20 @@
+{
+  "dataset_rows": 7050,
+  "prototype_rows": 4765,
+  "test_rows": 2285,
+  "dataset_unique_uids": 7050,
+  "prototype_unique_uids": 4765,
+  "test_unique_uids": 2285,
+  "prototype_test_uid_overlap": 0,
+  "dataset_classes": 4763,
+  "prototype_classes": 4763,
+  "test_classes": 1363,
+  "prototype_only_classes": 3400,
+  "prototype_and_test_classes": 1363,
+  "test_only_classes": 0,
+  "repeated_classes": 1363,
+  "test_classes_without_prototype": 0,
+  "repeated_classes_not_in_test": 0,
+  "test_classes_not_repeated": 0,
+  "class_count_mismatches": 0
+}

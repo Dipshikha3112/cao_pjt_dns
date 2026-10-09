@@ -1,0 +1,34 @@
+{
+  "vocabulary_csv": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/vocabulary/l17_10_sign_vocabulary.csv",
+    "sha256": "5248440cd11db967dc1eeb89fedb346f86d6705ed4631bdaf44b2f2a0b19ecb0"
+  },
+  "vocabulary_json": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/vocabulary/l17_10_sign_vocabulary.json",
+    "sha256": "aa21dc6e6870a438b2c4c3e79e579f7cd2e1502b892073122a438e6081411b6c"
+  },
+  "candidate_ranking": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/reports/l17_non_test_candidate_ranking.csv",
+    "sha256": "90fd1d66678b20d5bec4bdc315bcfff053efc8be5ba77e233c2d4981c07d763c"
+  },
+  "existing_train_subset": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/l18_data_plan/l17_existing_cislr_train_only.csv",
+    "sha256": "f09d53d9511d17c1b8379b9bdf1bf71e4292601b7dc12f492cc16e818d6613df"
+  },
+  "recording_plan": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/l18_data_plan/l18_new_recording_plan.csv",
+    "sha256": "5153f54498b71a732dbc1aa2724f5a768cba046b57981f463abd0e76af5f2b0e"
+  },
+  "recording_protocol": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/l18_data_plan/L18_RECORDING_PROTOCOL.txt",
+    "sha256": "72caa4af9e7a25ab6b4474e33562c29321dcce48aa6a084c44e2ac482f1b4c5f"
+  },
+  "experiment_separation": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/reports/l17_experiment_separation.json",
+    "sha256": "602b72ff9155d328d755b3c027cd6826e7031b042ed4bcc52a2371be739f1ea1"
+  },
+  "summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/reports/l17_summary.json",
+    "sha256": "5c79ab2ff8419c96306e4858d41d40c222a446136155e2a4440525b962e65d24"
+  }
+}

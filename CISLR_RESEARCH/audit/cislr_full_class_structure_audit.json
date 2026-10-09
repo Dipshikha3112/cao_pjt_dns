@@ -1,0 +1,32 @@
+{
+    "dataset": {
+        "total_rows": 7050,
+        "unique_uids": 7050,
+        "unique_non_null_glosses": 4764,
+        "missing_gloss_rows": 1
+    },
+    "class_distribution": {
+        "num_classes": 4764,
+        "singleton_classes": 3401,
+        "classes_with_exactly_2_videos": 820,
+        "classes_with_3_or_more_videos": 543,
+        "classes_with_2_or_more_videos": 1363,
+        "mean_videos_per_class": 1.4796389588581025,
+        "median_videos_per_class": 1.0,
+        "max_videos_per_class": 13,
+        "singleton_ratio": 0.7138958858102435
+    },
+    "prototype": {
+        "prototype_rows": 4765,
+        "prototype_unique_uids": 4765
+    },
+    "official_test": {
+        "test_uid_count": 2285
+    },
+    "existing_temporal_cache": {
+        "train_features_exists": true,
+        "validation_features_exists": true
+    },
+    "supervised_validation_possible": true,
+    "recommended_protocol": "CLASS-AWARE CLOSED-SET TEMPORAL CLASSIFICATION"
+}

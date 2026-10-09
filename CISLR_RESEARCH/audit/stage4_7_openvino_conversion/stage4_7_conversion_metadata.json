@@ -1,0 +1,77 @@
+{
+  "stage": "4.7",
+  "title": "CISLR OpenVINO Conversion",
+  "selected_model": "MobileNetV3-Large",
+  "selection_source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_6_model_comparison/stage4_6_model_selection_report.json",
+  "pytorch_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/mobilenet_v3_large_v2/mobilenet_v3_large_stage4_4_v2_best.pt",
+  "openvino_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.xml",
+  "openvino_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.bin",
+  "precision": "FP32",
+  "input_shape": [
+    1,
+    3,
+    224,
+    224
+  ],
+  "input_dtype": "float32",
+  "num_classes": 4764,
+  "total_parameters": 10304716,
+  "trainable_parameters": 0,
+  "conversion_time_seconds": 2.560311554996588,
+  "save_time_seconds": 0.03507183300098404,
+  "compile_time_seconds": 0.1783286810023128,
+  "pytorch_output_shape": [
+    1,
+    4764
+  ],
+  "openvino_output_shape": [
+    1,
+    4764
+  ],
+  "validation": {
+    "max_absolute_error": 1.33514404296875e-05,
+    "mean_absolute_error": 2.99993303087831e-06,
+    "rmse": 3.776390258281026e-06,
+    "cosine_similarity": 1.0,
+    "pytorch_top1": 129,
+    "openvino_top1": 129,
+    "top1_match": true,
+    "pytorch_top5": [
+      129,
+      1381,
+      2056,
+      4749,
+      3465
+    ],
+    "openvino_top5": [
+      129,
+      1381,
+      2056,
+      4749,
+      3465
+    ],
+    "top5_overlap": 5,
+    "conversion_valid": true
+  },
+  "files": {
+    "xml_size_mb": 0.1752490997314453,
+    "bin_size_mb": 39.26286315917969,
+    "total_ir_size_mb": 39.43811225891113
+  },
+  "environment": {
+    "python": "3.11.15 (main, Jun 11 2026, 15:20:16) [GCC 14.3.0]",
+    "pytorch": "2.14.0+cu130",
+    "torchvision": "0.29.0+cu130",
+    "openvino": "2026.3.1-22476-759c5a6ab8c-releases/2026/3",
+    "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.39"
+  },
+  "protocol": {
+    "batch_size": 1,
+    "channels": 3,
+    "height": 224,
+    "width": 224,
+    "device": "CPU for validation",
+    "conversion_api": "openvino.convert_model",
+    "example_input_used": true
+  }
+}

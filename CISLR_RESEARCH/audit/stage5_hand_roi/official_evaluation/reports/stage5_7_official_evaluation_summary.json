@@ -1,0 +1,119 @@
+{
+  "stage": "5.7",
+  "name": "Official CISLR Evaluation",
+  "timestamp": "2026-09-18T23:15:17.577916",
+  "population": {
+    "test_videos": 2210,
+    "prototype_videos": 4417,
+    "classes_tested": 1335
+  },
+  "full_frame": {
+    "source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/full_frame_baseline/reports/stage5_5_full_frame_retrieval_results.csv",
+    "metrics": {
+      "Method": "Full-Frame (Stage 5.5)",
+      "Test Videos": 2210,
+      "Top-1 (%)": 12.986425339366518,
+      "Top-5 (%)": 22.44343891402715,
+      "Recall@10 (%)": 25.429864253393664,
+      "MRR": 0.1724047705629779,
+      "Mean Rank": 1625.8909502262443,
+      "Median Rank": 1521.0,
+      "Rank p90": 3702.3,
+      "Rank p95": 4311.949999999997,
+      "Rank p99": 4418.0,
+      "Rank Max": 4418
+    }
+  },
+  "hand_roi": {
+    "variant": "tight_roi",
+    "variant_display": "Tight Roi",
+    "pooling": "max",
+    "source_ablation": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/reports/stage5_6_hand_roi_ablation_results.csv",
+    "source_embeddings": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/embeddings/stage5_6_tight_roi_embeddings.npy",
+    "metrics": {
+      "Method": "Hand-ROI (Tight Roi + max, Stage 5.6)",
+      "Test Videos": 2210,
+      "Top-1 (%)": 12.805429864253393,
+      "Top-5 (%)": 17.963800904977376,
+      "Recall@10 (%)": 20.633484162895925,
+      "MRR": 0.15431464739180967,
+      "Mean Rank": 1680.775113122172,
+      "Median Rank": 1462.0,
+      "Rank p90": 4061.3,
+      "Rank p95": 4390.0,
+      "Rank p99": 4418.0,
+      "Rank Max": 4418
+    }
+  },
+  "delta_roi_minus_ff": {
+    "Top-1 (%)": -0.18099547511312508,
+    "Top-5 (%)": -4.479638009049776,
+    "Recall@10 (%)": -4.796380090497738,
+    "MRR": -0.018090123171168232,
+    "Mean Rank": 54.8841628959276,
+    "Median Rank": -59.0
+  },
+  "per_class": {
+    "wins": 96,
+    "ties": 1143,
+    "losses": 96
+  },
+  "near_misses": {
+    "top5_rescues_roi": 55,
+    "top5_losses_roi": 154
+  },
+  "statistical_significance": {
+    "mcnemar_top1": {
+      "contingency": {
+        "ff_correct_roi_correct": 184,
+        "ff_correct_roi_wrong": 103,
+        "ff_wrong_roi_correct": 99,
+        "ff_wrong_roi_wrong": 1824
+      },
+      "exact_binomial_p": 0.8328908240447682,
+      "chi2_stat": 0.04455445544554455,
+      "chi2_p": 0.8328254210823565
+    },
+    "bootstrap_95ci": {
+      "Top-1": {
+        "point_diff": -0.001809954751131243,
+        "ci_low": -0.014479638009049778,
+        "ci_high": 0.010859728506787347,
+        "significant": false
+      },
+      "Top-5": {
+        "point_diff": -0.044796380090497745,
+        "ci_low": -0.05746606334841628,
+        "ci_high": -0.03212669683257918,
+        "significant": true
+      },
+      "Recall@10": {
+        "point_diff": -0.04796380090497737,
+        "ci_low": -0.060633484162895934,
+        "ci_high": -0.03619909502262442,
+        "significant": true
+      },
+      "MRR": {
+        "point_diff": -0.018090123171168232,
+        "ci_low": -0.028702398251166144,
+        "ci_high": -0.007742797309121056,
+        "significant": true
+      }
+    },
+    "bootstrap_n": 5000,
+    "bootstrap_seed": 42
+  },
+  "artifacts": {
+    "canonical_metrics": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/reports/stage5_7_canonical_metrics.csv",
+    "per_class": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/reports/stage5_7_per_class_breakdown.csv",
+    "rank_distribution": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/reports/stage5_7_rank_distribution.csv",
+    "near_misses": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/reports/stage5_7_near_misses.csv",
+    "significance": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/reports/stage5_7_statistical_significance.json",
+    "publication_table": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/reports/stage5_7_publication_table.md",
+    "rank_cdf_plot": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/plots/stage5_7_rank_cdf.png",
+    "metric_bar_plot": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/plots/stage5_7_metric_comparison.png",
+    "bucket_plot": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/plots/stage5_7_rank_buckets.png",
+    "bootstrap_plot": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/official_evaluation/plots/stage5_7_bootstrap_top1.png"
+  },
+  "scientific_note": "Both methods were evaluated on the exact same 2,210 test videos and 4,417 prototype videos, using the frozen Stage 5.5 and Stage 5.6 embeddings and cosine retrieval. No tuning on the test set was performed."
+}

@@ -1,0 +1,28 @@
+{
+    "stage": "L5.1",
+    "requested": 50,
+    "successful": 50,
+    "failed": 0,
+    "structural_pass": 50,
+    "trainable": 48,
+    "total_scale_repairs": 11,
+    "videos_with_scale_repairs": 10,
+    "mean_scale_repairs_per_video": 0.22,
+    "previous_l5_max_motion": 11.130908012,
+    "l5_1_max_motion": 7.063614845275879,
+    "motion_reduction": 4.067293166724122,
+    "motion_reduction_percent": 36.540533461773805,
+    "maximum_normalized_absolute_value": 5.897904396057129,
+    "nan_count": 0,
+    "inf_count": 0,
+    "global_max_motion_info": {
+        "uid": "mUes7TvTZ0Y",
+        "gloss": "catch",
+        "sequence_index": 14,
+        "frame_number": 14,
+        "track": 1,
+        "landmark": 20,
+        "coordinate": 1,
+        "value": -7.063614845275879
+    }
+}

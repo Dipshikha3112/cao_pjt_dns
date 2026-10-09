@@ -1,0 +1,26 @@
+{
+  "camera_id": 0,
+  "camera_width": 640,
+  "camera_height": 480,
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "model_history_size": 5,
+  "model_confirm_votes": 3,
+  "nosign_release_frames": 3,
+  "different_sign_requires_nosign": false,
+  "same_sign_duplicate_suppression": true,
+  "vocabulary": [
+    "monday",
+    "interest",
+    "thursday",
+    "christmas",
+    "pencil",
+    "mother",
+    "tuesday",
+    "friday",
+    "rubber",
+    "wash"
+  ],
+  "tts_rate": 150,
+  "tts_volume": 1.0
+}

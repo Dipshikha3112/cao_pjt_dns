@@ -1,0 +1,5 @@
+model,top1,top5,top10,mrr
+EfficientNet + mean_pool,0.0,0.0,0.0,0.0
+EfficientNet + bilstm,0.0,0.0,0.0,0.0
+EfficientNet + bilstm_attention,0.0,0.0,0.0,0.0
+EfficientNet + temporal_transformer,0.0,0.0,0.0,0.0

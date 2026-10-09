@@ -1,0 +1,57 @@
+{
+  "stage": "L15",
+  "purpose": "Final 211-class model selection before one-time test evaluation.",
+  "selection_status": "FROZEN",
+  "selected_system": "L14C",
+  "selected_method": "Frozen Sparse Top-5 Late Fusion",
+  "fusion_representation": "raw_probability",
+  "fusion_models": [
+    "L13B",
+    "L14A",
+    "L12B"
+  ],
+  "fusion_weights": {
+    "L13B": 0.3,
+    "L14A": 0.3,
+    "L12B": 0.4
+  },
+  "num_classes": 211,
+  "validation_samples": 211,
+  "validation_top1": 41.232227,
+  "validation_top5": 51.658768,
+  "validation_correct_top1": 87,
+  "validation_correct_top5": 109,
+  "selection_metric": "Validation Top-1 accuracy; Top-5 used as secondary metric.",
+  "frozen_components": {
+    "L12B": {
+      "role": "landmark/skeleton branch",
+      "model": "SSL ST-GCN",
+      "weight": 0.4,
+      "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12b_ssl_stgcn/models/l12b_best_stgcn.pt",
+      "checkpoint_sha256": "c9ab603bcf2499852b8757367288525b279a319366d9ebe03b43a446efffb90d"
+    },
+    "L13B": {
+      "role": "RGB temporal branch",
+      "model": "RGB Temporal Transformer",
+      "weight": 0.3,
+      "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l13_multimodal/l13_b_rgb_temporal/models/l13b_best_rgb_temporal.pt",
+      "checkpoint_sha256": "6ea9336bbe0fe9f78078d055b0bc413d3c8c0c86a713423a09fe00c4e505c17b"
+    },
+    "L14A": {
+      "role": "pretrained video branch",
+      "model": "VideoMAE Transfer",
+      "weight": 0.3,
+      "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14a_videomae/models/l14a_best_videomae.pt",
+      "checkpoint_sha256": "6841228ccd242e1be06eb0e4f89da8051e08bee793518836be47c843adc7463a"
+    }
+  },
+  "important_methodological_limitation": "L14C uses sparse Top-5 probabilities stored by the frozen component models. It is not full 211-class logit fusion.",
+  "test_status_at_freeze": {
+    "test_manifest_opened": false,
+    "test_labels_inspected": false,
+    "test_video_decoded": false,
+    "test_inference_performed": false,
+    "test_used_for_model_selection": false
+  },
+  "frozen_at": "2026-10-03T23:56:41.336874"
+}

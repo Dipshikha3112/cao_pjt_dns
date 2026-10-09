@@ -1,0 +1,21 @@
+{
+  "stage": "4.4",
+  "model": "ResNet50",
+  "pretrained": "ImageNet",
+  "seed": 42,
+  "num_classes": 4764,
+  "image_size": 224,
+  "frames_per_video": 8,
+  "epochs": 25,
+  "batch_size": 16,
+  "backbone_lr": 1e-05,
+  "classifier_lr": 0.0005,
+  "weight_decay": 0.0001,
+  "warmup_epochs": 1,
+  "gradient_clip": 1.0,
+  "amp": true,
+  "common_pool": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/stage4_4_common_readable_uid_pool.csv",
+  "cache_dir": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/frame_cache",
+  "best_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/resnet50_stage4_4_best.pt",
+  "final_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/resnet50_stage4_4_final.pt"
+}

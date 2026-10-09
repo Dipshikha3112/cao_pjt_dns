@@ -1,0 +1,38 @@
+{
+    "sequence_length": 32,
+    "feature_dim": 314,
+    "layout": {
+        "xyz": [
+            0,
+            126
+        ],
+        "velocity_xyz": [
+            126,
+            252
+        ],
+        "bone_lengths": [
+            252,
+            292
+        ],
+        "joint_angles": [
+            292,
+            312
+        ],
+        "masks": [
+            312,
+            314
+        ]
+    },
+    "train_shape": [
+        585,
+        32,
+        314
+    ],
+    "val_shape": [
+        211,
+        32,
+        314
+    ],
+    "near_zero_std": 12,
+    "test_loaded": false
+}

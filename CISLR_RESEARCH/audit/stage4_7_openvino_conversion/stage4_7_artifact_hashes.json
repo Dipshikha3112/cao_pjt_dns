@@ -1,0 +1,6 @@
+{
+  "pytorch_checkpoint": "e54233520f628ca4b25429f0978e64159bfa95f438ddedf9dd92f3f95038147b",
+  "openvino_xml": "0aed6383ce26dfc4dfbb17eb67f9082ae4ec2fb8c99fac4be7519fce65e60ff0",
+  "openvino_bin": "02de73f512dd6817c4ef0aafff5d305dc4bd62a9d848aa7084f3f00de8d40a79",
+  "stage4_6_selection": "da53552146f315db8900c6e1a15efc4862cc613576fd8b260982f25e6aa6382d"
+}

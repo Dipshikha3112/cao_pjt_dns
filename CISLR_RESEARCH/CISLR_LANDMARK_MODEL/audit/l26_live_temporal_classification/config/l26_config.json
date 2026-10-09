@@ -1,0 +1,35 @@
+{
+  "stage": "L26",
+  "name": "Live temporal OpenVINO VideoMAE classification",
+  "device": "CPU",
+  "camera_id": 0,
+  "resolution": [
+    640,
+    480
+  ],
+  "class_names": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "num_classes": 10,
+  "buffer_size": 32,
+  "model_frames": 16,
+  "classify_every_n_frames": 8,
+  "minimum_hand_frames_in_buffer": 8,
+  "videomae_resize": 256,
+  "videomae_crop": 224,
+  "horizontal_flip": false,
+  "no_sign_rejection": false,
+  "confidence_rejection": false,
+  "temporal_stabilization": false,
+  "training": false,
+  "locked_test_used": false
+}

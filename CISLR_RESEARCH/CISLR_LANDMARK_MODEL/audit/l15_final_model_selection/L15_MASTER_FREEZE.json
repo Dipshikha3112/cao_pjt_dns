@@ -1,0 +1,34 @@
+{
+  "stage": "L15",
+  "status": "COMPLETE_AND_FROZEN",
+  "timestamp": "2026-10-03T23:56:41.347214",
+  "project": "CISLR Research",
+  "task": "211-class isolated Indian Sign Language recognition",
+  "selected_system": "L14C",
+  "selected_method": "Frozen Sparse Top-5 Late Fusion",
+  "validation": {
+    "samples": 211,
+    "classes": 211,
+    "top1": 41.232227,
+    "top5": 51.658768,
+    "correct_top1": 87,
+    "correct_top5": 109
+  },
+  "fusion": {
+    "L12B": 0.4,
+    "L13B": 0.3,
+    "L14A": 0.3
+  },
+  "test_lock": {
+    "opened": false,
+    "decoded": false,
+    "evaluated": false,
+    "used_for_selection": false
+  },
+  "next_stage": "L16",
+  "next_stage_description": "One-time final evaluation on the frozen L9 test partition.",
+  "source_artifact_hash_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l15_final_model_selection/hashes/l15_artifact_sha256_manifest.json",
+  "selection_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l15_final_model_selection/models/l15_final_model_selection.json",
+  "test_protocol": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l15_final_model_selection/protocol/l15_l16_one_time_test_protocol.json",
+  "leaderboard": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l15_final_model_selection/reports/l15_frozen_validation_leaderboard.csv"
+}

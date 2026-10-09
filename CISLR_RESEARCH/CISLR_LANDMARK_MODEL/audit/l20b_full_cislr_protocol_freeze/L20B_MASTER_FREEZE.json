@@ -1,0 +1,29 @@
+{
+  "stage": "L20B",
+  "status": "COMPLETE_AND_FROZEN",
+  "seed": 42,
+  "decision_frozen_before_training": true,
+  "selected_supervised_design": {
+    "support_threshold": 4,
+    "classes": 215,
+    "videos": 1024,
+    "train_videos": 717,
+    "validation_videos": 307,
+    "train_fraction": 0.7001953125,
+    "validation_fraction": 0.2998046875
+  },
+  "full_domain_pretraining_design": {
+    "videos": 7048,
+    "classes_present": 4763,
+    "labels_used_for_classifier": false
+  },
+  "forbidden_after_freeze": [
+    "change support threshold because of validation accuracy",
+    "search random seeds for better validation accuracy",
+    "move validation videos into training",
+    "duplicate validation videos into training",
+    "select split based on model performance"
+  ],
+  "next_stage": "L20C_FULL_CISLR_DOMAIN_PRETRAINING",
+  "created_at": "2026-10-04T01:40:45.464075"
+}

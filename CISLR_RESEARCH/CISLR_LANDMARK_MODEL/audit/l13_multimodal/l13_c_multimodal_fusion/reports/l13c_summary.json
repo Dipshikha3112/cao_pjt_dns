@@ -1,0 +1,49 @@
+{
+  "stage": "L13C",
+  "architecture": "Quality-Aware Gated Multimodal Fusion",
+  "skeleton": {
+    "source": "L12B SSL ST-GCN",
+    "frozen": true,
+    "dimension": 128
+  },
+  "rgb": {
+    "source": "L13B RGB Temporal Transformer",
+    "frozen": true,
+    "frame_representation": "32x576",
+    "pooled_dimension": 256
+  },
+  "fusion": {
+    "dimension": 256,
+    "quality_features": 4,
+    "mean_skeleton_gate": 0.34795600175857544,
+    "mean_rgb_gate": 0.6520439982414246,
+    "gate_quality_correlation": -0.08555807517254635
+  },
+  "train": {
+    "samples": 585,
+    "top1_at_best": 98.97435897435898
+  },
+  "validation": {
+    "samples": 211,
+    "best_epoch": 46,
+    "top1": 36.492890995260666,
+    "top1_correct": 77,
+    "top5": 44.07582938388626,
+    "top5_correct": 93,
+    "generalization_gap": 62.48146797909831
+  },
+  "comparison": {
+    "l12b_top1": 28.436019,
+    "l13b_top1": 38.862559,
+    "l13c_top1": 36.492890995260666,
+    "delta_vs_l12b": 8.056871995260664,
+    "delta_vs_l13b": -2.3696680047393315
+  },
+  "test": {
+    "samples": 211,
+    "skeleton_loaded": false,
+    "rgb_loaded": false,
+    "evaluated": false,
+    "status": "LOCKED"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "L24",
+  "status": "COMPLETE_AND_FROZEN",
+  "name": "CISLR MP4 expected-vs-predicted OpenVINO demo",
+  "source": {
+    "validation_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "openvino_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "openvino_xml_sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "openvino_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "openvino_bin_sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc",
+    "l23_master": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l23_pytorch_openvino_verification/L23_PYTORCH_OPENVINO_MASTER_FREEZE.json",
+    "l23_master_sha256": "b1d40d669a6886f5b109a7b40eb6a2e2a4e2f988e47ef42f2336ce68bcc98edd"
+  },
+  "demo": {
+    "videos": 10,
+    "correct": 10,
+    "accuracy_percent": 100.0,
+    "mean_confidence_percent": 81.61502825572808,
+    "demo_video_count": 10
+  },
+  "scientific_integrity": {
+    "training": false,
+    "retraining": false,
+    "threshold_tuning": false,
+    "locked_test_manifest_loaded": false,
+    "locked_test_video_loaded": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false
+  },
+  "artifacts": {
+    "predictions_csv": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/reports/l24_mp4_predictions.csv",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/config/l24_demo_config.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/reports/l24_demo_summary.json",
+    "hash_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/reports/l24_artifact_hashes.json",
+    "video_directory": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l24_cislr_mp4_openvino_demo/videos"
+  },
+  "next_stage": "L25_WEBCAM_ACQUISITION"
+}

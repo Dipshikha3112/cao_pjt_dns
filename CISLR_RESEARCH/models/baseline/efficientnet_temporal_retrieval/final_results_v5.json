@@ -1,0 +1,39 @@
+{
+  "experiment": "CISLR EfficientNet-B0 prototype\u2192test retrieval (v5)",
+  "num_frames": 8,
+  "n_tta_crops": 3,
+  "pca_dim": 512,
+  "csls_k": 10,
+  "prototype_videos": 4763,
+  "test_videos": 2285,
+  "methods": {
+    "whitened_cosine": {
+      "top1": 0.17024070021881837,
+      "top5": 0.263019693654267,
+      "top10": 0.29452954048140045,
+      "mrr": 0.21064973118725225
+    },
+    "whitened_cosine_csls": {
+      "top1": 0.16849015317286653,
+      "top5": 0.2603938730853392,
+      "top10": 0.28533916849015317,
+      "mrr": 0.20727308518311788
+    },
+    "fused_zscore": {
+      "top1": 0.16805251641137856,
+      "top5": 0.26520787746170676,
+      "top10": 0.2962800875273523,
+      "mrr": 0.20965422837004616
+    },
+    "raw_cosine": {
+      "top1": 0.16542669584245076,
+      "top5": 0.2603938730853392,
+      "top10": 0.2923413566739606,
+      "mrr": 0.2075186839271019
+    }
+  },
+  "best_method": "whitened_cosine",
+  "official_test_used_for_training": false,
+  "official_test_used_for_selection": false,
+  "note": "All methods use frozen EfficientNet-B0 features. Whitening is unsupervised (fit on prototype+test feature statistics only, no labels). CSLS and fusion hyperparameters fixed a priori. All four methods are reported."
+}

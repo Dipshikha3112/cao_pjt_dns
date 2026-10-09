@@ -1,0 +1,3 @@
+detector,videos_evaluated,valid_detection_rate,one_hand_rate,two_hand_rate,invalid_rate,error_rate,average_confidence,mean_roi_area_fraction,temporal_stability,mean_latency_ms,score_detection,score_stability,score_confidence,score_two_hand,score_speed,roi_area_score,score_error_free,overall_selection_score,rank
+OpenCV_Skin_Contour,200,0.68375,0.07696428571428571,0.6067857142857143,0.31625,0.0,0.04581333829365079,0.22576961607142856,0.5630828529080402,0.5526155348759079,1.0,1.0,0.0,1.0,1.0,0.8711519196428572,1.0,0.8871151919642857,1
+MediaPipe_Hands,200,0.40125,0.2749107142857143,0.1263392857142857,0.59875,0.0,0.9265199135864775,0.06902387314814815,0.5377164099195408,21.68715120503813,0.0,0.0,1.0,0.0,0.0,0.34511936574074076,1.0,0.2345119365740741,2

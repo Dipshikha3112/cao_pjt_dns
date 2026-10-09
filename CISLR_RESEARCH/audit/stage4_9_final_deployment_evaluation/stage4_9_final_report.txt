@@ -1,0 +1,99 @@
+================================================================================
+CISLR — FINAL OPENVINO DEPLOYMENT EVALUATION
+================================================================================
+
+SELECTED MODEL
+MobileNetV3-Large
+
+DEPLOYMENT BACKEND
+OpenVINO FP32
+
+INPUT
+[1, 3, 224, 224]
+
+OUTPUT
+[1, 4764]
+
+================================================================================
+OFFICIAL CISLR RETRIEVAL
+================================================================================
+Top-1       : 0.16%
+Top-5       : 0.24%
+Recall@10   : 0.27%
+MRR         : 0.1953
+Mean Rank   : 1572.52
+Median Rank : 1229.00
+
+================================================================================
+MODEL COMPLEXITY
+================================================================================
+Parameters  : 10304716.0
+Model size  : 39.501 MB
+GFLOPs      : 0.443
+
+================================================================================
+OPENVINO CONVERSION
+================================================================================
+Precision   : FP32
+XML         : /home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.xml
+BIN         : /home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_7_openvino_conversion/fp32/mobilenet_v3_large_stage4_7_fp32.bin
+Cosine      : 1.0
+Max error   : 1.33514404296875e-05
+Top-1       : True
+Top-5       : 5
+
+================================================================================
+OPENVINO CPU DEPLOYMENT
+================================================================================
+PyTorch latency      : 18.989 ms
+OpenVINO latency     : 3.702 ms
+Latency speedup      : 5.129x
+Latency reduction    : 80.50%
+PyTorch FPS          : 52.66
+OpenVINO FPS         : 270.10
+
+================================================================================
+OPENVINO GPU DEPLOYMENT
+================================================================================
+PyTorch latency      : 5.362 ms
+OpenVINO latency     : 3.336 ms
+Latency speedup      : 1.607x
+Latency reduction    : 37.78%
+PyTorch FPS          : 186.51
+OpenVINO FPS         : 299.75
+
+================================================================================
+DEPLOYMENT READINESS
+================================================================================
+OpenVINO XML exists: PASS
+OpenVINO BIN exists: PASS
+Conversion cosine >= 0.9999: PASS
+Conversion max error <= 1e-3: PASS
+OpenVINO CPU benchmark available: PASS
+OpenVINO CPU FPS > 0: PASS
+Official retrieval result available: PASS
+
+OVERALL:
+PASS
+
+================================================================================
+PIPELINE STATUS
+================================================================================
+4.1  Dataset / Evaluation Constraints       COMPLETE
+4.2  Canonical Training Protocol             COMPLETE
+4.3  Computational Benchmark                 COMPLETE
+4.4  Model Training                          COMPLETE
+4.5  Official CISLR Evaluation               COMPLETE
+4.6  Model Comparison & Selection            COMPLETE
+4.7  OpenVINO Conversion                     COMPLETE
+4.8  OpenVINO Benchmark                      COMPLETE
+4.9  Final Deployment Evaluation             COMPLETE
+
+FINAL SELECTED MODEL:
+MobileNetV3-Large
+
+FINAL DEPLOYMENT BACKEND:
+OpenVINO FP32
+
+NO FURTHER MODEL TRAINING IS REQUIRED FOR THIS PIPELINE.
+================================================================================

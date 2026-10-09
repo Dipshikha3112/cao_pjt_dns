@@ -1,0 +1,24 @@
+{
+    "experiment": "Validation-only spatial backbone comparison",
+    "seed": 42,
+    "num_classes": 4764,
+    "image_size": 224,
+    "frames_per_video": 8,
+    "validation_fraction": 0.1,
+    "split_unit": "video_uid",
+    "validation_batch_size": 2,
+    "official_test_used": false,
+    "training_performed_in_this_cell": false,
+    "models_compared": [
+        "ResNet18",
+        "EfficientNet-B0"
+    ],
+    "selection_primary_metric": "validation_top1",
+    "selection_tie_break": "validation_top5",
+    "selected_backbone": "ResNet18",
+    "selected_top1": 0.0,
+    "selected_top5": 0.0022624434389140274,
+    "selected_macro_f1": 0.0,
+    "resnet_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/resnet18_baseline_best.pt",
+    "efficientnet_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_b0_baseline_best.pt"
+}

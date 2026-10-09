@@ -1,0 +1,87 @@
+{
+  "stage": "5.4",
+  "experiment": "ROI Quality Validation",
+  "timestamp": "2026-09-16T03:03:04.464679",
+  "analysis_videos": 6628,
+  "analysis_frames": 53024,
+  "frames_per_video": 8,
+  "detector": "OpenCV_Skin_Contour",
+  "backbone": "MobileNetV3-Large",
+  "frame_level_summary": {
+    "analysis_videos": 6628,
+    "analysis_frames": 53024,
+    "frame_read_success_rate": 1.0,
+    "roi_saved_rate": 1.0,
+    "direct_detection_rate": 0.6160229330114665,
+    "temporal_fallback_rate": 0.059557936028968014,
+    "full_frame_fallback_rate": 0.3244191309595655,
+    "any_fallback_rate": 0.3839770669885335,
+    "one_hand_rate": 0.0956736572118286,
+    "two_hand_rate": 0.5228198551599276,
+    "zero_hand_rate": 0.3815064876282438,
+    "roi_area_valid_rate": 0.6755808690404346,
+    "roi_area_near_target_rate": 0.376471031985516
+  },
+  "confidence_summary": {
+    "count": 53024,
+    "mean": 0.04227836880993091,
+    "median": 0.0329111111111111,
+    "std": 0.05560773304580302,
+    "min": 0.0,
+    "p05": 0.0,
+    "p25": 0.0,
+    "p75": 0.0631291666666666,
+    "p95": 0.1296333333333333,
+    "max": 0.6763277777777777
+  },
+  "roi_area_summary": {
+    "count": 53024,
+    "mean": 0.5094957220629652,
+    "median": 0.37997777777777775,
+    "std": 0.36748517697816613,
+    "min": 0.005,
+    "p05": 0.02191444444444443,
+    "p25": 0.2288,
+    "p75": 1.0,
+    "p95": 1.0,
+    "max": 1.0
+  },
+  "latency_summary": {
+    "count": 53024,
+    "mean_ms": 1.0222478944021214,
+    "median_ms": 1.0677574991859728,
+    "p95_ms": 1.3181368483856204,
+    "max_ms": 8.920396998291835
+  },
+  "temporal_summary": {
+    "videos_evaluated": 6628,
+    "mean_area_cv": 0.3376744431900745,
+    "median_area_cv": 0.20628201131059565,
+    "mean_area_stability": 0.8005310152858415,
+    "median_area_stability": 0.8289935445126941,
+    "mean_center_displacement": 0.07162278806133872,
+    "median_center_displacement": 0.021343747458109477,
+    "p95_center_displacement": 0.17786680477877992,
+    "max_center_displacement": 0.9901571143566616
+  },
+  "quality_score_summary": {
+    "mean": 0.6803169364043319,
+    "median": 0.8154976050129827,
+    "std": 0.22312432704143545,
+    "p05": 0.4,
+    "p25": 0.4,
+    "p75": 0.8756060448408514,
+    "p95": 0.9248306456303503
+  },
+  "quality_checks": {
+    "direct_detection_rate_above_threshold": true,
+    "fallback_rate_below_threshold": true,
+    "roi_area_valid_rate_above_threshold": false,
+    "temporal_stability_above_threshold": true
+  },
+  "overall_quality_decision": "PASS_WITH_REVIEW",
+  "important_note": "Stage 5.4 is a validation-only stage. No videos were removed from the frozen analysis-valid population based on ROI quality.",
+  "raw_videos_modified": false,
+  "stage5_3_outputs_modified": false,
+  "stage4_modified": false
+}

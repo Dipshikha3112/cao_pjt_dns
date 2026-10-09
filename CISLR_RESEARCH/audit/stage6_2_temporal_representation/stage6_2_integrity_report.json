@@ -1,0 +1,58 @@
+{
+  "cache_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/features/all_video_features_75f7fb9f.pt",
+  "num_cached_videos": 7048,
+  "num_dev_videos": 3810,
+  "num_val_videos": 953,
+  "num_test_videos": 2285,
+  "num_missing_label_excluded": 1,
+  "uid_overlap": {
+    "dev_val": 0,
+    "dev_test": 0,
+    "val_test": 0
+  },
+  "seed": 42,
+  "batch_size": 32,
+  "epochs": 30,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "masking_strategy": "one random temporal position per sample, per epoch; learned mask token substituted; MSE on original feature",
+  "model_parameter_counts": {
+    "bilstm": 3418624,
+    "bilstm_attention": 3812353,
+    "temporal_transformer": 1779712
+  },
+  "ssl_checkpoint_per_model": {
+    "bilstm": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/bilstm_ssl_best.pt",
+    "bilstm_attention": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/bilstm_attention_ssl_best.pt",
+    "temporal_transformer": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/temporal_transformer_ssl_best.pt"
+  },
+  "ssl_keys_loaded_per_model": {
+    "bilstm": 14,
+    "bilstm_attention": 14,
+    "temporal_transformer": 4
+  },
+  "ssl_keys_skipped_per_model": {
+    "bilstm": {
+      "not_in_model": 6,
+      "shape_mismatch": 6
+    },
+    "bilstm_attention": {
+      "not_in_model": 10,
+      "shape_mismatch": 6
+    },
+    "temporal_transformer": {
+      "not_in_model": 27,
+      "shape_mismatch": 2
+    }
+  },
+  "best_val_mse_per_model": {
+    "bilstm": 0.33283353918246683,
+    "bilstm_attention": 0.312908492270947,
+    "temporal_transformer": 0.320198256502872
+  },
+  "selected_architecture": "bilstm_attention",
+  "selection_valid": true,
+  "selection_reason": "Lowest validation reconstruction MSE (0.312908), clear margin (2.28% over next best).",
+  "official_test_used": false,
+  "official_test_labels_used": false
+}

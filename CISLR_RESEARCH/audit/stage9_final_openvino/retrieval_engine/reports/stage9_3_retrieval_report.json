@@ -1,0 +1,32 @@
+{
+  "stage": "9.3",
+  "name": "Canonical OpenVINO Prototype Retrieval Engine",
+  "status": "COMPLETE",
+  "openvino_model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage9_final_openvino/embedding_fp32/mobilenet_v3_large_embedding_960_fp32_static.xml",
+  "prototype_embedding_source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_5_official_evaluation/embeddings/mobilenetv3_large_prototype_embeddings.npy",
+  "prototype_metadata_source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_5_official_evaluation/embeddings/mobilenetv3_large_prototype_metadata.csv",
+  "historical_prediction_source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_5_official_evaluation/predictions/mobilenetv3_large_official_predictions.csv",
+  "prototype_count": 4764,
+  "embedding_dimension": 960,
+  "videos_requested": 10,
+  "videos_successfully_evaluated": 10,
+  "sample_top1_accuracy": 0.3,
+  "sample_top5_accuracy": 0.3,
+  "historical_top1_agreement": 1.0,
+  "mean_frame_inference_ms": 5.085607349951715,
+  "mean_per_video_p95_frame_inference_ms": 6.3986395800202445,
+  "methodology": {
+    "frame_sampling": "historical Stage 4.5 sample_indices",
+    "frame_count": 8,
+    "spatial_model": "Stage 9.1 OpenVINO MobileNetV3-Large 960-D extractor",
+    "temporal_aggregation": "mean pooling",
+    "normalization": "L2",
+    "retrieval": "cosine similarity",
+    "gallery": "canonical Stage 4.5 prototype gallery",
+    "hand_roi": false,
+    "test_label_tuning": false,
+    "tta": false,
+    "whitening": false,
+    "csls": false
+  }
+}

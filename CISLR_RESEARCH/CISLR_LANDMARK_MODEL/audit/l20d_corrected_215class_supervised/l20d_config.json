@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "model_name": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "initialization": "corrected_L20C_final_backbone",
+  "num_classes": 215,
+  "num_frames": 16,
+  "train_videos": 710,
+  "validation_videos": 304,
+  "locked_test_videos": 10,
+  "head_epochs": 8,
+  "finetune_epochs": 35,
+  "head_lr": 0.0003,
+  "finetune_lr": 2e-05,
+  "weight_decay": 0.0001,
+  "batch_size": 1,
+  "gradient_accumulation": 8,
+  "effective_batch": 8,
+  "trainable_final_blocks": 4,
+  "early_stopping_patience": 10,
+  "model_selection": "validation_top1_then_top5_then_loss",
+  "locked_test_evaluated": false,
+  "validation_used_for_training": false,
+  "old_contaminated_l20c_used": false,
+  "collapse_diagnostic": {
+    "samples": 64,
+    "mean_pairwise_cosine": 0.9999669194221497,
+    "std_pairwise_cosine": 1.913579944812227e-05,
+    "feature_std_mean": 0.2927277386188507,
+    "feature_norm_mean": 1441.4366455078125,
+    "collapse_warning": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "protocol_name": "CISLR 211-Class Final Test Protocol",
+  "created_in_stage": "L15",
+  "execution_stage": "L16",
+  "status": "FROZEN_BEFORE_TEST",
+  "test_evaluation_count_allowed": 1,
+  "selected_system": "L14C",
+  "num_classes": 211,
+  "frozen_fusion": {
+    "representation": "raw_probability",
+    "method": "Sparse Top-5 late fusion",
+    "weights": {
+      "L12B": 0.4,
+      "L13B": 0.3,
+      "L14A": 0.3
+    }
+  },
+  "rules": [
+    "The L9 test partition may be opened only after this L15 protocol is frozen.",
+    "No model parameters may be trained or fine-tuned using test data.",
+    "Fusion weights must remain exactly L12B=0.40, L13B=0.30, L14A=0.30.",
+    "No confidence threshold may be selected using test labels.",
+    "No architecture choice may be changed after observing test results.",
+    "No sample may be removed because it is misclassified or difficult.",
+    "All 211 frozen test samples must be included in final evaluation.",
+    "Report Top-1 and Top-5 accuracy regardless of result.",
+    "The test result is a final evaluation, not a new validation score.",
+    "If an implementation failure occurs, record the failure before rerunning. Do not modify model-selection decisions based on observed test labels."
+  ],
+  "required_test_outputs": [
+    "per-sample predictions",
+    "Top-1 accuracy",
+    "Top-5 accuracy",
+    "correct Top-1 count",
+    "correct Top-5 count",
+    "confusion matrix",
+    "branch predictions",
+    "fusion prediction",
+    "runtime information",
+    "artifact hashes"
+  ],
+  "forbidden_during_l16": [
+    "training",
+    "fine-tuning",
+    "fusion-weight search",
+    "architecture search",
+    "threshold tuning on test labels",
+    "sample exclusion",
+    "class exclusion",
+    "repeated test-driven optimization"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "stage": "3",
+  "step": "3.7",
+  "checks": {
+    "checkpoint_exists": true,
+    "checkpoint_loads": true,
+    "checkpoint_exact_load": true,
+    "output_class_count_consistent": true,
+    "no_random_split_created": true,
+    "no_training_on_official_test": true,
+    "no_test_labels_used_for_training": true,
+    "no_test_based_model_selection": true,
+    "no_previous_artifact_overwritten": true,
+    "existing_metrics_have_traceable_provenance": true
+  },
+  "all_passed": true
+}

@@ -1,0 +1,10 @@
+uid,target_frame,video_path,ffmpeg_return_code,ignore_error_decoded_frames,target_plus_one_required,expected_output_file_exists,enough_decoded_frames,candidate_status,decoder_error_excerpt
+-0XujLX2_9I_2,59,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-0XujLX2_9I_2.mp4,0,58,60,False,False,NOT_RECOVERED,
+-0XujLX2_9I_2,69,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-0XujLX2_9I_2.mp4,0,58,70,False,False,NOT_RECOVERED,
+7hICMJlI2hQ_2,140,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7hICMJlI2hQ_2.mp4,0,136,141,False,False,NOT_RECOVERED,
+GA00BzF9EpE_2,103,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/GA00BzF9EpE_2.mp4,0,94,104,False,False,NOT_RECOVERED,
+QKEuQ32GLNc_2,114,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QKEuQ32GLNc_2.mp4,0,105,115,False,False,NOT_RECOVERED,
+b8BlqEQCtiY_2,141,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/b8BlqEQCtiY_2.mp4,0,136,142,False,False,NOT_RECOVERED,
+pr_5nYeLFKc_2,92,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pr_5nYeLFKc_2.mp4,0,88,93,False,False,NOT_RECOVERED,
+LYfzb9LaUHw_2,99,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LYfzb9LaUHw_2.mp4,0,91,100,False,False,NOT_RECOVERED,
+zupZnldqNbE_2,164,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zupZnldqNbE_2.mp4,0,160,165,False,False,NOT_RECOVERED,

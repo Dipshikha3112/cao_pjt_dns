@@ -1,0 +1,25 @@
+{
+    "sequence_length": 32,
+    "old_feature_dim": 254,
+    "enhanced_feature_dim": 617,
+    "continuous_dim": 615,
+    "mask_dim": 2,
+    "train_shape": [
+        585,
+        32,
+        617
+    ],
+    "validation_shape": [
+        211,
+        32,
+        617
+    ],
+    "train_raw_abs_max": 25.450742721557617,
+    "validation_raw_abs_max": 21.29885482788086,
+    "train_standardized_abs_max": 27.286924362182617,
+    "validation_standardized_abs_max": 22.390287399291992,
+    "near_zero_std_dimensions": 26,
+    "finite_train": true,
+    "finite_validation": true,
+    "test_features_loaded": false
+}

@@ -1,0 +1,32 @@
+{
+  "research_experiment": {
+    "name": "211-class CISLR research benchmark",
+    "final_stage": "L16",
+    "num_classes": 211,
+    "final_test_top1": 41.23222748815166,
+    "final_test_top5": 52.13270142180095,
+    "status": "FROZEN",
+    "may_be_retuned": false
+  },
+  "deployment_experiment": {
+    "name": "10-sign restricted-vocabulary deployment",
+    "starting_stage": "L17",
+    "num_classes": 10,
+    "accuracy_target": ">=90% validation if empirically achieved",
+    "target_is_guarantee": false,
+    "requires_new_data": true,
+    "new_recordings_per_sign": 60,
+    "planned_new_train": 400,
+    "planned_new_validation": 100,
+    "planned_new_test": 100
+  },
+  "anti_leakage": {
+    "l16_predictions_used_for_vocab_selection": false,
+    "l16_confusion_used_for_vocab_selection": false,
+    "l16_test_correctness_used_for_vocab_selection": false,
+    "l16_scores_used_for_vocab_selection": false,
+    "l9_train_support_used": true,
+    "l9_train_quality_used": true,
+    "dataset_metadata_support_used": true
+  }
+}

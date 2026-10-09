@@ -1,0 +1,45 @@
+{
+  "stage": "L18B",
+  "status": "COMPLETE_AND_FROZEN",
+  "version": "ROBUST_SEQUENTIAL_DECODER",
+  "task": "10-class restricted-vocabulary dataset construction",
+  "num_classes": 10,
+  "seed": 42,
+  "source_l18a_freeze_sha256": "28a5b496b532b8d28a4ea04bd1e6b1c23fb2b846058474a4700f7809b1268100",
+  "population": {
+    "train": 70,
+    "validation": 10,
+    "test": 10,
+    "total": 90
+  },
+  "training_protocol": {
+    "balanced_sampling": true,
+    "draws_per_class_per_epoch": 20,
+    "epoch_draws": 200,
+    "augmentation": "TRAIN_ONLY"
+  },
+  "decoder": {
+    "method": "SEQUENTIAL",
+    "random_frame_seek": false,
+    "uniform_sample_after_decode": true
+  },
+  "rgb_cache": {
+    "sequence_length": 32,
+    "resolution": [
+      256,
+      256
+    ],
+    "train_cached": 70,
+    "validation_cached": 10,
+    "test_cached": 0
+  },
+  "test_lock": {
+    "locked": true,
+    "decoded": false,
+    "cached": false,
+    "available_for_l19_training": false,
+    "available_for_l19_model_selection": false
+  },
+  "next_stage": "L19",
+  "created_at": "2026-10-04T00:37:34.225486"
+}

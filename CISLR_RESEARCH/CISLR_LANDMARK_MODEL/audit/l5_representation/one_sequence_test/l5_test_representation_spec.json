@@ -1,0 +1,35 @@
+{
+    "stage": "L5",
+    "status": "one_sequence_validation",
+    "sequence_length": 32,
+    "num_hands": 2,
+    "num_landmarks_per_hand": 21,
+    "coordinates": [
+        "x",
+        "y",
+        "z"
+    ],
+    "hand_identity": "temporal Track-0 / Track-1; NOT anatomical left/right",
+    "normalization": "wrist-relative XYZ divided by mean wrist-to-MCP XY distance",
+    "scale_landmarks": [
+        5,
+        9,
+        13,
+        17
+    ],
+    "short_gap_interpolation": true,
+    "maximum_interpolation_gap_frames": 3,
+    "long_gap_interpolation": false,
+    "motion": "first-order normalized XYZ difference",
+    "presence_mask": true,
+    "normalized_xyz_features": 126,
+    "motion_features": 126,
+    "presence_features": 2,
+    "feature_dim": 254,
+    "classifier_input_shape": [
+        32,
+        254
+    ],
+    "minimum_valid_frames_provisional": 8,
+    "minimum_detection_rate_provisional": 0.2
+}

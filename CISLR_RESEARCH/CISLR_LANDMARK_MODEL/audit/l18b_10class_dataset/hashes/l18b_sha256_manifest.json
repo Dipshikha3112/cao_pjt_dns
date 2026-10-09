@@ -1,0 +1,46 @@
+{
+  "train_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_train_manifest.csv",
+    "sha256": "398fc836cb582392ab8da926c1ce1042701409f713e1229900f715484a21585c"
+  },
+  "validation_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "sha256": "110d791089cb9c42ba6c5f4aa5a36da35cd33dd93961cf2bb2e24a3dc7c60449"
+  },
+  "locked_test_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_LOCKED_test_manifest.csv",
+    "sha256": "fa38a2c60a5adaccc6a7b3d9d9cb2b7a05e4daa36e7d913f76bfe440d7727da6"
+  },
+  "master_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_master_manifest.csv",
+    "sha256": "302a80e438937d51056920596621f7bf7d2f83e95ce68d6dbc922025d9cc9263"
+  },
+  "balanced_epoch_plan": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_balanced_epoch_plan.csv",
+    "sha256": "e060176dffece3a0ee5552b5dddaaf4c2a460f9d982df3e18fbab01b7ad64c26"
+  },
+  "augmentation_config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/config/l18b_training_augmentation.json",
+    "sha256": "55f68e18a361eb27bbaa70cf939e2640e64bac78dee36ad89a9c3196d214ce76"
+  },
+  "class_mapping": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/config/l18b_class_mapping.json",
+    "sha256": "6c9af02891dfbd0b0ff8dd90a44648c86f006b4ed2aa8f5f58fb0c0839f5540f"
+  },
+  "l19_dataset_config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/config/l19_dataset_config.json",
+    "sha256": "e41d637aa0000ebe55ae1622d71b5bd9246325b588aceccea7cfa363b8be85cc"
+  },
+  "class_summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/reports/l18b_class_summary.csv",
+    "sha256": "a7a32202d0359436055ff4a2d92f57faff876bf9d7f0ff027fc30f0bf7ee373f"
+  },
+  "cache_report": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/reports/l18b_cache_report.csv",
+    "sha256": "f79c6c62cd156a43a9299fdbf09f79627f623e852734ba5d7f1efe71bf07c6e0"
+  },
+  "summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/reports/l18b_summary.json",
+    "sha256": "141de9a64d6d0d4a56d83b0af829f6a3ec0b505c88fc15b0592bcbf0a436ce60"
+  }
+}

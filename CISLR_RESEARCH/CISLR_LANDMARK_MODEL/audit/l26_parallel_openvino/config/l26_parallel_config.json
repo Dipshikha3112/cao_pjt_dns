@@ -1,0 +1,28 @@
+{
+  "stage": "L26_V2",
+  "architecture": "parallel OpenVINO live inference",
+  "hand_device": "CPU",
+  "videomae_device": "CPU",
+  "device_selection_measurements_ms": {
+    "CPU": 1104.7369950001666,
+    "GPU": 3680.870928499644
+  },
+  "buffer_size": 32,
+  "model_frames": 16,
+  "classifier_check_every_frames": 6,
+  "minimum_hand_frames": 8,
+  "maximum_classifier_workers": 1,
+  "classifier_queue": "no backlog",
+  "input_shape": [
+    1,
+    16,
+    3,
+    224,
+    224
+  ],
+  "horizontal_flip": false,
+  "no_sign_rejection": false,
+  "temporal_stabilization": false,
+  "training": false,
+  "locked_test_used": false
+}

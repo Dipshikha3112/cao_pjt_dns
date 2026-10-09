@@ -1,0 +1,72 @@
+{
+  "stage": "L13B",
+  "description": "RGB-only temporal classification using frozen L13A visual encoder",
+  "representation": {
+    "encoder": "MobileNetV3-Small",
+    "encoder_stage": "L13A",
+    "encoder_frozen": true,
+    "projection_head_used": false,
+    "sequence_length": 32,
+    "visual_embedding_dim": 576,
+    "input_shape": [
+      32,
+      576
+    ]
+  },
+  "classifier": {
+    "architecture": "Temporal Transformer",
+    "model_dim": 256,
+    "num_heads": 4,
+    "num_layers": 2,
+    "ff_dim": 512,
+    "dropout": 0.35,
+    "parameters": 1299028
+  },
+  "split": {
+    "train": 585,
+    "validation": 211,
+    "test": 211
+  },
+  "training": {
+    "best_epoch": 33,
+    "epochs_completed": 51,
+    "initial_learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "label_smoothing": 0.05,
+    "training_seconds": 11.629138946533203
+  },
+  "validation": {
+    "loss": 3.7601910902990547,
+    "top1_percent": 38.86255924170616,
+    "top1_correct": 82,
+    "top5_percent": 46.44549763033175,
+    "top5_correct": 98
+  },
+  "generalization": {
+    "train_top1_at_selected_checkpoint": 100.0,
+    "validation_top1": 38.86255924170616,
+    "gap_pp": 61.13744075829384
+  },
+  "comparison": {
+    "l12b_top1": 28.436018957345972,
+    "l12b_top5": 37.914692,
+    "l13b_minus_l12b_top1_pp": 10.426540284360186,
+    "l13b_minus_l12b_top5_pp": 8.530805630331749
+  },
+  "class_mapping": {
+    "source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/class_mapping/l9_controlled_class_mapping.json",
+    "selected_json_path": "root.gloss_to_id",
+    "mapping_type": "gloss_to_id",
+    "num_classes": 211,
+    "regenerated": false
+  },
+  "test_integrity": {
+    "manifest_verified": true,
+    "source_table_built": false,
+    "video_paths_resolved": false,
+    "rgb_decoded": false,
+    "embeddings_created": false,
+    "evaluated": false,
+    "status": "LOCKED"
+  }
+}

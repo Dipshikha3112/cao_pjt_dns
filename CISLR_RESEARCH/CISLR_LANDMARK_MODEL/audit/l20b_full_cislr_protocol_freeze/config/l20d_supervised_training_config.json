@@ -1,0 +1,20 @@
+{
+  "future_stage": "L20D",
+  "task": "215_class_cislr_supervised_video_classification",
+  "support_threshold": 4,
+  "num_classes": 215,
+  "total_videos": 1024,
+  "train_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_full_cislr_protocol_freeze/manifests/l20b_train_manifest.csv",
+  "validation_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_full_cislr_protocol_freeze/manifests/l20b_validation_manifest.csv",
+  "class_mapping": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_full_cislr_protocol_freeze/config/l20b_215_class_mapping.json",
+  "train_videos": 717,
+  "validation_videos": 307,
+  "target_metric": "validation_top1_accuracy",
+  "requested_target_percent": 90.0,
+  "target_is_guaranteed": false,
+  "validation_used_for": "model selection and early stopping",
+  "validation_used_for_training": false,
+  "split_search_using_accuracy": false,
+  "seed_search_using_accuracy": false,
+  "executed_in_l20b": false
+}

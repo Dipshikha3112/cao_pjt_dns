@@ -1,0 +1,57 @@
+{
+  "stage": "L26C",
+  "experiment": "10-class lightweight landmark BiGRU real-time deployment classifier",
+  "status": "OPENVINO_EXPORT_VERIFIED",
+  "classes": [
+    "monday",
+    "interest",
+    "thursday",
+    "christmas",
+    "pencil",
+    "mother",
+    "tuesday",
+    "friday",
+    "rubber",
+    "wash"
+  ],
+  "train_samples": 70,
+  "validation_samples": 10,
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "openvino_input_shape": [
+    1,
+    32,
+    63
+  ],
+  "best_epoch": 20,
+  "training_best_validation_top1": 0.6,
+  "verified_pytorch_validation_top1": 0.6,
+  "verified_openvino_validation_top1": 0.6,
+  "pytorch_openvino_top1_agreement": 1.0,
+  "pytorch_openvino_global_max_abs_error": 0.0012793540954589844,
+  "openvino_device": "CPU",
+  "classifier_latency_ms": {
+    "mean": 0.6999096749950695,
+    "median": 0.6965495003896649,
+    "p95": 0.9326973493443796,
+    "minimum": 0.4473959997994825,
+    "maximum": 1.121534000048996
+  },
+  "artifacts": {
+    "xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26c_realtime_landmark_classifier/models/l26c_fast_landmark_bigru.xml",
+    "xml_sha256": "005e238500ea558a23dd5c9cf2ee47cdbf5bbf73f3643a5ad43fdf7130cbb99c",
+    "bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26c_realtime_landmark_classifier/models/l26c_fast_landmark_bigru.bin",
+    "bin_sha256": "779ed45211d94c4f3b4a5b15d0e11824bd6621561c3de8f33b1663e6f4fa350a",
+    "validation_verification": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26c_realtime_landmark_classifier/reports/l26c_openvino_validation_verification.csv",
+    "latency_report": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26c_realtime_landmark_classifier/reports/l26c_openvino_latency.csv"
+  },
+  "scientific_integrity": {
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "l22_videomae_modified": false,
+    "l19_model_modified": false,
+    "retraining_in_this_fix_cell": false,
+    "validation_used_for_model_selection": true,
+    "formal_end_to_end_latency": false
+  }
+}

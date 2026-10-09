@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "device": "cuda",
+  "pytorch_version": "2.14.0+cu130",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "feature_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/features/all_video_features_75f7fb9f.pt",
+  "num_dev_videos": 3810,
+  "num_val_videos": 953,
+  "num_test_videos_excluded": 2285,
+  "epochs": 20,
+  "batch_size": 32,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "patience": 5,
+  "task": "temporal_order_discrimination",
+  "purpose": "architecture_selection_without_test_leakage"
+}

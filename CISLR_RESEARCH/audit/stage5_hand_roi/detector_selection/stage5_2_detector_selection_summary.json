@@ -1,0 +1,20 @@
+{
+  "stage": "5.2",
+  "status": "COMPLETE_PENDING_VISUAL_REVIEW",
+  "selection_videos": 200,
+  "selected_detector": "OpenCV_Skin_Contour",
+  "selection_score": 0.8871151919642857,
+  "selected_metrics": {
+    "valid_detection_rate": 0.68375,
+    "one_hand_rate": 0.07696428571428571,
+    "two_hand_rate": 0.6067857142857143,
+    "invalid_rate": 0.31625,
+    "error_rate": 0.0,
+    "average_confidence": 0.04581333829365079,
+    "mean_roi_area_fraction": 0.22576961607142856,
+    "temporal_stability": 0.5630828529080402,
+    "mean_latency_ms": 0.5526155348759079
+  },
+  "visual_review_required": true,
+  "next_stage": "Stage 5.3 \u2014 Hand ROI Extraction after visual sanity-check approval."
+}

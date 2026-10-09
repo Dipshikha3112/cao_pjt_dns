@@ -1,0 +1,53 @@
+{
+  "stage": "L13.0",
+  "description": "RGB-landmark alignment and landmark-guided visual ROI pipeline",
+  "seed": 42,
+  "sequence_length": 32,
+  "hand_box_scale": 1.6,
+  "context_box_scale": 1.5,
+  "split": {
+    "train": 585,
+    "validation": 211,
+    "test_locked": 211
+  },
+  "processing": {
+    "expected_train_validation": 796,
+    "processed": 796,
+    "failures": 0,
+    "alignment_pass": 796,
+    "alignment_fail": 0,
+    "cache_files": 796,
+    "bad_cache": 0
+  },
+  "quality": {
+    "mean_decode_rate": 1.0,
+    "mean_any_hand_coverage": 0.5280307788944724,
+    "median_any_hand_coverage": 0.53125,
+    "mean_both_hand_coverage": 0.22004554020100503,
+    "mean_context_coverage": 0.5280307788944724,
+    "good": 25,
+    "review": 470,
+    "poor": 301
+  },
+  "test_integrity": {
+    "test_manifest_verified": true,
+    "test_videos_opened": 0,
+    "test_frames_decoded": 0,
+    "test_cache_files": 0,
+    "test_evaluated": false
+  },
+  "pass_conditions": {
+    "frozen_train_count": true,
+    "frozen_validation_count": true,
+    "frozen_test_count": true,
+    "zero_split_overlap": true,
+    "all_train_processed": true,
+    "all_validation_processed": true,
+    "no_processing_failures": true,
+    "all_alignment_pass": true,
+    "all_cache_structurally_valid": true,
+    "test_not_processed": true,
+    "test_not_cached": true
+  },
+  "overall_pass": true
+}

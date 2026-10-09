@@ -1,0 +1,11 @@
+,monday,interest,thursday,christmas,pencil,mother,tuesday,friday,rubber,wash
+monday,1,0,0,0,0,0,0,0,0,0
+interest,0,1,0,0,0,0,0,0,0,0
+thursday,0,0,1,0,0,0,0,0,0,0
+christmas,0,0,0,1,0,0,0,0,0,0
+pencil,0,0,0,0,1,0,0,0,0,0
+mother,0,0,0,0,0,1,0,0,0,0
+tuesday,0,0,0,0,0,0,1,0,0,0
+friday,0,0,0,0,0,0,0,1,0,0
+rubber,0,0,0,0,0,0,0,0,1,0
+wash,0,0,0,0,0,0,0,0,0,1

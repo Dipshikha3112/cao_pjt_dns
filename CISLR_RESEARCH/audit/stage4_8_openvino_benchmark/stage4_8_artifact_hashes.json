@@ -1,0 +1,7 @@
+{
+  "input_xml": "0aed6383ce26dfc4dfbb17eb67f9082ae4ec2fb8c99fac4be7519fce65e60ff0",
+  "input_bin": "02de73f512dd6817c4ef0aafff5d305dc4bd62a9d848aa7084f3f00de8d40a79",
+  "comparison_csv": "01af16089a49ad9eb248c7b0d07490132fa678af706a3f4dae79391d88408ce7",
+  "latency_csv": "498a191e18b063534b3c49ccce9987caf221e4e1c08a197caf7bd9184efe52ba",
+  "benchmark_json": "23da2066e6ac6ab9275f45ad12a4957f8c114945a8bf3451496abf07def7623a"
+}

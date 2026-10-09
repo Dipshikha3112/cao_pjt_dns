@@ -1,0 +1,50 @@
+{
+  "stage": "5.2",
+  "title": "Hand Detector / ROI Generator Selection",
+  "version": "final_corrected_per_video_mediapipe_resumable",
+  "project_root": "/home/dipshikha/Music/cao/CISLR_RESEARCH",
+  "input_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/manifests/stage5_1_master_video_manifest.csv",
+  "selection_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/detector_selection/stage5_2_selection_video_manifest.csv",
+  "selection_videos": 200,
+  "frames_per_video": 8,
+  "candidate_methods": [
+    "MediaPipe_Hands",
+    "OpenCV_Skin_Contour"
+  ],
+  "mediapipe_timestamp_strategy": "A fresh MediaPipe HandLandmarker instance is created for each independent video. Timestamps restart from zero for each video and increase monotonically within that video.",
+  "evaluation_metrics": [
+    "valid_detection_rate",
+    "one_hand_rate",
+    "two_hand_rate",
+    "invalid_rate",
+    "error_rate",
+    "average_confidence",
+    "mean_roi_area_fraction",
+    "temporal_stability",
+    "mean_latency_ms"
+  ],
+  "selection_weights": {
+    "detection_reliability": 0.3,
+    "temporal_stability": 0.2,
+    "confidence": 0.1,
+    "two_hand_handling": 0.1,
+    "roi_area": 0.1,
+    "speed": 0.1,
+    "error_free_operation": 0.1
+  },
+  "roi_validity": {
+    "minimum_area_fraction": 0.005,
+    "maximum_area_fraction": 0.9,
+    "target_area_fraction": 0.2
+  },
+  "ground_truth_limitation": "CISLR does not contain hand bounding-box ground truth. Detector localization IoU is therefore not claimed.",
+  "visual_sanity_check": {
+    "videos": 12,
+    "purpose": "Qualitative verification that generated ROIs correspond to signer hand regions."
+  },
+  "raw_videos_modified": false,
+  "stage4_artifacts_modified": false,
+  "stage5_1_artifacts_modified": false,
+  "selected_detector": "OpenCV_Skin_Contour",
+  "selected_score": 0.8871151919642857
+}

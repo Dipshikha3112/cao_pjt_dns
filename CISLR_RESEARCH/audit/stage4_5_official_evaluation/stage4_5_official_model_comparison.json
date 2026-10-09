@@ -1,0 +1,50 @@
+{
+  "ResNet18": {
+    "num_queries": 2285,
+    "num_prototypes": 4764,
+    "Top-1": 0.11159737417943107,
+    "Top-5": 0.21312910284463896,
+    "Recall@10": 0.25295404814004374,
+    "MRR": 0.1576259666113365,
+    "mean_rank": 1389.8739606126915,
+    "median_rank": 856.0,
+    "min_rank": 1,
+    "max_rank": 4760,
+    "model": "ResNet18",
+    "embedding_dimension": 512,
+    "num_prototype_videos": 4764,
+    "num_test_videos": 2285
+  },
+  "MobileNetV3-Large": {
+    "num_queries": 2285,
+    "num_prototypes": 4764,
+    "Top-1": 0.15798687089715535,
+    "Top-5": 0.23719912472647703,
+    "Recall@10": 0.26652078774617066,
+    "MRR": 0.1952844813962953,
+    "mean_rank": 1572.5203501094093,
+    "median_rank": 1229.0,
+    "min_rank": 1,
+    "max_rank": 4760,
+    "model": "MobileNetV3-Large",
+    "embedding_dimension": 960,
+    "num_prototype_videos": 4764,
+    "num_test_videos": 2285
+  },
+  "EfficientNet-B0": {
+    "num_queries": 2285,
+    "num_prototypes": 4764,
+    "Top-1": 0.12866520787746172,
+    "Top-5": 0.212253829321663,
+    "Recall@10": 0.2437636761487965,
+    "MRR": 0.16957903608300492,
+    "mean_rank": 1781.712035010941,
+    "median_rank": 1681.0,
+    "min_rank": 1,
+    "max_rank": 4762,
+    "model": "EfficientNet-B0",
+    "embedding_dimension": 1280,
+    "num_prototype_videos": 4764,
+    "num_test_videos": 2285
+  }
+}

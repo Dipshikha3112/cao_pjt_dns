@@ -1,0 +1,8 @@
+{
+  "n_prototype_classes": 4763,
+  "n_classes_with_ge2_nontest_videos": 0,
+  "max_videos_in_any_class": 1,
+  "class_aware_dev_val_split_possible": false,
+  "reason": "CISLR v1.5-a has one non-test video per gloss. A class-aware support/query split cannot be constructed without using official test videos or leaking test labels.",
+  "official_test_videos_used_in_stage8": 0
+}

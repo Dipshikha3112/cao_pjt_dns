@@ -1,0 +1,34 @@
+{
+    "stage": "L8_EXPERIMENTAL_POPULATION_FREEZE",
+    "representation": {
+        "sequence_length": 32,
+        "feature_dim": 254
+    },
+    "quality_rule": {
+        "minimum_original_detection_rate": 0.2,
+        "minimum_sampled_hand_frames": 8
+    },
+    "metadata": {
+        "dataset_rows": 7050,
+        "valid_label_rows": 7048,
+        "invalid_label_rows": 2,
+        "authoritative_unique_glosses": 4763,
+        "feature_derived_valid_glosses": 4763,
+        "label_mismatch_rows": 2
+    },
+    "full_vocabulary_population": {
+        "videos": 7002,
+        "classes": 4748,
+        "population_sha256": "48af4c95fca10d4b0210f919abc935fe329461d250c2a6290140ccd60b089fbc",
+        "mapping_sha256": "71c3a2252e63218b2022f3f7b6e0e41094ec4a993291198d1e4bc236888f6b6e"
+    },
+    "controlled_population": {
+        "minimum_usable_videos_per_class": 4,
+        "videos": 1007,
+        "classes": 211,
+        "minimum_class_support": 4,
+        "maximum_class_support": 13,
+        "population_sha256": "8f2aba35871640b47c19c90dcfb6df312f8f8e5d15a1375d1c3517ee455c937a",
+        "mapping_sha256": "07cb67105df7bef86666a0a9bebaa1e165175abf2ee630f3d9835535f9f099fa"
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "stage": "L30",
+  "device": "CPU",
+  "sign_identity_source": "L26C trained OpenVINO BiGRU",
+  "l27_role": "NO_SIGN rejection only",
+  "l28_class_override": false,
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "model_history_size": 5,
+  "model_confirm_votes": 3,
+  "nosign_release_frames": 3,
+  "tts_engine": "pyttsx3",
+  "tts_rate": 150,
+  "tts_volume": 1.0,
+  "tts_async": true,
+  "auto_speak_new_token": true,
+  "vocabulary": [
+    "monday",
+    "interest",
+    "thursday",
+    "christmas",
+    "pencil",
+    "mother",
+    "tuesday",
+    "friday",
+    "rubber",
+    "wash"
+  ],
+  "locked_test_used": false,
+  "training": false,
+  "retraining": false
+}

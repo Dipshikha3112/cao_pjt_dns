@@ -1,0 +1,89 @@
+{
+  "stage": "L21",
+  "project": "PARASURG_CISLR_REAL_TIME_ISL_INTERPRETER",
+  "status": "FROZEN",
+  "source_stage": "L19",
+  "model_family": "VideoMAE",
+  "pretrained_backbone": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "num_classes": 10,
+  "num_frames": 16,
+  "input_resolution": [
+    224,
+    224
+  ],
+  "input_layout": "B,T,C,H,W",
+  "expected_input_shape": [
+    1,
+    16,
+    3,
+    224,
+    224
+  ],
+  "classifier": {
+    "weight_name": "classifier.weight",
+    "bias_name": "classifier.bias",
+    "input_dimension": 768,
+    "output_dimension": 10
+  },
+  "checkpoint_structure": {
+    "state_dict_key": "model_state_dict",
+    "checkpoint_metadata": {
+      "epoch": 23,
+      "global_epoch": 38,
+      "stage": "L19",
+      "validation_accuracy": 100.0,
+      "model_name": "MCG-NJU/videomae-base-finetuned-kinetics",
+      "num_classes": 10
+    }
+  },
+  "vocabulary": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "dataset": {
+    "train": 70,
+    "validation": 10,
+    "locked_test": 10,
+    "balanced_training_draws_per_epoch": 200
+  },
+  "known_l19_result": {
+    "best_stage": "FINETUNE4",
+    "best_global_epoch": 38,
+    "validation_top1_percent": 100.0,
+    "validation_correct": 10,
+    "validation_total": 10,
+    "final_test_result": false,
+    "real_world_accuracy_claim": false
+  },
+  "full_cislr_research_context": {
+    "stage": "L20D",
+    "classes": 215,
+    "system": "B2C multimodal fusion",
+    "validation_top1_percent": 40.132,
+    "validation_top5_percent": 57.566
+  },
+  "integrity": {
+    "source_checkpoint_sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "expected_checkpoint_sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "frozen_checkpoint_sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c",
+    "expected_l19_master_freeze_sha256": "0997873212a9b4495b965773645231f8a0206b12a5f98934bac04b2a071b9d39",
+    "actual_l19_master_freeze_sha256": "0997873212a9b4495b965773645231f8a0206b12a5f98934bac04b2a071b9d39",
+    "l19_master_freeze_verified": true
+  },
+  "l21_actions": {
+    "training": false,
+    "weight_modification": false,
+    "locked_test_inference": false,
+    "locked_test_evaluation": false,
+    "openvino_export": false
+  },
+  "next_stage": "L22_OPENVINO_EXPORT"
+}

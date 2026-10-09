@@ -1,0 +1,80 @@
+{
+  "stage": "L26_V2",
+  "status": "COMPLETE",
+  "experiment": "Parallel real-time OpenVINO temporal classification",
+  "architecture": {
+    "camera_and_hand_pipeline": "main thread",
+    "videomae": "single background worker",
+    "backlog": false,
+    "latest_window_policy": true
+  },
+  "devices": {
+    "palm": "CPU",
+    "landmark": "CPU",
+    "videomae": "CPU",
+    "startup_device_measurements_ms": {
+      "CPU": 1104.7369950001666,
+      "GPU": 3680.870928499644
+    }
+  },
+  "models": {
+    "palm": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/models/pretrained/palm/palm_detection_full.tflite",
+    "palm_sha256": "1b14e9422c6ad006cde6581a46c8b90dd573c07ab7f3934b5589e7cea3f89a54",
+    "landmark": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/models/pretrained/hand_landmark/hand_landmark_full.tflite",
+    "landmark_sha256": "11c272b891e1a99ab034208e23937a8008388cf11ed2a9d776ed3d01d0ba00e3",
+    "videomae_xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.xml",
+    "videomae_xml_sha256": "2635acee950a2ebf2286b2892a83bad69082f45721cae3f9c1eeca0e3476c77e",
+    "videomae_bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l22_openvino_export/model/l22_cislr_videomae_10class.bin",
+    "videomae_bin_sha256": "df19dea76ba03e28820ffd2770982de8c6f5bf6cca93e3ec9c20b12bea3d32fc"
+  },
+  "results": {
+    "frames_processed": 110,
+    "duration_sec": 78.3055271639987,
+    "overall_display_pipeline_fps": 1.404753968000524,
+    "frames_with_hand": 108,
+    "hand_detection_rate": 0.9818181818181818,
+    "total_hand_instances": 157,
+    "classifier_jobs_submitted": 13,
+    "classifier_jobs_completed": 12,
+    "classifier_checks_skipped_busy": 0,
+    "classifier_checks_skipped_no_hand": 0,
+    "mean_raw_confidence": 0.32929202169179916,
+    "mean_frame_ms": 692.705646127301,
+    "mean_palm_ms": 312.5043594362234,
+    "mean_landmark_ms": 366.56726560901336,
+    "mean_videomae_preprocess_ms": 33.612733083524894,
+    "mean_videomae_inference_ms": 5882.533159749831,
+    "median_videomae_inference_ms": 5841.771539999172,
+    "mean_worker_total_ms": 5917.139256000155,
+    "prediction_distribution": {
+      "thursday": 9,
+      "wash": 3
+    },
+    "videomae_device": "CPU",
+    "no_sign_rejection": false,
+    "temporal_stabilization": false,
+    "locked_test_used": false
+  },
+  "artifacts": {
+    "frame_metrics": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_parallel_openvino/reports/l26_parallel_frame_metrics.csv",
+    "frame_metrics_sha256": "2852ecaab9d6882f66e6929940cbf09fe2a27ccad9796c3b4e996b874099fafc",
+    "classifications": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_parallel_openvino/reports/l26_parallel_classifications.csv",
+    "classifications_sha256": "fd97a46b63a0803a1543816b5411dc99179bc522b3b63386d22194a13c358d95",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_parallel_openvino/config/l26_parallel_config.json",
+    "config_sha256": "c55a7a5554d4ea6fcec0cceb9052fd4ef826278e03b20fc6449f9ea0ece67e25",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26_parallel_openvino/reports/l26_parallel_summary.json",
+    "summary_sha256": "19b7a26e7a5f8290ac881ee30c7cb124dfbd0f3a9b2e40a41869c974d4a8c01d"
+  },
+  "scientific_integrity": {
+    "training": false,
+    "retraining": false,
+    "model_changed": false,
+    "input_shape_changed": false,
+    "no_sign_rejection": false,
+    "temporal_stabilization": false,
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "formal_benchmark": false
+  },
+  "note": "L26 V2 parallelizes the live deployment pipeline. Palm and landmark inference execute on the main live perception path while frozen L22 VideoMAE inference executes in one background worker. New classification requests are dropped while the worker is occupied, preventing inference backlog. Startup CPU/GPU timing is used only for runtime device selection and is not the formal L32 benchmark."
+}

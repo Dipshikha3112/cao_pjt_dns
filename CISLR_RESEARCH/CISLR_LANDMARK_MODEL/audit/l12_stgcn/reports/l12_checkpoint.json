@@ -1,0 +1,11 @@
+{
+    "l9_split_preserved": true,
+    "l6_raw_sequences_used": true,
+    "graph_representation_valid": true,
+    "train_only_normalization": true,
+    "validation_used_for_selection": true,
+    "test_manifest_verified": true,
+    "test_raw_sequences_loaded": false,
+    "test_evaluated": false,
+    "l12_pass": true
+}

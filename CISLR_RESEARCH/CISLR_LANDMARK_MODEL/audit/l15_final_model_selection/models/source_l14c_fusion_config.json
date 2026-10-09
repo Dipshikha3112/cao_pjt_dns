@@ -1,0 +1,32 @@
+{
+  "stage": "L14C",
+  "method": "Frozen sparse Top-5 late fusion",
+  "important_limitation": "Fusion uses only probabilities/ranks stored in frozen Top-5 validation outputs. It is not full 211-class logit fusion.",
+  "selection_objective": "validation Top-1, Top-5 tie-breaker",
+  "representation": "raw_probability",
+  "models": [
+    "L13B",
+    "L14A",
+    "L12B"
+  ],
+  "weights": {
+    "L13B": 0.3,
+    "L14A": 0.3,
+    "L12B": 0.39999999999999997
+  },
+  "num_classes": 211,
+  "validation_samples": 211,
+  "validation_top1": 41.23222748815166,
+  "validation_top5": 51.65876777251185,
+  "validation_correct_top1": 87,
+  "validation_correct_top5": 109,
+  "l13b_top1": 38.862559,
+  "l14a_top1": 37.914692,
+  "delta_vs_l13b_top1_pp": 2.3696684881516603,
+  "delta_vs_l14a_top1_pp": 3.3175354881516554,
+  "test_evaluated": false,
+  "test_video_loaded": false,
+  "test_used_for_selection": false,
+  "seed": 42,
+  "timestamp": "2026-10-03T23:51:32.391196"
+}

@@ -1,0 +1,33 @@
+{
+  "experiment": "L20D_FULL_CISLR_EVALUATION",
+  "status": "FROZEN",
+  "inputs": {
+    "train_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_corrected_strict_protocol_freeze/manifests/l20b_corrected_train_manifest.csv",
+    "validation_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_corrected_strict_protocol_freeze/manifests/l20b_corrected_validation_manifest.csv",
+    "class_mapping": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_corrected_strict_protocol_freeze/manifests/l20b_corrected_class_mapping.csv",
+    "b2c_aligned_logits": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2c_rgb_landmark_fusion_corrected/b2c_aligned_logits.npz",
+    "b2c_summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b2_multimodal_215class/b2c_rgb_landmark_fusion_corrected/b2c_summary.json"
+  },
+  "outputs": {
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/L20D_FULL_CISLR_EVALUATION_SUMMARY.json",
+    "overall_metrics": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/overall_validation_metrics.csv",
+    "confusion_matrix": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/b2c_confusion_matrix.csv",
+    "normalized_confusion_matrix": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/b2c_confusion_matrix_normalized.csv",
+    "per_class_accuracy": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/b2c_per_class_accuracy.csv",
+    "support_generalization": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/generalization_by_train_support.csv",
+    "common_confusions": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/most_common_confusions.csv",
+    "predictions": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/reports/validation_predictions.csv",
+    "confusion_matrix_figure": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/figures/b2c_confusion_matrix.png",
+    "normalized_confusion_matrix_figure": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/figures/b2c_confusion_matrix_normalized.png",
+    "per_class_figure": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/figures/b2c_per_class_accuracy.png",
+    "support_figure": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_full_cislr_evaluation/figures/generalization_vs_support.png"
+  },
+  "integrity": {
+    "validation_uid_verified": true,
+    "validation_labels_verified": true,
+    "all_logits_finite": true,
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "metrics_modified_to_meet_target": false
+  }
+}

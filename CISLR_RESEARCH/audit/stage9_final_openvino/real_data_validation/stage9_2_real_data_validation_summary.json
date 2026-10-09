@@ -1,0 +1,16 @@
+{
+  "stage": "9.2",
+  "purpose": "Real CISLR validation of Stage 9.1 OpenVINO 960-D embedding model",
+  "videos_requested": 10,
+  "videos_validated": 10,
+  "prototype_videos_requested": 5,
+  "test_videos_requested": 5,
+  "mean_cosine_vs_stage45": 0.999725530769393,
+  "median_cosine_vs_stage45": 0.999754699762315,
+  "minimum_cosine_vs_stage45": 0.9995052848352781,
+  "pass_cosine_threshold": 0.999,
+  "all_embeddings_pass": true,
+  "training_performed": false,
+  "test_set_tuning": false,
+  "model_modified": false
+}

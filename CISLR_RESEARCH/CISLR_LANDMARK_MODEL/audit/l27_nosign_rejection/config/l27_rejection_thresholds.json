@@ -1,0 +1,26 @@
+{
+  "stage": "L27",
+  "status": "DEVELOPMENT_CALIBRATION",
+  "classifier": "L26C OpenVINO BiGRU",
+  "classifier_validation_accuracy": 0.6,
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "valid_samples": 19,
+  "nosign_samples": 11,
+  "thresholds": {
+    "confidence_threshold": 0.1,
+    "margin_threshold": 0.0,
+    "entropy_threshold": 0.8,
+    "hand_ratio_threshold": 0.8,
+    "balanced_accuracy": 0.8827751196172249,
+    "valid_accept_rate": 0.9473684210526315,
+    "nosign_reject_rate": 0.8181818181818182,
+    "TP": 18,
+    "FN": 1,
+    "TN": 9,
+    "FP": 2
+  },
+  "locked_test_used": false,
+  "videomae_used": false,
+  "l28_stabilization": false
+}

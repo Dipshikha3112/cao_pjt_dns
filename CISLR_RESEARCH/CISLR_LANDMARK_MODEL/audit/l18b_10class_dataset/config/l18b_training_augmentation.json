@@ -1,0 +1,87 @@
+{
+  "stage": "L18B",
+  "applies_to": "TRAIN_ONLY",
+  "validation_augmentation": false,
+  "test_augmentation": false,
+  "spatial": {
+    "random_resized_crop": {
+      "enabled": true,
+      "output_size": 224,
+      "scale_range": [
+        0.8,
+        1.0
+      ],
+      "ratio_range": [
+        0.9,
+        1.1
+      ]
+    },
+    "horizontal_flip": {
+      "enabled": false,
+      "reason": "Mirroring may alter handedness or sign semantics."
+    },
+    "rotation_degrees": {
+      "enabled": true,
+      "range": [
+        -5.0,
+        5.0
+      ]
+    },
+    "translation_fraction": {
+      "enabled": true,
+      "x_range": [
+        -0.05,
+        0.05
+      ],
+      "y_range": [
+        -0.05,
+        0.05
+      ]
+    }
+  },
+  "photometric": {
+    "brightness": {
+      "enabled": true,
+      "range": [
+        0.85,
+        1.15
+      ]
+    },
+    "contrast": {
+      "enabled": true,
+      "range": [
+        0.85,
+        1.15
+      ]
+    },
+    "saturation": {
+      "enabled": true,
+      "range": [
+        0.9,
+        1.1
+      ]
+    }
+  },
+  "temporal": {
+    "frame_drop": {
+      "enabled": true,
+      "max_fraction": 0.1
+    },
+    "temporal_shift": {
+      "enabled": true,
+      "max_frames": 2
+    },
+    "reverse_sequence": {
+      "enabled": false,
+      "reason": "Temporal reversal may alter sign semantics."
+    }
+  },
+  "prohibited": [
+    "validation augmentation",
+    "test augmentation",
+    "temporal reversal",
+    "test-guided hyperparameter selection",
+    "moving validation into training",
+    "moving test into training"
+  ]
+}

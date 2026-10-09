@@ -1,0 +1,81 @@
+{
+  "project": "CISLR v1.5-a Word-Level Sign Recognition",
+  "stage": "3",
+  "step": "3.7",
+  "step_name": "final_pytorch_baseline_evaluation",
+  "model": "resnet18",
+  "checkpoint_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/resnet18_baseline_best.pt",
+  "checkpoint_integrity": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/resnet18_baseline_best.pt",
+    "exists": true,
+    "size_bytes": 54669963,
+    "sha256_prefix_1MiB": "0e6a226e69595cc0",
+    "state_dict_key": "model_state_dict",
+    "state_dict_key_count": 122,
+    "prefixes_removed": [
+      "backbone."
+    ],
+    "num_output_classes": 4764,
+    "num_parameters": 13620444,
+    "load_status": "EXACT",
+    "exact_load": true,
+    "missing_keys": [],
+    "unexpected_keys": [],
+    "shape_mismatches": []
+  },
+  "dataset_information": {
+    "total_videos": 7050,
+    "valid_gloss_classes": 4764,
+    "official_test_videos": 2285,
+    "missing_label_uid": "R_GaklgD4bY=-",
+    "class_aware_validation_split_possible": false,
+    "reason_no_validation": "CISLR v1.5-a provides exactly one non-test prototype per valid class. There is no class-aware support/query split that can be constructed without using official test videos or labels.",
+    "clean_training_videos": 4417,
+    "training_frames": 35336,
+    "corrupted_videos_excluded": 347
+  },
+  "evaluation_provenance": {
+    "training_data_evaluation_found": false,
+    "official_test_evaluation_found": false,
+    "legitimate_validation_split_found": false,
+    "case": "B",
+    "case_description": "CASE B \u2014 no official-test evaluation performed in Stage 3.7. Step is finalized using training diagnostics and checkpoint provenance. Independent validation evaluation unavailable because CISLR v1.5-a does not provide a class-aware non-test validation structure."
+  },
+  "metrics": {
+    "training_diagnostics": {
+      "clean_training_videos": 4417,
+      "training_frames": 35336,
+      "corrupted_videos_excluded": 347
+    },
+    "post_hoc_diagnostic": {
+      "top1": 0.4774,
+      "top5": 0.8575,
+      "macro_f1": 0.0429,
+      "note": "Reported in the Stage 3.7 prompt as a post-hoc evaluation of a subset that was part of the training data. It is a TRAINING / POST-HOC DIAGNOSTIC and must not be described as validation or independent test performance.",
+      "provenance": "stage3_7_prompt_reference"
+    },
+    "validation": {
+      "available": false,
+      "reason_unavailable": "CISLR v1.5-a provides exactly one non-test prototype per valid class. There is no class-aware support/query split that can be constructed without using official test videos or labels."
+    },
+    "official_test": {
+      "evaluated": false,
+      "top1": null,
+      "top5": null,
+      "macro_f1": null,
+      "note": "No new official-test evaluation performed in Stage 3.7. Existing official-test artifacts, if any, are referenced without being used for model selection."
+    }
+  },
+  "official_test_used": false,
+  "official_test_labels_used": false,
+  "official_test_used_for_model_selection": false,
+  "validation_data_existed": false,
+  "model_selection_used_test_data": false,
+  "scientific_interpretation": {
+    "training_performance": "Recorded via training diagnostics only (clean training videos, training frames, corrupted videos excluded). No validation loss or validation accuracy is claimed.",
+    "post_hoc_diagnostic_performance": "The reported Top-1 ~47.74% / Top-5 ~85.75% / Macro-F1 ~0.0429 correspond to a subset that was part of the training data. They are retained as a training / post-hoc diagnostic and must not be described as validation or independent test performance.",
+    "official_test_performance": "Not evaluated in Stage 3.7. If an existing official-test artifact is discovered, it is referenced as a final benchmark only and was not used for model selection.",
+    "conclusion": "ResNet18 is established as the Stage 3 baseline vision model. Its checkpoint loads cleanly, its output class count is consistent with the training configuration, and no official-test-based selection influenced the model. No conventional validation set exists for this dataset, so no validation accuracy is claimed."
+  },
+  "completion_status": "COMPLETE"
+}

@@ -1,0 +1,97 @@
+{
+  "stage": "5.1",
+  "stage_name": "Hand ROI Experimental Protocol & Dataset Manifest",
+  "project": "CISLR OpenVINO Research",
+  "objective": "Compare full-frame and hand-ROI visual representations under a controlled CISLR recognition experiment.",
+  "dataset": {
+    "name": "CISLR v1.5-a",
+    "dataset_csv": "/home/dipshikha/Music/cao/dataset.csv",
+    "prototype_csv": "/home/dipshikha/Music/cao/prototype.csv",
+    "test_csv": "/home/dipshikha/Music/cao/test.csv",
+    "prototype_videos": 4764,
+    "test_videos": 2285,
+    "num_classes": 4764
+  },
+  "model": {
+    "backbone": "MobileNetV3-Large",
+    "embedding_dimension": 960,
+    "input_shape": [
+      1,
+      3,
+      224,
+      224
+    ]
+  },
+  "temporal_sampling": {
+    "frames_per_video": 8,
+    "sampling_policy": "uniform_8_frame_sampling"
+  },
+  "preprocessing": {
+    "resize": "224x224",
+    "channels": "RGB",
+    "normalization": "ImageNet",
+    "evaluation_augmentation": false
+  },
+  "conditions": {
+    "full_frame": {
+      "enabled": true,
+      "hand_detection": false,
+      "roi_extraction": false
+    },
+    "hand_roi": {
+      "enabled": true,
+      "hand_detection": true,
+      "roi_extraction": true,
+      "padding_policy": "TO_BE_DEFINED_IN_STAGE_5.3"
+    }
+  },
+  "evaluation": {
+    "protocol": "official_prototype_to_test_retrieval",
+    "prototype_videos": 4764,
+    "test_videos": 2285,
+    "similarity": "cosine",
+    "metrics": [
+      "Top-1",
+      "Top-5",
+      "Recall@10",
+      "MRR",
+      "mean_rank",
+      "median_rank"
+    ]
+  },
+  "controls": {
+    "same_backbone": true,
+    "same_frame_sampling": true,
+    "same_input_resolution": true,
+    "same_normalization": true,
+    "same_prototype_test_split": true,
+    "same_retrieval_protocol": true,
+    "original_videos_modified": false
+  },
+  "stage5_scope": {
+    "stage_5_1": "Protocol and manifest only",
+    "stage_5_2": "Hand detector selection",
+    "stage_5_3": "ROI extraction",
+    "stage_5_4": "ROI quality validation",
+    "stage_5_5": "Full-frame controlled baseline",
+    "stage_5_6": "Hand-ROI model",
+    "stage_5_7": "Full-frame vs ROI comparison",
+    "stage_5_8": "Final analysis and selection"
+  },
+  "reproducibility": {
+    "seed": 42,
+    "python_version": "3.11.15 (main, Jun 11 2026, 15:20:16) [GCC 14.3.0]",
+    "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.39",
+    "architecture": "x86_64",
+    "created_at": "2026-09-15T18:54:24.817931"
+  },
+  "scientific_notes": [
+    "Stage 5 does not replace or modify the official CISLR test split.",
+    "Stage 4 results remain frozen and are not rerun.",
+    "The full-frame MobileNetV3-Large result from Stage 4.5 is retained as the existing reference.",
+    "Hand ROI performance will be evaluated as a new experimental condition.",
+    "Hand detection and ROI extraction costs must be measured separately in later stages.",
+    "A failed hand detection must not be silently treated as a successful ROI.",
+    "Original CISLR videos remain untouched."
+  ]
+}

@@ -1,0 +1,11 @@
+uid,true_gloss,status,openvino_top1,top1_correct,top5_correct,historical_top1,historical_top1_agreement,top1_similarity,mean_frame_inference_ms,p95_frame_inference_ms
+-NIz596Y27Q_1,severally,OK,sample,False,False,sample,True,0.9347259998321533,4.908313749865556,8.317078200070679
+06tYXs9inPk_1,branch,OK,branch,True,True,branch,True,0.9246824979782104,4.581722624834583,5.200049099585158
+08E4Dr0zyKk_2,difference,OK,negligible,False,False,negligible,True,0.9541780948638916,4.68315962507404,5.336560000250756
+0i1qCUd3BdM_1,increase,OK,information,False,False,information,True,0.916092574596405,5.055510000147478,5.928231850157317
+0p_iET-2TRw,pencil,OK,pencil,True,True,pencil,True,0.9481477737426758,4.4418162501642655,5.209318201104907
+0q7mwfrGneM_1,monday,OK,year,False,False,year,True,0.9605855345726013,4.651709875133747,5.082924100861419
+10KuxOH6cYM_1,interest,OK,calm,False,False,calm,True,0.8423064351081848,5.651228749457005,6.754584598911606
+1DMSk1W0LSY_1,amritsar,OK,trivendrum,False,False,trivendrum,True,0.9190124273300171,5.543042374711149,7.0543811496463595
+1KCDw7XLgU0,mahavir jayanti,OK,mahavir jayanti,True,True,mahavir jayanti,True,0.9681739807128906,6.279376375005086,8.748339149769889
+1NqEYBhtmZE,sign,OK,racism,False,False,racism,True,0.9391628503799438,5.0601938751242415,6.354929449844349

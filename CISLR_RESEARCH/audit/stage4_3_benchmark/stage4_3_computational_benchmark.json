@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "model": "ResNet18",
+      "input_size": "224x224",
+      "batch_size": 1,
+      "num_classes": 4764,
+      "precision": "FP32",
+      "parameters": 13620444,
+      "trainable_parameters": 13620444,
+      "model_size_mb": 52.03126049041748,
+      "flops_g": 3.632001024,
+      "cpu_latency_mean_ms": 59.378838095012725,
+      "cpu_latency_median_ms": 59.71090299954085,
+      "cpu_latency_p95_ms": 63.0243617501037,
+      "cpu_fps": 16.84101663289351,
+      "gpu_latency_mean_ms": 2.390983842611313,
+      "gpu_latency_median_ms": 2.3595199584960938,
+      "gpu_latency_p95_ms": 2.8807168006896973,
+      "gpu_fps": 418.2378743755332,
+      "gpu_peak_memory_mb": 71.2841796875,
+      "gpu_available": true
+    },
+    {
+      "model": "MobileNetV3-Large",
+      "input_size": "224x224",
+      "batch_size": 1,
+      "num_classes": 4764,
+      "precision": "FP32",
+      "parameters": 10304716,
+      "trainable_parameters": 10304716,
+      "model_size_mb": 39.500624656677246,
+      "flops_g": 0.44281536,
+      "cpu_latency_mean_ms": 18.988631395036464,
+      "cpu_latency_median_ms": 18.979570000738022,
+      "cpu_latency_p95_ms": 21.17736265026906,
+      "cpu_fps": 52.66308978231023,
+      "gpu_latency_mean_ms": 5.361543357372284,
+      "gpu_latency_median_ms": 5.321728229522705,
+      "gpu_latency_p95_ms": 6.235958456993102,
+      "gpu_fps": 186.51345952932934,
+      "gpu_peak_memory_mb": 56.62060546875,
+      "gpu_available": true
+    },
+    {
+      "model": "EfficientNet-B0",
+      "input_size": "224x224",
+      "batch_size": 1,
+      "num_classes": 4764,
+      "precision": "FP32",
+      "parameters": 10110232,
+      "trainable_parameters": 10110232,
+      "model_size_mb": 38.84672451019287,
+      "flops_g": 0.781265344,
+      "cpu_latency_mean_ms": 34.33536550501685,
+      "cpu_latency_median_ms": 34.42872499999794,
+      "cpu_latency_p95_ms": 37.11276684966833,
+      "cpu_fps": 29.12448972922355,
+      "gpu_latency_mean_ms": 7.562564644813538,
+      "gpu_latency_median_ms": 7.383935928344727,
+      "gpu_latency_p95_ms": 9.565849924087523,
+      "gpu_fps": 132.23027464443658,
+      "gpu_peak_memory_mb": 59.10107421875,
+      "gpu_available": true
+    }
+  ],
+  "protocol": {
+    "stage": "4.3",
+    "title": "Computational Benchmarking",
+    "purpose": "Fair computational comparison of ResNet18, MobileNetV3-Large, and EfficientNet-B0 for the CISLR frame-classification architecture.",
+    "candidate_models": [
+      "ResNet18",
+      "MobileNetV3-Large",
+      "EfficientNet-B0"
+    ],
+    "canonical_pool": {
+      "videos": 4764,
+      "source": "stage4_2_canonical_training_manifest.csv",
+      "official_test_used": false,
+      "new_validation_split_created": false
+    },
+    "benchmark": {
+      "input_shape": [
+        1,
+        3,
+        224,
+        224
+      ],
+      "batch_size": 1,
+      "num_classes": 4764,
+      "precision": "FP32",
+      "warmup_iterations": 50,
+      "measurement_iterations": 200,
+      "cpu_threads": 1,
+      "flops_convention": "1 multiply-add = 2 FLOPs",
+      "latency_measurement": {
+        "cpu": "time.perf_counter",
+        "gpu": "CUDA events"
+      }
+    },
+    "scientific_constraints": [
+      "No model training performed.",
+      "No official test videos used.",
+      "No new validation split created.",
+      "All candidate models use the same input size.",
+      "All candidate models use batch size 1.",
+      "All candidate models use FP32.",
+      "All candidate models use the same 4764-class classifier output.",
+      "CPU benchmarking uses one thread for deterministic comparison."
+    ],
+    "hardware": {
+      "platform": "Linux-7.0.0-30-generic-x86_64-with-glibc2.39",
+      "pytorch": "2.14.0+cu130",
+      "torchvision": "0.29.0+cu130",
+      "cuda_available": true,
+      "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "cuda_version": "13.0"
+    },
+    "results_csv": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_3_benchmark/stage4_3_computational_benchmark.csv"
+  }
+}

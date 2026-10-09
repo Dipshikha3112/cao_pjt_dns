@@ -1,0 +1,18 @@
+{
+    "experiment": "posthoc_spatial_backbone_evaluation",
+    "num_classes": 4764,
+    "num_frames": 8,
+    "image_size": 224,
+    "video_batch_size": 2,
+    "seed": 42,
+    "official_test_used": false,
+    "training_performed_in_this_cell": false,
+    "checkpoint_weights_retrained": false,
+    "checkpoint_prefix_corrected": true,
+    "evaluation_type": "post-hoc evaluation on previously seen training videos",
+    "resnet_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/resnet18_baseline_best.pt",
+    "efficientnet_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_b0_baseline_best.pt",
+    "evaluation_videos": 442,
+    "checkpoint_loading": "strict=True after removing 'backbone.' prefix",
+    "selection_rule": "Top-1 primary, Top-5 tie-breaker, Macro-F1 secondary"
+}

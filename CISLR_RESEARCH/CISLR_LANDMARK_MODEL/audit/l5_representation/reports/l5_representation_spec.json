@@ -1,0 +1,38 @@
+{
+    "stage": "L5",
+    "representation_version": "L5_v1",
+    "sequence_length": 32,
+    "num_hands": 2,
+    "num_landmarks_per_hand": 21,
+    "coordinates": [
+        "x",
+        "y",
+        "z"
+    ],
+    "hand_identity": "temporal Track-0 / Track-1; not anatomical left/right",
+    "slot_stabilization": "minimum wrist-distance temporal assignment",
+    "normalization": "wrist-relative XYZ divided by mean wrist-to-MCP XY distance",
+    "scale_landmarks": [
+        5,
+        9,
+        13,
+        17
+    ],
+    "short_gap_interpolation": true,
+    "maximum_interpolation_gap_frames": 3,
+    "long_gap_interpolation": false,
+    "motion_features": "first-order difference of normalized XYZ; zero when current or previous hand is missing",
+    "presence_mask": true,
+    "normalized_xyz_features": 126,
+    "motion_features_count": 126,
+    "presence_features": 2,
+    "feature_dimension": 254,
+    "classifier_input_shape": [
+        32,
+        254
+    ],
+    "temporal_resampling": "uniform selection of 32 indices over the original sequence timeline",
+    "minimum_original_valid_frames_provisional": 8,
+    "minimum_original_detection_rate_provisional": 0.2,
+    "important_note": "Trainability threshold is provisional. L5 validation does not permanently remove videos."
+}

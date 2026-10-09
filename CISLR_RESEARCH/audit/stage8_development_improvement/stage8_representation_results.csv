@@ -1,0 +1,6 @@
+n,top1,top5,top10,mrr,representation,embedding_dim,training_required,official_test_used
+4763,0.0,0.0,0.0,0.0002099517111064455,mean,1280,False,False
+4763,0.0,0.0,0.0,0.0002099517111064455,max,1280,False,False
+4763,0.0,0.0,0.0,0.0002099517111064455,mean+max,2560,False,False
+4763,0.0,0.0,0.0,0.0002099517111064455,first+last,2560,False,False
+4763,0.0,0.0,0.0,0.0002099517111064455,mean+std,2560,False,False

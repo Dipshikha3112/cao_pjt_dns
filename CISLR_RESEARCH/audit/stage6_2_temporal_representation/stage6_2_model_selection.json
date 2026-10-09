@@ -1,0 +1,27 @@
+{
+  "selected_architecture": "bilstm_attention",
+  "selection_valid": true,
+  "reason": "Lowest validation reconstruction MSE (0.312908), clear margin (2.28% over next best).",
+  "ranking": [
+    {
+      "model": "bilstm_attention",
+      "best_val_mse": 0.312908492270947,
+      "parameters": 3812353
+    },
+    {
+      "model": "temporal_transformer",
+      "best_val_mse": 0.320198256502872,
+      "parameters": 1779712
+    },
+    {
+      "model": "bilstm",
+      "best_val_mse": 0.33283353918246683,
+      "parameters": 3418624
+    }
+  ],
+  "official_test_used_for_selection": false,
+  "official_test_labels_used": false,
+  "mean_pool_role": "non-temporal baseline (permutation invariant); not ranked as a temporal architecture",
+  "task": "masked_temporal_feature_reconstruction",
+  "task_note": "One random temporal position masked per sequence; model reconstructs the original 1280-D EfficientNet-B0 feature at that position. Lower MSE is better."
+}

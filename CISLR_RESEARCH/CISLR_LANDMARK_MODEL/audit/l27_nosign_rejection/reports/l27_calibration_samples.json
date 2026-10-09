@@ -1,0 +1,302 @@
+[
+  {
+    "prediction": "pencil",
+    "confidence": 0.49639835953712463,
+    "top2": 0.425062358379364,
+    "margin": 0.07133600115776062,
+    "entropy": 0.4273455490230864,
+    "inference_ms": 2.3172129986051004,
+    "hand_ratio": 0.36363636363636365,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "friday",
+    "confidence": 0.9796386957168579,
+    "top2": 0.014464568346738815,
+    "margin": 0.9651741273701191,
+    "entropy": 0.05198084611510596,
+    "inference_ms": 1.020433999656234,
+    "hand_ratio": 0.125,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "friday",
+    "confidence": 0.36693108081817627,
+    "top2": 0.2980356812477112,
+    "margin": 0.06889539957046509,
+    "entropy": 0.6600996473636453,
+    "inference_ms": 0.8586059993831441,
+    "hand_ratio": 0.005681818181818182,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "monday",
+    "confidence": 0.46289682388305664,
+    "top2": 0.2658030092716217,
+    "margin": 0.19709381461143494,
+    "entropy": 0.6019614709868915,
+    "inference_ms": 0.8336270002473611,
+    "hand_ratio": 0.0851063829787234,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "friday",
+    "confidence": 0.7655864953994751,
+    "top2": 0.09661135077476501,
+    "margin": 0.6689751446247101,
+    "entropy": 0.38577193320526554,
+    "inference_ms": 0.8115660020848736,
+    "hand_ratio": 0.09803921568627451,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.9499172568321228,
+    "top2": 0.017098737880587578,
+    "margin": 0.9328185189515352,
+    "entropy": 0.12335164798803586,
+    "inference_ms": 0.797147997218417,
+    "hand_ratio": 0.65625,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.49979546666145325,
+    "top2": 0.3906764090061188,
+    "margin": 0.10911905765533447,
+    "entropy": 0.4785181737280124,
+    "inference_ms": 1.2889150020782836,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.5405443906784058,
+    "top2": 0.39512601494789124,
+    "margin": 0.14541837573051453,
+    "entropy": 0.4124163862848169,
+    "inference_ms": 1.4051059988560155,
+    "hand_ratio": 0.96875,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.6322630643844604,
+    "top2": 0.16723231971263885,
+    "margin": 0.4650307446718216,
+    "entropy": 0.4497527020620813,
+    "inference_ms": 0.8925600013753865,
+    "hand_ratio": 0.9142857142857143,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "rubber",
+    "confidence": 0.6616333723068237,
+    "top2": 0.27086591720581055,
+    "margin": 0.3907674551010132,
+    "entropy": 0.39549136361700343,
+    "inference_ms": 1.1599490026128478,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "rubber",
+    "confidence": 0.6311931014060974,
+    "top2": 0.2822941839694977,
+    "margin": 0.34889891743659973,
+    "entropy": 0.43092068599397243,
+    "inference_ms": 1.0253620021103416,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "mother",
+    "confidence": 0.41608160734176636,
+    "top2": 0.3437352180480957,
+    "margin": 0.07234638929367065,
+    "entropy": 0.5529338093890428,
+    "inference_ms": 1.0934829988400452,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "monday",
+    "confidence": 0.7373068928718567,
+    "top2": 0.10164929926395416,
+    "margin": 0.6356575936079025,
+    "entropy": 0.41411947591264187,
+    "inference_ms": 1.2250540021341294,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.8581640720367432,
+    "top2": 0.08651038259267807,
+    "margin": 0.7716536894440651,
+    "entropy": 0.23640860169031944,
+    "inference_ms": 1.195557000755798,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.46130743622779846,
+    "top2": 0.4272572100162506,
+    "margin": 0.03405022621154785,
+    "entropy": 0.47678769674570304,
+    "inference_ms": 0.9918790019582957,
+    "hand_ratio": 0.9375,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "monday",
+    "confidence": 0.37062403559684753,
+    "top2": 0.2543022632598877,
+    "margin": 0.11632177233695984,
+    "entropy": 0.7534025656351516,
+    "inference_ms": 1.2821519994759,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "monday",
+    "confidence": 0.4501548707485199,
+    "top2": 0.2381628006696701,
+    "margin": 0.2119920700788498,
+    "entropy": 0.6752320667251772,
+    "inference_ms": 1.0421350016258657,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "friday",
+    "confidence": 0.5376279354095459,
+    "top2": 0.20454971492290497,
+    "margin": 0.33307822048664093,
+    "entropy": 0.5764352140809349,
+    "inference_ms": 1.2071689998265356,
+    "hand_ratio": 0.18823529411764706,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "friday",
+    "confidence": 0.6838588714599609,
+    "top2": 0.16851788759231567,
+    "margin": 0.5153409838676453,
+    "entropy": 0.44604407115256,
+    "inference_ms": 0.9612200010451488,
+    "hand_ratio": 0.75,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "mother",
+    "confidence": 0.8481401205062866,
+    "top2": 0.0720144510269165,
+    "margin": 0.7761256694793701,
+    "entropy": 0.28074018623104513,
+    "inference_ms": 0.9259140024369117,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "mother",
+    "confidence": 0.8245814442634583,
+    "top2": 0.0854017585515976,
+    "margin": 0.7391796857118607,
+    "entropy": 0.3110315321856704,
+    "inference_ms": 1.5691389999119565,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "mother",
+    "confidence": 0.5293127298355103,
+    "top2": 0.20313726365566254,
+    "margin": 0.3261754661798477,
+    "entropy": 0.5798892306060435,
+    "inference_ms": 0.9359920004499145,
+    "hand_ratio": 0.78125,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "interest",
+    "confidence": 0.589232325553894,
+    "top2": 0.27515748143196106,
+    "margin": 0.314074844121933,
+    "entropy": 0.4863539598828811,
+    "inference_ms": 0.9827719986787997,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.6337043642997742,
+    "top2": 0.13632680475711823,
+    "margin": 0.49737755954265594,
+    "entropy": 0.5255588283974831,
+    "inference_ms": 0.9242000014637597,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.8107422590255737,
+    "top2": 0.09211413562297821,
+    "margin": 0.7186281234025955,
+    "entropy": 0.3286618439463785,
+    "inference_ms": 1.0392090007371735,
+    "hand_ratio": 0.90625,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.9055770039558411,
+    "top2": 0.03614038601517677,
+    "margin": 0.8694366179406643,
+    "entropy": 0.20335474402534887,
+    "inference_ms": 1.1553299991646782,
+    "hand_ratio": 0.96875,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "pencil",
+    "confidence": 0.4193427562713623,
+    "top2": 0.3229103982448578,
+    "margin": 0.09643235802650452,
+    "entropy": 0.6202184820406692,
+    "inference_ms": 0.848425999720348,
+    "hand_ratio": 1.0,
+    "label": "VALID_SIGN"
+  },
+  {
+    "prediction": "thursday",
+    "confidence": 0.37364262342453003,
+    "top2": 0.31697842478752136,
+    "margin": 0.05666419863700867,
+    "entropy": 0.6408823186570671,
+    "inference_ms": 0.9403010008099955,
+    "hand_ratio": 0.002386634844868735,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "monday",
+    "confidence": 0.6860718727111816,
+    "top2": 0.13981473445892334,
+    "margin": 0.5462571382522583,
+    "entropy": 0.46479959418427813,
+    "inference_ms": 0.9384379991388414,
+    "hand_ratio": 1.0,
+    "label": "NO_SIGN"
+  },
+  {
+    "prediction": "friday",
+    "confidence": 0.5751820206642151,
+    "top2": 0.19800381362438202,
+    "margin": 0.37717820703983307,
+    "entropy": 0.5501192280534183,
+    "inference_ms": 0.8737640018807724,
+    "hand_ratio": 0.9375,
+    "label": "NO_SIGN"
+  }
+]

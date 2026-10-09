@@ -1,0 +1,11 @@
+{
+  "n_prototypes": 4763,
+  "nearest_other_cosine_mean": 0.8321434259414673,
+  "nearest_other_cosine_median": 0.8407405018806458,
+  "nearest_other_cosine_p10": 0.7337899208068848,
+  "nearest_other_cosine_p90": 0.918609082698822,
+  "nearest_other_cosine_p99": 0.9577953815460205,
+  "nearest_other_cosine_min": 0.574226438999176,
+  "nearest_other_cosine_max": 1.000000238418579,
+  "interpretation": "This is a diagnostic, not a causal proof. High nearest-other-class cosine values indicate that the frozen EfficientNet-B0 feature space is crowded: distinct gloss prototypes lie close together in cosine similarity. This crowding is consistent with the observed retrieval plateau across all evaluated temporal and pooling variants. It does not by itself establish that crowding is the sole or dominant cause."
+}

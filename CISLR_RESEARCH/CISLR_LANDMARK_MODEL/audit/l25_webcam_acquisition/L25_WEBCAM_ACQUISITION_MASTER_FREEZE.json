@@ -1,0 +1,55 @@
+{
+  "stage": "L25",
+  "status": "COMPLETE",
+  "experiment": "Live webcam acquisition",
+  "pipeline": [
+    "webcam",
+    "OpenVINO palm detector",
+    "weighted NMS",
+    "rotated hand ROI",
+    "OpenVINO 21-point hand landmark detector",
+    "inverse perspective projection",
+    "live visualization"
+  ],
+  "models": {
+    "palm": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/models/pretrained/palm/palm_detection_full.tflite",
+    "palm_sha256": "1b14e9422c6ad006cde6581a46c8b90dd573c07ab7f3934b5589e7cea3f89a54",
+    "landmark": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/models/pretrained/hand_landmark/hand_landmark_full.tflite",
+    "landmark_sha256": "11c272b891e1a99ab034208e23937a8008388cf11ed2a9d776ed3d01d0ba00e3"
+  },
+  "results": {
+    "frames_processed": 806,
+    "capture_duration_sec": 30.94512140400002,
+    "overall_pipeline_fps": 26.046108834971804,
+    "frames_with_hand": 723,
+    "hand_detection_rate": 0.8970223325062034,
+    "total_hand_instances": 988,
+    "mean_complete_frame_ms": 34.952232140206775,
+    "median_complete_frame_ms": 30.6623384994964,
+    "mean_palm_inference_ms": 4.939339312712546,
+    "median_palm_inference_ms": 4.777875999934622,
+    "mean_landmark_inference_ms": 5.17598558685485,
+    "median_landmark_inference_ms": 4.350782999608782,
+    "videomae_used": false,
+    "locked_test_used": false
+  },
+  "artifacts": {
+    "frame_metrics": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l25_webcam_acquisition/reports/l25_frame_metrics.csv",
+    "frame_metrics_sha256": "953227787f494cd5f8a44a08e48962f6c1da624e949f2bfe7a5a0e8e38bd545f",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l25_webcam_acquisition/config/l25_config.json",
+    "config_sha256": "7c3f26092c6c4f797aa2ff97e953df3efd39f6313bae6c899d16f0fbc6ff6aa1",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l25_webcam_acquisition/reports/l25_summary.json",
+    "summary_sha256": "6e6bb91b9e09542efaaf33acee27413c30cf2bec7b7070a9549f1ad939e360e1"
+  },
+  "scientific_integrity": {
+    "training_performed": false,
+    "retraining_performed": false,
+    "videomae_classification": false,
+    "validation_evaluation": false,
+    "test_evaluation": false,
+    "locked_test_loaded": false,
+    "locked_test_evaluated": false,
+    "formal_performance_benchmark": false
+  },
+  "note": "L25 validates live webcam acquisition and the OpenVINO palm/21-point landmark perception pipeline. Displayed timing is diagnostic only. Formal end-to-end benchmarking remains L32."
+}

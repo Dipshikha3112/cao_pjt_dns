@@ -1,0 +1,55 @@
+{
+    "sequence_length": 32,
+    "old_feature_dim": 254,
+    "enhanced_feature_dim": 147,
+    "continuous_dim": 145,
+    "mask_dim": 2,
+    "train_shape": [
+        585,
+        32,
+        147
+    ],
+    "validation_shape": [
+        211,
+        32,
+        147
+    ],
+    "train_raw_abs_max": 17.248136520385742,
+    "validation_raw_abs_max": 14.887260437011719,
+    "train_standardized_abs_max": 21.764467239379883,
+    "validation_standardized_abs_max": 15.988226890563965,
+    "near_zero_std_dimensions": 10,
+    "finite_train": true,
+    "finite_validation": true,
+    "test_features_loaded": false,
+    "feature_layout": {
+        "velocity_magnitude": [
+            0,
+            42
+        ],
+        "bone_lengths": [
+            42,
+            82
+        ],
+        "joint_angles": [
+            82,
+            102
+        ],
+        "palm_geometry": [
+            102,
+            118
+        ],
+        "fingertip_geometry": [
+            118,
+            136
+        ],
+        "two_hand_geometry": [
+            136,
+            145
+        ],
+        "presence_masks": [
+            145,
+            147
+        ]
+    }
+}

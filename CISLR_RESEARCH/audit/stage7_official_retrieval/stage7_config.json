@@ -1,0 +1,18 @@
+{
+  "stage": 7,
+  "seed": 42,
+  "device": "cuda",
+  "pytorch_version": "2.14.0+cu130",
+  "feature_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/features/all_video_features_75f7fb9f.pt",
+  "prototype_gallery_size": 4763,
+  "test_query_count": 2285,
+  "missing_label_uid_excluded": "R_GaklgD4bY=-",
+  "models": [
+    "mean_pool",
+    "bilstm",
+    "bilstm_attention",
+    "temporal_transformer"
+  ],
+  "batch_size": 64,
+  "note": "Stage 7 uses only cached EfficientNet-B0 features and the Stage-6.2 temporal checkpoints. No training or fine-tuning was performed. Official test labels were used only for computing retrieval metrics."
+}

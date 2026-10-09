@@ -1,0 +1,101 @@
+CISLR — L15 FINAL MODEL SELECTION
+=================================
+
+STATUS
+------
+FROZEN BEFORE TEST
+
+FINAL 211-CLASS SYSTEM
+----------------------
+Stage:
+L14C
+
+Method:
+Frozen Sparse Top-5 Late Fusion
+
+Component models:
+L12B SSL ST-GCN               = 0.40
+L13B RGB Temporal Transformer = 0.30
+L14A VideoMAE Transfer        = 0.30
+
+Fusion representation:
+raw_probability
+
+IMPORTANT:
+The fusion uses the stored sparse Top-5 probabilities.
+It is NOT full 211-class logit fusion.
+
+
+VALIDATION RESULT
+-----------------
+Samples : 211
+Classes : 211
+
+Top-1   : 41.232227%
+Correct : 87/211
+
+Top-5   : 51.658768%
+Correct : 109/211
+
+
+TEST STATUS AT L15 FREEZE
+-------------------------
+Test manifest opened     : NO
+Test labels inspected    : NO
+Test videos decoded      : NO
+Test inference performed : NO
+Test used for selection  : NO
+
+
+L16 RULE
+--------
+The frozen L14C system is evaluated on the L9 test partition once.
+
+The following are frozen before opening the test set:
+
+1. Model architectures
+2. Model checkpoints
+3. Class mapping
+4. Preprocessing
+5. Fusion representation
+6. Fusion weights
+7. Evaluation metrics
+8. Sample population
+
+No model selection may be performed using L16 results.
+
+
+FROZEN FUSION
+-------------
+Final score:
+
+S_final(c) =
+    0.40 * S_L12B(c)
+  + 0.30 * S_L13B(c)
+  + 0.30 * S_L14A(c)
+
+
+FINAL TEST REPORT
+-----------------
+L16 must report:
+
+- Top-1 accuracy
+- Top-5 accuracy
+- Correct Top-1 count
+- Correct Top-5 count
+- Per-sample predictions
+- Confusion matrix
+- Individual branch predictions
+- Final fused predictions
+
+The result must be reported regardless of whether it is higher
+or lower than validation accuracy.
+
+
+SCIENTIFIC SEPARATION
+---------------------
+This is the 211-class research benchmark.
+
+Any later restricted-vocabulary deployment experiment
+(e.g. 10-sign high-reliability system) must be reported
+separately and must not replace or overwrite this benchmark.

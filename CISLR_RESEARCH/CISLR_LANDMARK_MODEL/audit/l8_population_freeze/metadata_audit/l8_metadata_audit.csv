@@ -1,0 +1,9 @@
+metric,value
+dataset_rows,7050
+valid_authoritative_labels,7048
+invalid_authoritative_labels,2
+authoritative_unique_glosses,4763
+feature_derived_valid_glosses,4763
+label_mismatch_rows,2
+dataset_only_glosses,0
+feature_only_glosses,0

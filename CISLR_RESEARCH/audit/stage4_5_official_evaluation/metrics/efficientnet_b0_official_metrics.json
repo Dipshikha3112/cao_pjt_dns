@@ -1,0 +1,16 @@
+{
+  "num_queries": 2285,
+  "num_prototypes": 4764,
+  "Top-1": 0.12866520787746172,
+  "Top-5": 0.212253829321663,
+  "Recall@10": 0.2437636761487965,
+  "MRR": 0.16957903608300492,
+  "mean_rank": 1781.712035010941,
+  "median_rank": 1681.0,
+  "min_rank": 1,
+  "max_rank": 4762,
+  "model": "EfficientNet-B0",
+  "embedding_dimension": 1280,
+  "num_prototype_videos": 4764,
+  "num_test_videos": 2285
+}

@@ -1,0 +1,40 @@
+{
+  "stage": "L18A",
+  "status": "COMPLETE",
+  "purpose": "Discover and audit every existing CISLR video belonging to the frozen L17 10-sign vocabulary.",
+  "seed": 42,
+  "num_classes": 10,
+  "frozen_vocabulary": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "counts": {
+    "metadata_rows": 90,
+    "video_files_found": 90,
+    "readable_videos": 90,
+    "basic_usable_videos": 90,
+    "original_l9_train": 70,
+    "original_l9_validation": 10,
+    "original_l9_test": 10,
+    "outside_l9_controlled_split": 0
+  },
+  "scientific_rules": {
+    "l9_validation_added_to_training": false,
+    "l9_test_added_to_training": false,
+    "outside_l9_automatically_assigned_to_training": false,
+    "model_training_performed": false,
+    "model_inference_performed": false,
+    "l16_modified": false,
+    "l17_modified": false
+  },
+  "next_stage": "L18B — define the restricted-vocabulary training/validation/deployment evaluation protocol",
+  "timestamp": "2026-10-04T00:29:58.434777"
+}

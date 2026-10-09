@@ -1,0 +1,27 @@
+{
+  "stage": "L29",
+  "design": "model_direct_sign_l27_nosign_only",
+  "sign_identity_source": "L26C_trained_BiGRU",
+  "l27_role": "NO_SIGN_rejection_only",
+  "l28_class_override": false,
+  "model_history_size": 5,
+  "model_confirm_votes": 3,
+  "nosign_release_frames": 3,
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "vocabulary": [
+    "monday",
+    "interest",
+    "thursday",
+    "christmas",
+    "pencil",
+    "mother",
+    "tuesday",
+    "friday",
+    "rubber",
+    "wash"
+  ],
+  "locked_test_used": false,
+  "training": false,
+  "retraining": false
+}

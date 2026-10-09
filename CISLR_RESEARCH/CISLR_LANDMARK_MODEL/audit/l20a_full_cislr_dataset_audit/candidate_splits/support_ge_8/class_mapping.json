@@ -1,0 +1,26 @@
+{
+  "support_threshold": 8,
+  "num_classes": 9,
+  "gloss_to_class_id": {
+    "christmas": 0,
+    "friday": 1,
+    "interest": 2,
+    "monday": 3,
+    "mother": 4,
+    "pencil": 5,
+    "thursday": 6,
+    "tuesday": 7,
+    "yellow": 8
+  },
+  "class_id_to_gloss": {
+    "0": "christmas",
+    "1": "friday",
+    "2": "interest",
+    "3": "monday",
+    "4": "mother",
+    "5": "pencil",
+    "6": "thursday",
+    "7": "tuesday",
+    "8": "yellow"
+  }
+}

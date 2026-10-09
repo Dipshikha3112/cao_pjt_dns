@@ -1,0 +1,2 @@
+model,precision,input_shape,num_classes,pytorch_top1,openvino_top1,top1_match,top5_overlap,max_absolute_error,mean_absolute_error,rmse,cosine_similarity,conversion_valid,xml_size_mb,bin_size_mb,total_ir_size_mb,conversion_time_seconds,compile_time_seconds
+MobileNetV3-Large,FP32,1x3x224x224,4764,129,129,True,5,1.33514404296875e-05,2.99993303087831e-06,3.776390258281026e-06,1.0,True,0.1752490997314453,39.26286315917969,39.43811225891113,2.560311554996588,0.1783286810023128

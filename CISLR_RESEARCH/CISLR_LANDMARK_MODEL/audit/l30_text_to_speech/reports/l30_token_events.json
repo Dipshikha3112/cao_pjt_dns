@@ -1,0 +1,74 @@
+[
+  {
+    "event_index": 1,
+    "time_seconds": 5.69404815499999,
+    "frame": 89,
+    "token": "pencil",
+    "model_prediction": "pencil",
+    "confidence": 0.3747445604294555,
+    "margin": 0.09726253726624545,
+    "entropy": 0.5865573328170549,
+    "hand_ratio": 0.90625,
+    "sentence": "pencil"
+  },
+  {
+    "event_index": 2,
+    "time_seconds": 14.381263597000014,
+    "frame": 252,
+    "token": "interest",
+    "model_prediction": "interest",
+    "confidence": 0.6258227786686938,
+    "margin": 0.3257382385619283,
+    "entropy": 0.4121197102588028,
+    "hand_ratio": 0.84375,
+    "sentence": "pencil interest"
+  },
+  {
+    "event_index": 3,
+    "time_seconds": 49.55873406699999,
+    "frame": 914,
+    "token": "wash",
+    "model_prediction": "wash",
+    "confidence": 0.3940742758252547,
+    "margin": 0.011736717132166508,
+    "entropy": 0.5683326140630738,
+    "hand_ratio": 0.9375,
+    "sentence": "pencil interest wash"
+  },
+  {
+    "event_index": 4,
+    "time_seconds": 57.706989418999996,
+    "frame": 1066,
+    "token": "interest",
+    "model_prediction": "interest",
+    "confidence": 0.6561132818627103,
+    "margin": 0.34516918418926495,
+    "entropy": 0.3470064456445624,
+    "hand_ratio": 0.84375,
+    "sentence": "pencil interest wash interest"
+  },
+  {
+    "event_index": 5,
+    "time_seconds": 68.09518878400002,
+    "frame": 1261,
+    "token": "rubber",
+    "model_prediction": "rubber",
+    "confidence": 0.579554774944598,
+    "margin": 0.20735275571170708,
+    "entropy": 0.38546692674603833,
+    "hand_ratio": 0.8125,
+    "sentence": "pencil interest wash interest rubber"
+  },
+  {
+    "event_index": 6,
+    "time_seconds": 69.90436233100002,
+    "frame": 1295,
+    "token": "interest",
+    "model_prediction": "interest",
+    "confidence": 0.8855906825771025,
+    "margin": 0.7934274111496062,
+    "entropy": 0.19443210824020418,
+    "hand_ratio": 0.875,
+    "sentence": "pencil interest wash interest rubber interest"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "stage": "L17",
+  "status": "COMPLETE_AND_FROZEN",
+  "experiment": "restricted_vocabulary_deployment",
+  "num_classes": 10,
+  "vocabulary": [
+    {
+      "deployment_class_id": 0,
+      "gloss": "monday"
+    },
+    {
+      "deployment_class_id": 1,
+      "gloss": "interest"
+    },
+    {
+      "deployment_class_id": 2,
+      "gloss": "thursday"
+    },
+    {
+      "deployment_class_id": 3,
+      "gloss": "christmas"
+    },
+    {
+      "deployment_class_id": 4,
+      "gloss": "pencil"
+    },
+    {
+      "deployment_class_id": 5,
+      "gloss": "mother"
+    },
+    {
+      "deployment_class_id": 6,
+      "gloss": "tuesday"
+    },
+    {
+      "deployment_class_id": 7,
+      "gloss": "friday"
+    },
+    {
+      "deployment_class_id": 8,
+      "gloss": "rubber"
+    },
+    {
+      "deployment_class_id": 9,
+      "gloss": "wash"
+    }
+  ],
+  "selection_basis": "non-test dataset support and L9 train quality",
+  "l16_test_predictions_used": false,
+  "l16_test_confusion_used": false,
+  "l16_test_scores_used": false,
+  "target_new_clips_per_sign": 60,
+  "planned_new_split_per_sign": {
+    "train": 40,
+    "validation": 10,
+    "deployment_test": 10
+  },
+  "next_stage": "L18",
+  "created_at": "2026-10-04T00:19:44.731100"
+}

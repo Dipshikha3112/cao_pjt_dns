@@ -1,0 +1,49 @@
+{
+  "stage": "L23",
+  "status": "PASS",
+  "samples": 10,
+  "pytorch": {
+    "correct": 10,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  "openvino": {
+    "correct": 10,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  "engine_agreement": {
+    "top1_matches": 10,
+    "top1_total": 10,
+    "top1_agreement": 1.0,
+    "top1_agreement_percent": 100.0,
+    "top5_set_matches": 10,
+    "top5_set_agreement": 1.0
+  },
+  "numerical_equivalence": {
+    "global_max_abs_logit_error": 7.152557373046875e-06,
+    "mean_sample_max_abs_logit_error": 3.2961368560791014e-06,
+    "mean_abs_logit_error": 1.2448336929082871e-06,
+    "mean_rmse": 1.599390485735252e-06,
+    "global_max_probability_error": 4.5041870577744447e-07
+  },
+  "diagnostic_timing": {
+    "pytorch_mean_ms": 1241.7330736001531,
+    "openvino_mean_ms": 863.8005035001697,
+    "formal_benchmark": false,
+    "formal_benchmark_stage": "L32"
+  },
+  "criteria": {
+    "top1_agreement_100_percent": true,
+    "global_max_logit_error_le_1e-4": true,
+    "global_max_probability_error_le_1e-5": true,
+    "validation_correct_count_preserved": true
+  },
+  "all_equivalence_pass": true,
+  "locked_test": {
+    "loaded": false,
+    "inference": false,
+    "evaluation": false
+  },
+  "next_stage": "L24_CISLR_MP4_EXPECTED_VS_PREDICTED_DEMO"
+}

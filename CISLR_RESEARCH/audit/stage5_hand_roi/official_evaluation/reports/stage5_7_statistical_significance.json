@@ -1,0 +1,41 @@
+{
+  "mcnemar_top1": {
+    "contingency": {
+      "ff_correct_roi_correct": 184,
+      "ff_correct_roi_wrong": 103,
+      "ff_wrong_roi_correct": 99,
+      "ff_wrong_roi_wrong": 1824
+    },
+    "exact_binomial_p": 0.8328908240447682,
+    "chi2_stat": 0.04455445544554455,
+    "chi2_p": 0.8328254210823565
+  },
+  "bootstrap_95ci": {
+    "Top-1": {
+      "point_diff": -0.001809954751131243,
+      "ci_low": -0.014479638009049778,
+      "ci_high": 0.010859728506787347,
+      "significant": false
+    },
+    "Top-5": {
+      "point_diff": -0.044796380090497745,
+      "ci_low": -0.05746606334841628,
+      "ci_high": -0.03212669683257918,
+      "significant": true
+    },
+    "Recall@10": {
+      "point_diff": -0.04796380090497737,
+      "ci_low": -0.060633484162895934,
+      "ci_high": -0.03619909502262442,
+      "significant": true
+    },
+    "MRR": {
+      "point_diff": -0.018090123171168232,
+      "ci_low": -0.028702398251166144,
+      "ci_high": -0.007742797309121056,
+      "significant": true
+    }
+  },
+  "bootstrap_n": 5000,
+  "bootstrap_seed": 42
+}

@@ -1,0 +1,22 @@
+{
+  "prototype_uids_intersect_test_uids": 0,
+  "every_test_class_has_prototype": true,
+  "missing_label_uid_excluded": true,
+  "no_duplicate_prototype_uids": true,
+  "no_duplicate_test_uids": true,
+  "prototype_gallery_size": 4763,
+  "test_queries_evaluated": 2285,
+  "test_uid_count_expected": 2285,
+  "test_uid_count_observed": 2285,
+  "test_uid_count_evaluable": 2285,
+  "feature_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/features/all_video_features_75f7fb9f.pt",
+  "stage_6_2_checkpoints_used": {
+    "bilstm": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage6_2_temporal_representation/bilstm_best.pt",
+    "bilstm_attention": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage6_2_temporal_representation/bilstm_attention_best.pt",
+    "temporal_transformer": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage6_2_temporal_representation/temporal_transformer_best.pt"
+  },
+  "official_test_used_only_for_evaluation": true,
+  "test_used_for_training": false,
+  "test_used_for_architecture_selection": false,
+  "test_used_for_hyperparameter_tuning": false
+}

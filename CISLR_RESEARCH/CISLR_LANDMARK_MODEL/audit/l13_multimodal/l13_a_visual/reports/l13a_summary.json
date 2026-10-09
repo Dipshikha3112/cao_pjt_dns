@@ -1,0 +1,74 @@
+{
+  "stage": "L13A",
+  "description": "Landmark-guided RGB self-supervised visual representation learning",
+  "architecture": "MobileNetV3-Small",
+  "imagenet_pretrained": true,
+  "image_size": 224,
+  "visual_embedding_dim": 576,
+  "projection_dim": 128,
+  "parameters": 1289120,
+  "ssl_population": {
+    "available_l6_raw_videos": 7050,
+    "permissible_videos": 6628,
+    "train_videos": 6098,
+    "internal_holdout_videos": 530,
+    "l9_validation_excluded": 211,
+    "l9_test_excluded": 211
+  },
+  "training": {
+    "epochs_requested": 30,
+    "epochs_completed": 30,
+    "best_epoch": 30,
+    "best_holdout_loss": 0.2495831074017399,
+    "initial_learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "temperature": 0.15,
+    "batch_size": 64,
+    "amp": true,
+    "training_seconds": 1578.3931851387024
+  },
+  "representation_audit": {
+    "embedding_shape": [
+      128,
+      576
+    ],
+    "finite": true,
+    "mean_per_dimension_std": 0.42614638805389404,
+    "global_std": 0.4423593580722809,
+    "unique_embedding_rows": 128,
+    "collapsed": false
+  },
+  "visual_source_usage": {
+    "FULL": 37328,
+    "CONTEXT": 85937,
+    "HAND0": 45154,
+    "HAND1": 13981
+  },
+  "test_integrity": {
+    "test_manifest_verified": true,
+    "test_in_ssl": false,
+    "test_rgb_opened": false,
+    "test_rgb_decoded": false,
+    "test_evaluated": false,
+    "status": "LOCKED"
+  },
+  "pass_conditions": {
+    "l13_0_passed": true,
+    "l9_train_count": true,
+    "l9_validation_count": true,
+    "l9_test_count": true,
+    "frozen_split_disjoint": true,
+    "ssl_population_nonempty": true,
+    "ssl_train_nonempty": true,
+    "ssl_holdout_nonempty": true,
+    "ssl_train_holdout_disjoint": true,
+    "validation_excluded_from_ssl": true,
+    "test_excluded_from_ssl": true,
+    "imagenet_pretrained": true,
+    "best_checkpoint_exists": true,
+    "finite_best_ssl_loss": true,
+    "finite_embeddings": true,
+    "noncollapsed_embeddings": true
+  },
+  "overall_pass": true
+}

@@ -1,0 +1,39 @@
+{
+    "stage": "L9",
+    "status": "FROZEN",
+    "seed": 42,
+    "population": {
+        "classes": 211,
+        "videos": 1007
+    },
+    "split_strategy": "Per-class deterministic split: 1 validation, 1 test, all remaining train",
+    "train": {
+        "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_train_manifest.csv",
+        "uids": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_train_uids.txt",
+        "videos": 585,
+        "sha256": "4d5f9f4dd70e6f7a3a292374842e4dcf6b68e946f8ed0ff945035bce717c66cd"
+    },
+    "validation": {
+        "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_validation_manifest.csv",
+        "uids": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_validation_uids.txt",
+        "videos": 211,
+        "sha256": "d04bb4812f834bb322c80c41b32a8bc0875a3c1e4464b98dfce13af91e8f4638"
+    },
+    "test": {
+        "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_test_manifest.csv",
+        "uids": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_test_uids.txt",
+        "videos": 211,
+        "sha256": "f95ef95463c1f7b18d8faa5cfbdd74b5dfd6af4b33357243107a3f718713bf67"
+    },
+    "master_split": {
+        "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/splits/l9_master_split.csv",
+        "sha256": "c7264911e08ad319580ceea257f99d4380530dfad23483d2485bfe5aa0a98cba"
+    },
+    "class_mapping": {
+        "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l9_split_freeze/class_mapping/l9_controlled_class_mapping.json",
+        "sha256": "07cb67105df7bef86666a0a9bebaa1e165175abf2ee630f3d9835535f9f099fa"
+    },
+    "preprocessing_statistics_fitted": false,
+    "model_trained": false,
+    "next_stage": "L10_GRU_BASELINE"
+}

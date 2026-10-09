@@ -1,0 +1,23 @@
+{
+  "stage": "8_corrected",
+  "seed": 42,
+  "feature_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/features/all_video_features_75f7fb9f.pt",
+  "artifacts_inspected": {
+    "earlier_preds_a": true,
+    "earlier_preds_b": true,
+    "earlier_final_v5": true,
+    "earlier_official_final": true,
+    "earlier_experiment_cfg": true,
+    "s7_1_results": true,
+    "s7_1_config": true,
+    "s7_2_results": true,
+    "s7_2_config": true
+  },
+  "n_prototype_classes": 4763,
+  "n_classes_with_ge2_nontest": 0,
+  "class_aware_split_possible": false,
+  "official_test_used": false,
+  "official_test_labels_used": false,
+  "training_performed": false,
+  "video_decoding_performed": false
+}

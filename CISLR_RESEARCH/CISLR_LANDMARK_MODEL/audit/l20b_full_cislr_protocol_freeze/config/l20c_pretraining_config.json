@@ -1,0 +1,15 @@
+{
+  "next_stage": "L20C",
+  "task": "full_cislr_videomae_domain_pretraining",
+  "population_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20b_full_cislr_protocol_freeze/manifests/l20b_full_7048_domain_pretraining_manifest.csv",
+  "num_videos": 7048,
+  "num_glosses_present": 4763,
+  "use_gloss_labels_for_supervised_classifier": false,
+  "intended_learning": "label-agnostic/self-supervised CISLR video domain adaptation",
+  "backbone_family": "VideoMAE",
+  "initial_checkpoint": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "input_frames": 16,
+  "input_size": 224,
+  "seed": 42,
+  "executed_in_l20b": false
+}

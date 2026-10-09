@@ -1,0 +1,26 @@
+{
+  "stage": "5.1",
+  "status": "COMPLETE",
+  "dataset_rows": 7050,
+  "valid_dataset_rows": 7049,
+  "prototype_videos": 4764,
+  "test_videos": 2285,
+  "prototype_test_overlap": 0,
+  "prototype_classes": 4764,
+  "test_classes": 1363,
+  "stage4_2_training_manifest_videos": 4764,
+  "stage4_2_training_manifest_frames": 38112,
+  "frames_per_video": 8,
+  "model": "MobileNetV3-Large",
+  "embedding_dimension": 960,
+  "conditions": [
+    "FULL_FRAME",
+    "HAND_ROI"
+  ],
+  "input_resolution": "224x224",
+  "evaluation_protocol": "official_prototype_to_test_retrieval",
+  "master_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/manifests/stage5_1_master_video_manifest.csv",
+  "conditions_file": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/protocol/stage5_1_experimental_conditions.csv",
+  "protocol_file": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/protocol/stage5_1_protocol.json",
+  "hash_file": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/protocol/stage5_1_input_artifact_hashes.json"
+}

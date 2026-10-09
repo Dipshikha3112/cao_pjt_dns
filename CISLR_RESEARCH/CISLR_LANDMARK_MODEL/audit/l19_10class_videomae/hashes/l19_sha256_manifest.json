@@ -1,0 +1,26 @@
+{
+  "best_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/models/l19_best_videomae_10class.pt",
+    "sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c"
+  },
+  "last_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/models/l19_last_videomae_10class.pt",
+    "sha256": "41d195205b9c16037cc3c160f9c97c24f60eeda83d9a5394ea250cbeb366a990"
+  },
+  "training_history": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/reports/l19_training_history.csv",
+    "sha256": "e8861168a81e405df1db7663ec0b134ac06e85be11416dd9398bd8be1c6f6a1c"
+  },
+  "validation_predictions": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/predictions/l19_validation_predictions.csv",
+    "sha256": "0ed9a8df7c876b6de8b68d0097ce546dd0c59e648c290cff6dd7489d7e62310d"
+  },
+  "validation_confusion_matrix": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/reports/l19_validation_confusion_matrix.csv",
+    "sha256": "d80b96ee0952f7c6413778c26314f4254a0b7c41e750afd4c74228ff393bcdbc"
+  },
+  "summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/reports/l19_summary.json",
+    "sha256": "d4d49b0417d6e70347db469cb321d9fd364b2a5bb263491c822273fa03c76f96"
+  }
+}

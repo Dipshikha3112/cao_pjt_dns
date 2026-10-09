@@ -1,0 +1,100 @@
+{
+  "stage": "L31_L32",
+  "status": "DEVELOPMENT_EVALUATION_COMPLETE",
+  "timestamp": "2026-10-07T15:15:25.867497",
+  "session": {
+    "duration_seconds": 135.68671080899998,
+    "frames": 2538,
+    "overall_fps": 18.70485314934509,
+    "hand_frames": 1521,
+    "hand_detection_rate": 0.599290780141844,
+    "classification_windows": 2503,
+    "valid_sign_windows": 1084,
+    "nosign_windows": 1419,
+    "tokens_generated": 37,
+    "sign_transitions": 25,
+    "final_tokens": [
+      "christmas",
+      "interest",
+      "monday",
+      "mother",
+      "friday",
+      "interest",
+      "friday",
+      "pencil",
+      "friday",
+      "christmas",
+      "monday",
+      "interest",
+      "monday",
+      "friday",
+      "monday",
+      "friday",
+      "thursday",
+      "monday",
+      "friday",
+      "pencil",
+      "tuesday",
+      "pencil",
+      "mother",
+      "rubber",
+      "interest",
+      "friday",
+      "interest",
+      "rubber",
+      "interest",
+      "friday"
+    ],
+    "final_sequence": "christmas interest monday mother friday interest friday pencil friday christmas monday interest monday friday monday friday thursday monday friday pencil tuesday pencil mother rubber interest friday interest rubber interest friday"
+  },
+  "latency_ms": {
+    "palm_mean": 4.8163179637514,
+    "palm_median": 4.729607500024713,
+    "palm_p95": 5.667562500019585,
+    "landmark_mean": 2.9615177951152956,
+    "landmark_median": 3.7524084999915885,
+    "landmark_p95": 7.976371799966842,
+    "classifier_mean": 0.8161977786654696,
+    "classifier_median": 0.7947599999624799,
+    "classifier_p95": 1.0521788999938053,
+    "frame_processing_mean": 33.890360853033926,
+    "frame_processing_median": 43.48333149999917,
+    "frame_processing_p95": 49.51850649999301
+  },
+  "resources": {
+    "logical_cpu_count": 16,
+    "cpu_raw_percent_mean": 225.86417322834646,
+    "cpu_normalized_percent_mean": 14.116510826771654,
+    "cpu_normalized_percent_p95": 21.8315625,
+    "memory_mb_mean": 323.65329724409446,
+    "memory_mb_peak": 323.93359375
+  },
+  "confidence": {
+    "mean": 0.6298097505969016,
+    "median": 0.6005004971402709,
+    "minimum": 0.24053504669166145,
+    "maximum": 0.9898499224061839
+  },
+  "labelled_evaluation": {
+    "samples": 0,
+    "correct": 0,
+    "accuracy": null,
+    "accuracy_percent": null,
+    "note": "Manually labelled live deployment evaluation; not locked L18B test."
+  },
+  "robustness": {
+    "no_hand_frames": 1017,
+    "no_hand_frames_rejected": 930,
+    "no_hand_rejection_rate": 0.9144542772861357,
+    "no_hand_rejection_percent": 91.44542772861357
+  },
+  "integrity": {
+    "sign_identity_source": "L26C trained OpenVINO BiGRU",
+    "l27_role": "NO_SIGN rejection only",
+    "different_valid_sign_requires_nosign": false,
+    "same_sign_duplicate_suppression": true,
+    "locked_test_used": false,
+    "training": false,
+    "retraining": false
+  }
+}

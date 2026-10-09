@@ -1,0 +1,18 @@
+{
+    "stage": "L5.1",
+    "representation": "robust_temporal_scale_normalization",
+    "sequence_length": 32,
+    "feature_dimension": 254,
+    "landmark_features": 126,
+    "motion_features": 126,
+    "presence_masks": 2,
+    "scale_definition": "mean XY wrist-to-MCP distance using landmarks 5,9,13,17",
+    "scale_outlier_ratio_threshold": 2.5,
+    "neighbor_agreement_ratio": 1.8,
+    "scale_repair": "isolated center scale replaced with median(previous,next) only when neighbors agree and center is a strong ratio outlier",
+    "generic_scale_smoothing": false,
+    "motion_clipping": false,
+    "long_gap_interpolation": false,
+    "maximum_landmark_interpolation_gap": 3,
+    "track_definition": "temporal Track-0 / Track-1; not anatomical handedness"
+}

@@ -1,0 +1,711 @@
+uid,gloss,duration,category,valid_uid,valid_gloss,metadata_valid,video_path,video_found,class_id,split,split_seed,protocol_role,is_l19_locked_test
+TSTGnppZmfA_1,address,9.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TSTGnppZmfA_1.mp4,True,0,train,2221997108,L20_SUPERVISED_TRAIN,False
+eZg439hkK5I_1,address,9.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eZg439hkK5I_1.mp4,True,0,train,2221997108,L20_SUPERVISED_TRAIN,False
+fFrKd1qI9ZM,address,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fFrKd1qI9ZM.mp4,True,0,train,2221997108,L20_SUPERVISED_TRAIN,False
+cmlToISecIA,adult,5.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cmlToISecIA.mp4,True,1,train,2461918570,L20_SUPERVISED_TRAIN,False
+ijNQOg31iaI,adult,3.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ijNQOg31iaI.mp4,True,1,train,2461918570,L20_SUPERVISED_TRAIN,False
+tjA2aFyBuY4,adult,5.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/tjA2aFyBuY4.mp4,True,1,train,2461918570,L20_SUPERVISED_TRAIN,False
+7-U7JLrcGHo,aeroplane,4.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7-U7JLrcGHo.mp4,True,2,train,3988471978,L20_SUPERVISED_TRAIN,False
+A8fPXgxSQ-k,aeroplane,4.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/A8fPXgxSQ-k.mp4,True,2,train,3988471978,L20_SUPERVISED_TRAIN,False
+HqEam06JRKo,aeroplane,4.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HqEam06JRKo.mp4,True,2,train,3988471978,L20_SUPERVISED_TRAIN,False
+4bUNNgy6hOg_1,air,7.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4bUNNgy6hOg_1.mp4,True,3,train,4081291125,L20_SUPERVISED_TRAIN,False
+dp8CmTJwz6g_1,air,7.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dp8CmTJwz6g_1.mp4,True,3,train,4081291125,L20_SUPERVISED_TRAIN,False
+hpWytkH3Oas_2,air,7.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hpWytkH3Oas_2.mp4,True,3,train,4081291125,L20_SUPERVISED_TRAIN,False
+59fqI8xBVzw_1,allow,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/59fqI8xBVzw_1.mp4,True,4,train,1831542595,L20_SUPERVISED_TRAIN,False
+Dz9dFM4Pg3g,allow,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Dz9dFM4Pg3g.mp4,True,4,train,1831542595,L20_SUPERVISED_TRAIN,False
+MTAoneZNzeQ,allow,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MTAoneZNzeQ.mp4,True,4,train,1831542595,L20_SUPERVISED_TRAIN,False
+4--6iRQ6-7A,amazon,5.0,organisation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4--6iRQ6-7A.mp4,True,5,train,2868101098,L20_SUPERVISED_TRAIN,False
+KqdHyxm3XDA,amazon,5.0,organisation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KqdHyxm3XDA.mp4,True,5,train,2868101098,L20_SUPERVISED_TRAIN,False
+ODFZJd2f9X8,amazon,4.0,organisation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ODFZJd2f9X8.mp4,True,5,train,2868101098,L20_SUPERVISED_TRAIN,False
+1-wpwyfm1Mg_1,angry,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1-wpwyfm1Mg_1.mp4,True,6,train,4086818742,L20_SUPERVISED_TRAIN,False
+9e62cz2TIdo_1,angry,6.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9e62cz2TIdo_1.mp4,True,6,train,4086818742,L20_SUPERVISED_TRAIN,False
+XpQ4QGeNsGM_1,angry,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/XpQ4QGeNsGM_1.mp4,True,6,train,4086818742,L20_SUPERVISED_TRAIN,False
+qMGPlkkXdek_1,angry,6.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qMGPlkkXdek_1.mp4,True,6,train,4086818742,L20_SUPERVISED_TRAIN,False
+x5VIvDZhXNg,angry,3.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/x5VIvDZhXNg.mp4,True,6,train,4086818742,L20_SUPERVISED_TRAIN,False
+OjJ2Vu0k5d8,animals,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OjJ2Vu0k5d8.mp4,True,7,train,4144249338,L20_SUPERVISED_TRAIN,False
+kCcBWqGQAJk_1,animals,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kCcBWqGQAJk_1.mp4,True,7,train,4144249338,L20_SUPERVISED_TRAIN,False
+ltR5hdlEzjQ_1,animals,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ltR5hdlEzjQ_1.mp4,True,7,train,4144249338,L20_SUPERVISED_TRAIN,False
+YOouxgzRLPY_1,ant,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YOouxgzRLPY_1.mp4,True,8,train,126965657,L20_SUPERVISED_TRAIN,False
+ZBUU3_QSSZ0,ant,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZBUU3_QSSZ0.mp4,True,8,train,126965657,L20_SUPERVISED_TRAIN,False
+lt-sitx_nUU_1,ant,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lt-sitx_nUU_1.mp4,True,8,train,126965657,L20_SUPERVISED_TRAIN,False
+zw53Xl_e9QA,ant,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zw53Xl_e9QA.mp4,True,8,train,126965657,L20_SUPERVISED_TRAIN,False
+7rvnsRkA5WU_2,area,10.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7rvnsRkA5WU_2.mp4,True,9,train,1103568318,L20_SUPERVISED_TRAIN,False
+I_TQyqgYvoA,area,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/I_TQyqgYvoA.mp4,True,9,train,1103568318,L20_SUPERVISED_TRAIN,False
+lkC12LzjKzU_1,area,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lkC12LzjKzU_1.mp4,True,9,train,1103568318,L20_SUPERVISED_TRAIN,False
+FZrTVPMOSTk_1,august,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FZrTVPMOSTk_1.mp4,True,10,train,2333778807,L20_SUPERVISED_TRAIN,False
+NKaU1IK6k94_1,august,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NKaU1IK6k94_1.mp4,True,10,train,2333778807,L20_SUPERVISED_TRAIN,False
+RMo1aaidZJo_1,august,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/RMo1aaidZJo_1.mp4,True,10,train,2333778807,L20_SUPERVISED_TRAIN,False
+TuH0o_tiW3o,august,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TuH0o_tiW3o.mp4,True,10,train,2333778807,L20_SUPERVISED_TRAIN,False
+dGUBX9_VN7U_1,august,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dGUBX9_VN7U_1.mp4,True,10,train,2333778807,L20_SUPERVISED_TRAIN,False
+BCVSsSZSqm4,australia,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BCVSsSZSqm4.mp4,True,11,train,992059717,L20_SUPERVISED_TRAIN,False
+L42e09-GlGE_1,australia,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/L42e09-GlGE_1.mp4,True,11,train,992059717,L20_SUPERVISED_TRAIN,False
+zfvnGrqiLMQ_1,australia,8.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zfvnGrqiLMQ_1.mp4,True,11,train,992059717,L20_SUPERVISED_TRAIN,False
+9uSE_BJx1Po,bad,3.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9uSE_BJx1Po.mp4,True,12,train,152472312,L20_SUPERVISED_TRAIN,False
+YQcpKDKzhIQ_1,bad,8.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YQcpKDKzhIQ_1.mp4,True,12,train,152472312,L20_SUPERVISED_TRAIN,False
+eh1UqHy5R8Y_1,bad,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eh1UqHy5R8Y_1.mp4,True,12,train,152472312,L20_SUPERVISED_TRAIN,False
+qIEr10Hg_Hw_1,bad,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qIEr10Hg_Hw_1.mp4,True,12,train,152472312,L20_SUPERVISED_TRAIN,False
+TDlj5kHwiTk,behind,3.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TDlj5kHwiTk.mp4,True,13,train,1216883957,L20_SUPERVISED_TRAIN,False
+TtNpydFV6rI,behind,4.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TtNpydFV6rI.mp4,True,13,train,1216883957,L20_SUPERVISED_TRAIN,False
+zHSDpV4Ok2Q,behind,4.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zHSDpV4Ok2Q.mp4,True,13,train,1216883957,L20_SUPERVISED_TRAIN,False
+0eCFVHc06YA_1,bell,5.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0eCFVHc06YA_1.mp4,True,14,train,2116606244,L20_SUPERVISED_TRAIN,False
+Pu9zSjEsqnk,bell,6.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Pu9zSjEsqnk.mp4,True,14,train,2116606244,L20_SUPERVISED_TRAIN,False
+xwgkeViNOwI,bell,5.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xwgkeViNOwI.mp4,True,14,train,2116606244,L20_SUPERVISED_TRAIN,False
+0AW9acHJhNI,bharatiya janata party,3.0,politics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0AW9acHJhNI.mp4,True,15,train,282652886,L20_SUPERVISED_TRAIN,False
+7JdpsRQl8eY,bharatiya janata party,4.0,politics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7JdpsRQl8eY.mp4,True,15,train,282652886,L20_SUPERVISED_TRAIN,False
+oNLS4rBETd8,bharatiya janata party,4.0,politics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oNLS4rBETd8.mp4,True,15,train,282652886,L20_SUPERVISED_TRAIN,False
+5sQnSTQKZgw_1,bill,9.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5sQnSTQKZgw_1.mp4,True,16,train,777166654,L20_SUPERVISED_TRAIN,False
+7MN-nFtrnjs_1,bill,9.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7MN-nFtrnjs_1.mp4,True,16,train,777166654,L20_SUPERVISED_TRAIN,False
+TPdAyuJYQtE,bill,4.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TPdAyuJYQtE.mp4,True,16,train,777166654,L20_SUPERVISED_TRAIN,False
+bzfDfBXrsTA_1,bill,10.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bzfDfBXrsTA_1.mp4,True,16,train,777166654,L20_SUPERVISED_TRAIN,False
+kAIC79Ubl_g,bill,4.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kAIC79Ubl_g.mp4,True,16,train,777166654,L20_SUPERVISED_TRAIN,False
+J9rhbSDTm4w_1,black,8.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/J9rhbSDTm4w_1.mp4,True,17,train,1950153756,L20_SUPERVISED_TRAIN,False
+VMsWda7pWZA,black,5.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VMsWda7pWZA.mp4,True,17,train,1950153756,L20_SUPERVISED_TRAIN,False
+cItWv5VCy8w_1,black,9.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cItWv5VCy8w_1.mp4,True,17,train,1950153756,L20_SUPERVISED_TRAIN,False
+VEppUiloi6c_1,blood pressure,8.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VEppUiloi6c_1.mp4,True,18,train,2257847318,L20_SUPERVISED_TRAIN,False
+WSEFp-h4Vk0,blood pressure,5.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WSEFp-h4Vk0.mp4,True,18,train,2257847318,L20_SUPERVISED_TRAIN,False
+mHIxXjMGN8c_1,blood pressure,8.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/mHIxXjMGN8c_1.mp4,True,18,train,2257847318,L20_SUPERVISED_TRAIN,False
+_p5nn1S8iRE_1,blouse,7.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_p5nn1S8iRE_1.mp4,True,19,train,1031900869,L20_SUPERVISED_TRAIN,False
+n9F3-JF1Dug,blouse,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/n9F3-JF1Dug.mp4,True,19,train,1031900869,L20_SUPERVISED_TRAIN,False
+wPsIxhPHXBo,blouse,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wPsIxhPHXBo.mp4,True,19,train,1031900869,L20_SUPERVISED_TRAIN,False
+WdE0jsfQVhw_1,blue,9.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WdE0jsfQVhw_1.mp4,True,20,train,2409452144,L20_SUPERVISED_TRAIN,False
+Ykt6OXbw1q0,blue,6.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ykt6OXbw1q0.mp4,True,20,train,2409452144,L20_SUPERVISED_TRAIN,False
+ZjgpWHd9cyc_1,blue,9.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZjgpWHd9cyc_1.mp4,True,20,train,2409452144,L20_SUPERVISED_TRAIN,False
+HPhGTpO7cvc_1,bowl,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HPhGTpO7cvc_1.mp4,True,21,train,940325571,L20_SUPERVISED_TRAIN,False
+sj8kYLtXNZU,bowl,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/sj8kYLtXNZU.mp4,True,21,train,940325571,L20_SUPERVISED_TRAIN,False
+soEw9PTY8Yw_1,bowl,6.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/soEw9PTY8Yw_1.mp4,True,21,train,940325571,L20_SUPERVISED_TRAIN,False
+9oo3hDRFIhM_1,brain,9.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9oo3hDRFIhM_1.mp4,True,22,train,2544241174,L20_SUPERVISED_TRAIN,False
+OELaDZo5R7I,brain,4.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OELaDZo5R7I.mp4,True,22,train,2544241174,L20_SUPERVISED_TRAIN,False
+kKwNheqJZ9M_1,brain,7.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kKwNheqJZ9M_1.mp4,True,22,train,2544241174,L20_SUPERVISED_TRAIN,False
+x7SV2p_-rPE,brain,6.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/x7SV2p_-rPE.mp4,True,22,train,2544241174,L20_SUPERVISED_TRAIN,False
+UDcg2skGRXM_1,brother,12.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UDcg2skGRXM_1.mp4,True,23,train,151163554,L20_SUPERVISED_TRAIN,False
+pcz5j3TcyEs_1,brother,13.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pcz5j3TcyEs_1.mp4,True,23,train,151163554,L20_SUPERVISED_TRAIN,False
+yMqhsoFHB_Q_1,brother,13.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yMqhsoFHB_Q_1.mp4,True,23,train,151163554,L20_SUPERVISED_TRAIN,False
+0-pxIcGvk3w,brown,7.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0-pxIcGvk3w.mp4,True,24,train,4063681598,L20_SUPERVISED_TRAIN,False
+PeH-ArgS-fw_1,brown,8.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PeH-ArgS-fw_1.mp4,True,24,train,4063681598,L20_SUPERVISED_TRAIN,False
+dQ30qulPHvE_2,brown,9.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dQ30qulPHvE_2.mp4,True,24,train,4063681598,L20_SUPERVISED_TRAIN,False
+I4pibKfr0jU,buffalo,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/I4pibKfr0jU.mp4,True,25,train,2557452902,L20_SUPERVISED_TRAIN,False
+Pgm4Qs_l-EE_1,buffalo,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Pgm4Qs_l-EE_1.mp4,True,25,train,2557452902,L20_SUPERVISED_TRAIN,False
+nGk01dUfQo0,buffalo,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nGk01dUfQo0.mp4,True,25,train,2557452902,L20_SUPERVISED_TRAIN,False
+Azhplpvwi6Q,calculator,4.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Azhplpvwi6Q.mp4,True,26,train,2767843428,L20_SUPERVISED_TRAIN,False
+p9bBKmmXvkY,calculator,4.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/p9bBKmmXvkY.mp4,True,26,train,2767843428,L20_SUPERVISED_TRAIN,False
+xY-hLKnjahw,calculator,4.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xY-hLKnjahw.mp4,True,26,train,2767843428,L20_SUPERVISED_TRAIN,False
+d3Mz6l_VYic_1,call,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/d3Mz6l_VYic_1.mp4,True,27,train,4057739604,L20_SUPERVISED_TRAIN,False
+g9AslMiIVTE_1,call,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/g9AslMiIVTE_1.mp4,True,27,train,4057739604,L20_SUPERVISED_TRAIN,False
+um4s1H6JPJg,call,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/um4s1H6JPJg.mp4,True,27,train,4057739604,L20_SUPERVISED_TRAIN,False
+A7GtKqvxPNA,can,11.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/A7GtKqvxPNA.mp4,True,28,train,4021002401,L20_SUPERVISED_TRAIN,False
+M5ML0oF4VzU,can,6.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/M5ML0oF4VzU.mp4,True,28,train,4021002401,L20_SUPERVISED_TRAIN,False
+_a81r3Cftzk,can,3.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_a81r3Cftzk.mp4,True,28,train,4021002401,L20_SUPERVISED_TRAIN,False
+64Cdgzetaxs,capital,5.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/64Cdgzetaxs.mp4,True,29,train,4133458460,L20_SUPERVISED_TRAIN,False
+rKDZTG2rFPs,capital,4.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rKDZTG2rFPs.mp4,True,29,train,4133458460,L20_SUPERVISED_TRAIN,False
+s57mcqROvtA,capital,4.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/s57mcqROvtA.mp4,True,29,train,4133458460,L20_SUPERVISED_TRAIN,False
+AQ_ba6r2-YM,carpenter,4.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/AQ_ba6r2-YM.mp4,True,30,train,1679182926,L20_SUPERVISED_TRAIN,False
+bp9mzPexxVY,carpenter,5.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bp9mzPexxVY.mp4,True,30,train,1679182926,L20_SUPERVISED_TRAIN,False
+u-vcH9n4_P0_1,carpenter,7.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/u-vcH9n4_P0_1.mp4,True,30,train,1679182926,L20_SUPERVISED_TRAIN,False
+Rc4vFhGRgIs,cat,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Rc4vFhGRgIs.mp4,True,31,train,4049588250,L20_SUPERVISED_TRAIN,False
+SAPfIHh1BPg_1,cat,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SAPfIHh1BPg_1.mp4,True,31,train,4049588250,L20_SUPERVISED_TRAIN,False
+ltKW64fB3VU_1,cat,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ltKW64fB3VU_1.mp4,True,31,train,4049588250,L20_SUPERVISED_TRAIN,False
+zF0-lsUa_RA_1,cat,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zF0-lsUa_RA_1.mp4,True,31,train,4049588250,L20_SUPERVISED_TRAIN,False
+PGYE6puPzKU_1,chappels,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PGYE6puPzKU_1.mp4,True,32,train,1558748910,L20_SUPERVISED_TRAIN,False
+iSjUgwEuBLg_1,chappels,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/iSjUgwEuBLg_1.mp4,True,32,train,1558748910,L20_SUPERVISED_TRAIN,False
+t70Wrphzj2w_1,chappels,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/t70Wrphzj2w_1.mp4,True,32,train,1558748910,L20_SUPERVISED_TRAIN,False
+748qVYC4N1s,chennai,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/748qVYC4N1s.mp4,True,33,train,2091749753,L20_SUPERVISED_TRAIN,False
+KEcsIGtSp88_1,chennai,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KEcsIGtSp88_1.mp4,True,33,train,2091749753,L20_SUPERVISED_TRAIN,False
+x6O_GrimQMw,chennai,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/x6O_GrimQMw.mp4,True,33,train,2091749753,L20_SUPERVISED_TRAIN,False
+6y6ylBP0yc8,cheque,6.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6y6ylBP0yc8.mp4,True,34,train,625187847,L20_SUPERVISED_TRAIN,False
+Il9Z5pMnfDo,cheque,5.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Il9Z5pMnfDo.mp4,True,34,train,625187847,L20_SUPERVISED_TRAIN,False
+NmmgvY4gy40_1,cheque,6.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NmmgvY4gy40_1.mp4,True,34,train,625187847,L20_SUPERVISED_TRAIN,False
+Zbzwv7UaDLE_1,cholera,6.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Zbzwv7UaDLE_1.mp4,True,35,train,3291231971,L20_SUPERVISED_TRAIN,False
+nLRgpHuC0fQ_1,cholera,6.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nLRgpHuC0fQ_1.mp4,True,35,train,3291231971,L20_SUPERVISED_TRAIN,False
+t8sdmhD1yCc_1,cholera,6.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/t8sdmhD1yCc_1.mp4,True,35,train,3291231971,L20_SUPERVISED_TRAIN,False
+9LDQGtFRVhI,christmas,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9LDQGtFRVhI.mp4,True,36,train,1610991097,L20_SUPERVISED_TRAIN,False
+9WpI_sLgb00,christmas,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9WpI_sLgb00.mp4,True,36,train,1610991097,L20_SUPERVISED_TRAIN,False
+SdsEu8iuUpE,christmas,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SdsEu8iuUpE.mp4,True,36,train,1610991097,L20_SUPERVISED_TRAIN,False
+bJiwFIbDGRQ_1,christmas,7.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bJiwFIbDGRQ_1.mp4,True,36,train,1610991097,L20_SUPERVISED_TRAIN,False
+tUV7RnfFTa4,christmas,5.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/tUV7RnfFTa4.mp4,True,36,train,1610991097,L20_SUPERVISED_TRAIN,False
+8eae5jZQ1zo,clever,5.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8eae5jZQ1zo.mp4,True,37,train,3303997338,L20_SUPERVISED_TRAIN,False
+IGogDBcwAnU_1,clever,8.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IGogDBcwAnU_1.mp4,True,37,train,3303997338,L20_SUPERVISED_TRAIN,False
+lto2iIwYuOw,clever,6.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lto2iIwYuOw.mp4,True,37,train,3303997338,L20_SUPERVISED_TRAIN,False
+-H_VzAnfyKk,coconut,4.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-H_VzAnfyKk.mp4,True,38,train,3392422840,L20_SUPERVISED_TRAIN,False
+J6YkOCzKPpA_1,coconut,7.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/J6YkOCzKPpA_1.mp4,True,38,train,3392422840,L20_SUPERVISED_TRAIN,False
+c-5Km1sqJOA_1,coconut,8.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/c-5Km1sqJOA_1.mp4,True,38,train,3392422840,L20_SUPERVISED_TRAIN,False
+EdGBkBi0xQ4,cold,4.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EdGBkBi0xQ4.mp4,True,39,train,2988073069,L20_SUPERVISED_TRAIN,False
+P1r-uVbFZ00_1,cold,6.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/P1r-uVbFZ00_1.mp4,True,39,train,2988073069,L20_SUPERVISED_TRAIN,False
+UoONuBxuPLg_1,cold,6.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UoONuBxuPLg_1.mp4,True,39,train,2988073069,L20_SUPERVISED_TRAIN,False
+5SkNxNsxu_E_1,date,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5SkNxNsxu_E_1.mp4,True,40,train,1213546417,L20_SUPERVISED_TRAIN,False
+H0k_c6twr-Y_1,date,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/H0k_c6twr-Y_1.mp4,True,40,train,1213546417,L20_SUPERVISED_TRAIN,False
+YGPgejLrILM,date,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YGPgejLrILM.mp4,True,40,train,1213546417,L20_SUPERVISED_TRAIN,False
+h0IHd58MBEA,date,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/h0IHd58MBEA.mp4,True,40,train,1213546417,L20_SUPERVISED_TRAIN,False
+yGWvP26FbEo_1,date,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yGWvP26FbEo_1.mp4,True,40,train,1213546417,L20_SUPERVISED_TRAIN,False
+672SUsSwn10,day,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/672SUsSwn10.mp4,True,41,train,1802559663,L20_SUPERVISED_TRAIN,False
+EmUsRBX9664_2,day,8.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EmUsRBX9664_2.mp4,True,41,train,1802559663,L20_SUPERVISED_TRAIN,False
+v_HmgeH-ABo,day,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/v_HmgeH-ABo.mp4,True,41,train,1802559663,L20_SUPERVISED_TRAIN,False
+-Oq_e89164c_1,deer,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-Oq_e89164c_1.mp4,True,42,train,659806064,L20_SUPERVISED_TRAIN,False
+5Joy5x30t6E,deer,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5Joy5x30t6E.mp4,True,42,train,659806064,L20_SUPERVISED_TRAIN,False
+YkczyHs5RyA,deer,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YkczyHs5RyA.mp4,True,42,train,659806064,L20_SUPERVISED_TRAIN,False
+QJDAMIo3A6Y,diwali,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QJDAMIo3A6Y.mp4,True,43,train,3842579054,L20_SUPERVISED_TRAIN,False
+t7t7Jioxeu8,diwali,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/t7t7Jioxeu8.mp4,True,43,train,3842579054,L20_SUPERVISED_TRAIN,False
+zRnkG-1N3jY_1,diwali,7.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zRnkG-1N3jY_1.mp4,True,43,train,3842579054,L20_SUPERVISED_TRAIN,False
+7O43NW_PICc,dog,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7O43NW_PICc.mp4,True,44,train,4157082353,L20_SUPERVISED_TRAIN,False
+fVnCA91Bvwo,dog,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fVnCA91Bvwo.mp4,True,44,train,4157082353,L20_SUPERVISED_TRAIN,False
+r9QQ0jQ64IQ_1,dog,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/r9QQ0jQ64IQ_1.mp4,True,44,train,4157082353,L20_SUPERVISED_TRAIN,False
+JE_6hkeERgY,donkey,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JE_6hkeERgY.mp4,True,45,train,576859745,L20_SUPERVISED_TRAIN,False
+TEkWFmWdQ8Q_1,donkey,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TEkWFmWdQ8Q_1.mp4,True,45,train,576859745,L20_SUPERVISED_TRAIN,False
+Wj8Inf10Cds,donkey,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Wj8Inf10Cds.mp4,True,45,train,576859745,L20_SUPERVISED_TRAIN,False
+3NPxIy6OXzg_1,drawer,8.0,construction,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3NPxIy6OXzg_1.mp4,True,46,train,1888055022,L20_SUPERVISED_TRAIN,False
+3Sct_ii1-yQ_1,drawer,11.0,construction,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3Sct_ii1-yQ_1.mp4,True,46,train,1888055022,L20_SUPERVISED_TRAIN,False
+pxDoKJd--Wk_1,drawer,9.0,construction,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pxDoKJd--Wk_1.mp4,True,46,train,1888055022,L20_SUPERVISED_TRAIN,False
+FkCaUqcqwpA,drug,3.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FkCaUqcqwpA.mp4,True,47,train,646044184,L20_SUPERVISED_TRAIN,False
+LYRpKbuXtw8,drug,4.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LYRpKbuXtw8.mp4,True,47,train,646044184,L20_SUPERVISED_TRAIN,False
+lFyE0xYWW7I,drug,4.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lFyE0xYWW7I.mp4,True,47,train,646044184,L20_SUPERVISED_TRAIN,False
+AJ0hvy4jJXY_1,duck,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/AJ0hvy4jJXY_1.mp4,True,48,train,1466925555,L20_SUPERVISED_TRAIN,False
+QTyJEcqXDTg_1,duck,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QTyJEcqXDTg_1.mp4,True,48,train,1466925555,L20_SUPERVISED_TRAIN,False
+p8ccKTtbyaQ,duck,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/p8ccKTtbyaQ.mp4,True,48,train,1466925555,L20_SUPERVISED_TRAIN,False
+tZ28xXARcyk_1,duck,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/tZ28xXARcyk_1.mp4,True,48,train,1466925555,L20_SUPERVISED_TRAIN,False
+4Os2Hh06GPc_1,earth,8.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4Os2Hh06GPc_1.mp4,True,49,train,2450263540,L20_SUPERVISED_TRAIN,False
+LYfzb9LaUHw_2,earth,8.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LYfzb9LaUHw_2.mp4,True,49,train,2450263540,L20_SUPERVISED_TRAIN,False
+XUmgkiZM4JI_1,earth,8.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/XUmgkiZM4JI_1.mp4,True,49,train,2450263540,L20_SUPERVISED_TRAIN,False
+BpheOwGP6ZE_2,east,8.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BpheOwGP6ZE_2.mp4,True,50,train,1842632259,L20_SUPERVISED_TRAIN,False
+C0znUIY2osY,east,3.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/C0znUIY2osY.mp4,True,50,train,1842632259,L20_SUPERVISED_TRAIN,False
+Dg1FJhcTg2E_2,east,8.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Dg1FJhcTg2E_2.mp4,True,50,train,1842632259,L20_SUPERVISED_TRAIN,False
+SewBqDY49qs,eclipse,5.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SewBqDY49qs.mp4,True,51,train,1115424290,L20_SUPERVISED_TRAIN,False
+U2UQ6QHvt_s_1,eclipse,7.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/U2UQ6QHvt_s_1.mp4,True,51,train,1115424290,L20_SUPERVISED_TRAIN,False
+WWSODzzlgO8_2,eclipse,9.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WWSODzzlgO8_2.mp4,True,51,train,1115424290,L20_SUPERVISED_TRAIN,False
+LlpSiou4X7w,elephant,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LlpSiou4X7w.mp4,True,52,train,1105482950,L20_SUPERVISED_TRAIN,False
+OHFdjCUkpME_1,elephant,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OHFdjCUkpME_1.mp4,True,52,train,1105482950,L20_SUPERVISED_TRAIN,False
+WDlqCvrPrAE_1,elephant,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WDlqCvrPrAE_1.mp4,True,52,train,1105482950,L20_SUPERVISED_TRAIN,False
+2U643_QFXA8_2,engine,9.0,machine,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2U643_QFXA8_2.mp4,True,53,train,1091734783,L20_SUPERVISED_TRAIN,False
+fI7cp68IaQU,engine,9.0,machine,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fI7cp68IaQU.mp4,True,53,train,1091734783,L20_SUPERVISED_TRAIN,False
+mgVaDE2i02s_1,engine,8.0,machine,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/mgVaDE2i02s_1.mp4,True,53,train,1091734783,L20_SUPERVISED_TRAIN,False
+7S1IJ8OrInU,escape,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7S1IJ8OrInU.mp4,True,54,train,1712494427,L20_SUPERVISED_TRAIN,False
+aj736kmw3Pw_1,escape,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aj736kmw3Pw_1.mp4,True,54,train,1712494427,L20_SUPERVISED_TRAIN,False
+q8GJtbifW80_2,escape,9.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/q8GJtbifW80_2.mp4,True,54,train,1712494427,L20_SUPERVISED_TRAIN,False
+32OshNWYUgE_1,evening,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/32OshNWYUgE_1.mp4,True,55,train,3479517571,L20_SUPERVISED_TRAIN,False
+vB72KncjZis,evening,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vB72KncjZis.mp4,True,55,train,3479517571,L20_SUPERVISED_TRAIN,False
+zSwPgYew9xY_1,evening,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zSwPgYew9xY_1.mp4,True,55,train,3479517571,L20_SUPERVISED_TRAIN,False
+CNIlm20ulSs_1,expensive,7.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CNIlm20ulSs_1.mp4,True,56,train,1549829834,L20_SUPERVISED_TRAIN,False
+nH3nl9uTYc8_1,expensive,7.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nH3nl9uTYc8_1.mp4,True,56,train,1549829834,L20_SUPERVISED_TRAIN,False
+xu3e-IU_xRM,expensive,4.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xu3e-IU_xRM.mp4,True,56,train,1549829834,L20_SUPERVISED_TRAIN,False
+YVRYl6f1f_0_1,experiment,7.0,process,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YVRYl6f1f_0_1.mp4,True,57,train,3372408098,L20_SUPERVISED_TRAIN,False
+m_rnnhVnHZo_2,experiment,8.0,process,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m_rnnhVnHZo_2.mp4,True,57,train,3372408098,L20_SUPERVISED_TRAIN,False
+ooGQLLL-8RQ,experiment,7.0,process,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ooGQLLL-8RQ.mp4,True,57,train,3372408098,L20_SUPERVISED_TRAIN,False
+Hkv0JPEwiEE,explain,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Hkv0JPEwiEE.mp4,True,58,train,3477509447,L20_SUPERVISED_TRAIN,False
+K_d8eu4SgG0_1,explain,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/K_d8eu4SgG0_1.mp4,True,58,train,3477509447,L20_SUPERVISED_TRAIN,False
+UyIz1DzGwQQ_1,explain,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UyIz1DzGwQQ_1.mp4,True,58,train,3477509447,L20_SUPERVISED_TRAIN,False
+JTfbRXxg4mU_1,false,7.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JTfbRXxg4mU_1.mp4,True,59,train,28283860,L20_SUPERVISED_TRAIN,False
+NeXKnG1-7cU_1,false,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NeXKnG1-7cU_1.mp4,True,59,train,28283860,L20_SUPERVISED_TRAIN,False
+OSxSHGU_WOo_1,false,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OSxSHGU_WOo_1.mp4,True,59,train,28283860,L20_SUPERVISED_TRAIN,False
+4gyV6cLT2o4_1,form,9.0,readable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4gyV6cLT2o4_1.mp4,True,60,train,925827479,L20_SUPERVISED_TRAIN,False
+B2JFlPUsxQY,form,8.0,readable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/B2JFlPUsxQY.mp4,True,60,train,925827479,L20_SUPERVISED_TRAIN,False
+VV7wIkRKbf0_1,form,6.0,readable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VV7wIkRKbf0_1.mp4,True,60,train,925827479,L20_SUPERVISED_TRAIN,False
+7ChtWi4wz8E_1,friday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7ChtWi4wz8E_1.mp4,True,61,train,367472457,L20_SUPERVISED_TRAIN,False
+Gl6b4xJGc5k_1,friday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Gl6b4xJGc5k_1.mp4,True,61,train,367472457,L20_SUPERVISED_TRAIN,False
+SFP1Y49gip0_1,friday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SFP1Y49gip0_1.mp4,True,61,train,367472457,L20_SUPERVISED_TRAIN,False
+a8g9AMsHvlI_1,friday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/a8g9AMsHvlI_1.mp4,True,61,train,367472457,L20_SUPERVISED_TRAIN,False
+b_lBAwm-AC4_1,friday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/b_lBAwm-AC4_1.mp4,True,61,train,367472457,L20_SUPERVISED_TRAIN,False
+eIzOqdVJ2F8_1,frog,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eIzOqdVJ2F8_1.mp4,True,62,train,264148231,L20_SUPERVISED_TRAIN,False
+oMrL9S8VGJ0_1,frog,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oMrL9S8VGJ0_1.mp4,True,62,train,264148231,L20_SUPERVISED_TRAIN,False
+xfqgrQ_r3Tw_1,frog,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xfqgrQ_r3Tw_1.mp4,True,62,train,264148231,L20_SUPERVISED_TRAIN,False
+1_PI2OxnryQ_1,gas stove,7.0,instrument,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1_PI2OxnryQ_1.mp4,True,63,train,2537213776,L20_SUPERVISED_TRAIN,False
+Iqjt_znBgeE,gas stove,4.0,instrument,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Iqjt_znBgeE.mp4,True,63,train,2537213776,L20_SUPERVISED_TRAIN,False
+t8z3PzQKmwg,gas stove,5.0,instrument,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/t8z3PzQKmwg.mp4,True,63,train,2537213776,L20_SUPERVISED_TRAIN,False
+ggvZdTOIuDI_2,glass,8.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ggvZdTOIuDI_2.mp4,True,64,train,1813114621,L20_SUPERVISED_TRAIN,False
+l_iVlaZg-so,glass,4.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/l_iVlaZg-so.mp4,True,64,train,1813114621,L20_SUPERVISED_TRAIN,False
+oQ5MXCEEm7M_1,glass,7.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oQ5MXCEEm7M_1.mp4,True,64,train,1813114621,L20_SUPERVISED_TRAIN,False
+E4hL5jUFwCk,gloves,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/E4hL5jUFwCk.mp4,True,65,train,661449992,L20_SUPERVISED_TRAIN,False
+JXkN1Nb0WmI_1,gloves,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JXkN1Nb0WmI_1.mp4,True,65,train,661449992,L20_SUPERVISED_TRAIN,False
+o1T_M9vuDr8_1,gloves,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o1T_M9vuDr8_1.mp4,True,65,train,661449992,L20_SUPERVISED_TRAIN,False
+5NZ2WDtePsU_1,goat,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5NZ2WDtePsU_1.mp4,True,66,train,2563824133,L20_SUPERVISED_TRAIN,False
+ZEOITP9Urts,goat,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZEOITP9Urts.mp4,True,66,train,2563824133,L20_SUPERVISED_TRAIN,False
+aD03ngrTQoI_1,goat,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aD03ngrTQoI_1.mp4,True,66,train,2563824133,L20_SUPERVISED_TRAIN,False
+s-570A5kLxo,goat,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/s-570A5kLxo.mp4,True,66,train,2563824133,L20_SUPERVISED_TRAIN,False
+1rjhkQSKHSI,gold,4.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1rjhkQSKHSI.mp4,True,67,train,3023852779,L20_SUPERVISED_TRAIN,False
+iyN0Qrmy8F8_1,gold,7.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/iyN0Qrmy8F8_1.mp4,True,67,train,3023852779,L20_SUPERVISED_TRAIN,False
+lpFt9c1GueI,gold,13.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lpFt9c1GueI.mp4,True,67,train,3023852779,L20_SUPERVISED_TRAIN,False
+ME7pnv4k_l0_1,good,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ME7pnv4k_l0_1.mp4,True,68,train,3182929290,L20_SUPERVISED_TRAIN,False
+aQEJlg8RhXQ,good,4.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aQEJlg8RhXQ.mp4,True,68,train,3182929290,L20_SUPERVISED_TRAIN,False
+bwM7NUs3TFc_1,good,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bwM7NUs3TFc_1.mp4,True,68,train,3182929290,L20_SUPERVISED_TRAIN,False
+mmXQw0IktO0_1,good,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/mmXQw0IktO0_1.mp4,True,68,train,3182929290,L20_SUPERVISED_TRAIN,False
+D9ihUabRKIQ_2,green,8.0,colour,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/D9ihUabRKIQ_2.mp4,True,69,train,2883044364,L20_SUPERVISED_TRAIN,False
+lSPMq5Pdb6I_1,green,8.0,colour,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lSPMq5Pdb6I_1.mp4,True,69,train,2883044364,L20_SUPERVISED_TRAIN,False
+yQXFOVuS7r8,green,6.0,colour,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yQXFOVuS7r8.mp4,True,69,train,2883044364,L20_SUPERVISED_TRAIN,False
+Eg7eVi4c11k,grow,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Eg7eVi4c11k.mp4,True,70,train,291554289,L20_SUPERVISED_TRAIN,False
+XDNgMT4swe4,grow,8.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/XDNgMT4swe4.mp4,True,70,train,291554289,L20_SUPERVISED_TRAIN,False
+etpYZfoTkBE_1,grow,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/etpYZfoTkBE_1.mp4,True,70,train,291554289,L20_SUPERVISED_TRAIN,False
+pMUP28lpEtI,grow,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pMUP28lpEtI.mp4,True,70,train,291554289,L20_SUPERVISED_TRAIN,False
+7HfVuSW5Alw_1,guilty,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7HfVuSW5Alw_1.mp4,True,71,train,3908226769,L20_SUPERVISED_TRAIN,False
+g5Dg60713kw,guilty,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/g5Dg60713kw.mp4,True,71,train,3908226769,L20_SUPERVISED_TRAIN,False
+zeLeGWdpYiE_1,guilty,6.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zeLeGWdpYiE_1.mp4,True,71,train,3908226769,L20_SUPERVISED_TRAIN,False
+TdbUnoeHXcE_1,gujarat,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TdbUnoeHXcE_1.mp4,True,72,train,566973566,L20_SUPERVISED_TRAIN,False
+X3SkopKJi5M_1,gujarat,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/X3SkopKJi5M_1.mp4,True,72,train,566973566,L20_SUPERVISED_TRAIN,False
+uLSHBm4_kaw,gujarat,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/uLSHBm4_kaw.mp4,True,72,train,566973566,L20_SUPERVISED_TRAIN,False
+1VYE8MAF6yY_1,hanuman,6.0,religious,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1VYE8MAF6yY_1.mp4,True,73,train,2520708039,L20_SUPERVISED_TRAIN,False
+OF-9aiQTAfM,hanuman,5.0,religious,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OF-9aiQTAfM.mp4,True,73,train,2520708039,L20_SUPERVISED_TRAIN,False
+zSGR1KaSZV4,hanuman,4.0,religious,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zSGR1KaSZV4.mp4,True,73,train,2520708039,L20_SUPERVISED_TRAIN,False
+39tZrKjvdQM,hard,5.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/39tZrKjvdQM.mp4,True,74,train,4263455510,L20_SUPERVISED_TRAIN,False
+AjSoS7r4qJI_1,hard,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/AjSoS7r4qJI_1.mp4,True,74,train,4263455510,L20_SUPERVISED_TRAIN,False
+JFrHbTIRXp0_1,hard,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JFrHbTIRXp0_1.mp4,True,74,train,4263455510,L20_SUPERVISED_TRAIN,False
+DNF5QY7x2Lc_1,hardworking,8.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DNF5QY7x2Lc_1.mp4,True,75,train,1952751297,L20_SUPERVISED_TRAIN,False
+Sm7Cei87rg4_1,hardworking,8.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Sm7Cei87rg4_1.mp4,True,75,train,1952751297,L20_SUPERVISED_TRAIN,False
+ik8ITcJ1pTQ_1,hardworking,8.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ik8ITcJ1pTQ_1.mp4,True,75,train,1952751297,L20_SUPERVISED_TRAIN,False
+-RTVD5tM__A_1,hot,6.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-RTVD5tM__A_1.mp4,True,76,train,777207704,L20_SUPERVISED_TRAIN,False
+5Zpf5yMNgc0_1,hot,5.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5Zpf5yMNgc0_1.mp4,True,76,train,777207704,L20_SUPERVISED_TRAIN,False
+MF1FXsA8yXw,hot,5.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MF1FXsA8yXw.mp4,True,76,train,777207704,L20_SUPERVISED_TRAIN,False
+mdv4f8f7JpQ_2,hot,6.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/mdv4f8f7JpQ_2.mp4,True,76,train,777207704,L20_SUPERVISED_TRAIN,False
+T7RBzS7EJ6A_1,husband,9.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/T7RBzS7EJ6A_1.mp4,True,77,train,220048709,L20_SUPERVISED_TRAIN,False
+e-oFpEWqbFI,husband,3.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/e-oFpEWqbFI.mp4,True,77,train,220048709,L20_SUPERVISED_TRAIN,False
+l3VvC6z1I4U_1,husband,10.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/l3VvC6z1I4U_1.mp4,True,77,train,220048709,L20_SUPERVISED_TRAIN,False
+-NXGOOSb2sk,increase,5.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-NXGOOSb2sk.mp4,True,78,train,274905024,L20_SUPERVISED_TRAIN,False
+0i1qCUd3BdM_1,increase,8.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0i1qCUd3BdM_1.mp4,True,78,train,274905024,L20_SUPERVISED_TRAIN,False
+CjZKfMv3QsA_2,increase,9.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CjZKfMv3QsA_2.mp4,True,78,train,274905024,L20_SUPERVISED_TRAIN,False
+RUKgTVVuVcg,increase,5.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/RUKgTVVuVcg.mp4,True,78,train,274905024,L20_SUPERVISED_TRAIN,False
+kZnl4XgNVgU,increase,5.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kZnl4XgNVgU.mp4,True,78,train,274905024,L20_SUPERVISED_TRAIN,False
+4nHooc3YAYI_1,india,8.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4nHooc3YAYI_1.mp4,True,79,train,4267551466,L20_SUPERVISED_TRAIN,False
+7kEbmn2BWIA,india,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7kEbmn2BWIA.mp4,True,79,train,4267551466,L20_SUPERVISED_TRAIN,False
+BNNY7s6UnX4_1,india,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BNNY7s6UnX4_1.mp4,True,79,train,4267551466,L20_SUPERVISED_TRAIN,False
+VAhELbOjQFc,india,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VAhELbOjQFc.mp4,True,79,train,4267551466,L20_SUPERVISED_TRAIN,False
+dkwDWRmVwUc,india,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dkwDWRmVwUc.mp4,True,79,train,4267551466,L20_SUPERVISED_TRAIN,False
+CveKv8LNSOI_1,insult,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CveKv8LNSOI_1.mp4,True,80,train,562632065,L20_SUPERVISED_TRAIN,False
+HK6mbwMGSew,insult,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HK6mbwMGSew.mp4,True,80,train,562632065,L20_SUPERVISED_TRAIN,False
+YkB8oNd9yWk_1,insult,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YkB8oNd9yWk_1.mp4,True,80,train,562632065,L20_SUPERVISED_TRAIN,False
+0RiCicL3Zg8_1,interest,9.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0RiCicL3Zg8_1.mp4,True,81,train,1998065131,L20_SUPERVISED_TRAIN,False
+10KuxOH6cYM_1,interest,7.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/10KuxOH6cYM_1.mp4,True,81,train,1998065131,L20_SUPERVISED_TRAIN,False
+7kHhJbwb-xg,interest,5.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7kHhJbwb-xg.mp4,True,81,train,1998065131,L20_SUPERVISED_TRAIN,False
+IOaZtwg1czk_1,interest,12.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IOaZtwg1czk_1.mp4,True,81,train,1998065131,L20_SUPERVISED_TRAIN,False
+RlC8ZTPuOBU_1,interest,7.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/RlC8ZTPuOBU_1.mp4,True,81,train,1998065131,L20_SUPERVISED_TRAIN,False
+syK7APT1R4w,interest,5.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/syK7APT1R4w.mp4,True,81,train,1998065131,L20_SUPERVISED_TRAIN,False
+8FU08s4mBkI_1,iron,7.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8FU08s4mBkI_1.mp4,True,82,train,1412662581,L20_SUPERVISED_TRAIN,False
+Iz9sVAKjbMU_1,iron,7.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Iz9sVAKjbMU_1.mp4,True,82,train,1412662581,L20_SUPERVISED_TRAIN,False
+RDrpOAnwThg_1,iron,7.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/RDrpOAnwThg_1.mp4,True,82,train,1412662581,L20_SUPERVISED_TRAIN,False
+T9GMyhxIv5k_1,iron,7.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/T9GMyhxIv5k_1.mp4,True,82,train,1412662581,L20_SUPERVISED_TRAIN,False
+r607N-5gkHs,iron,4.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/r607N-5gkHs.mp4,True,82,train,1412662581,L20_SUPERVISED_TRAIN,False
+6s4UdZ5D58o,january,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6s4UdZ5D58o.mp4,True,83,train,2130497333,L20_SUPERVISED_TRAIN,False
+YRCrJpcwteg_1,january,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YRCrJpcwteg_1.mp4,True,83,train,2130497333,L20_SUPERVISED_TRAIN,False
+jLV6SCP_7tA,january,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jLV6SCP_7tA.mp4,True,83,train,2130497333,L20_SUPERVISED_TRAIN,False
+4HMKoVmJQ0E_1,key,7.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4HMKoVmJQ0E_1.mp4,True,84,train,1235983919,L20_SUPERVISED_TRAIN,False
+FathKZe6_LI,key,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FathKZe6_LI.mp4,True,84,train,1235983919,L20_SUPERVISED_TRAIN,False
+v2YS_BfBifc_1,key,7.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/v2YS_BfBifc_1.mp4,True,84,train,1235983919,L20_SUPERVISED_TRAIN,False
+MWnrLOwPLqQ_1,kitchen,8.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MWnrLOwPLqQ_1.mp4,True,85,train,3684198737,L20_SUPERVISED_TRAIN,False
+QYaPv88J2iE,kitchen,6.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QYaPv88J2iE.mp4,True,85,train,3684198737,L20_SUPERVISED_TRAIN,False
+U2DPGFl5JFA_1,kitchen,7.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/U2DPGFl5JFA_1.mp4,True,85,train,3684198737,L20_SUPERVISED_TRAIN,False
+2-6FnMinc3U,knife,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2-6FnMinc3U.mp4,True,86,train,3664164413,L20_SUPERVISED_TRAIN,False
+keuFgJr0Bbc_1,knife,6.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/keuFgJr0Bbc_1.mp4,True,86,train,3664164413,L20_SUPERVISED_TRAIN,False
+uHAhEiTlj_M,knife,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/uHAhEiTlj_M.mp4,True,86,train,3664164413,L20_SUPERVISED_TRAIN,False
+STXgnu97Y6Y_1,kurta,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/STXgnu97Y6Y_1.mp4,True,87,train,590171166,L20_SUPERVISED_TRAIN,False
+YKnnyhESBww_1,kurta,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YKnnyhESBww_1.mp4,True,87,train,590171166,L20_SUPERVISED_TRAIN,False
+o4AfySvjYxo_1,kurta,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o4AfySvjYxo_1.mp4,True,87,train,590171166,L20_SUPERVISED_TRAIN,False
+2JY-9q3ehfY,ladder,6.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2JY-9q3ehfY.mp4,True,88,train,3617255269,L20_SUPERVISED_TRAIN,False
+4bzRDATIEGY,ladder,8.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4bzRDATIEGY.mp4,True,88,train,3617255269,L20_SUPERVISED_TRAIN,False
+r4n7uVq_LzU,ladder,5.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/r4n7uVq_LzU.mp4,True,88,train,3617255269,L20_SUPERVISED_TRAIN,False
+OX23xzI_GhY,land,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OX23xzI_GhY.mp4,True,89,train,2945518583,L20_SUPERVISED_TRAIN,False
+kHGkRSDn6q8,land,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kHGkRSDn6q8.mp4,True,89,train,2945518583,L20_SUPERVISED_TRAIN,False
+wAEJEtDB20g,land,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wAEJEtDB20g.mp4,True,89,train,2945518583,L20_SUPERVISED_TRAIN,False
+yMs5B2DUJ_0,land,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yMs5B2DUJ_0.mp4,True,89,train,2945518583,L20_SUPERVISED_TRAIN,False
+Idc4ADhTayI,leaf,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Idc4ADhTayI.mp4,True,90,train,1642592845,L20_SUPERVISED_TRAIN,False
+JwvgzR8JBQw,leaf,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JwvgzR8JBQw.mp4,True,90,train,1642592845,L20_SUPERVISED_TRAIN,False
+rGwK-HsdDk0_1,leaf,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rGwK-HsdDk0_1.mp4,True,90,train,1642592845,L20_SUPERVISED_TRAIN,False
+src6zFQawX0_1,leaf,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/src6zFQawX0_1.mp4,True,90,train,1642592845,L20_SUPERVISED_TRAIN,False
+BpDvz3q-6pU_1,learn,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BpDvz3q-6pU_1.mp4,True,91,train,2618061883,L20_SUPERVISED_TRAIN,False
+MAZVS8doD6E,learn,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MAZVS8doD6E.mp4,True,91,train,2618061883,L20_SUPERVISED_TRAIN,False
+WzjR1buH7o8,learn,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WzjR1buH7o8.mp4,True,91,train,2618061883,L20_SUPERVISED_TRAIN,False
+614YmkupYl0_1,lie,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/614YmkupYl0_1.mp4,True,92,train,4280639052,L20_SUPERVISED_TRAIN,False
+6O_VhGkView_1,lie,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6O_VhGkView_1.mp4,True,92,train,4280639052,L20_SUPERVISED_TRAIN,False
+xiX4tAUoNXs_1,lie,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xiX4tAUoNXs_1.mp4,True,92,train,4280639052,L20_SUPERVISED_TRAIN,False
+0HNvZZloffc_1,light,6.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0HNvZZloffc_1.mp4,True,93,train,937330270,L20_SUPERVISED_TRAIN,False
+KXzzVhXY0F4_1,light,6.0,physics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KXzzVhXY0F4_1.mp4,True,93,train,937330270,L20_SUPERVISED_TRAIN,False
+PhkRGU9K9ZY_1,light,6.0,physics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PhkRGU9K9ZY_1.mp4,True,93,train,937330270,L20_SUPERVISED_TRAIN,False
+Pq-OLkv13Bw,light,4.0,physics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Pq-OLkv13Bw.mp4,True,93,train,937330270,L20_SUPERVISED_TRAIN,False
+i_zyHcuPs6s,light,4.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/i_zyHcuPs6s.mp4,True,93,train,937330270,L20_SUPERVISED_TRAIN,False
+NZ3PZzNJ2hs_1,magic,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NZ3PZzNJ2hs_1.mp4,True,94,train,680896129,L20_SUPERVISED_TRAIN,False
+UcEpOfJMly4_1,magic,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UcEpOfJMly4_1.mp4,True,94,train,680896129,L20_SUPERVISED_TRAIN,False
+tuw6tMLjHwQ_1,magic,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/tuw6tMLjHwQ_1.mp4,True,94,train,680896129,L20_SUPERVISED_TRAIN,False
+CuOhMZjaUS8_2,magnet,9.0,physics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CuOhMZjaUS8_2.mp4,True,95,train,3825793988,L20_SUPERVISED_TRAIN,False
+FgId5lNxRyM_1,magnet,7.0,physics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FgId5lNxRyM_1.mp4,True,95,train,3825793988,L20_SUPERVISED_TRAIN,False
+ZrRMVnEBilo_1,magnet,8.0,physics,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZrRMVnEBilo_1.mp4,True,95,train,3825793988,L20_SUPERVISED_TRAIN,False
+8Tsv4klWWuY,mechanic,6.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8Tsv4klWWuY.mp4,True,96,train,2624489847,L20_SUPERVISED_TRAIN,False
+CELYbb3X9fk,mechanic,6.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CELYbb3X9fk.mp4,True,96,train,2624489847,L20_SUPERVISED_TRAIN,False
+jiGFdH-Yz4E_1,mechanic,6.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jiGFdH-Yz4E_1.mp4,True,96,train,2624489847,L20_SUPERVISED_TRAIN,False
+ObwZnI075E8,melt,7.0,process,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ObwZnI075E8.mp4,True,97,train,2998384719,L20_SUPERVISED_TRAIN,False
+jkSBzJW8eFI_1,melt,8.0,process,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jkSBzJW8eFI_1.mp4,True,97,train,2998384719,L20_SUPERVISED_TRAIN,False
+kZneFf1ONo8,melt,7.0,process,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kZneFf1ONo8.mp4,True,97,train,2998384719,L20_SUPERVISED_TRAIN,False
+aIYmSF72Yk4,mistake,3.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aIYmSF72Yk4.mp4,True,98,train,3119545107,L20_SUPERVISED_TRAIN,False
+dIH705Z6Wkk,mistake,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dIH705Z6Wkk.mp4,True,98,train,3119545107,L20_SUPERVISED_TRAIN,False
+sn0j9u42p5Q,mistake,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/sn0j9u42p5Q.mp4,True,98,train,3119545107,L20_SUPERVISED_TRAIN,False
+CH_cyrmtUd0_1,mixer,6.0,machine,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CH_cyrmtUd0_1.mp4,True,99,train,1948717770,L20_SUPERVISED_TRAIN,False
+KEa28LtX2W4_1,mixer,7.0,machine,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KEa28LtX2W4_1.mp4,True,99,train,1948717770,L20_SUPERVISED_TRAIN,False
+xxTBbeG-pKY_1,mixer,7.0,machine,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xxTBbeG-pKY_1.mp4,True,99,train,1948717770,L20_SUPERVISED_TRAIN,False
+0q7mwfrGneM_1,monday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0q7mwfrGneM_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+R1jaD2vHFNY_1,monday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/R1jaD2vHFNY_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+SULzv6BHjHs_1,monday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SULzv6BHjHs_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+UK-aS_5scz4_1,monday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UK-aS_5scz4_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+UXoDCHd7VuQ_1,monday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UXoDCHd7VuQ_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+VhiPxEZMhus_1,monday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VhiPxEZMhus_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+fwjl-PITW-A_1,monday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fwjl-PITW-A_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+qjgThWSsOVk_1,monday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qjgThWSsOVk_1.mp4,True,100,train,1506917852,L20_SUPERVISED_TRAIN,False
+8gs46_Woylk_1,monkey,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8gs46_Woylk_1.mp4,True,101,train,2375648835,L20_SUPERVISED_TRAIN,False
+hR03PpsD4O8_1,monkey,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hR03PpsD4O8_1.mp4,True,101,train,2375648835,L20_SUPERVISED_TRAIN,False
+s67I8VUigAU,monkey,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/s67I8VUigAU.mp4,True,101,train,2375648835,L20_SUPERVISED_TRAIN,False
+9ZFVsuD_DOA_1,month,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9ZFVsuD_DOA_1.mp4,True,102,train,1812487090,L20_SUPERVISED_TRAIN,False
+Lngoh_uQHzw_1,month,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Lngoh_uQHzw_1.mp4,True,102,train,1812487090,L20_SUPERVISED_TRAIN,False
+aO7Pmus6yEE,month,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aO7Pmus6yEE.mp4,True,102,train,1812487090,L20_SUPERVISED_TRAIN,False
+y6xu7EyX0yU_1,month,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/y6xu7EyX0yU_1.mp4,True,102,train,1812487090,L20_SUPERVISED_TRAIN,False
+CcsJ-D4YAMI_1,morning,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CcsJ-D4YAMI_1.mp4,True,103,train,3469750197,L20_SUPERVISED_TRAIN,False
+bRAauK4qEf0_1,morning,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bRAauK4qEf0_1.mp4,True,103,train,3469750197,L20_SUPERVISED_TRAIN,False
+e0d5YxnIU3Y_1,morning,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/e0d5YxnIU3Y_1.mp4,True,103,train,3469750197,L20_SUPERVISED_TRAIN,False
+0t5NaJwemgI_1,mother,9.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0t5NaJwemgI_1.mp4,True,104,train,206196969,L20_SUPERVISED_TRAIN,False
+Kxj8mG2kNCc,mother,3.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Kxj8mG2kNCc.mp4,True,104,train,206196969,L20_SUPERVISED_TRAIN,False
+VqekGul5Xb0_1,mother,9.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VqekGul5Xb0_1.mp4,True,104,train,206196969,L20_SUPERVISED_TRAIN,False
+YwR00ZeFcQY_1,mother,8.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YwR00ZeFcQY_1.mp4,True,104,train,206196969,L20_SUPERVISED_TRAIN,False
+m7cfsP8_omM_1,mother,8.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m7cfsP8_omM_1.mp4,True,104,train,206196969,L20_SUPERVISED_TRAIN,False
+3I1fwIgGXv8,name,3.0,language,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3I1fwIgGXv8.mp4,True,105,train,3477770953,L20_SUPERVISED_TRAIN,False
+GIoPLi8lba4,name,5.0,language,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/GIoPLi8lba4.mp4,True,105,train,3477770953,L20_SUPERVISED_TRAIN,False
+ZlECIvK4NRU,name,4.0,language,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZlECIvK4NRU.mp4,True,105,train,3477770953,L20_SUPERVISED_TRAIN,False
+dl6mqYVOS18_1,name,8.0,language,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dl6mqYVOS18_1.mp4,True,105,train,3477770953,L20_SUPERVISED_TRAIN,False
+j-e06h5DMW4,name,3.0,language,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/j-e06h5DMW4.mp4,True,105,train,3477770953,L20_SUPERVISED_TRAIN,False
+FXDVdq4xfbw_1,nervous,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FXDVdq4xfbw_1.mp4,True,106,train,242584571,L20_SUPERVISED_TRAIN,False
+osLBI6ox7EE,nervous,4.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/osLBI6ox7EE.mp4,True,106,train,242584571,L20_SUPERVISED_TRAIN,False
+yT93i9RcLFk,nervous,5.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yT93i9RcLFk.mp4,True,106,train,242584571,L20_SUPERVISED_TRAIN,False
+X2PsOJ4GaNY,next,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/X2PsOJ4GaNY.mp4,True,107,train,131432470,L20_SUPERVISED_TRAIN,False
+_rguUTHtPkg,next,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_rguUTHtPkg.mp4,True,107,train,131432470,L20_SUPERVISED_TRAIN,False
+m4UTGWK32d4,next,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m4UTGWK32d4.mp4,True,107,train,131432470,L20_SUPERVISED_TRAIN,False
+0vx6xWIEP_0_1,night,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0vx6xWIEP_0_1.mp4,True,108,train,3299619567,L20_SUPERVISED_TRAIN,False
+3nnG7x_qkck_1,night,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3nnG7x_qkck_1.mp4,True,108,train,3299619567,L20_SUPERVISED_TRAIN,False
+rayOhAZhd2k,night,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rayOhAZhd2k.mp4,True,108,train,3299619567,L20_SUPERVISED_TRAIN,False
+3Azhh428me8,october,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3Azhh428me8.mp4,True,109,train,2086236635,L20_SUPERVISED_TRAIN,False
+FSKTNkpTx5Q_1,october,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FSKTNkpTx5Q_1.mp4,True,109,train,2086236635,L20_SUPERVISED_TRAIN,False
+U7Y3GocRUak_1,october,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/U7Y3GocRUak_1.mp4,True,109,train,2086236635,L20_SUPERVISED_TRAIN,False
+WegWM9MfmYo,official,6.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WegWM9MfmYo.mp4,True,110,train,2812825056,L20_SUPERVISED_TRAIN,False
+ZAXYZbQjJd8,official,3.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZAXYZbQjJd8.mp4,True,110,train,2812825056,L20_SUPERVISED_TRAIN,False
+cuouiP_uipw_1,official,6.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cuouiP_uipw_1.mp4,True,110,train,2812825056,L20_SUPERVISED_TRAIN,False
+g8--b-O60kM,old,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/g8--b-O60kM.mp4,True,111,train,1666740408,L20_SUPERVISED_TRAIN,False
+k2aBFQ5mXrE_1,old,6.0,human,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/k2aBFQ5mXrE_1.mp4,True,111,train,1666740408,L20_SUPERVISED_TRAIN,False
+z-gika19BqU,old,4.0,human,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z-gika19BqU.mp4,True,111,train,1666740408,L20_SUPERVISED_TRAIN,False
+4TXbOxz60R4,online,6.0,internet,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4TXbOxz60R4.mp4,True,112,train,3395577498,L20_SUPERVISED_TRAIN,False
+bv9giU_G_Mc,online,6.0,internet,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bv9giU_G_Mc.mp4,True,112,train,3395577498,L20_SUPERVISED_TRAIN,False
+t1ElZ8Bbzyg,online,6.0,internet,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/t1ElZ8Bbzyg.mp4,True,112,train,3395577498,L20_SUPERVISED_TRAIN,False
+DlyWuMwYeVc_2,orange,12.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DlyWuMwYeVc_2.mp4,True,113,train,37241005,L20_SUPERVISED_TRAIN,False
+MMrUJwt_8oQ,orange,4.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MMrUJwt_8oQ.mp4,True,113,train,37241005,L20_SUPERVISED_TRAIN,False
+cPzYNzLFQo0_1,orange,7.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cPzYNzLFQo0_1.mp4,True,113,train,37241005,L20_SUPERVISED_TRAIN,False
+JIm7aysFevs_1,order,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JIm7aysFevs_1.mp4,True,114,train,360861203,L20_SUPERVISED_TRAIN,False
+_Zqd_PC4zYs,order,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_Zqd_PC4zYs.mp4,True,114,train,360861203,L20_SUPERVISED_TRAIN,False
+d_0HZMA0Ml0,order,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/d_0HZMA0Ml0.mp4,True,114,train,360861203,L20_SUPERVISED_TRAIN,False
+B71wV1k7n4M,pain,4.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/B71wV1k7n4M.mp4,True,115,train,1058181209,L20_SUPERVISED_TRAIN,False
+BaXoF_r5D4w,pain,3.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BaXoF_r5D4w.mp4,True,115,train,1058181209,L20_SUPERVISED_TRAIN,False
+fggt2fOzJsk_1,pain,7.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fggt2fOzJsk_1.mp4,True,115,train,1058181209,L20_SUPERVISED_TRAIN,False
+Q5uGiH8-uQk_1,paint,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Q5uGiH8-uQk_1.mp4,True,116,train,2940197216,L20_SUPERVISED_TRAIN,False
+YHd3THK5M-w,paint,6.0,computer,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YHd3THK5M-w.mp4,True,116,train,2940197216,L20_SUPERVISED_TRAIN,False
+fAujasBRvD4,paint,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fAujasBRvD4.mp4,True,116,train,2940197216,L20_SUPERVISED_TRAIN,False
+8O-mQYCFWoA,pakistan,4.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8O-mQYCFWoA.mp4,True,117,train,4042311546,L20_SUPERVISED_TRAIN,False
+Nfxj5lRpg2o_1,pakistan,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Nfxj5lRpg2o_1.mp4,True,117,train,4042311546,L20_SUPERVISED_TRAIN,False
+oNnwv2EUUOQ,pakistan,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oNnwv2EUUOQ.mp4,True,117,train,4042311546,L20_SUPERVISED_TRAIN,False
+Fu6JYe2kAkg_1,pass,9.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Fu6JYe2kAkg_1.mp4,True,118,train,3258877557,L20_SUPERVISED_TRAIN,False
+YtiMW5yuGp0,pass,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YtiMW5yuGp0.mp4,True,118,train,3258877557,L20_SUPERVISED_TRAIN,False
+qpeSv7MX-z0_1,pass,7.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qpeSv7MX-z0_1.mp4,True,118,train,3258877557,L20_SUPERVISED_TRAIN,False
+5dPJr4Pent8,peacock,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5dPJr4Pent8.mp4,True,119,train,4154301206,L20_SUPERVISED_TRAIN,False
+mnZrhrQqNQk,peacock,4.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/mnZrhrQqNQk.mp4,True,119,train,4154301206,L20_SUPERVISED_TRAIN,False
+setzKjXP4MM_1,peacock,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/setzKjXP4MM_1.mp4,True,119,train,4154301206,L20_SUPERVISED_TRAIN,False
+dJtS0RP9YyM_1,pen,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dJtS0RP9YyM_1.mp4,True,120,train,1146187351,L20_SUPERVISED_TRAIN,False
+m7zujfKvM9Y,pen,4.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m7zujfKvM9Y.mp4,True,120,train,1146187351,L20_SUPERVISED_TRAIN,False
+w88o1TXwwJg_1,pen,6.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/w88o1TXwwJg_1.mp4,True,120,train,1146187351,L20_SUPERVISED_TRAIN,False
+0p_iET-2TRw,pencil,4.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0p_iET-2TRw.mp4,True,121,train,2642559054,L20_SUPERVISED_TRAIN,False
+EbmFC4EitxU,pencil,3.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EbmFC4EitxU.mp4,True,121,train,2642559054,L20_SUPERVISED_TRAIN,False
+GQaw-x-oXM0,pencil,4.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/GQaw-x-oXM0.mp4,True,121,train,2642559054,L20_SUPERVISED_TRAIN,False
+gzjPlKC1r-w_1,pencil,6.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/gzjPlKC1r-w_1.mp4,True,121,train,2642559054,L20_SUPERVISED_TRAIN,False
+z1VPeFV_ew4,pencil,3.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z1VPeFV_ew4.mp4,True,121,train,2642559054,L20_SUPERVISED_TRAIN,False
+2vfL9h_KiJE_1,peon,7.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2vfL9h_KiJE_1.mp4,True,122,train,2031114487,L20_SUPERVISED_TRAIN,False
+EQpjjm6rZTw,peon,11.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EQpjjm6rZTw.mp4,True,122,train,2031114487,L20_SUPERVISED_TRAIN,False
+pmZTgjnADhQ,peon,6.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pmZTgjnADhQ.mp4,True,122,train,2031114487,L20_SUPERVISED_TRAIN,False
+2dd7JFwQPh0,permanent,4.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2dd7JFwQPh0.mp4,True,123,train,1991923518,L20_SUPERVISED_TRAIN,False
+6MpvtbLWDbo,permanent,5.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6MpvtbLWDbo.mp4,True,123,train,1991923518,L20_SUPERVISED_TRAIN,False
+dkEWduuC67E_1,permanent,6.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dkEWduuC67E_1.mp4,True,123,train,1991923518,L20_SUPERVISED_TRAIN,False
+-8CjLUfRlbw_1,pig,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-8CjLUfRlbw_1.mp4,True,124,train,2209216420,L20_SUPERVISED_TRAIN,False
+NWx2vBB9F7g_1,pig,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NWx2vBB9F7g_1.mp4,True,124,train,2209216420,L20_SUPERVISED_TRAIN,False
+u3NRv46oJVQ_1,pig,7.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/u3NRv46oJVQ_1.mp4,True,124,train,2209216420,L20_SUPERVISED_TRAIN,False
+BzgPNh4W3GI_1,pillow,9.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BzgPNh4W3GI_1.mp4,True,125,train,2093955149,L20_SUPERVISED_TRAIN,False
+VaXddHdk-K0_1,pillow,8.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VaXddHdk-K0_1.mp4,True,125,train,2093955149,L20_SUPERVISED_TRAIN,False
+hdedMoAlUx0,pillow,9.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hdedMoAlUx0.mp4,True,125,train,2093955149,L20_SUPERVISED_TRAIN,False
+E7okhzFRINQ_1,plate,7.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/E7okhzFRINQ_1.mp4,True,126,train,812504607,L20_SUPERVISED_TRAIN,False
+Jn9jwPcSKag,plate,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Jn9jwPcSKag.mp4,True,126,train,812504607,L20_SUPERVISED_TRAIN,False
+g3I84gVyO9E,plate,5.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/g3I84gVyO9E.mp4,True,126,train,812504607,L20_SUPERVISED_TRAIN,False
+XpYDSeC0hTA_1,poision,5.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/XpYDSeC0hTA_1.mp4,True,127,train,3471910416,L20_SUPERVISED_TRAIN,False
+ZhM0Ej44-3A_1,poision,6.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZhM0Ej44-3A_1.mp4,True,127,train,3471910416,L20_SUPERVISED_TRAIN,False
+evfYXabdfZQ_1,poision,5.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/evfYXabdfZQ_1.mp4,True,127,train,3471910416,L20_SUPERVISED_TRAIN,False
+46-lhzhJf78,praise,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/46-lhzhJf78.mp4,True,128,train,3604715143,L20_SUPERVISED_TRAIN,False
+N0OMPBVVK3o,praise,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/N0OMPBVVK3o.mp4,True,128,train,3604715143,L20_SUPERVISED_TRAIN,False
+PI6SVXN35Rg,praise,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PI6SVXN35Rg.mp4,True,128,train,3604715143,L20_SUPERVISED_TRAIN,False
+LmFIEd0Ejq8,process,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LmFIEd0Ejq8.mp4,True,129,train,3848370339,L20_SUPERVISED_TRAIN,False
+N51UnxHrRZg,process,4.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/N51UnxHrRZg.mp4,True,129,train,3848370339,L20_SUPERVISED_TRAIN,False
+QM3TDqfMMWY_1,process,6.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QM3TDqfMMWY_1.mp4,True,129,train,3848370339,L20_SUPERVISED_TRAIN,False
+J0vgYiSZ0Zk_1,profit,7.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/J0vgYiSZ0Zk_1.mp4,True,130,train,1010132179,L20_SUPERVISED_TRAIN,False
+SnUlY4XhAG0,profit,5.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SnUlY4XhAG0.mp4,True,130,train,1010132179,L20_SUPERVISED_TRAIN,False
+cfZzelNoOtA,profit,4.0,banking,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cfZzelNoOtA.mp4,True,130,train,1010132179,L20_SUPERVISED_TRAIN,False
+ZAVbHxqvcZM,projector,4.0,instrument,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZAVbHxqvcZM.mp4,True,131,train,1566508533,L20_SUPERVISED_TRAIN,False
+mty6yED1PpI_2,projector,7.0,instrument,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/mty6yED1PpI_2.mp4,True,131,train,1566508533,L20_SUPERVISED_TRAIN,False
+qmOaTqw3WQY,projector,4.0,instrument,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qmOaTqw3WQY.mp4,True,131,train,1566508533,L20_SUPERVISED_TRAIN,False
+aJvkIV-8Q9A,promise,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aJvkIV-8Q9A.mp4,True,132,train,866545415,L20_SUPERVISED_TRAIN,False
+kXVms85vYqo_1,promise,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kXVms85vYqo_1.mp4,True,132,train,866545415,L20_SUPERVISED_TRAIN,False
+suvKXxPyaWM_1,promise,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/suvKXxPyaWM_1.mp4,True,132,train,866545415,L20_SUPERVISED_TRAIN,False
+0NUyw07V03g,promotion,4.0,organisation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0NUyw07V03g.mp4,True,133,train,2230307672,L20_SUPERVISED_TRAIN,False
+R0JV03iiFtU,promotion,6.0,organisation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/R0JV03iiFtU.mp4,True,133,train,2230307672,L20_SUPERVISED_TRAIN,False
+giANZjR3m2c_1,promotion,9.0,organisation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/giANZjR3m2c_1.mp4,True,133,train,2230307672,L20_SUPERVISED_TRAIN,False
+0F7sYNf4uxU,put,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0F7sYNf4uxU.mp4,True,134,train,613727899,L20_SUPERVISED_TRAIN,False
+NiIyd5WjjFg,put,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NiIyd5WjjFg.mp4,True,134,train,613727899,L20_SUPERVISED_TRAIN,False
+jvqLDP06WII,put,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jvqLDP06WII.mp4,True,134,train,613727899,L20_SUPERVISED_TRAIN,False
+QlEKJLgEWMg,quantity,4.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QlEKJLgEWMg.mp4,True,135,train,4086740231,L20_SUPERVISED_TRAIN,False
+_mRzTYgtxCU_1,quantity,7.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_mRzTYgtxCU_1.mp4,True,135,train,4086740231,L20_SUPERVISED_TRAIN,False
+aTk3A6yTmIA_2,quantity,8.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aTk3A6yTmIA_2.mp4,True,135,train,4086740231,L20_SUPERVISED_TRAIN,False
+7Fi1Cawh4YY_2,radio,7.0,electronic and electrical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7Fi1Cawh4YY_2.mp4,True,136,train,4089014284,L20_SUPERVISED_TRAIN,False
+SYrln3Ug1Lk,radio,5.0,electronic and electrical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SYrln3Ug1Lk.mp4,True,136,train,4089014284,L20_SUPERVISED_TRAIN,False
+_BPtLQumNF4_1,radio,7.0,electronic and electrical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_BPtLQumNF4_1.mp4,True,136,train,4089014284,L20_SUPERVISED_TRAIN,False
+L77Jvnk92gI,reception,14.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/L77Jvnk92gI.mp4,True,137,train,1959037804,L20_SUPERVISED_TRAIN,False
+Xr1SEUip10E,reception,5.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Xr1SEUip10E.mp4,True,137,train,1959037804,L20_SUPERVISED_TRAIN,False
+xXykGIC9Yfg,reception,4.0,behavior,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xXykGIC9Yfg.mp4,True,137,train,1959037804,L20_SUPERVISED_TRAIN,False
+eoYHSxd5nWY,record,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eoYHSxd5nWY.mp4,True,138,train,2084521550,L20_SUPERVISED_TRAIN,False
+pYCXAIysO5Y,record,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pYCXAIysO5Y.mp4,True,138,train,2084521550,L20_SUPERVISED_TRAIN,False
+z89wqxyMu6s_2,record,9.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z89wqxyMu6s_2.mp4,True,138,train,2084521550,L20_SUPERVISED_TRAIN,False
+8NqmODtSLgI_2,red,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8NqmODtSLgI_2.mp4,True,139,train,1217354806,L20_SUPERVISED_TRAIN,False
+KG_OHYYtnoQ_1,red,10.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KG_OHYYtnoQ_1.mp4,True,139,train,1217354806,L20_SUPERVISED_TRAIN,False
+u5PdOyHh8Yg,red,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/u5PdOyHh8Yg.mp4,True,139,train,1217354806,L20_SUPERVISED_TRAIN,False
+aTbpGKnMdv8,reduce,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aTbpGKnMdv8.mp4,True,140,train,1692061298,L20_SUPERVISED_TRAIN,False
+j3DMG50QBRw_1,reduce,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/j3DMG50QBRw_1.mp4,True,140,train,1692061298,L20_SUPERVISED_TRAIN,False
+sIRKe3QdsJ8,reduce,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/sIRKe3QdsJ8.mp4,True,140,train,1692061298,L20_SUPERVISED_TRAIN,False
+FlaNoLJsw-s,remove,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FlaNoLJsw-s.mp4,True,141,train,3576053632,L20_SUPERVISED_TRAIN,False
+PsdIuGsFt9c_1,remove,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PsdIuGsFt9c_1.mp4,True,141,train,3576053632,L20_SUPERVISED_TRAIN,False
+qu0RevE96ac,remove,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qu0RevE96ac.mp4,True,141,train,3576053632,L20_SUPERVISED_TRAIN,False
+4JPQ0EUdcbg,repair,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4JPQ0EUdcbg.mp4,True,142,train,694879075,L20_SUPERVISED_TRAIN,False
+aMQeupEDGOw_1,repair,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aMQeupEDGOw_1.mp4,True,142,train,694879075,L20_SUPERVISED_TRAIN,False
+kionVevx1ns,repair,11.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kionVevx1ns.mp4,True,142,train,694879075,L20_SUPERVISED_TRAIN,False
+6_vArDwgWLI_1,reservation,7.0,group,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6_vArDwgWLI_1.mp4,True,143,train,4115537427,L20_SUPERVISED_TRAIN,False
+GWn73nB7NsA,reservation,5.0,group,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/GWn73nB7NsA.mp4,True,143,train,4115537427,L20_SUPERVISED_TRAIN,False
+YhVonZ8wM4s,reservation,5.0,group,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YhVonZ8wM4s.mp4,True,143,train,4115537427,L20_SUPERVISED_TRAIN,False
+h5N2nXbDBm0,reservation,5.0,group,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/h5N2nXbDBm0.mp4,True,143,train,4115537427,L20_SUPERVISED_TRAIN,False
+dRhS2U_Bl5w_1,result,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dRhS2U_Bl5w_1.mp4,True,144,train,1152091934,L20_SUPERVISED_TRAIN,False
+eCHra4gvq2A,result,3.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eCHra4gvq2A.mp4,True,144,train,1152091934,L20_SUPERVISED_TRAIN,False
+hpY4EHeLGz0,result,3.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hpY4EHeLGz0.mp4,True,144,train,1152091934,L20_SUPERVISED_TRAIN,False
+T5JAHMxSu2w_1,right,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/T5JAHMxSu2w_1.mp4,True,145,train,768562621,L20_SUPERVISED_TRAIN,False
+VC_lTWT1HXU,right,4.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VC_lTWT1HXU.mp4,True,145,train,768562621,L20_SUPERVISED_TRAIN,False
+ruGnpxVL54k_1,right,6.0,spatial position,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ruGnpxVL54k_1.mp4,True,145,train,768562621,L20_SUPERVISED_TRAIN,False
+Mhwfin8V4sQ_1,round,9.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Mhwfin8V4sQ_1.mp4,True,146,train,521036006,L20_SUPERVISED_TRAIN,False
+QQJQeK3IU4o_2,round,13.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QQJQeK3IU4o_2.mp4,True,146,train,521036006,L20_SUPERVISED_TRAIN,False
+uu9Qo9_Mbh4_1,round,9.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/uu9Qo9_Mbh4_1.mp4,True,146,train,521036006,L20_SUPERVISED_TRAIN,False
+5GbIspbaNZA_2,rubber,9.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5GbIspbaNZA_2.mp4,True,147,train,2827756535,L20_SUPERVISED_TRAIN,False
+TwRRZw_m1Po_1,rubber,7.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TwRRZw_m1Po_1.mp4,True,147,train,2827756535,L20_SUPERVISED_TRAIN,False
+wWlOXeR9qnc_1,rubber,7.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wWlOXeR9qnc_1.mp4,True,147,train,2827756535,L20_SUPERVISED_TRAIN,False
+z4D6TU11HbE,rubber,4.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z4D6TU11HbE.mp4,True,147,train,2827756535,L20_SUPERVISED_TRAIN,False
+UWzrvtCcWDA,run,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UWzrvtCcWDA.mp4,True,148,train,621055530,L20_SUPERVISED_TRAIN,False
+wDXqSeOQQy4_1,run,8.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wDXqSeOQQy4_1.mp4,True,148,train,621055530,L20_SUPERVISED_TRAIN,False
+zI_8os97Bkc_1,run,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zI_8os97Bkc_1.mp4,True,148,train,621055530,L20_SUPERVISED_TRAIN,False
+6T7sRjrH2hU,same,4.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6T7sRjrH2hU.mp4,True,149,train,1246502252,L20_SUPERVISED_TRAIN,False
+JJamPbb5o_A,same,4.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/JJamPbb5o_A.mp4,True,149,train,1246502252,L20_SUPERVISED_TRAIN,False
+bL8PcxnwN74,same,4.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bL8PcxnwN74.mp4,True,149,train,1246502252,L20_SUPERVISED_TRAIN,False
+DzL4k1Vy3gc,sandwich,4.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DzL4k1Vy3gc.mp4,True,150,train,3494107929,L20_SUPERVISED_TRAIN,False
+rn-sFXA7utE,sandwich,7.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rn-sFXA7utE.mp4,True,150,train,3494107929,L20_SUPERVISED_TRAIN,False
+wgrN2DNXukc,sandwich,5.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wgrN2DNXukc.mp4,True,150,train,3494107929,L20_SUPERVISED_TRAIN,False
+0LXJqXx8dVU,sari,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0LXJqXx8dVU.mp4,True,151,train,5275563,L20_SUPERVISED_TRAIN,False
+W3kbYwydKm4_1,sari,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/W3kbYwydKm4_1.mp4,True,151,train,5275563,L20_SUPERVISED_TRAIN,False
+amhLPtOfjgw_1,sari,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/amhLPtOfjgw_1.mp4,True,151,train,5275563,L20_SUPERVISED_TRAIN,False
+3TSVb2e1zJw_1,saturday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3TSVb2e1zJw_1.mp4,True,152,train,605365173,L20_SUPERVISED_TRAIN,False
+SUBSvmdSrXc_1,saturday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SUBSvmdSrXc_1.mp4,True,152,train,605365173,L20_SUPERVISED_TRAIN,False
+UIZbKwFr9ck_1,saturday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UIZbKwFr9ck_1.mp4,True,152,train,605365173,L20_SUPERVISED_TRAIN,False
+fSdet-nqdsA_1,saturday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fSdet-nqdsA_1.mp4,True,152,train,605365173,L20_SUPERVISED_TRAIN,False
+3NIFg2ExoMs,scratch,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3NIFg2ExoMs.mp4,True,153,train,2800164370,L20_SUPERVISED_TRAIN,False
+U_I4IzFnhdw,scratch,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/U_I4IzFnhdw.mp4,True,153,train,2800164370,L20_SUPERVISED_TRAIN,False
+rY6VvljDcc0,scratch,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rY6VvljDcc0.mp4,True,153,train,2800164370,L20_SUPERVISED_TRAIN,False
+UMGZsGFUVcA_1,see,9.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UMGZsGFUVcA_1.mp4,True,154,train,3582041968,L20_SUPERVISED_TRAIN,False
+WlhFpHM7lYY,see,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WlhFpHM7lYY.mp4,True,154,train,3582041968,L20_SUPERVISED_TRAIN,False
+vnOgaQ_eFNs,see,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vnOgaQ_eFNs.mp4,True,154,train,3582041968,L20_SUPERVISED_TRAIN,False
+DSpymhe73eM_1,seed,7.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DSpymhe73eM_1.mp4,True,155,train,797059225,L20_SUPERVISED_TRAIN,False
+QYkPPw0ePck,seed,7.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QYkPPw0ePck.mp4,True,155,train,797059225,L20_SUPERVISED_TRAIN,False
+bNwhA4fMWCI,seed,5.0,foods and drinks,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bNwhA4fMWCI.mp4,True,155,train,797059225,L20_SUPERVISED_TRAIN,False
+4ZGhwybcIc0,separate,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/4ZGhwybcIc0.mp4,True,156,train,976828726,L20_SUPERVISED_TRAIN,False
+OeV_XZBC3VA_1,separate,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/OeV_XZBC3VA_1.mp4,True,156,train,976828726,L20_SUPERVISED_TRAIN,False
+aQT4jI0jMWc,separate,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aQT4jI0jMWc.mp4,True,156,train,976828726,L20_SUPERVISED_TRAIN,False
+3tFefLfXIn4_1,september,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3tFefLfXIn4_1.mp4,True,157,train,4089018520,L20_SUPERVISED_TRAIN,False
+7Rq6uvvCPd0,september,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7Rq6uvvCPd0.mp4,True,157,train,4089018520,L20_SUPERVISED_TRAIN,False
+MVggQBRCOIw_1,september,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MVggQBRCOIw_1.mp4,True,157,train,4089018520,L20_SUPERVISED_TRAIN,False
+Eakrhy1WezE,share,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Eakrhy1WezE.mp4,True,158,train,2707385212,L20_SUPERVISED_TRAIN,False
+j2M1Yp100ek,share,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/j2M1Yp100ek.mp4,True,158,train,2707385212,L20_SUPERVISED_TRAIN,False
+kvs0joxjS98,share,5.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kvs0joxjS98.mp4,True,158,train,2707385212,L20_SUPERVISED_TRAIN,False
+eWbekocb_go,shawl,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eWbekocb_go.mp4,True,159,train,180714714,L20_SUPERVISED_TRAIN,False
+l3fZdrppyaI,shawl,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/l3fZdrppyaI.mp4,True,159,train,180714714,L20_SUPERVISED_TRAIN,False
+pBeRmN-a5lU,shawl,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pBeRmN-a5lU.mp4,True,159,train,180714714,L20_SUPERVISED_TRAIN,False
+7MBisqj8VbE,sheep,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7MBisqj8VbE.mp4,True,160,train,1502581527,L20_SUPERVISED_TRAIN,False
+9gZg_sd9G88,sheep,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9gZg_sd9G88.mp4,True,160,train,1502581527,L20_SUPERVISED_TRAIN,False
+zi11969STzc_1,sheep,8.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zi11969STzc_1.mp4,True,160,train,1502581527,L20_SUPERVISED_TRAIN,False
+F0Yx7_4Ox0c,shine,4.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/F0Yx7_4Ox0c.mp4,True,161,train,2166282849,L20_SUPERVISED_TRAIN,False
+nOqqumlcVYU_1,shine,6.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nOqqumlcVYU_1.mp4,True,161,train,2166282849,L20_SUPERVISED_TRAIN,False
+u7Nv4whZa_0_1,shine,6.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/u7Nv4whZa_0_1.mp4,True,161,train,2166282849,L20_SUPERVISED_TRAIN,False
+NGJkhj4AWbA_1,sick,6.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NGJkhj4AWbA_1.mp4,True,162,train,1176966220,L20_SUPERVISED_TRAIN,False
+NUKt0kkYSg4,sick,4.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NUKt0kkYSg4.mp4,True,162,train,1176966220,L20_SUPERVISED_TRAIN,False
+oa5xViQgdGc_1,sick,6.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oa5xViQgdGc_1.mp4,True,162,train,1176966220,L20_SUPERVISED_TRAIN,False
+z_WykkCqulk,sick,4.0,medical,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z_WykkCqulk.mp4,True,162,train,1176966220,L20_SUPERVISED_TRAIN,False
+6EeXmMuxrQc_1,silk,9.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6EeXmMuxrQc_1.mp4,True,163,train,3387079658,L20_SUPERVISED_TRAIN,False
+VEALNsI7Ijg,silk,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VEALNsI7Ijg.mp4,True,163,train,3387079658,L20_SUPERVISED_TRAIN,False
+f4i8gexc2N4_1,silk,8.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/f4i8gexc2N4_1.mp4,True,163,train,3387079658,L20_SUPERVISED_TRAIN,False
+FlB4FQhBm5M,silver,4.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FlB4FQhBm5M.mp4,True,164,train,3713269159,L20_SUPERVISED_TRAIN,False
+Z7IcqSuMStI_1,silver,7.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Z7IcqSuMStI_1.mp4,True,164,train,3713269159,L20_SUPERVISED_TRAIN,False
+e6Mi_ArdxVo,silver,3.0,metal and minerals,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/e6Mi_ArdxVo.mp4,True,164,train,3713269159,L20_SUPERVISED_TRAIN,False
+1tyx9hWefCk,similar,5.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1tyx9hWefCk.mp4,True,165,train,3243086429,L20_SUPERVISED_TRAIN,False
+Unvi9R9Qg8w,similar,4.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Unvi9R9Qg8w.mp4,True,165,train,3243086429,L20_SUPERVISED_TRAIN,False
+ffJgebjRuvo,similar,4.0,comparator,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ffJgebjRuvo.mp4,True,165,train,3243086429,L20_SUPERVISED_TRAIN,False
+2AGfP7x3obk_1,sit,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2AGfP7x3obk_1.mp4,True,166,train,1056491958,L20_SUPERVISED_TRAIN,False
+CEHCaHC8hK0,sit,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CEHCaHC8hK0.mp4,True,166,train,1056491958,L20_SUPERVISED_TRAIN,False
+gz3bQ5GGfUQ,sit,7.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/gz3bQ5GGfUQ.mp4,True,166,train,1056491958,L20_SUPERVISED_TRAIN,False
+HSL4JTtYSXk_2,size,8.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HSL4JTtYSXk_2.mp4,True,167,train,186159780,L20_SUPERVISED_TRAIN,False
+i-pOirIukIg_1,size,9.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/i-pOirIukIg_1.mp4,True,167,train,186159780,L20_SUPERVISED_TRAIN,False
+i4YK5ssItV4,size,5.0,quantity,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/i4YK5ssItV4.mp4,True,167,train,186159780,L20_SUPERVISED_TRAIN,False
+S3pN7MBKPU0,smell,5.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/S3pN7MBKPU0.mp4,True,168,train,3984467055,L20_SUPERVISED_TRAIN,False
+abmY621VQCw_1,smell,7.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/abmY621VQCw_1.mp4,True,168,train,3984467055,L20_SUPERVISED_TRAIN,False
+kCPRwLk0iDk_1,smell,7.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/kCPRwLk0iDk_1.mp4,True,168,train,3984467055,L20_SUPERVISED_TRAIN,False
+ZA9VMWZGtLw_1,socks,7.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZA9VMWZGtLw_1.mp4,True,169,train,1917771814,L20_SUPERVISED_TRAIN,False
+cwDfYuPi02Y_1,socks,6.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/cwDfYuPi02Y_1.mp4,True,169,train,1917771814,L20_SUPERVISED_TRAIN,False
+rJOGOpWkH6U_1,socks,7.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rJOGOpWkH6U_1.mp4,True,169,train,1917771814,L20_SUPERVISED_TRAIN,False
+0sE5EMDNsDo,sorry,3.0,greeting,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/0sE5EMDNsDo.mp4,True,170,train,2185096507,L20_SUPERVISED_TRAIN,False
+KXnSguJGdN8,sorry,4.0,greeting,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KXnSguJGdN8.mp4,True,170,train,2185096507,L20_SUPERVISED_TRAIN,False
+v7LOMsrEiVI_1,sorry,7.0,greeting,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/v7LOMsrEiVI_1.mp4,True,170,train,2185096507,L20_SUPERVISED_TRAIN,False
+7AvSjQ7GV3c_1,sphere,10.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7AvSjQ7GV3c_1.mp4,True,171,train,769498217,L20_SUPERVISED_TRAIN,False
+aFelqRyZOM4,sphere,7.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aFelqRyZOM4.mp4,True,171,train,769498217,L20_SUPERVISED_TRAIN,False
+gJfBm3-gjws_1,sphere,10.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/gJfBm3-gjws_1.mp4,True,171,train,769498217,L20_SUPERVISED_TRAIN,False
+a1Zz3eyS0yE_1,start,6.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/a1Zz3eyS0yE_1.mp4,True,172,train,3876467537,L20_SUPERVISED_TRAIN,False
+akYhM0X2Udc_1,start,5.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/akYhM0X2Udc_1.mp4,True,172,train,3876467537,L20_SUPERVISED_TRAIN,False
+f0EqkYZvyIQ,start,4.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/f0EqkYZvyIQ.mp4,True,172,train,3876467537,L20_SUPERVISED_TRAIN,False
+3XCX0YETmuk_1,sunday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3XCX0YETmuk_1.mp4,True,173,train,1707855536,L20_SUPERVISED_TRAIN,False
+O3SeL_0pvTs_1,sunday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/O3SeL_0pvTs_1.mp4,True,173,train,1707855536,L20_SUPERVISED_TRAIN,False
+dVHZX2-cexY,sunday,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dVHZX2-cexY.mp4,True,173,train,1707855536,L20_SUPERVISED_TRAIN,False
+m_jv0J-ORnQ_1,sunday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m_jv0J-ORnQ_1.mp4,True,173,train,1707855536,L20_SUPERVISED_TRAIN,False
+nZQgs84-71M_1,sunday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/nZQgs84-71M_1.mp4,True,173,train,1707855536,L20_SUPERVISED_TRAIN,False
+IO-b4Lt249Y,suspect,5.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IO-b4Lt249Y.mp4,True,174,train,3495802525,L20_SUPERVISED_TRAIN,False
+UxfnLulLdVQ,suspect,12.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UxfnLulLdVQ.mp4,True,174,train,3495802525,L20_SUPERVISED_TRAIN,False
+XYVygMJqlTQ,suspect,6.0,legal,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/XYVygMJqlTQ.mp4,True,174,train,3495802525,L20_SUPERVISED_TRAIN,False
+Ncynk9HDp3c_1,swallow,9.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ncynk9HDp3c_1.mp4,True,175,train,1450554481,L20_SUPERVISED_TRAIN,False
+SEVkZ5qhIC0_1,swallow,7.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SEVkZ5qhIC0_1.mp4,True,175,train,1450554481,L20_SUPERVISED_TRAIN,False
+xEp-ufgrq-g,swallow,7.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xEp-ufgrq-g.mp4,True,175,train,1450554481,L20_SUPERVISED_TRAIN,False
+3S1RLtVj7PE,sweater,4.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3S1RLtVj7PE.mp4,True,176,train,2680409989,L20_SUPERVISED_TRAIN,False
+_VEDOuAOkwY_1,sweater,7.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_VEDOuAOkwY_1.mp4,True,176,train,2680409989,L20_SUPERVISED_TRAIN,False
+e7lQ3oflGyw_1,sweater,7.0,wearable,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/e7lQ3oflGyw_1.mp4,True,176,train,2680409989,L20_SUPERVISED_TRAIN,False
+63LBwsyLl5s,tall,4.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/63LBwsyLl5s.mp4,True,177,train,4294384819,L20_SUPERVISED_TRAIN,False
+QF_QXmNelLk,tall,4.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/QF_QXmNelLk.mp4,True,177,train,4294384819,L20_SUPERVISED_TRAIN,False
+YF72FhOc8B8_1,tall,6.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YF72FhOc8B8_1.mp4,True,177,train,4294384819,L20_SUPERVISED_TRAIN,False
+2DspG3QZfrU,taste,14.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/2DspG3QZfrU.mp4,True,178,train,2634033746,L20_SUPERVISED_TRAIN,False
+p_jV4LqTBws,taste,5.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/p_jV4LqTBws.mp4,True,178,train,2634033746,L20_SUPERVISED_TRAIN,False
+z6_hXXO4vw8_1,taste,7.0,sensation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/z6_hXXO4vw8_1.mp4,True,178,train,2634033746,L20_SUPERVISED_TRAIN,False
+8iMs1y81En0_1,temperature,7.0,weather,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8iMs1y81En0_1.mp4,True,179,train,2081503912,L20_SUPERVISED_TRAIN,False
+TJeHXGVDCms,temperature,7.0,weather,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TJeHXGVDCms.mp4,True,179,train,2081503912,L20_SUPERVISED_TRAIN,False
+_ok_Ke5qnV8_2,temperature,8.0,weather,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_ok_Ke5qnV8_2.mp4,True,179,train,2081503912,L20_SUPERVISED_TRAIN,False
+-4MbWP5T-cU,thank you,3.0,gesture,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-4MbWP5T-cU.mp4,True,180,train,3228904825,L20_SUPERVISED_TRAIN,False
+IRmlHHtW_Q0_1,thank you,6.0,gesture,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IRmlHHtW_Q0_1.mp4,True,180,train,3228904825,L20_SUPERVISED_TRAIN,False
+W_qFjH-GKzA_1,thank you,7.0,gesture,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/W_qFjH-GKzA_1.mp4,True,180,train,3228904825,L20_SUPERVISED_TRAIN,False
+yY9c0CnaXgA_1,thank you,7.0,gesture,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/yY9c0CnaXgA_1.mp4,True,180,train,3228904825,L20_SUPERVISED_TRAIN,False
+CfRFZ0IFp3Y_2,thermometer,9.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CfRFZ0IFp3Y_2.mp4,True,181,train,3885981541,L20_SUPERVISED_TRAIN,False
+odwu59KYHWk_1,thermometer,7.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/odwu59KYHWk_1.mp4,True,181,train,3885981541,L20_SUPERVISED_TRAIN,False
+p7L6g9YzTVU,thermometer,4.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/p7L6g9YzTVU.mp4,True,181,train,3885981541,L20_SUPERVISED_TRAIN,False
+IuIV6N8k4Ik_1,thursday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/IuIV6N8k4Ik_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+WdZpExRajmQ_1,thursday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WdZpExRajmQ_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+Y6FhOnbO6UI_1,thursday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Y6FhOnbO6UI_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+ZuEwvrlmnyw_1,thursday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZuEwvrlmnyw_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+p8R2zU16-xI_1,thursday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/p8R2zU16-xI_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+sjpTILsokjg_1,thursday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/sjpTILsokjg_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+w3iXbhc5vsM_1,thursday,7.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/w3iXbhc5vsM_1.mp4,True,182,train,680202619,L20_SUPERVISED_TRAIN,False
+9NyNlhJnyng,tortoise,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/9NyNlhJnyng.mp4,True,183,train,3370596499,L20_SUPERVISED_TRAIN,False
+RX34_NaukPo_1,tortoise,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/RX34_NaukPo_1.mp4,True,183,train,3370596499,L20_SUPERVISED_TRAIN,False
+o81WOSZDrs4_1,tortoise,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o81WOSZDrs4_1.mp4,True,183,train,3370596499,L20_SUPERVISED_TRAIN,False
+6ZaYY0vo6pk_1,train,6.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6ZaYY0vo6pk_1.mp4,True,184,train,1233922277,L20_SUPERVISED_TRAIN,False
+X6ZfXYmVdZY,train,4.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/X6ZfXYmVdZY.mp4,True,184,train,1233922277,L20_SUPERVISED_TRAIN,False
+wDy5hBdrwoc,train,4.0,transport,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/wDy5hBdrwoc.mp4,True,184,train,1233922277,L20_SUPERVISED_TRAIN,False
+BEBfzPkE3EY,tree,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/BEBfzPkE3EY.mp4,True,185,train,1163585541,L20_SUPERVISED_TRAIN,False
+Py2RBS-e9Xg,tree,5.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Py2RBS-e9Xg.mp4,True,185,train,1163585541,L20_SUPERVISED_TRAIN,False
+hb8P_6PksSI,tree,6.0,flora and fauna,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hb8P_6PksSI.mp4,True,185,train,1163585541,L20_SUPERVISED_TRAIN,False
+59i-nVlaygI,triangle,3.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/59i-nVlaygI.mp4,True,186,train,2768672756,L20_SUPERVISED_TRAIN,False
+HKlXMGJXHZs,triangle,9.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HKlXMGJXHZs.mp4,True,186,train,2768672756,L20_SUPERVISED_TRAIN,False
+x7Gd1PNDGj4_2,triangle,13.0,math,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/x7Gd1PNDGj4_2.mp4,True,186,train,2768672756,L20_SUPERVISED_TRAIN,False
+C_7MNhDkut4,tripura,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/C_7MNhDkut4.mp4,True,187,train,1954237084,L20_SUPERVISED_TRAIN,False
+LjwZPYHjqds,tripura,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LjwZPYHjqds.mp4,True,187,train,1954237084,L20_SUPERVISED_TRAIN,False
+PKyGYvB0Mf0,tripura,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PKyGYvB0Mf0.mp4,True,187,train,1954237084,L20_SUPERVISED_TRAIN,False
+-cw3ySwZG-0_1,trouble,7.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-cw3ySwZG-0_1.mp4,True,188,train,1904736961,L20_SUPERVISED_TRAIN,False
+MKirgaLINXQ_1,trouble,7.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/MKirgaLINXQ_1.mp4,True,188,train,1904736961,L20_SUPERVISED_TRAIN,False
+lSy4VDcINoY_1,trouble,7.0,stage,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lSy4VDcINoY_1.mp4,True,188,train,1904736961,L20_SUPERVISED_TRAIN,False
+CD7q4E7thng,true,4.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CD7q4E7thng.mp4,True,189,train,4086503788,L20_SUPERVISED_TRAIN,False
+VT9WJZKrys8_1,true,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VT9WJZKrys8_1.mp4,True,189,train,4086503788,L20_SUPERVISED_TRAIN,False
+w-f7sV2B7Tc_1,true,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/w-f7sV2B7Tc_1.mp4,True,189,train,4086503788,L20_SUPERVISED_TRAIN,False
+WBM9qyakPIo_1,trunk,6.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/WBM9qyakPIo_1.mp4,True,190,train,3686428360,L20_SUPERVISED_TRAIN,False
+_MfSh3vAg-8_1,trunk,6.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_MfSh3vAg-8_1.mp4,True,190,train,3686428360,L20_SUPERVISED_TRAIN,False
+gcvA1iHN8RU,trunk,6.0,biology,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/gcvA1iHN8RU.mp4,True,190,train,3686428360,L20_SUPERVISED_TRAIN,False
+LSrto7ULuac,trust,4.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/LSrto7ULuac.mp4,True,191,train,305603991,L20_SUPERVISED_TRAIN,False
+VkHrewA9bJI_1,trust,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/VkHrewA9bJI_1.mp4,True,191,train,305603991,L20_SUPERVISED_TRAIN,False
+pFhX9i2XDVY_1,trust,7.0,emotion,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pFhX9i2XDVY_1.mp4,True,191,train,305603991,L20_SUPERVISED_TRAIN,False
+PK4bvgOLUWs,try,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PK4bvgOLUWs.mp4,True,192,train,2271979651,L20_SUPERVISED_TRAIN,False
+PqOEUuH2gj4,try,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/PqOEUuH2gj4.mp4,True,192,train,2271979651,L20_SUPERVISED_TRAIN,False
+dT4Y_R7jVIE_1,try,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dT4Y_R7jVIE_1.mp4,True,192,train,2271979651,L20_SUPERVISED_TRAIN,False
+FLG6F5h_LiY_1,tuesday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FLG6F5h_LiY_1.mp4,True,193,train,4233714670,L20_SUPERVISED_TRAIN,False
+NC0iEaE7Ba4,tuesday,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NC0iEaE7Ba4.mp4,True,193,train,4233714670,L20_SUPERVISED_TRAIN,False
+UlQ5cTjCqT8_1,tuesday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UlQ5cTjCqT8_1.mp4,True,193,train,4233714670,L20_SUPERVISED_TRAIN,False
+YMsS8QIdWM0,tuesday,3.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YMsS8QIdWM0.mp4,True,193,train,4233714670,L20_SUPERVISED_TRAIN,False
+jrqLjBjjrHA_1,tuesday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jrqLjBjjrHA_1.mp4,True,193,train,4233714670,L20_SUPERVISED_TRAIN,False
+1xTATM3v8k4,umbrella,3.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/1xTATM3v8k4.mp4,True,194,train,3279057601,L20_SUPERVISED_TRAIN,False
+DAgfV9RRVsw_1,umbrella,8.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/DAgfV9RRVsw_1.mp4,True,194,train,3279057601,L20_SUPERVISED_TRAIN,False
+jY2sv02MLIs_1,umbrella,8.0,utility item,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jY2sv02MLIs_1.mp4,True,194,train,3279057601,L20_SUPERVISED_TRAIN,False
+-rahbCV2Pp4,understand,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/-rahbCV2Pp4.mp4,True,195,train,1679796885,L20_SUPERVISED_TRAIN,False
+TmsgikIaXu4,understand,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/TmsgikIaXu4.mp4,True,195,train,1679796885,L20_SUPERVISED_TRAIN,False
+UzpCuTtVV9Y_1,understand,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UzpCuTtVV9Y_1.mp4,True,195,train,1679796885,L20_SUPERVISED_TRAIN,False
+696laBQvzaA_2,volcano,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/696laBQvzaA_2.mp4,True,196,train,3664518672,L20_SUPERVISED_TRAIN,False
+k8MRVadUMt4_1,volcano,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/k8MRVadUMt4_1.mp4,True,196,train,3664518672,L20_SUPERVISED_TRAIN,False
+qriQ0SvqUq0,volcano,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qriQ0SvqUq0.mp4,True,196,train,3664518672,L20_SUPERVISED_TRAIN,False
+5WjkSj17yjE_1,wait,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5WjkSj17yjE_1.mp4,True,197,train,1983866475,L20_SUPERVISED_TRAIN,False
+M24VjuHEfgo,wait,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/M24VjuHEfgo.mp4,True,197,train,1983866475,L20_SUPERVISED_TRAIN,False
+Ukr__1TiaOo_1,wait,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ukr__1TiaOo_1.mp4,True,197,train,1983866475,L20_SUPERVISED_TRAIN,False
+Ika-iBJ4-Ns,wash,4.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ika-iBJ4-Ns.mp4,True,198,train,4135226501,L20_SUPERVISED_TRAIN,False
+Ygj0IRouWKg,wash,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ygj0IRouWKg.mp4,True,198,train,4135226501,L20_SUPERVISED_TRAIN,False
+eZ1NWsWssI0,wash,12.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eZ1NWsWssI0.mp4,True,198,train,4135226501,L20_SUPERVISED_TRAIN,False
+hUlyxPexDU0,wash,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/hUlyxPexDU0.mp4,True,198,train,4135226501,L20_SUPERVISED_TRAIN,False
+CBgYsD9T-uI_1,watch,8.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/CBgYsD9T-uI_1.mp4,True,199,train,2716648003,L20_SUPERVISED_TRAIN,False
+Roh9CQ2tF3Y,watch,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Roh9CQ2tF3Y.mp4,True,199,train,2716648003,L20_SUPERVISED_TRAIN,False
+oBQfG6EUQEM_1,watch,8.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/oBQfG6EUQEM_1.mp4,True,199,train,2716648003,L20_SUPERVISED_TRAIN,False
+5FSC6Og1RBQ_2,water,8.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5FSC6Og1RBQ_2.mp4,True,200,train,1353318883,L20_SUPERVISED_TRAIN,False
+SlORjr0kUM4,water,4.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/SlORjr0kUM4.mp4,True,200,train,1353318883,L20_SUPERVISED_TRAIN,False
+ZanVx78hi-g_1,water,8.0,substance,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ZanVx78hi-g_1.mp4,True,200,train,1353318883,L20_SUPERVISED_TRAIN,False
+HbZjNSy4OHE_1,waterfall,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/HbZjNSy4OHE_1.mp4,True,201,train,2338062821,L20_SUPERVISED_TRAIN,False
+N0Tgyn59Erw_1,waterfall,7.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/N0Tgyn59Erw_1.mp4,True,201,train,2338062821,L20_SUPERVISED_TRAIN,False
+T4-Q9pABqYs,waterfall,5.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/T4-Q9pABqYs.mp4,True,201,train,2338062821,L20_SUPERVISED_TRAIN,False
+E2FirzckC_U_1,weak,7.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/E2FirzckC_U_1.mp4,True,202,train,1481896873,L20_SUPERVISED_TRAIN,False
+KtYQWbd8c2c,weak,3.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/KtYQWbd8c2c.mp4,True,202,train,1481896873,L20_SUPERVISED_TRAIN,False
+Yz6em7jgxK0,weak,4.0,quality,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Yz6em7jgxK0.mp4,True,202,train,1481896873,L20_SUPERVISED_TRAIN,False
+C0UywICFPWw_1,wedding,7.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/C0UywICFPWw_1.mp4,True,203,train,2760735501,L20_SUPERVISED_TRAIN,False
+_rHStCQCPno,wedding,3.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/_rHStCQCPno.mp4,True,203,train,2760735501,L20_SUPERVISED_TRAIN,False
+vSfRkcjelhw_1,wedding,8.0,event,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vSfRkcjelhw_1.mp4,True,203,train,2760735501,L20_SUPERVISED_TRAIN,False
+5Yw2lTDlGnY_1,wednesday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/5Yw2lTDlGnY_1.mp4,True,204,train,3340429214,L20_SUPERVISED_TRAIN,False
+Ni5kmFuBXzI,wednesday,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/Ni5kmFuBXzI.mp4,True,204,train,3340429214,L20_SUPERVISED_TRAIN,False
+rztToJBqL3k_1,wednesday,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/rztToJBqL3k_1.mp4,True,204,train,3340429214,L20_SUPERVISED_TRAIN,False
+vYzp_d3T9Ok_1,wednesday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vYzp_d3T9Ok_1.mp4,True,204,train,3340429214,L20_SUPERVISED_TRAIN,False
+xuOaEQ2bdb0_1,wednesday,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/xuOaEQ2bdb0_1.mp4,True,204,train,3340429214,L20_SUPERVISED_TRAIN,False
+3SRqBpgSrqI_1,week,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3SRqBpgSrqI_1.mp4,True,205,train,1091297707,L20_SUPERVISED_TRAIN,False
+EFuaKRVN4Yw,week,4.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/EFuaKRVN4Yw.mp4,True,205,train,1091297707,L20_SUPERVISED_TRAIN,False
+dggsuMZSGAc_1,week,6.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/dggsuMZSGAc_1.mp4,True,205,train,1091297707,L20_SUPERVISED_TRAIN,False
+zuOOzSoUPcU_1,week,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/zuOOzSoUPcU_1.mp4,True,205,train,1091297707,L20_SUPERVISED_TRAIN,False
+UfA1NhqdyRQ_1,weight,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/UfA1NhqdyRQ_1.mp4,True,206,train,1335570562,L20_SUPERVISED_TRAIN,False
+qjnZDMjWiuk,weight,6.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/qjnZDMjWiuk.mp4,True,206,train,1335570562,L20_SUPERVISED_TRAIN,False
+sJ6Zv0fi1xM,weight,4.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/sJ6Zv0fi1xM.mp4,True,206,train,1335570562,L20_SUPERVISED_TRAIN,False
+fvn1QE0yfPE,welder,5.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/fvn1QE0yfPE.mp4,True,207,train,381844147,L20_SUPERVISED_TRAIN,False
+lY5wzI7a5CE,welder,7.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/lY5wzI7a5CE.mp4,True,207,train,381844147,L20_SUPERVISED_TRAIN,False
+s7U2zrpRFD0,welder,4.0,profession,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/s7U2zrpRFD0.mp4,True,207,train,381844147,L20_SUPERVISED_TRAIN,False
+7bqtiz4KRnE,why,3.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/7bqtiz4KRnE.mp4,True,208,train,3876802892,L20_SUPERVISED_TRAIN,False
+RMFMc1KxwPM_1,why,5.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/RMFMc1KxwPM_1.mp4,True,208,train,3876802892,L20_SUPERVISED_TRAIN,False
+m4fQZijBvjo,why,3.0,abstract,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/m4fQZijBvjo.mp4,True,208,train,3876802892,L20_SUPERVISED_TRAIN,False
+YDCikAndHLU_1,wife,10.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/YDCikAndHLU_1.mp4,True,209,train,2510484179,L20_SUPERVISED_TRAIN,False
+aKd7QTNB4IU_1,wife,9.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/aKd7QTNB4IU_1.mp4,True,209,train,2510484179,L20_SUPERVISED_TRAIN,False
+vEq2LWgecfA_1,wife,9.0,relation,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/vEq2LWgecfA_1.mp4,True,209,train,2510484179,L20_SUPERVISED_TRAIN,False
+3wKsYea6rfs_1,wood,7.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/3wKsYea6rfs_1.mp4,True,210,train,2974744882,L20_SUPERVISED_TRAIN,False
+eO-TvyY-J_o,wood,4.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/eO-TvyY-J_o.mp4,True,210,train,2974744882,L20_SUPERVISED_TRAIN,False
+jD6niHPDzhQ_1,wood,7.0,miscellaneous object,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/jD6niHPDzhQ_1.mp4,True,210,train,2974744882,L20_SUPERVISED_TRAIN,False
+FlZ8Xekr-JA,work,3.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/FlZ8Xekr-JA.mp4,True,211,train,3466758547,L20_SUPERVISED_TRAIN,False
+NMajC62MvaQ_1,work,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NMajC62MvaQ_1.mp4,True,211,train,3466758547,L20_SUPERVISED_TRAIN,False
+bWRmIDKlKo0_1,work,6.0,action,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/bWRmIDKlKo0_1.mp4,True,211,train,3466758547,L20_SUPERVISED_TRAIN,False
+NATVmGM4bpQ_1,year,8.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/NATVmGM4bpQ_1.mp4,True,212,train,1404488022,L20_SUPERVISED_TRAIN,False
+a9th81iiE2M_2,year,9.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/a9th81iiE2M_2.mp4,True,212,train,1404488022,L20_SUPERVISED_TRAIN,False
+o6HO3Gv3-HI_1,year,5.0,time,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/o6HO3Gv3-HI_1.mp4,True,212,train,1404488022,L20_SUPERVISED_TRAIN,False
+6sQeR9LXn-U_2,yellow,9.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/6sQeR9LXn-U_2.mp4,True,213,train,709400160,L20_SUPERVISED_TRAIN,False
+8TXKaIN4emc_1,yellow,8.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/8TXKaIN4emc_1.mp4,True,213,train,709400160,L20_SUPERVISED_TRAIN,False
+V63xT_OqUOw_1,yellow,9.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/V63xT_OqUOw_1.mp4,True,213,train,709400160,L20_SUPERVISED_TRAIN,False
+doW1fga72Kk,yellow,4.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/doW1fga72Kk.mp4,True,213,train,709400160,L20_SUPERVISED_TRAIN,False
+pYNE4dYeRKk_1,yellow,9.0,attribute,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/pYNE4dYeRKk_1.mp4,True,213,train,709400160,L20_SUPERVISED_TRAIN,False
+F9xcw575Q-A,zoo,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/F9xcw575Q-A.mp4,True,214,train,3355013654,L20_SUPERVISED_TRAIN,False
+iuYObHCPlVA_1,zoo,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/iuYObHCPlVA_1.mp4,True,214,train,3355013654,L20_SUPERVISED_TRAIN,False
+ws_qjks_TFo,zoo,6.0,geography,True,True,True,/home/dipshikha/Music/cao/CISLR_v1.5-a_videos/ws_qjks_TFo.mp4,True,214,train,3355013654,L20_SUPERVISED_TRAIN,False

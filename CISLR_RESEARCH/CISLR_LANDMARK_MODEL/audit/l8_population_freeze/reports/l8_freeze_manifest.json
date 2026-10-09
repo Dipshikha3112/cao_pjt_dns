@@ -1,0 +1,22 @@
+{
+    "stage": "L8",
+    "status": "FROZEN",
+    "authoritative_label_source": "/home/dipshikha/Music/cao/dataset.csv",
+    "input_l7_video_audit": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l7_full_dataset_audit/reports/l7_video_level_audit.csv",
+    "input_feature_directory": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l6_full_extraction/features_32x254",
+    "controlled_population": {
+        "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l8_population_freeze/controlled_population/l8_controlled_manifest.csv",
+        "class_mapping": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l8_population_freeze/class_mappings/l8_controlled_class_mapping.json",
+        "minimum_usable_videos": 4,
+        "population_sha256": "8f2aba35871640b47c19c90dcfb6df312f8f8e5d15a1375d1c3517ee455c937a",
+        "mapping_sha256": "07cb67105df7bef86666a0a9bebaa1e165175abf2ee630f3d9835535f9f099fa"
+    },
+    "full_vocabulary_population": {
+        "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l8_population_freeze/full_vocabulary_population/l8_full_vocabulary_manifest.csv",
+        "class_mapping": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l8_population_freeze/class_mappings/l8_full_vocabulary_class_mapping.json",
+        "population_sha256": "48af4c95fca10d4b0210f919abc935fe329461d250c2a6290140ccd60b089fbc",
+        "mapping_sha256": "71c3a2252e63218b2022f3f7b6e0e41094ec4a993291198d1e4bc236888f6b6e"
+    },
+    "split_created": false,
+    "next_stage": "L9_TRAIN_VALIDATION_TEST_SPLIT_FREEZE"
+}

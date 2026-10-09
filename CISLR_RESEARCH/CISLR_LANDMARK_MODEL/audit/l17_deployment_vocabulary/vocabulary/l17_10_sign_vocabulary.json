@@ -1,0 +1,113 @@
+{
+  "stage": "L17",
+  "experiment": "restricted_vocabulary_deployment",
+  "num_classes": 10,
+  "selection_seed": 42,
+  "selection_basis": "Original CISLR support + L9 TRAIN support + L9 TRAIN landmark quality. No L16 per-sample test performance.",
+  "deployment_class_to_gloss": {
+    "0": "monday",
+    "1": "interest",
+    "2": "thursday",
+    "3": "christmas",
+    "4": "pencil",
+    "5": "mother",
+    "6": "tuesday",
+    "7": "friday",
+    "8": "rubber",
+    "9": "wash"
+  },
+  "gloss_to_deployment_class": {
+    "monday": 0,
+    "interest": 1,
+    "thursday": 2,
+    "christmas": 3,
+    "pencil": 4,
+    "mother": 5,
+    "tuesday": 6,
+    "friday": 7,
+    "rubber": 8,
+    "wash": 9
+  },
+  "signs": [
+    {
+      "deployment_class_id": 0,
+      "gloss": "monday",
+      "dataset_total_support": 13,
+      "l9_train_support": 11,
+      "l17_rank": 1,
+      "selection_score": 0.7638935502000873
+    },
+    {
+      "deployment_class_id": 1,
+      "gloss": "interest",
+      "dataset_total_support": 10,
+      "l9_train_support": 8,
+      "l17_rank": 2,
+      "selection_score": 0.6639427253563095
+    },
+    {
+      "deployment_class_id": 2,
+      "gloss": "thursday",
+      "dataset_total_support": 11,
+      "l9_train_support": 9,
+      "l17_rank": 3,
+      "selection_score": 0.6472879524764418
+    },
+    {
+      "deployment_class_id": 3,
+      "gloss": "christmas",
+      "dataset_total_support": 8,
+      "l9_train_support": 6,
+      "l17_rank": 4,
+      "selection_score": 0.5303171622088552
+    },
+    {
+      "deployment_class_id": 4,
+      "gloss": "pencil",
+      "dataset_total_support": 9,
+      "l9_train_support": 7,
+      "l17_rank": 5,
+      "selection_score": 0.5141114481924364
+    },
+    {
+      "deployment_class_id": 5,
+      "gloss": "mother",
+      "dataset_total_support": 8,
+      "l9_train_support": 6,
+      "l17_rank": 6,
+      "selection_score": 0.4859159709632367
+    },
+    {
+      "deployment_class_id": 6,
+      "gloss": "tuesday",
+      "dataset_total_support": 8,
+      "l9_train_support": 6,
+      "l17_rank": 7,
+      "selection_score": 0.4628605900058629
+    },
+    {
+      "deployment_class_id": 7,
+      "gloss": "friday",
+      "dataset_total_support": 9,
+      "l9_train_support": 7,
+      "l17_rank": 8,
+      "selection_score": 0.45798914319079537
+    },
+    {
+      "deployment_class_id": 8,
+      "gloss": "rubber",
+      "dataset_total_support": 7,
+      "l9_train_support": 5,
+      "l17_rank": 9,
+      "selection_score": 0.438140632666114
+    },
+    {
+      "deployment_class_id": 9,
+      "gloss": "wash",
+      "dataset_total_support": 7,
+      "l9_train_support": 5,
+      "l17_rank": 10,
+      "selection_score": 0.42152851207946135
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "stage": "L13B",
+  "status": "PASS",
+  "best_epoch": 33,
+  "validation_top1_percent": 38.86255924170616,
+  "validation_top5_percent": 46.44549763033175,
+  "best_model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l13_multimodal/l13_b_rgb_temporal/models/l13b_best_rgb_temporal.pt",
+  "test_locked": true,
+  "pass_conditions": {
+    "l13a_passed": true,
+    "frozen_train_count": true,
+    "frozen_validation_count": true,
+    "frozen_test_count": true,
+    "zero_split_overlap": true,
+    "frozen_class_mapping": true,
+    "class_ids_0_to_210": true,
+    "all_train_embeddings": true,
+    "all_validation_embeddings": true,
+    "train_cache_valid": true,
+    "validation_cache_valid": true,
+    "finite_validation_top1": true,
+    "finite_validation_top5": true,
+    "best_model_exists": true,
+    "test_not_processed": true,
+    "test_not_evaluated": true
+  },
+  "next_stage": "L13C RGB + skeleton multimodal fusion"
+}

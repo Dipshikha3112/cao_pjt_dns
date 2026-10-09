@@ -1,0 +1,57 @@
+{
+    "stage": "L10.4_CONSERVATIVE_GRU",
+    "status": "COMPLETE",
+    "seed": 42,
+    "representation": {
+        "feature_dim": 314,
+        "layout": "XYZ(126) + velocity_XYZ(126) + bone_lengths(40) + angles(20) + masks(2)"
+    },
+    "model": {
+        "architecture": "GRU",
+        "hidden_size": 256,
+        "dropout": 0.3,
+        "label_smoothing": 0.05,
+        "parameters": 494663
+    },
+    "training": {
+        "best_epoch": 18,
+        "epochs_completed": 43,
+        "training_seconds": 10.376362898000025,
+        "class_weight_temperature": 0.5,
+        "feature_noise_std": 0.003,
+        "mixup": false,
+        "temporal_masking": false,
+        "hand_dropout": false
+    },
+    "validation": {
+        "loss": 5.4311281968067044,
+        "top1": 0.07582938388625593,
+        "top1_percent": 7.5829383886255926,
+        "top5": 0.11848341232227488,
+        "top5_percent": 11.848341232227488
+    },
+    "comparison_to_l10_0": {
+        "baseline_top1_percent": 7.109004739336493,
+        "top1_delta_pp": 0.47393364928910026,
+        "baseline_top5_percent": 13.744075829383887,
+        "top5_delta_pp": -1.8957345971563981
+    },
+    "generalization": {
+        "train_top1_at_best": 0.8307692307692308,
+        "val_top1": 0.07582938388625593,
+        "gap_pp": 75.49398468829749
+    },
+    "preprocessing": {
+        "mean_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_4_conservative_gru/preprocessing/l10_4_train_mean.npy",
+        "mean_sha256": "d9b663f4afca013bc95f5df1f84ece34deb26d1213df72655a0670aae49fabaf",
+        "std_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_4_conservative_gru/preprocessing/l10_4_train_std.npy",
+        "std_sha256": "75fc48e2af59423e53167f7cd69f4a746d6e53b1f4db8e5fd78b000252cd4b5f",
+        "fit_on": "L9_TRAIN_ONLY"
+    },
+    "best_model": {
+        "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_4_conservative_gru/models/l10_4_best_gru.pt",
+        "sha256": "a4e714b23b02b22f5336fa7feaf1958382b06a12ca046bee1a59913a69552ec7"
+    },
+    "test_features_loaded": false,
+    "test_evaluated": false
+}

@@ -1,0 +1,49 @@
+{
+  "stage": "4.4",
+  "version": "v2",
+  "model": "EfficientNet-B0",
+  "dataset": "CISLR v1.5-a",
+  "seed": 42,
+  "num_classes": 4764,
+  "readable_videos": 4417,
+  "represented_classes": 4417,
+  "image_size": 224,
+  "frames_per_video": 8,
+  "epochs": 25,
+  "batch_size": 16,
+  "frame_micro_batch": 4,
+  "backbone_lr": 1e-05,
+  "classifier_lr": 0.0005,
+  "weight_decay": 0.0001,
+  "warmup_epochs": 1,
+  "gradient_clip": 1.0,
+  "amp": true,
+  "aggregation": "mean_frame_logits",
+  "horizontal_flip": false,
+  "augmentation": {
+    "Resize": [
+      224,
+      224
+    ],
+    "RandomAffine": {
+      "degrees": 5,
+      "translate": [
+        0.05,
+        0.05
+      ],
+      "scale": [
+        0.95,
+        1.05
+      ]
+    }
+  },
+  "common_pool": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/stage4_4_common_readable_uid_pool.csv",
+  "frame_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/frame_cache",
+  "cache_source": "cache_path_column_in_frozen_common_pool",
+  "best_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/efficientnet_b0_v2/efficientnet_b0_stage4_4_v2_best.pt",
+  "final_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/efficientnet_b0_v2/efficientnet_b0_stage4_4_v2_final.pt",
+  "comparison_protocol": "same_as_resnet18_and_mobilenet_v3_large_stage4_4_v2",
+  "memory_strategy": "frame_micro_batching",
+  "video_batch_semantics": "unchanged",
+  "mp4_decoding": false
+}

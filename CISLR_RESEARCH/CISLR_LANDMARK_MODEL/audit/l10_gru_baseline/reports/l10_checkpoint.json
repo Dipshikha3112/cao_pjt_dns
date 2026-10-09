@@ -1,0 +1,13 @@
+{
+    "l9_pass_verified": true,
+    "train_only_preprocessing": true,
+    "preprocessing_integrity": true,
+    "train_mask_preserved": true,
+    "validation_mask_preserved": true,
+    "best_model_saved": true,
+    "last_model_saved": true,
+    "validation_metrics_finite": true,
+    "test_features_loaded": false,
+    "test_evaluated": false,
+    "l10_pass": true
+}

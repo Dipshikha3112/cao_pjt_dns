@@ -1,0 +1,38 @@
+{
+  "source_l19_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l19_10class_videomae/models/l19_best_videomae_10class.pt",
+    "sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c"
+  },
+  "frozen_l21_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/model/l21_frozen_deployment_videomae_10class.pt",
+    "sha256": "3a35abe76cdea634490473eaf83c6121e102658362cfbab19410a4949bb8c91c"
+  },
+  "train_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_train_manifest.csv",
+    "sha256": "398fc836cb582392ab8da926c1ce1042701409f713e1229900f715484a21585c"
+  },
+  "validation_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "sha256": "110d791089cb9c42ba6c5f4aa5a36da35cd33dd93961cf2bb2e24a3dc7c60449"
+  },
+  "locked_test_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_LOCKED_test_manifest.csv",
+    "sha256": "fa38a2c60a5adaccc6a7b3d9d9cb2b7a05e4daa36e7d913f76bfe440d7727da6"
+  },
+  "class_mapping": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/config/deployment_class_mapping.csv",
+    "sha256": "d47956deb48a5e9b24c03f13b10a83dc2911bc25750a5552495e2f8f424d69b4"
+  },
+  "vocabulary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/config/deployment_vocabulary.json",
+    "sha256": "4c0131d2040509e838addd84582d6633667fa3ad63f578adb2ebb90bd518024d"
+  },
+  "deployment_config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/config/l21_deployment_config.json",
+    "sha256": "47f66a3c4b75b05ddea77c3abe3af1f549af374d9710015d3502eb670ce9d144"
+  },
+  "class_distribution": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l21_deployment_classifier_freeze/reports/deployment_class_distribution.csv",
+    "sha256": "581fd3d8c041af464310129cb745e1a220e9c38a464f922d64bc85750ba6b7b0"
+  }
+}

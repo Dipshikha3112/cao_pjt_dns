@@ -1,0 +1,26 @@
+{
+  "stage": "L28",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "description": "Real-time temporal stabilization on top of L27 rejection.",
+  "input_pipeline": "OpenVINO palm -> OpenVINO landmarks -> L26C BiGRU -> L27 rejection",
+  "output": "temporally stabilized 10-class sign or NO_SIGN",
+  "stabilization": {
+    "window": 7,
+    "initial_votes": 4,
+    "ratio": 0.55,
+    "change_votes": 5,
+    "release_nosign": 4
+  },
+  "artifacts": {
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l28_temporal_stabilization/config/l28_config.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l28_temporal_stabilization/reports/l28_session_summary.json",
+    "events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l28_temporal_stabilization/reports/l28_stable_events.json"
+  },
+  "integrity": {
+    "locked_test_used": false,
+    "training": false,
+    "retraining": false,
+    "videomae": false,
+    "l29_sentence_generation": false
+  }
+}

@@ -1,0 +1,7 @@
+source,top1,top5,top10,mrr,n,note,uses_tta,uses_whiten,uses_csls
+deterministic_recompute_uniform_mean_pool,0.1212253829321663,0.2262582056892779,0.26958424507658646,0.16714522130566448,2285.0,"Stage 8 recompute from raw feature cache, no TTA/whiten/CSLS",False,False,False
+earlier_official_cislr_final_results.json,0.12735229759299782,0.2236323851203501,0.25995623632385123,0.17015215529428876,,selected_model=None,False,False,False
+recomputed_from_official_cislr_prototype_test_predictions.csv,0.12735229759299782,0.2236323851203501,0.25995623632385123,0.17015215529428876,2285.0,"Mean Pool, no post-processing",False,False,False
+recomputed_from_official_predictions_v5.csv,0.17024070021881837,0.263019693654267,0.29452954048140045,0.21064973118725225,2285.0,Mean Pool + TTA + whiten + z-score fusion (v5),True,True,False
+stage7_2_results.csv_best_row,0.1719912472647702,0.2564551422319475,0.2735229759299781,0.2091005462054773,,mean_pool + TTA + whiten + CSLS,True,True,True
+stage7_1_results.csv_best_row,0.1719912472647702,0.2564551422319475,0.2735229759299781,0.2091005462054773,,mean_pool + TTA + whiten + CSLS,True,True,True

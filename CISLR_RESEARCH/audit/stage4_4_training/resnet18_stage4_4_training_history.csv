@@ -1,0 +1,2 @@
+epoch,train_loss,train_top1,epoch_seconds,skipped_amp_steps,total_batches,best
+1,11.548836305396762,0.0,62.01001524925232,6,277,True

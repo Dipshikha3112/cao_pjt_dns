@@ -1,0 +1,34 @@
+{
+  "stage": "4.4",
+  "model": "ResNet18",
+  "dataset": "CISLR v1.5-a",
+  "seed": 42,
+  "device": "cuda",
+  "num_classes": 4764,
+  "image_size": 224,
+  "frames_per_video": 8,
+  "epochs": 10,
+  "batch_size": 16,
+  "learning_rate": 0.0001,
+  "head_learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "grad_clip_norm": 5.0,
+  "num_workers": 2,
+  "amp": true,
+  "augmentation": {
+    "RandomResizedCrop": {
+      "size": 224,
+      "scale": [
+        0.8,
+        1.0
+      ]
+    },
+    "RandomHorizontalFlip": 0.5
+  },
+  "stage4_2_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_2_protocol/stage4_2_canonical_training_manifest.csv",
+  "common_readable_pool": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/stage4_4_common_readable_uid_pool.csv",
+  "integrity_report": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/stage4_4_video_integrity_report.csv",
+  "frame_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage4_4_training/frame_cache",
+  "best_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/resnet18_stage4_4_best.pt",
+  "final_checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/stage4_4/resnet18_stage4_4_final.pt"
+}

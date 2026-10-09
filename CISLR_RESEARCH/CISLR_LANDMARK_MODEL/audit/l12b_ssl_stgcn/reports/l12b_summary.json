@@ -1,0 +1,67 @@
+{
+  "experiment": "L12B",
+  "description": "Leakage-safe self-supervised ST-GCN pretraining followed by frozen-L9 supervised fine-tuning",
+  "seed": 42,
+  "population": {
+    "l9_train": 585,
+    "l9_validation": 211,
+    "l9_test_locked": 211,
+    "ssl_pretraining_sequences": 6624,
+    "ssl_rejected": 4,
+    "ssl_validation_overlap": 0,
+    "ssl_test_overlap": 0
+  },
+  "representation": {
+    "sequence_length": 32,
+    "nodes": 42,
+    "input_channels": 11,
+    "channels": [
+      "world_x",
+      "world_y",
+      "world_z",
+      "world_velocity_x",
+      "world_velocity_y",
+      "world_velocity_z",
+      "image_x",
+      "image_y",
+      "image_velocity_x",
+      "image_velocity_y",
+      "presence"
+    ],
+    "inter_hand_edge": false
+  },
+  "ssl": {
+    "method": "NT-Xent contrastive learning",
+    "best_epoch": 74,
+    "best_loss": 1.104496145132676,
+    "temperature": 0.2,
+    "projection_dimension": 128,
+    "validation_excluded": true,
+    "test_excluded": true
+  },
+  "finetuning": {
+    "best_epoch": 89,
+    "validation_loss": 4.376151218233515,
+    "validation_top1_percent": 28.436018957345972,
+    "validation_top5_percent": 37.91469194312796,
+    "validation_top1_correct": 60,
+    "validation_top5_correct": 80
+  },
+  "comparison": {
+    "l12a_top1_percent": 18.009479,
+    "l12a_top5_percent": 27.962085,
+    "l12b_minus_l12a_top1_pp": 10.426539957345973,
+    "l12b_minus_l12a_top5_pp": 9.952606943127964
+  },
+  "generalization": {
+    "train_top1_at_selected_epoch": 95.38461538461539,
+    "validation_top1": 28.436018957345972,
+    "gap_pp": 66.94859642726942
+  },
+  "test": {
+    "manifest_verified": true,
+    "raw_sequences_loaded": false,
+    "evaluated": false,
+    "status": "LOCKED"
+  }
+}

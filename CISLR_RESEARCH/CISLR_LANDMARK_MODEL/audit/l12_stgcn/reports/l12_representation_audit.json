@@ -1,0 +1,32 @@
+{
+    "stage": "L12A",
+    "train_samples": 585,
+    "validation_samples": 211,
+    "test_manifest_samples": 211,
+    "test_raw_sequences_loaded": false,
+    "input_channels": 11,
+    "sequence_length": 32,
+    "graph_nodes": 42,
+    "adjacency_partitions": 3,
+    "train_shape": [
+        585,
+        11,
+        32,
+        42
+    ],
+    "validation_shape": [
+        211,
+        11,
+        32,
+        42
+    ],
+    "train_raw_abs_max": 5.741577625274658,
+    "validation_raw_abs_max": 5.703437805175781,
+    "train_normalized_abs_max": 23.18401527404785,
+    "validation_normalized_abs_max": 17.909700393676758,
+    "train_valid_node_fraction": 0.38333332538604736,
+    "validation_valid_node_fraction": 0.40114039182662964,
+    "short_gap_interpolation_max": 3,
+    "finite_train": true,
+    "finite_validation": true
+}

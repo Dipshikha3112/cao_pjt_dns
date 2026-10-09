@@ -1,0 +1,18 @@
+{
+  "frozen_train_count": true,
+  "frozen_validation_count": true,
+  "frozen_test_count": true,
+  "zero_split_overlap": true,
+  "exact_l12b_checkpoint_loaded": true,
+  "exact_l13b_checkpoint_loaded": true,
+  "train_skeleton_features": true,
+  "train_rgb_features": true,
+  "validation_skeleton_features": true,
+  "validation_rgb_features": true,
+  "finite_validation_top1": true,
+  "finite_validation_top5": true,
+  "best_model_exists": true,
+  "test_skeleton_not_extracted": true,
+  "test_rgb_not_loaded": true,
+  "test_not_evaluated": true
+}

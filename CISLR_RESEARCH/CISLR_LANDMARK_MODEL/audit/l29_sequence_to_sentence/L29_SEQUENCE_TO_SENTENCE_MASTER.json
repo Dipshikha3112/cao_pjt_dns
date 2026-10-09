@@ -1,0 +1,23 @@
+{
+  "stage": "L29",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "pipeline": "OpenVINO palm -> OpenVINO landmarks -> L26C trained BiGRU -> L27 NO_SIGN evidence -> temporal sign event decoder -> token sequence",
+  "important_design": {
+    "sign_identity": "comes from trained L26C model",
+    "l27": "used primarily as NO_SIGN/rejection evidence",
+    "duplicate_control": "one token per stabilized sign event; release required before next token"
+  },
+  "artifacts": {
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_sequence_to_sentence/config/l29_config.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_sequence_to_sentence/reports/l29_session_summary.json",
+    "events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_sequence_to_sentence/reports/l29_token_events.json",
+    "sentence": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_sequence_to_sentence/reports/l29_final_sentence.txt"
+  },
+  "integrity": {
+    "locked_test_used": false,
+    "training": false,
+    "retraining": false,
+    "videomae": false,
+    "tts": false
+  }
+}

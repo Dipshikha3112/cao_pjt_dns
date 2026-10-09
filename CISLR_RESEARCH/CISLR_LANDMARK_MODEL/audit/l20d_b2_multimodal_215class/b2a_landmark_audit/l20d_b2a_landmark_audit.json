@@ -1,0 +1,22 @@
+{
+  "experiment": "L20D-B2A",
+  "purpose": "215-class landmark branch audit",
+  "train_expected": 710,
+  "validation_expected": 304,
+  "locked_expected": 10,
+  "classes_expected": 215,
+  "train_landmarks_found": 710,
+  "validation_landmarks_found": 304,
+  "train_landmarks_missing": 0,
+  "validation_landmarks_missing": 0,
+  "train_classes_available": 215,
+  "validation_classes_available": 215,
+  "locked_test_searched": false,
+  "locked_test_loaded": false,
+  "l20c_loaded": false,
+  "b1_modified": false,
+  "expected_feature_shape": [
+    32,
+    254
+  ]
+}

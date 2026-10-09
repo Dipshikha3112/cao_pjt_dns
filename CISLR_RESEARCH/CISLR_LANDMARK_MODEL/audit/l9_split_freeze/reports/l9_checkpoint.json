@@ -1,0 +1,14 @@
+{
+    "l8_pass_verified": true,
+    "population_count_pass": true,
+    "zero_uid_overlap": true,
+    "population_complete": true,
+    "all_classes_in_train": true,
+    "all_classes_in_validation": true,
+    "all_classes_in_test": true,
+    "class_split_rules_pass": true,
+    "feature_integrity_pass": true,
+    "class_mapping_pass": true,
+    "determinism_pass": true,
+    "l9_pass": true
+}

@@ -1,0 +1,251 @@
+{
+  "stage": "5.6",
+  "experiment": "Optimized Hand-ROI Representation",
+  "controlled_population": {
+    "videos": 6627,
+    "frames_per_video": 8,
+    "total_frames": 53016,
+    "prototype_videos": 4417,
+    "test_videos": 2210
+  },
+  "documented_exclusions": [
+    "Xt6ujzVtikU_2"
+  ],
+  "exclusion_reason": "Prescribed Stage 5.3 frame 96 is not decodable by the tested OpenCV and FFmpeg extraction methods despite valid container-level metadata.",
+  "frozen_backbone": {
+    "architecture": "MobileNetV3-Large",
+    "embedding_dimension": 960,
+    "weights": "ImageNet1K_V2",
+    "input_size": "224x224",
+    "fine_tuning": false
+  },
+  "retrieval": {
+    "protocol": "official prototype-to-test",
+    "similarity": "cosine",
+    "test_labels_used_for_tuning": false
+  },
+  "frozen_stage5_5_baseline": {
+    "Top-1": 12.986425339366518,
+    "Top-5": 22.44343891402715,
+    "Recall@10": 25.429864253393664,
+    "MRR": 0.1724047705629779,
+    "Mean Rank": 1625.8909502262443,
+    "Median Rank": 1521.0
+  },
+  "stage5_6_results": [
+    {
+      "Experiment": "FULL FRAME \u2014 Stage 5.5 baseline",
+      "Temporal Pooling": "mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.986425339366518,
+      "Top-5": 22.44343891402715,
+      "Recall@10": 25.429864253393664,
+      "MRR": 0.1724047705629779,
+      "Mean Rank": 1625.8909502262443,
+      "Median Rank": 1521.0
+    },
+    {
+      "Experiment": "Existing Roi",
+      "Temporal Pooling": "mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 10.180995475113122,
+      "Top-5": 18.868778280542987,
+      "Recall@10": 21.764705882352942,
+      "MRR": 0.1407994441962064,
+      "Mean Rank": 1753.4447963800906,
+      "Median Rank": 1718.0
+    },
+    {
+      "Experiment": "Existing Roi",
+      "Temporal Pooling": "max",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.352941176470589,
+      "Top-5": 18.28054298642534,
+      "Recall@10": 20.90497737556561,
+      "MRR": 0.1524394270738781,
+      "Mean Rank": 1668.7909502262444,
+      "Median Rank": 1463.5
+    },
+    {
+      "Experiment": "Existing Roi",
+      "Temporal Pooling": "mean_max",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.39819004524887,
+      "Top-5": 19.366515837104075,
+      "Recall@10": 21.357466063348415,
+      "MRR": 0.1549176410773325,
+      "Mean Rank": 1700.0764705882352,
+      "Median Rank": 1557.5
+    },
+    {
+      "Experiment": "Existing Roi",
+      "Temporal Pooling": "median",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 9.095022624434389,
+      "Top-5": 16.78733031674208,
+      "Recall@10": 21.085972850678733,
+      "MRR": 0.12831613669244976,
+      "Mean Rank": 1752.906334841629,
+      "Median Rank": 1671.5
+    },
+    {
+      "Experiment": "Tight Roi",
+      "Temporal Pooling": "mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 10.361990950226245,
+      "Top-5": 19.185520361990953,
+      "Recall@10": 21.900452488687783,
+      "MRR": 0.14336552120217758,
+      "Mean Rank": 1753.5683257918552,
+      "Median Rank": 1667.5
+    },
+    {
+      "Experiment": "Tight Roi",
+      "Temporal Pooling": "max",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.805429864253393,
+      "Top-5": 17.963800904977376,
+      "Recall@10": 20.633484162895925,
+      "MRR": 0.15431464739180967,
+      "Mean Rank": 1680.775113122172,
+      "Median Rank": 1462.0
+    },
+    {
+      "Experiment": "Tight Roi",
+      "Temporal Pooling": "mean_max",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.624434389140271,
+      "Top-5": 19.185520361990953,
+      "Recall@10": 21.447963800904976,
+      "MRR": 0.15663008691780916,
+      "Mean Rank": 1706.025339366516,
+      "Median Rank": 1548.0
+    },
+    {
+      "Experiment": "Tight Roi",
+      "Temporal Pooling": "median",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 9.366515837104073,
+      "Top-5": 17.149321266968325,
+      "Recall@10": 21.266968325791854,
+      "MRR": 0.13127027681034537,
+      "Mean Rank": 1758.1506787330318,
+      "Median Rank": 1648.0
+    },
+    {
+      "Experiment": "Padded Roi",
+      "Temporal Pooling": "mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 9.864253393665159,
+      "Top-5": 18.416289592760183,
+      "Recall@10": 22.126696832579185,
+      "MRR": 0.13803129925473462,
+      "Mean Rank": 1738.466515837104,
+      "Median Rank": 1633.0
+    },
+    {
+      "Experiment": "Padded Roi",
+      "Temporal Pooling": "max",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.714932126696832,
+      "Top-5": 18.823529411764707,
+      "Recall@10": 20.81447963800905,
+      "MRR": 0.15578262838303447,
+      "Mean Rank": 1664.8647058823528,
+      "Median Rank": 1452.5
+    },
+    {
+      "Experiment": "Padded Roi",
+      "Temporal Pooling": "mean_max",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 12.624434389140271,
+      "Top-5": 20.0,
+      "Recall@10": 21.67420814479638,
+      "MRR": 0.15856524489276952,
+      "Mean Rank": 1690.9524886877828,
+      "Median Rank": 1532.5
+    },
+    {
+      "Experiment": "Padded Roi",
+      "Temporal Pooling": "median",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 8.687782805429864,
+      "Top-5": 16.968325791855204,
+      "Recall@10": 21.266968325791854,
+      "MRR": 0.1274158705261518,
+      "Mean Rank": 1734.8126696832578,
+      "Median Rank": 1672.5
+    },
+    {
+      "Experiment": "Existing Roi",
+      "Temporal Pooling": "quality_weighted_mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 11.266968325791856,
+      "Top-5": 18.461538461538463,
+      "Recall@10": 21.6289592760181,
+      "MRR": 0.14703741695798478,
+      "Mean Rank": 1727.3647058823528,
+      "Median Rank": 1578.0
+    },
+    {
+      "Experiment": "Tight Roi",
+      "Temporal Pooling": "quality_weighted_mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 11.266968325791856,
+      "Top-5": 18.416289592760183,
+      "Recall@10": 21.447963800904976,
+      "MRR": 0.1469574272839885,
+      "Mean Rank": 1739.4696832579186,
+      "Median Rank": 1653.0
+    },
+    {
+      "Experiment": "Padded Roi",
+      "Temporal Pooling": "quality_weighted_mean",
+      "Prototype Videos": 4417,
+      "Test Videos": 2210,
+      "Top-1": 10.361990950226245,
+      "Top-5": 18.416289592760183,
+      "Recall@10": 21.447963800904976,
+      "MRR": 0.14076340100307783,
+      "Mean Rank": 1719.6642533936651,
+      "Median Rank": 1512.0
+    }
+  ],
+  "artifacts": {
+    "resolved_roi_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/stage5_6_resolved_roi_manifest.csv",
+    "variant_manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/stage5_6_roi_variant_manifest.csv",
+    "ablation_results": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/reports/stage5_6_hand_roi_ablation_results.csv",
+    "quality_weighted_results": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/reports/stage5_6_quality_weighted_results.csv",
+    "comparison": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/reports/stage5_6_fullframe_vs_handroi_comparison.csv",
+    "deltas": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/reports/stage5_6_performance_deltas_vs_stage5_5.csv",
+    "top1_plot": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/visual_audit/stage5_6_top1_comparison.png",
+    "mrr_plot": "/home/dipshikha/Music/cao/CISLR_RESEARCH/audit/stage5_hand_roi/hand_roi_model/visual_audit/stage5_6_mrr_comparison.png"
+  },
+  "scientific_controls": {
+    "same_video_population_as_5_5": true,
+    "controlled_video_count": 6627,
+    "same_8_frame_indices": true,
+    "same_backbone": true,
+    "same_embedding_dimension": true,
+    "same_retrieval_protocol": true,
+    "raw_videos_modified": false,
+    "stage5_5_modified": false,
+    "neighbor_frame_substitution": false,
+    "test_label_tuning": false
+  }
+}

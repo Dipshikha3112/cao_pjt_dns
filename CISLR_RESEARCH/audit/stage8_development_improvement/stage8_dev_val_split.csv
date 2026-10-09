@@ -1,0 +1,2 @@
+uid,split,reason
+,NOT_CONSTRUCTIBLE,CISLR v1.5-a has one non-test video per gloss. A class-aware support/query split cannot be constructed without using official test videos or leaking test labels.

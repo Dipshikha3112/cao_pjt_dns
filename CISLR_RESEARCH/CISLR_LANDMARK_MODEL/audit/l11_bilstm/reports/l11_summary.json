@@ -1,0 +1,66 @@
+{
+    "stage": "L11_BILSTM",
+    "status": "COMPLETE",
+    "seed": 42,
+    "device": "cuda",
+    "population": {
+        "classes": 211,
+        "train": 585,
+        "validation": 211,
+        "test_frozen_not_evaluated": 211
+    },
+    "representation": {
+        "sequence_length": 32,
+        "feature_dim": 254
+    },
+    "preprocessing": {
+        "source": "L10_FROZEN",
+        "mean_sha256": "37051f3f3d66cf0addb627bd5546009f8080ebfbf8b5711a537eafaa5e0a9b3d",
+        "std_sha256": "8669c544487de7fd98b2db76c350d6c8de00473576cffe3a63f2a860587fd3d5",
+        "continuous_dimensions": 252,
+        "mask_dimensions": [
+            252,
+            253
+        ]
+    },
+    "model": {
+        "type": "BiLSTM",
+        "hidden_size_per_direction": 128,
+        "concatenated_hidden_size": 256,
+        "num_layers": 1,
+        "dropout": 0.3,
+        "bidirectional": true,
+        "total_parameters": 447955,
+        "trainable_parameters": 447955
+    },
+    "training": {
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "weight_decay": 0.0001,
+        "max_epochs": 100,
+        "epochs_completed": 31,
+        "best_epoch": 16,
+        "training_seconds": 2.977520830000003
+    },
+    "validation": {
+        "loss": 5.535139895163441,
+        "top1": 0.08530805687203792,
+        "top1_percent": 8.530805687203792,
+        "top5": 0.17535545023696683,
+        "top5_percent": 17.535545023696685,
+        "top1_correct": 18,
+        "top5_correct": 37,
+        "samples": 211
+    },
+    "comparison_to_l10": {
+        "gru_top1_percent": 7.109004739336493,
+        "gru_top5_percent": 13.744075829383887,
+        "bilstm_top1_delta_pp": 1.4218009478672995,
+        "bilstm_top5_delta_pp": 3.7914691943127963
+    },
+    "test_evaluated": false,
+    "best_model": {
+        "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l11_bilstm/models/l11_best_bilstm.pt",
+        "sha256": "7c609e6001c1b354a81e705a5339bbfa49ab6c998cfc2365ec7dfc424eae6f4e"
+    }
+}

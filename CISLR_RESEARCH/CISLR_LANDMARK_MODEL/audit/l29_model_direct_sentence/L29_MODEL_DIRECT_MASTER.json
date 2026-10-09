@@ -1,0 +1,19 @@
+{
+  "stage": "L29",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "pipeline": "OpenVINO palm -> OpenVINO landmarks -> L26C trained BiGRU sign identity -> L27 NO_SIGN gate -> model-consistency token confirmation -> sequence",
+  "critical_rule": "L27 may convert a model prediction to NO_SIGN, but may never substitute another sign class.",
+  "artifacts": {
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_model_direct_sentence/config/l29_model_direct_config.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_model_direct_sentence/reports/l29_model_direct_summary.json",
+    "events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_model_direct_sentence/reports/l29_model_token_events.json",
+    "sequence": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l29_model_direct_sentence/reports/l29_final_sequence.txt"
+  },
+  "integrity": {
+    "locked_test_used": false,
+    "training": false,
+    "retraining": false,
+    "videomae": false,
+    "tts": false
+  }
+}

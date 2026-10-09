@@ -1,0 +1,16 @@
+{
+    "l7_pass_verified": true,
+    "uid_integrity": true,
+    "l7_usability_reproduced": true,
+    "controlled_feature_integrity": true,
+    "full_feature_integrity": true,
+    "controlled_class_ids_valid": true,
+    "full_class_ids_valid": true,
+    "controlled_support_valid": true,
+    "controlled_population_exclusion_disjoint": true,
+    "full_population_exclusion_disjoint": true,
+    "quality_usable_matches_l7": true,
+    "controlled_classes_match_l7_reference": true,
+    "controlled_videos_match_l7_reference": true,
+    "l8_pass": true
+}

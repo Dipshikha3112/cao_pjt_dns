@@ -1,0 +1,9 @@
+{
+  "n_prototype_classes": 4763,
+  "n_classes_with_ge2_nontest": 0,
+  "max_videos_in_any_class": 1,
+  "class_aware_validation_split_possible": false,
+  "class_aware_leave_one_out_retrieval_possible": false,
+  "reason_loo_impossible": "Every valid prototype in CISLR v1.5-a is the unique member of its class. A leave-one-out retrieval benchmark requires that the held-out item have at least one same-class example remaining in the gallery. By construction, no such example exists for any prototype, so the LOO Top-1/Top-5/Top-10/MRR metrics are identically zero and carry no information about representation quality.",
+  "official_test_videos_used_in_stage8": 0
+}

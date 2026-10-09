@@ -1,0 +1,23 @@
+{
+  "stage": "L25",
+  "name": "Live webcam acquisition with OpenVINO palm and hand landmarks",
+  "device": "CPU",
+  "camera_id": 0,
+  "requested_resolution": [
+    640,
+    480
+  ],
+  "actual_resolution": [
+    640,
+    480
+  ],
+  "palm_input_size": 192,
+  "landmark_input_size": 224,
+  "palm_threshold": 0.5,
+  "nms_threshold": 0.3,
+  "max_hands": 2,
+  "horizontal_flip": false,
+  "videomae_enabled": false,
+  "training": false,
+  "locked_test_used": false
+}

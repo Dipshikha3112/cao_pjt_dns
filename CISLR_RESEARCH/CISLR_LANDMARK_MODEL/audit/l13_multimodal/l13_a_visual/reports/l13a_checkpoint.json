@@ -1,0 +1,12 @@
+{
+  "stage": "L13A",
+  "status": "PASS",
+  "best_visual_encoder": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l13_multimodal/l13_a_visual/models/l13a_best_visual_encoder.pt",
+  "best_epoch": 30,
+  "best_ssl_holdout_loss": 0.2495831074017399,
+  "visual_embedding_dim": 576,
+  "l9_validation_used_for_ssl": false,
+  "l9_test_used": false,
+  "test_locked": true,
+  "next_stage": "L13B RGB-only temporal classifier"
+}

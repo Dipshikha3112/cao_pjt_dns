@@ -1,0 +1,41 @@
+{
+  "stage": "L19",
+  "status": "COMPLETE",
+  "task": "10-class restricted-vocabulary CISLR sign recognition",
+  "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "num_classes": 10,
+  "source_data": {
+    "train_independent_videos": 70,
+    "validation_videos": 10,
+    "test_videos": 10,
+    "test_used": false
+  },
+  "training": {
+    "epochs_executed": 50,
+    "maximum_training_accuracy_percent": 100.0,
+    "balanced_draws_per_epoch": 200,
+    "augmentation": "TRAIN_ONLY"
+  },
+  "best_model": {
+    "stage": "FINETUNE4",
+    "global_epoch": 38,
+    "validation_accuracy_percent": 100.0,
+    "validation_correct": 10,
+    "validation_total": 10,
+    "validation_loss": 0.41520004272460936
+  },
+  "target": {
+    "requested_threshold_percent": 90.0,
+    "status": "TARGET_REACHED",
+    "scientific_interpretation": "Validation contains only 10 videos, one per deployment class. A 90% result corresponds to 9/10 correct."
+  },
+  "test_lock": {
+    "test_manifest_loaded": false,
+    "test_videos_decoded": false,
+    "test_predictions_generated": false,
+    "test_used_for_training": false,
+    "test_used_for_model_selection": false
+  },
+  "next_stage": "L20 one-time deployment test only after L19 model/protocol freeze",
+  "created_at": "2026-10-04T01:16:56.935651"
+}

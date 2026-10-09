@@ -1,0 +1,3 @@
+condition,description,hand_detection,roi_extraction,backbone,input_size,frames_per_video,evaluation
+FULL_FRAME,Entire video frame is provided to MobileNetV3-Large.,False,False,MobileNetV3-Large,224x224,8,official_prototype_to_test_retrieval
+HAND_ROI,Detected hand region is cropped and provided to MobileNetV3-Large.,True,True,MobileNetV3-Large,224x224,8,official_prototype_to_test_retrieval

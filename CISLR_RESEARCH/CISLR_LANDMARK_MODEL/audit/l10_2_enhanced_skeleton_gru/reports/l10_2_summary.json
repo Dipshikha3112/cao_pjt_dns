@@ -1,0 +1,76 @@
+{
+    "stage": "L10.2_ENHANCED_SKELETON_GRU",
+    "status": "COMPLETE",
+    "seed": 42,
+    "population": {
+        "classes": 211,
+        "train": 585,
+        "validation": 211,
+        "test_locked": 211
+    },
+    "representation": {
+        "sequence_length": 32,
+        "feature_dim": 617,
+        "xyz": true,
+        "velocity": true,
+        "acceleration": true,
+        "bone_vectors": true,
+        "bone_lengths": true,
+        "joint_angles": true,
+        "palm_geometry": true,
+        "fingertip_geometry": true,
+        "two_hand_geometry": true,
+        "presence_masks": true
+    },
+    "preprocessing": {
+        "fit_on": "L9_TRAIN_ONLY",
+        "mean_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_2_enhanced_skeleton_gru/preprocessing/l10_2_train_mean.npy",
+        "std_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_2_enhanced_skeleton_gru/preprocessing/l10_2_train_std.npy",
+        "mean_sha256": "6e72bc4d562f2da992638a8e86181849e8f7d325263d3f488aa63e6420ce20d5",
+        "std_sha256": "f7978a91b919d4e7b2c6c3de453d0d13c65527073046c6fe46ec8764842cb05d"
+    },
+    "model": {
+        "architecture": "GRU",
+        "hidden_size": 128,
+        "dropout": 0.45,
+        "label_smoothing": 0.1,
+        "parameters": 315557
+    },
+    "augmentation": {
+        "feature_noise_std": 0.015,
+        "temporal_mask_probability": 0.25,
+        "max_temporal_mask_length": 3,
+        "hand_mask_perturbation_probability": 0.1
+    },
+    "training": {
+        "best_epoch": 16,
+        "epochs_completed": 34,
+        "training_seconds": 11.844278257000042
+    },
+    "validation": {
+        "loss": 5.440527536292777,
+        "top1": 0.037914691943127965,
+        "top1_percent": 3.7914691943127963,
+        "top5": 0.06635071090047394,
+        "top5_percent": 6.6350710900473935
+    },
+    "comparison_to_l10_0": {
+        "baseline_top1_percent": 7.109004739336493,
+        "enhanced_top1_percent": 3.7914691943127963,
+        "top1_delta_pp": -3.3175355450236963,
+        "baseline_top5_percent": 13.744075829383887,
+        "enhanced_top5_percent": 6.6350710900473935,
+        "top5_delta_pp": -7.109004739336493
+    },
+    "generalization": {
+        "train_top1_at_best_epoch": 0.2170940170940171,
+        "validation_top1": 0.037914691943127965,
+        "gap_percentage_points": 17.917932515088914
+    },
+    "best_model": {
+        "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l10_2_enhanced_skeleton_gru/models/l10_2_best_gru.pt",
+        "sha256": "e515654721a5e12ebac742fdf315fd67a119d15a62f516a4c08d89afe10322ea"
+    },
+    "test_features_loaded": false,
+    "test_evaluated": false
+}

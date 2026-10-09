@@ -1,0 +1,26 @@
+{
+  "eligible_manifest": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20c_corrected_nocache_domain_adaptation/manifests/l20c_corrected_domain_6734.csv",
+    "sha256": "4d6fd1c3f1a29086880f8ee2e8f3038b2795d45cdd4522321808a13869411a08"
+  },
+  "history": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20c_corrected_nocache_domain_adaptation/reports/l20c_corrected_training_history.csv",
+    "sha256": "287ddf51b45b5807e3d69a33817253aae63e579239ee4208a3d93f114d13d8f5"
+  },
+  "config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20c_corrected_nocache_domain_adaptation/config/l20c_corrected_config.json",
+    "sha256": "0e07fdf923c964c67c8088def5a682e21edb8d79c7ecfc6dce057446abb8633e"
+  },
+  "best_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20c_corrected_nocache_domain_adaptation/models/l20c_corrected_best.pt",
+    "sha256": "b113d3240dc0914563eccc5d69ccc1d645a121f05481b8be5d5877852dceb0fb"
+  },
+  "final_backbone": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20c_corrected_nocache_domain_adaptation/models/l20c_corrected_final_backbone.pt",
+    "sha256": "416cf2314808f52b595a80853cdca05e49c94f52928c8069a05f2c28dda491ae"
+  },
+  "summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20c_corrected_nocache_domain_adaptation/reports/l20c_corrected_summary.json",
+    "sha256": "12edb3beb136913a57a38d3aa0d5b6ee4ed3075c46126e1bdce1e4295c3e2bb6"
+  }
+}

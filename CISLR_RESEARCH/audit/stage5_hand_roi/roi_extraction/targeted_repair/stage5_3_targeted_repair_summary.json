@@ -1,0 +1,13 @@
+{
+  "frame_records": 56392,
+  "physical_roi_files_on_disk": 55970,
+  "frame_records_with_existing_roi": 55970,
+  "remaining_missing_roi_records": 422,
+  "complete_videos": 6628,
+  "incomplete_videos": 421,
+  "duplicate_final_output_records": 0,
+  "duplicate_final_unique_paths": 0,
+  "repair_attempts": 422,
+  "successful_repairs": 0,
+  "repair_failures": 422
+}

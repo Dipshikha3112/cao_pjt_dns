@@ -1,0 +1,4 @@
+pool,videos,frames,status
+historical_stage3,4417,35336,historical_reference
+current_stage3,4764,38112,current_metadata
+canonical_stage4,4764,38112,USE_CURRENT_POOL_NO_HISTORICAL_UID_MANIFEST

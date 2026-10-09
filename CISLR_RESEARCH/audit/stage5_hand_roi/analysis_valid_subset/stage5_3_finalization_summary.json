@@ -1,0 +1,23 @@
+{
+  "stage": "5.3",
+  "experiment": "Hand ROI Extraction",
+  "timestamp": "2026-09-16T02:56:46.623147",
+  "dataset": "CISLR_v1.5-a",
+  "expected_total_videos": 7049,
+  "analysis_valid_videos": 6628,
+  "excluded_incomplete_videos": 421,
+  "expected_frames_per_video": 8,
+  "expected_analysis_frames": 53024,
+  "comparison_design": "Matched Full-Frame vs Hand-ROI comparison using identical analysis-valid UID set.",
+  "roi_detector": "OpenCV_Skin_Contour",
+  "backbone": "MobileNetV3-Large",
+  "embedding_dimension": 960,
+  "retrieval_protocol": "Official CISLR prototype-to-test retrieval with cosine similarity.",
+  "excluded_video_policy": "Videos with incomplete prescribed ROI frame extraction are excluded from the controlled Stage 5 comparison.",
+  "scientific_exclusion_wording": "Videos containing at least one prescribed sampled frame that was not decodable by the tested extraction methods, despite valid container-level metadata, are excluded from the matched analysis.",
+  "raw_videos_modified": false,
+  "stage4_modified": false,
+  "stage5_1_modified": false,
+  "stage5_2_modified": false,
+  "valid_manifest_sha256": "3b773a1159d61ee07f5815a4301d8a68a32f2521b3d67096438fdc2c0a15fb2f"
+}

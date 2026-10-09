@@ -1,0 +1,27 @@
+{
+  "stage": "L31_L32",
+  "status": "DEVELOPMENT_EVALUATION_COMPLETE",
+  "pipeline": "webcam -> OpenVINO palm -> OpenVINO landmarks -> L26C model -> L27 NO_SIGN gate -> continuous model-direct token sequence -> TTS -> GUI -> evaluation",
+  "sequence_logic": {
+    "sign_identity": "L26C model",
+    "nosign_gate": "L27",
+    "confirmation": "3-of-5 model predictions",
+    "different_valid_sign_transition": "allowed without NO_SIGN",
+    "same_sign_held": "duplicate suppressed"
+  },
+  "artifacts": {
+    "frame_metrics_csv": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l32_end_to_end_evaluation/reports/l32_frame_metrics.csv",
+    "token_events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l31_gui/reports/l31_token_events.json",
+    "speech_events": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l31_gui/reports/l31_speech_events.json",
+    "labelled_evaluation": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l32_end_to_end_evaluation/reports/l32_labelled_evaluation.json",
+    "summary": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l32_end_to_end_evaluation/reports/l32_summary.json",
+    "config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l32_end_to_end_evaluation/config/l32_config.json"
+  },
+  "integrity": {
+    "locked_test_used": false,
+    "training": false,
+    "retraining": false,
+    "model_direct_sign_identity": true,
+    "l27_nosign_only": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "stage": "L29",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "frames": 834,
+  "duration_seconds": 42.84875087000182,
+  "overall_fps": 19.463811267923774,
+  "hand_frames": 640,
+  "hand_detection_rate": 0.7673860911270983,
+  "classification_windows": 798,
+  "accepted_sign_windows": 596,
+  "nosign_windows": 202,
+  "tokens_added": 2,
+  "final_tokens": [
+    "pencil",
+    "tuesday"
+  ],
+  "final_sequence": "pencil tuesday",
+  "locked_test_used": false
+}

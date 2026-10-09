@@ -1,0 +1,32 @@
+[
+  {
+    "time_seconds": 5.694159646999992,
+    "source": "new_model_token",
+    "text": "pencil"
+  },
+  {
+    "time_seconds": 14.381396394000006,
+    "source": "new_model_token",
+    "text": "interest"
+  },
+  {
+    "time_seconds": 49.558847258000014,
+    "source": "new_model_token",
+    "text": "wash"
+  },
+  {
+    "time_seconds": 57.70712183500001,
+    "source": "new_model_token",
+    "text": "interest"
+  },
+  {
+    "time_seconds": 68.09529977900002,
+    "source": "new_model_token",
+    "text": "rubber"
+  },
+  {
+    "time_seconds": 69.90447660200002,
+    "source": "new_model_token",
+    "text": "interest"
+  }
+]

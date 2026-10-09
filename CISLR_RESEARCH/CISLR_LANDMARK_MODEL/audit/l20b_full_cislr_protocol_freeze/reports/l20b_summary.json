@@ -1,0 +1,30 @@
+{
+  "stage": "L20B",
+  "status": "COMPLETE_AND_FROZEN",
+  "seed": 42,
+  "full_cislr_population": {
+    "videos": 7048,
+    "classes_present": 4763,
+    "role": "future label-agnostic VideoMAE domain pretraining"
+  },
+  "supervised_population": {
+    "minimum_support": 4,
+    "classes": 215,
+    "videos": 1024,
+    "train_videos": 717,
+    "validation_videos": 307,
+    "train_percent": 70.01953125,
+    "validation_percent": 29.98046875
+  },
+  "integrity": {
+    "uid_overlap": 0,
+    "train_classes": 215,
+    "validation_classes": 215,
+    "all_supervised_videos_accounted_for": true
+  },
+  "model_training_performed": false,
+  "model_inference_performed": false,
+  "accuracy_used_to_choose_split": false,
+  "next_stage": "L20C_FULL_CISLR_DOMAIN_PRETRAINING",
+  "created_at": "2026-10-04T01:40:45.460990"
+}

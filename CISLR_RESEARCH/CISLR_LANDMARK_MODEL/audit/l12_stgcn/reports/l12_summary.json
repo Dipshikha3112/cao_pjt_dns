@@ -1,0 +1,92 @@
+{
+    "stage": "L12A_STGCN",
+    "status": "COMPLETE",
+    "seed": 42,
+    "population": {
+        "classes": 211,
+        "train": 585,
+        "validation": 211,
+        "test_locked": 211
+    },
+    "representation": {
+        "source": "L6 raw_sequences",
+        "input_shape": [
+            11,
+            32,
+            42
+        ],
+        "channels": [
+            "world_x",
+            "world_y",
+            "world_z",
+            "world_velocity_x",
+            "world_velocity_y",
+            "world_velocity_z",
+            "image_x_normalized",
+            "image_y_normalized",
+            "image_velocity_x",
+            "image_velocity_y",
+            "presence_mask"
+        ],
+        "graph_nodes": 42,
+        "track0_nodes": "0-20",
+        "track1_nodes": "21-41",
+        "anatomical_handedness_assumed": false,
+        "inter_hand_edge": false,
+        "short_gap_interpolation": 3
+    },
+    "normalization": {
+        "type": "mask-aware train-only channel standardization",
+        "mean_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12_stgcn/preprocessing/l12_train_channel_mean.npy",
+        "std_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12_stgcn/preprocessing/l12_train_channel_std.npy",
+        "mean_sha256": "ddcd18a4ff99bfef03c9558daea21d663c8ec838f0d85c7bebd11f6fde51e659",
+        "std_sha256": "70bf549f1ae9c126b7ef4fb93b3982ccf77c226d9370fe1be123649e98a47b2c"
+    },
+    "graph": {
+        "partitions": 3,
+        "partition_names": [
+            "self",
+            "parent_to_child",
+            "child_to_parent"
+        ],
+        "adjacency_path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12_stgcn/preprocessing/l12_adjacency.npy",
+        "adjacency_sha256": "7672cb24b5d0103f446dc93bc2f4f4c5a706a6519ddfd2679e1765426b4d776a"
+    },
+    "model": {
+        "architecture": "TwoHandSTGCN",
+        "parameters": 495151,
+        "dropout": 0.35,
+        "label_smoothing": 0.05
+    },
+    "training": {
+        "best_epoch": 64,
+        "epochs_completed": 82,
+        "training_seconds": 113.02082208200045,
+        "train_top1_at_best": 1.0,
+        "train_top5_at_best": 1.0
+    },
+    "validation": {
+        "loss": 4.838030322468112,
+        "top1": 0.18009478672985782,
+        "top1_percent": 18.009478672985782,
+        "top1_correct": 38,
+        "top5": 0.2796208530805687,
+        "top5_percent": 27.96208530805687,
+        "top5_correct": 59
+    },
+    "comparison": {
+        "l10_gru_top1_percent": 7.109004739336493,
+        "l11_bilstm_top1_percent": 8.530805687203792,
+        "l10_2_enhanced_gru_top1_percent": 3.7914691943127963,
+        "l12_stgcn_top1_percent": 18.009478672985782,
+        "delta_vs_bilstm_top1_pp": 9.47867298578199,
+        "delta_vs_bilstm_top5_pp": 10.42654028436019
+    },
+    "best_model": {
+        "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12_stgcn/models/l12_best_stgcn.pt",
+        "sha256": "55725baab50a5ff720cde4afb1302eabb121269a31c9204d7da2d98617632ce8"
+    },
+    "test_manifest_verified": true,
+    "test_raw_sequences_loaded": false,
+    "test_evaluated": false
+}

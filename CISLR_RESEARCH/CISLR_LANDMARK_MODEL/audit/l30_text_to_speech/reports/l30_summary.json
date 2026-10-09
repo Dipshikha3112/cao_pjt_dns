@@ -1,0 +1,25 @@
+{
+  "stage": "L30",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "frames": 1689,
+  "duration_seconds": 90.87269071400002,
+  "overall_fps": 18.586442051283836,
+  "hand_detection_rate": 0.8863232682060391,
+  "classification_windows": 1658,
+  "valid_sign_windows": 1351,
+  "nosign_windows": 307,
+  "tokens_generated": 6,
+  "speech_requests": 6,
+  "final_tokens": [
+    "pencil",
+    "interest",
+    "wash",
+    "interest",
+    "rubber",
+    "interest"
+  ],
+  "final_sequence": "pencil interest wash interest rubber interest",
+  "sign_identity_source": "L26C_MODEL",
+  "nosign_source": "L27",
+  "locked_test_used": false
+}

@@ -1,0 +1,13 @@
+{
+  "stage": "7.2",
+  "seed": 42,
+  "n_tta_crops": 3,
+  "pca_dim": 512,
+  "csls_k": 10,
+  "whiten_eps": 0.001,
+  "option_a": "temporal encoders on uniform 8-frame cached features",
+  "option_b": "temporal encoders on real per-crop TTA (n_crops x 8 x 1280)",
+  "best_variant": "mean_pool + TTA + whiten + CSLS",
+  "best_top1": 0.17199124726477025,
+  "note": "No training. Whitening fit on joint prototype+test feature cloud without labels. CSLS rank-based. TTA deterministic. No test label used for any choice."
+}

@@ -1,0 +1,38 @@
+{
+  "stage": "L26C",
+  "status": "COMPLETE",
+  "purpose": "Develop and export a lightweight 10-class landmark temporal classifier for low-latency real-time deployment.",
+  "model": "2-layer bidirectional GRU",
+  "input": {
+    "shape": [
+      1,
+      32,
+      63
+    ],
+    "sequence_length": 32,
+    "feature_dim": 63
+  },
+  "validation": {
+    "n": 10,
+    "pytorch_top1": 0.6,
+    "openvino_top1": 0.6,
+    "pt_ov_agreement": 1.0
+  },
+  "performance": {
+    "device": "CPU",
+    "classifier_only_mean_ms": 0.6999096749950695,
+    "classifier_only_median_ms": 0.6965495003896649,
+    "classifier_only_p95_ms": 0.9326973493443796
+  },
+  "openvino": {
+    "xml": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26c_realtime_landmark_classifier/models/l26c_fast_landmark_bigru.xml",
+    "xml_sha256": "005e238500ea558a23dd5c9cf2ee47cdbf5bbf73f3643a5ad43fdf7130cbb99c",
+    "bin": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l26c_realtime_landmark_classifier/models/l26c_fast_landmark_bigru.bin",
+    "bin_sha256": "779ed45211d94c4f3b4a5b15d0e11824bd6621561c3de8f33b1663e6f4fa350a"
+  },
+  "integrity": {
+    "locked_test_used": false,
+    "l22_videomae_changed": false,
+    "historical_frozen_artifacts_overwritten": false
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "l12b_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12b_ssl_stgcn/models/l12b_best_stgcn.pt",
+    "exists": true,
+    "size_bytes": 2042924,
+    "sha256": "c9ab603bcf2499852b8757367288525b279a319366d9ebe03b43a446efffb90d"
+  },
+  "l12b_validation_predictions": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l12b_ssl_stgcn/reports/l12b_validation_predictions.csv",
+    "exists": true,
+    "size_bytes": 39827,
+    "sha256": "bc6ceaec70ab52051fcecaa08abc581f8d1709081bcddc6a649a3ab95e01c50d"
+  },
+  "l13b_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l13_multimodal/l13_b_rgb_temporal/models/l13b_best_rgb_temporal.pt",
+    "exists": true,
+    "size_bytes": 5223545,
+    "sha256": "6ea9336bbe0fe9f78078d055b0bc413d3c8c0c86a713423a09fe00c4e505c17b"
+  },
+  "l13b_validation_predictions": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l13_multimodal/l13_b_rgb_temporal/reports/l13b_validation_predictions.csv",
+    "exists": true,
+    "size_bytes": 42937,
+    "sha256": "fe7b3790731f24a73d850a0688956f436d5708a8f016bc019cedc8c036ec53e5"
+  },
+  "l14a_checkpoint": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14a_videomae/models/l14a_best_videomae.pt",
+    "exists": true,
+    "size_bytes": 345643275,
+    "sha256": "6841228ccd242e1be06eb0e4f89da8051e08bee793518836be47c843adc7463a"
+  },
+  "l14a_validation_predictions": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14a_videomae/reports/l14a_validation_predictions.csv",
+    "exists": true,
+    "size_bytes": 40313,
+    "sha256": "3fe4b03214d96c2561e45bb38aa95597c855d8c22306f149d95655a3a024eb85"
+  },
+  "l14c_fusion_config": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14c_late_fusion/models/l14c_fusion_config.json",
+    "exists": true,
+    "size_bytes": 955,
+    "sha256": "710fff39c5e2b5e7faee6fc0af3624bbed8545e5f235eb2e96f67e664f2cf471"
+  },
+  "l14c_validation_scores": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14c_late_fusion/models/l14c_validation_fusion_scores.npz",
+    "exists": true,
+    "size_bytes": 30389,
+    "sha256": "dcadeec0b6396412e614d7375fb74c1f31513ce006704af6a7976d540cebbb0e"
+  },
+  "l14c_validation_predictions": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14c_late_fusion/reports/l14c_validation_predictions.csv",
+    "exists": true,
+    "size_bytes": 44685,
+    "sha256": "dc1095b463ff780953d971b0946adb7e314b0f189bfc98412ac46ded350821a5"
+  },
+  "l14c_model_comparison": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14c_late_fusion/reports/l14c_model_comparison.csv",
+    "exists": true,
+    "size_bytes": 444,
+    "sha256": "81a21a460becf77b85a0cfdac6428d6adb8e1f5b280068cf4f89a0c490e5c19f"
+  },
+  "l14c_summary": {
+    "path": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l14_pretrained_video/l14c_late_fusion/reports/l14c_summary.json",
+    "exists": true,
+    "size_bytes": 957,
+    "sha256": "c006eebdd1555825857dc0b35414484544799b9ca31d22386dd46a8622a0d55e"
+  }
+}

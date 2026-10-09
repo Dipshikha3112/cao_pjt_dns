@@ -1,0 +1,7 @@
+{
+  "dataset_csv_sha256": "61dace24d620f95ec8df691b9030f96de5bbaa3e4d0e0d89a6b31b4e3abac104",
+  "prototype_csv_sha256": "d9248a8b87497bc197bbc199e8f18d5668af59671fc0fbf093db55b3b9646431",
+  "test_csv_sha256": "556dd662323facba5d035edb3b730892a157f299429bcb4a0a9d9295c13942d7",
+  "stage4_2_manifest_sha256": "0847da84f0aeaec9cd7a2ec4181253f569c3356bb6386571d5c84c4d9ba5ede0",
+  "stage4_5_comparison_sha256": "e69846870fd5b20c141c7cc2ad4264a44905e7939476e17a44d28e4b740c25c4"
+}

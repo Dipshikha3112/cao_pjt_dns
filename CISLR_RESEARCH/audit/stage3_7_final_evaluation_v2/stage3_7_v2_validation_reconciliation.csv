@@ -1,0 +1,38 @@
+item,value
+main_checkpoint_path,/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/resnet18_baseline_best.pt
+main_checkpoint_exists,True
+main_checkpoint_size,54669963
+main_checkpoint_sha256_1MiB,0e6a226e69595cc0
+main_checkpoint_num_classes,4764
+main_checkpoint_in_features,512
+val_checkpoint_path,/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_comparison/resnet18_validation_best.pt
+val_checkpoint_exists,True
+val_checkpoint_size,54563787
+val_checkpoint_sha256_1MiB,a6b5bf63dc451cfa
+val_checkpoint_num_classes,4764
+val_checkpoint_in_features,512
+checkpoints_identical,False
+checkpoints_comparable,True
+checkpoints_tensors_same,0
+checkpoints_tensors_differ,122
+split_A_path,/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_comparison/scientific_video_split.csv
+split_A_shape,"[4417, 2]"
+split_A_uid_column,uid
+split_A_split_column,split
+split_A_unique_uids,4417
+split_A_duplicate_uids,0
+split_A_split_counts,"{'train': 3975, 'validation': 442}"
+split_B_path,/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_validation/scientific_video_split.csv
+split_B_shape,"[4417, 2]"
+split_B_uid_column,uid
+split_B_split_column,split
+split_B_unique_uids,4417
+split_B_duplicate_uids,0
+split_B_split_counts,"{'reference_train_90pct': 3975, 'posthoc_evaluation_10pct': 442}"
+split_comparison,"{""A_n_uids"": 4417, ""B_n_uids"": 4417, ""A_minus_B"": 0, ""B_minus_A"": 0, ""intersection"": 4417, ""identical"": true, ""subset_of"": ""equal""}"
+candidate_split_design,unknown
+official_test_contamination,False
+video_leakage,False
+class_leakage,False
+legitimate_independent_validation,UNCERTAIN
+promote_to_stage3,NO

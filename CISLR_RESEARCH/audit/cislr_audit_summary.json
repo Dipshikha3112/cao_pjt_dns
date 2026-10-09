@@ -1,0 +1,12 @@
+{
+    "Dataset metadata rows": 7050,
+    "Video files": 7050,
+    "Unique UIDs": 7050,
+    "Unique glosses": 4764,
+    "Unique categories": 57,
+    "Test samples": 2285,
+    "Prototype samples": 4765,
+    "Missing videos": 0,
+    "Extra videos": 0,
+    "Duplicate UID rows": 0
+}

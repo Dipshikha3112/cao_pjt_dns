@@ -1,0 +1,24 @@
+{
+  "stage": "L18A",
+  "status": "COMPLETE_AND_FROZEN",
+  "num_classes": 10,
+  "vocabulary_source": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l17_deployment_vocabulary/vocabulary/l17_10_sign_vocabulary.json",
+  "dataset_source": "/home/dipshikha/Music/cao/dataset.csv",
+  "video_source": "/home/dipshikha/Music/cao/CISLR_v1.5-a_videos",
+  "counts": {
+    "metadata": 90,
+    "found": 90,
+    "readable": 90,
+    "usable": 90,
+    "l9_train": 70,
+    "l9_validation": 10,
+    "l9_test": 10,
+    "outside_l9": 0
+  },
+  "l9_validation_reassigned": false,
+  "l9_test_reassigned": false,
+  "outside_l9_assignment": "UNASSIGNED",
+  "training_performed": false,
+  "inference_performed": false,
+  "created_at": "2026-10-04T00:29:58.436473"
+}

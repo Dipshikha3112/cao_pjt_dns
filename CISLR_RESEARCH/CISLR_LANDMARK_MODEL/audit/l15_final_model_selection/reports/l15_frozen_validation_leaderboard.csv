@@ -1,0 +1,11 @@
+stage,model,val_top1,val_top5,selected_for_final_test,test_evaluated
+L10,GRU,7.11,13.74,False,False
+L10.2,Enhanced Skeleton GRU,3.79,6.64,False,False
+L11,BiLSTM,8.53,17.54,False,False
+L12A,Two-Hand ST-GCN,18.01,27.96,False,False
+L12B,SSL ST-GCN,28.436019,37.914692,False,False
+L13B,RGB Temporal Transformer,38.862559,46.445498,False,False
+L13C,Quality-Aware Multimodal Fusion,36.492891,44.075829,False,False
+L14A,VideoMAE Transfer,37.914692,51.658768,False,False
+L14B,DPC Sign-Domain SSL,9.478673,15.63981,False,False
+L14C,Frozen Sparse Top-5 Late Fusion,41.23222748815166,51.65876777251185,True,False

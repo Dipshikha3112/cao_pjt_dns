@@ -1,0 +1,16 @@
+{
+  "num_queries": 2285,
+  "num_prototypes": 4764,
+  "Top-1": 0.15798687089715535,
+  "Top-5": 0.23719912472647703,
+  "Recall@10": 0.26652078774617066,
+  "MRR": 0.1952844813962953,
+  "mean_rank": 1572.5203501094093,
+  "median_rank": 1229.0,
+  "min_rank": 1,
+  "max_rank": 4760,
+  "model": "MobileNetV3-Large",
+  "embedding_dimension": 960,
+  "num_prototype_videos": 4764,
+  "num_test_videos": 2285
+}

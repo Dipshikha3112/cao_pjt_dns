@@ -1,0 +1,34 @@
+{
+  "stage": "5.5",
+  "protocol_name": "Full-Frame Controlled Baseline",
+  "population": "Frozen Stage 5.3 analysis-valid UID manifest minus documented frame-undecodable video",
+  "original_number_of_videos": 6628,
+  "number_of_documented_exclusions": 1,
+  "number_of_videos": 6627,
+  "excluded_uids": [
+    "Xt6ujzVtikU_2"
+  ],
+  "exclusion_reason": "Prescribed Stage 5.3 frame 96 is not decodable by the tested OpenCV and FFmpeg extraction methods despite valid container-level video metadata.",
+  "excluded_prescribed_frames": {
+    "Xt6ujzVtikU_2": 96
+  },
+  "frames_per_video": 8,
+  "total_frame_records": 53016,
+  "frame_source": "Original CISLR videos",
+  "frame_indices": "Exactly those recorded in Stage 5.3 frame-level audit",
+  "input_representation": "Original full video frame",
+  "resize": "224x224",
+  "color": "RGB",
+  "normalization": "ImageNet mean/std",
+  "backbone": "MobileNetV3-Large",
+  "embedding_dimension": 960,
+  "frame_embedding_pooling": "Mean",
+  "video_embedding_normalization": "L2",
+  "retrieval_protocol": "Official prototype-to-test retrieval",
+  "similarity_metric": "Cosine similarity",
+  "training": false,
+  "hand_detector": false,
+  "roi_extraction": false,
+  "neighbor_frame_substitution": false,
+  "raw_video_modification": false
+}

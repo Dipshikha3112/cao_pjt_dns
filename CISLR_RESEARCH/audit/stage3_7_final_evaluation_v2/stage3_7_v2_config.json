@@ -1,0 +1,32 @@
+{
+  "stage": "3.7_v2",
+  "step_name": "read_only_validation_track_reconciliation",
+  "project": "CISLR v1.5-a Word-Level Sign Recognition",
+  "python": "3.11.15",
+  "pytorch": "2.14.0+cu130",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "candidate_artifacts_inspected": {
+    "A": {
+      "checkpoint": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_comparison/resnet18_validation_best.pt",
+      "history": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_comparison/resnet18_validation_history.csv",
+      "split": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_comparison/scientific_video_split.csv"
+    },
+    "B": {
+      "split": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_validation/scientific_video_split.csv",
+      "val_comparison": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_validation/spatial_backbone_validation_comparison.csv",
+      "val_config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_validation/spatial_backbone_validation_config.json",
+      "posthoc_compare": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_validation/spatial_backbone_posthoc_comparison.csv",
+      "posthoc_config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/scientific_spatial_validation/spatial_backbone_posthoc_config.json"
+    },
+    "C": {
+      "training_config": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/temporal_efficientnet_bilstm/training_config.json",
+      "validation_seqs": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/temporal_efficientnet_bilstm/validation_sequences.pt",
+      "validation_spatial": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/temporal_efficientnet_bilstm/validation_spatial_features.pt"
+    }
+  },
+  "notes": [
+    "Read-only reconciliation. No training, no new splits, no test evaluation.",
+    "Previous Stage 3.7 artifacts not modified."
+  ]
+}

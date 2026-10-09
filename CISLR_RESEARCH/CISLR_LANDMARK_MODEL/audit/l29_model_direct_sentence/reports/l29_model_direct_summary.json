@@ -1,0 +1,20 @@
+{
+  "stage": "L29",
+  "status": "DEVELOPMENT_RUN_COMPLETE",
+  "frames": 2277,
+  "duration_seconds": 115.63195166900186,
+  "overall_fps": 19.69178905254445,
+  "hand_detection_rate": 0.9472990777338604,
+  "classification_windows": 2246,
+  "valid_sign_windows": 2118,
+  "nosign_windows": 128,
+  "tokens_added": 2,
+  "final_tokens": [
+    "wash",
+    "pencil"
+  ],
+  "final_sequence": "wash pencil",
+  "sign_identity_source": "trained_model",
+  "nosign_source": "L27",
+  "locked_test_used": false
+}

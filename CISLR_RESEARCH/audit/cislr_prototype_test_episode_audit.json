@@ -1,0 +1,19 @@
+{
+    "dataset_videos": 7050,
+    "prototype_videos": 4765,
+    "test_videos": 2285,
+    "dataset_classes": 4764,
+    "prototype_classes": 4764,
+    "test_classes": 1363,
+    "prototype_test_uid_overlap": 0,
+    "prototype_only_classes": 3401,
+    "shared_prototype_test_classes": 1363,
+    "test_only_classes": 0,
+    "test_classes_without_prototype": 0,
+    "repeated_dataset_classes": 1363,
+    "repeated_classes_not_in_test": 0,
+    "test_classes_not_repeated": 0,
+    "class_count_mismatches": 0,
+    "repeated_classes_equal_test_classes": true,
+    "recommended_final_protocol": "prototype_support_to_test_query_temporal_embedding_retrieval"
+}

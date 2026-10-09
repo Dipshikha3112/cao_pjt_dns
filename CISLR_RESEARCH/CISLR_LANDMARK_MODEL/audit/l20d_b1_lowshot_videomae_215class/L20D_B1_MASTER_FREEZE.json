@@ -1,0 +1,43 @@
+{
+  "experiment": "L20D_B1_LOW_SHOT",
+  "status": "COMPLETE_AND_FROZEN",
+  "protocol": {
+    "train": 710,
+    "validation": 304,
+    "classes": 215,
+    "locked_test": 10
+  },
+  "initialization": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "training": {
+    "head_epochs": 6,
+    "final2_epochs": 12,
+    "final6_epochs": 25,
+    "label_smoothing": 0.1,
+    "validation_temporal_views": [
+      0.15,
+      0.5,
+      0.85
+    ]
+  },
+  "result": {
+    "best_epoch": 43,
+    "best_stage": "FINAL6",
+    "validation_top1": 33.88157894736842,
+    "validation_top5": 52.96052631578947,
+    "validation_loss": 3.7684978215317977
+  },
+  "integrity": {
+    "l20c_loaded": false,
+    "b0_loaded": false,
+    "locked_test_used": false,
+    "train_val_overlap": 0,
+    "train_locked_overlap": 0,
+    "val_locked_overlap": 0
+  },
+  "artifacts": {
+    "best_model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b1_lowshot_videomae_215class/models/l20d_b1_best.pt",
+    "final_model": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b1_lowshot_videomae_215class/models/l20d_b1_final.pt",
+    "history": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b1_lowshot_videomae_215class/reports/l20d_b1_history.csv",
+    "best_predictions": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l20d_b1_lowshot_videomae_215class/reports/l20d_b1_best_validation_predictions.csv"
+  }
+}

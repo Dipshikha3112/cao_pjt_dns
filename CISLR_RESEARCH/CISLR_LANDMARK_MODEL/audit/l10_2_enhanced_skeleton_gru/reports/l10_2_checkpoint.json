@@ -1,0 +1,10 @@
+{
+    "l9_split_preserved": true,
+    "l10_baseline_preserved": true,
+    "enhanced_representation_valid": true,
+    "training_statistics_fit_on_train_only": true,
+    "validation_used_for_selection": true,
+    "test_features_loaded": false,
+    "test_evaluated": false,
+    "l10_2_pass": true
+}

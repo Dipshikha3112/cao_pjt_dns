@@ -1,0 +1,42 @@
+{
+  "source_stage": "L18B",
+  "task": "10-class restricted-vocabulary CISLR sign recognition",
+  "num_classes": 10,
+  "seed": 42,
+  "sequence_length": 32,
+  "cache_size": 256,
+  "model_input_size": 224,
+  "decoder": "sequential_full_video_decode_then_uniform_sample",
+  "random_frame_seeking": false,
+  "train": {
+    "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_train_manifest.csv",
+    "num_original_videos": 70,
+    "augmentation": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/config/l18b_training_augmentation.json",
+    "balanced_sampling": true,
+    "balanced_draws_per_class_per_epoch": 20,
+    "balanced_epoch_size": 200,
+    "balanced_epoch_template": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_balanced_epoch_plan.csv"
+  },
+  "validation": {
+    "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_validation_manifest.csv",
+    "num_videos": 10,
+    "augmentation": false,
+    "usage": "MODEL_SELECTION_ONLY"
+  },
+  "test": {
+    "manifest": "/home/dipshikha/Music/cao/CISLR_RESEARCH/CISLR_LANDMARK_MODEL/audit/l18b_10class_dataset/manifests/l18b_LOCKED_test_manifest.csv",
+    "num_videos": 10,
+    "locked": true,
+    "decoded_in_l18b": false,
+    "cached_in_l18b": false,
+    "usage": "ONE_TIME_FINAL_DEPLOYMENT_EVALUATION"
+  },
+  "accuracy_reporting": {
+    "training_accuracy": true,
+    "validation_accuracy": true,
+    "validation_sample_count": 10,
+    "validation_accuracy_resolution_percent": 10.0,
+    "test_available_during_training": false
+  },
+  "scientific_note": "The dataset contains 70 independent training videos. Balanced sampling and augmentation do not create new independent observations. Validation contains 10 videos, one per deployment class."
+}

@@ -1,0 +1,28 @@
+{
+  "stage": "6.2",
+  "task": "masked_temporal_feature_reconstruction",
+  "seed": 42,
+  "device": "cuda",
+  "pytorch_version": "2.14.0+cu130",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "feature_cache": "/home/dipshikha/Music/cao/CISLR_RESEARCH/models/baseline/efficientnet_temporal_retrieval/features/all_video_features_75f7fb9f.pt",
+  "num_cached_videos": 7048,
+  "num_dev_videos": 3810,
+  "num_val_videos": 953,
+  "num_test_videos": 2285,
+  "missing_label_uid_excluded": "R_GaklgD4bY=-",
+  "batch_size": 32,
+  "epochs": 30,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "gradient_clip": 1.0,
+  "patience": 5,
+  "mask_strategy": "one random temporal position per sample, per epoch; learned mask token substituted; MSE on original feature",
+  "architectures": [
+    "bilstm",
+    "bilstm_attention",
+    "temporal_transformer"
+  ]
+}

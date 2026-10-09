@@ -1,0 +1,14 @@
+metric,value
+dataset_rows,7050
+prototype_rows,4765
+test_rows,2285
+valid_prototype_videos,4764
+valid_prototype_classes,4764
+one_video_per_prototype_class,True
+prototype_test_uid_overlap,0
+valid_test_videos,2285
+valid_test_classes,1363
+non_test_classes_with_multiple_videos,0
+independent_closed_set_validation_possible,False
+official_test_used_for_selection,False
+new_random_validation_split_created,False

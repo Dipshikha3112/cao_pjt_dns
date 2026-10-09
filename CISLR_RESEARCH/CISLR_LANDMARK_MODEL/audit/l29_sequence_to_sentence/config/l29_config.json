@@ -1,0 +1,27 @@
+{
+  "stage": "L29",
+  "sign_identity_source": "L26C_OpenVINO_BiGRU",
+  "l27_role": "NO_SIGN_rejection_evidence",
+  "model_vote_window": 7,
+  "model_required_votes": 4,
+  "model_required_ratio": 0.55,
+  "nosign_release": 4,
+  "token_cooldown_seconds": 0.35,
+  "sequence_length": 32,
+  "feature_dim": 63,
+  "vocabulary": [
+    "monday",
+    "interest",
+    "thursday",
+    "christmas",
+    "pencil",
+    "mother",
+    "tuesday",
+    "friday",
+    "rubber",
+    "wash"
+  ],
+  "locked_test_used": false,
+  "training": false,
+  "retraining": false
+}
